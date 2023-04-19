@@ -1,0 +1,582 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+3049581,Argentina Primera División,2022,2022-02-10 19:15:00,1,Patronato,Argentinos Juniors,0,1,3.25,3.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049584,Argentina Primera División,2022,2022-02-10 19:15:00,1,Sarmiento,Atlético Tucumán,1,0,2.45,3.1,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,2.05
+3049580,Argentina Primera División,2022,2022-02-10 21:30:00,1,Newell's Old Boys,Defensa y Justicia,1,0,2.63,3.3,2.75,0.0,0.0,0.0,0.0,2.1,1.78,0.0,0.0,0.0,0.0,1.95,1.8
+3049591,Argentina Primera División,2022,2022-02-10 21:30:00,1,Central Córdoba SdE,Barracas Central,3,1,1.57,4.0,6.0,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,2.0,1.75
+3049587,Argentina Primera División,2022,2022-02-11 17:00:00,1,Arsenal de Sarandí,Rosario Central,1,1,3.0,3.3,2.4,0.0,0.0,0.0,0.0,2.03,1.83,0.0,0.0,0.0,0.0,1.8,1.95
+3049588,Argentina Primera División,2022,2022-02-11 19:15:00,1,Vélez Sarsfield,Aldosivi,2,0,1.53,4.0,6.5,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,2.05,1.7
+3049590,Argentina Primera División,2022,2022-02-11 19:15:00,1,Godoy Cruz,Tigre,1,1,2.38,3.2,3.1,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.8,1.95
+3049578,Argentina Primera División,2022,2022-02-11 21:30:00,1,Banfield,San Lorenzo,0,0,2.25,3.2,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049585,Argentina Primera División,2022,2022-02-12 17:00:00,1,Huracán,Lanús,1,0,2.25,3.3,3.3,0.0,0.0,0.0,0.0,2.0,1.8,0.0,0.0,0.0,0.0,1.75,2.0
+3049582,Argentina Primera División,2022,2022-02-12 19:15:00,1,Unión Santa Fe,River Plate,1,0,4.33,3.2,1.95,0.0,0.0,0.0,0.0,2.03,1.83,0.0,0.0,0.0,0.0,1.91,1.91
+3049586,Argentina Primera División,2022,2022-02-12 21:30:00,1,Estudiantes,Independiente,2,1,2.25,2.9,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049579,Argentina Primera División,2022,2022-02-13 17:00:00,1,Racing Club,Gimnasia La Plata,0,0,2.15,3.1,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049583,Argentina Primera División,2022,2022-02-13 19:15:00,1,Platense,Talleres Córdoba,1,0,2.6,3.1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049589,Argentina Primera División,2022,2022-02-13 21:30:00,1,Boca Juniors,Colón,1,1,1.55,3.8,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049596,Argentina Primera División,2022,2022-02-15 17:00:00,2,Argentinos Juniors,Newell's Old Boys,3,0,1.91,3.25,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049604,Argentina Primera División,2022,2022-02-15 19:15:00,2,Independiente,Arsenal de Sarandí,1,0,1.67,3.5,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049603,Argentina Primera División,2022,2022-02-15 19:15:00,2,Rosario Central,Vélez Sarsfield,1,0,2.6,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049605,Argentina Primera División,2022,2022-02-15 21:30:00,2,Huracán,Estudiantes,2,3,2.6,3.1,2.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049599,Argentina Primera División,2022,2022-02-15 21:30:00,2,Lanús,Barracas Central,2,0,1.62,3.75,6.0,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,1.95,1.8
+3049600,Argentina Primera División,2022,2022-02-16 17:00:00,2,Tigre,Central Córdoba SdE,1,1,2.45,3.0,3.25,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.91,1.91
+3049602,Argentina Primera División,2022,2022-02-16 19:15:00,2,Aldosivi,Boca Juniors,1,2,5.75,3.6,1.67,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,2.05,1.7
+3049595,Argentina Primera División,2022,2022-02-16 21:30:00,2,River Plate,Patronato,4,1,1.25,5.5,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,1.57
+3049598,Argentina Primera División,2022,2022-02-17 17:00:00,2,Gimnasia La Plata,San Lorenzo,1,0,2.4,3.1,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049601,Argentina Primera División,2022,2022-02-17 17:00:00,2,Colón,Godoy Cruz,3,1,2.2,3.2,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049592,Argentina Primera División,2022,2022-02-17 19:15:00,2,Sarmiento,Banfield,2,2,3.6,2.9,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049597,Argentina Primera División,2022,2022-02-17 19:15:00,2,Defensa y Justicia,Racing Club,2,2,2.0,3.3,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049594,Argentina Primera División,2022,2022-02-17 21:30:00,2,Talleres Córdoba,Unión Santa Fe,0,0,2.55,3.1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049593,Argentina Primera División,2022,2022-02-17 21:30:00,2,Atlético Tucumán,Platense,2,2,2.2,3.3,3.3,0.0,0.0,0.0,0.0,2.0,1.85,0.0,0.0,0.0,0.0,1.75,2.0
+3049614,Argentina Primera División,2022,2022-02-19 17:00:00,3,Arsenal de Sarandí,Huracán,2,1,3.8,3.0,2.15,0.0,0.0,0.0,0.0,2.35,1.57,0.0,0.0,0.0,0.0,2.0,1.75
+3049613,Argentina Primera División,2022,2022-02-19 19:15:00,3,Estudiantes,Lanús,2,1,2.38,3.1,3.3,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.8,1.95
+3049615,Argentina Primera División,2022,2022-02-19 21:30:00,3,Vélez Sarsfield,Independiente,0,0,2.1,3.0,4.2,0.0,0.0,0.0,0.0,3.1,1.36,0.0,0.0,0.0,0.0,2.5,1.5
+3049612,Argentina Primera División,2022,2022-02-20 17:00:00,3,Platense,Sarmiento,2,0,2.05,3.0,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049616,Argentina Primera División,2022,2022-02-20 19:15:00,3,Boca Juniors,Rosario Central,2,1,1.67,3.5,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049609,Argentina Primera División,2022,2022-02-20 21:30:00,3,Newell's Old Boys,River Plate,0,2,5.5,3.6,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049619,Argentina Primera División,2022,2022-02-21 17:00:00,3,Barracas Central,Tigre,0,2,5.0,3.4,1.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049606,Argentina Primera División,2022,2022-02-21 19:15:00,3,Banfield,Gimnasia La Plata,4,0,2.15,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049617,Argentina Primera División,2022,2022-02-21 19:15:00,3,Godoy Cruz,Aldosivi,0,2,1.57,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049607,Argentina Primera División,2022,2022-02-21 21:30:00,3,San Lorenzo,Defensa y Justicia,3,4,3.4,3.1,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049610,Argentina Primera División,2022,2022-02-22 19:15:00,3,Patronato,Talleres Córdoba,0,0,2.88,3.0,2.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049611,Argentina Primera División,2022,2022-02-22 19:15:00,3,Unión Santa Fe,Atlético Tucumán,1,0,1.67,3.6,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049608,Argentina Primera División,2022,2022-02-22 21:30:00,3,Racing Club,Argentinos Juniors,3,0,2.8,3.1,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049618,Argentina Primera División,2022,2022-02-22 21:30:00,3,Central Córdoba SdE,Colón,0,2,2.55,3.25,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049632,Argentina Primera División,2022,2022-02-24 21:30:00,4,Huracán,Vélez Sarsfield,2,0,2.5,3.1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049626,Argentina Primera División,2022,2022-02-25 19:15:00,4,Defensa y Justicia,Gimnasia La Plata,3,2,1.73,3.75,5.0,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,1.8,1.95
+3049620,Argentina Primera División,2022,2022-02-25 21:30:00,4,Platense,Banfield,0,1,3.25,2.9,2.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049630,Argentina Primera División,2022,2022-02-26 17:00:00,4,Rosario Central,Godoy Cruz,1,2,1.91,3.5,4.0,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,1.75,2.0
+3049628,Argentina Primera División,2022,2022-02-26 17:00:00,4,Colón,Barracas Central,2,1,1.4,4.33,9.0,0.0,0.0,0.0,0.0,2.03,1.83,0.0,0.0,0.0,0.0,2.25,1.57
+3049629,Argentina Primera División,2022,2022-02-26 19:15:00,4,Aldosivi,Central Córdoba SdE,0,0,2.7,3.3,2.7,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,0.0,0.0,1.75,2.0
+3049631,Argentina Primera División,2022,2022-02-26 21:30:00,4,Independiente,Boca Juniors,2,2,4.2,3.1,2.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.38,1.53
+3049621,Argentina Primera División,2022,2022-02-27 17:00:00,4,Sarmiento,Unión Santa Fe,2,1,3.25,3.2,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049633,Argentina Primera División,2022,2022-02-27 17:00:00,4,Estudiantes,Arsenal de Sarandí,3,2,1.83,3.5,4.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049624,Argentina Primera División,2022,2022-02-27 19:15:00,4,River Plate,Racing Club,2,2,1.4,4.33,9.0,0.0,0.0,0.0,0.0,1.85,2.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049625,Argentina Primera División,2022,2022-02-27 21:30:00,4,Argentinos Juniors,San Lorenzo,1,1,1.91,3.2,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049623,Argentina Primera División,2022,2022-02-28 19:15:00,4,Talleres Córdoba,Newell's Old Boys,1,2,2.1,3.3,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049627,Argentina Primera División,2022,2022-02-28 21:30:00,4,Lanús,Tigre,0,0,2.5,3.25,2.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049622,Argentina Primera División,2022,2022-03-01 21:30:00,4,Atlético Tucumán,Patronato,1,0,2.3,3.2,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049645,Argentina Primera División,2022,2022-03-03 21:30:00,5,Central Córdoba SdE,Rosario Central,0,1,2.1,3.6,3.4,0.0,0.0,0.0,0.0,2.03,1.83,0.0,0.0,0.0,0.0,1.8,1.95
+3049640,Argentina Primera División,2022,2022-03-04 19:15:00,5,Unión Santa Fe,Platense,1,0,1.95,3.3,4.2,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.1,1.67
+3049646,Argentina Primera División,2022,2022-03-04 21:30:00,5,Barracas Central,Aldosivi,2,1,3.1,3.2,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049635,Argentina Primera División,2022,2022-03-04 21:30:00,5,Gimnasia La Plata,Argentinos Juniors,2,2,2.75,3.1,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049636,Argentina Primera División,2022,2022-03-05 17:00:00,5,San Lorenzo,River Plate,0,1,5.5,3.8,1.65,0.0,0.0,0.0,0.0,2.0,1.8,0.0,0.0,0.0,0.0,1.95,1.8
+3049639,Argentina Primera División,2022,2022-03-05 19:15:00,5,Patronato,Sarmiento,0,1,2.4,3.2,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049637,Argentina Primera División,2022,2022-03-05 21:30:00,5,Racing Club,Talleres Córdoba,1,0,2.1,3.25,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049634,Argentina Primera División,2022,2022-03-06 17:00:00,5,Banfield,Defensa y Justicia,2,3,2.55,3.2,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049638,Argentina Primera División,2022,2022-03-06 17:00:00,5,Newell's Old Boys,Atlético Tucumán,4,0,1.95,3.5,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049643,Argentina Primera División,2022,2022-03-06 19:15:00,5,Boca Juniors,Huracán,0,1,1.67,3.6,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049642,Argentina Primera División,2022,2022-03-06 21:30:00,5,Vélez Sarsfield,Estudiantes,1,1,2.55,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049644,Argentina Primera División,2022,2022-03-07 17:00:00,5,Godoy Cruz,Independiente,3,3,2.25,3.25,3.2,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049641,Argentina Primera División,2022,2022-03-07 19:15:00,5,Arsenal de Sarandí,Lanús,2,2,3.2,3.2,2.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049647,Argentina Primera División,2022,2022-03-07 21:30:00,5,Tigre,Colón,1,0,2.63,3.1,2.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049661,Argentina Primera División,2022,2022-03-11 19:15:00,6,Arsenal de Sarandí,Vélez Sarsfield,0,0,3.75,2.88,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049649,Argentina Primera División,2022,2022-03-11 21:30:00,6,Platense,Patronato,1,2,2.38,3.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049659,Argentina Primera División,2022,2022-03-12 17:00:00,6,Huracán,Godoy Cruz,1,3,1.4,4.5,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,1.7,2.05
+3049656,Argentina Primera División,2022,2022-03-12 17:00:00,6,Aldosivi,Tigre,1,0,3.6,3.25,2.1,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.91,1.91
+3049650,Argentina Primera División,2022,2022-03-12 19:15:00,6,Sarmiento,Newell's Old Boys,2,2,2.75,3.2,2.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049657,Argentina Primera División,2022,2022-03-12 19:15:00,6,Rosario Central,Barracas Central,1,3,1.29,5.25,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049652,Argentina Primera División,2022,2022-03-12 21:30:00,6,Talleres Córdoba,San Lorenzo,0,1,2.05,3.3,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049648,Argentina Primera División,2022,2022-03-13 17:00:00,6,Unión Santa Fe,Banfield,2,1,2.4,3.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049655,Argentina Primera División,2022,2022-03-13 17:00:00,6,Lanús,Colón,1,1,2.55,3.2,2.8,0.0,0.0,0.0,0.0,2.0,1.8,0.0,0.0,0.0,0.0,1.75,2.0
+3049653,Argentina Primera División,2022,2022-03-13 19:15:00,6,River Plate,Gimnasia La Plata,4,0,1.22,6.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049660,Argentina Primera División,2022,2022-03-13 21:30:00,6,Estudiantes,Boca Juniors,0,1,3.25,3.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049651,Argentina Primera División,2022,2022-03-14 19:15:00,6,Atlético Tucumán,Racing Club,0,4,3.3,3.3,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049654,Argentina Primera División,2022,2022-03-14 21:30:00,6,Argentinos Juniors,Defensa y Justicia,0,1,2.3,3.4,3.2,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,0.0,0.0,1.75,2.0
+3049658,Argentina Primera División,2022,2022-03-14 21:30:00,6,Independiente,Central Córdoba SdE,1,1,2.0,3.3,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049672,Argentina Primera División,2022,2022-03-18 16:00:00,7,Aldosivi,Patronato,3,1,2.75,3.0,2.88,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049674,Argentina Primera División,2022,2022-03-18 19:15:00,7,Tigre,Platense,4,0,1.95,3.3,4.2,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,2.0,1.75
+3049675,Argentina Primera División,2022,2022-03-18 21:30:00,7,Barracas Central,Sarmiento,2,1,3.0,3.0,2.6,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049669,Argentina Primera División,2022,2022-03-19 14:00:00,7,Lanús,Banfield,0,1,2.6,3.25,2.8,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049662,Argentina Primera División,2022,2022-03-19 16:15:00,7,San Lorenzo,Huracán,0,0,2.45,3.1,3.0,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.05,1.7
+3049673,Argentina Primera División,2022,2022-03-19 18:30:00,7,Colón,Unión Santa Fe,0,0,2.5,2.88,3.25,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049670,Argentina Primera División,2022,2022-03-19 20:45:00,7,Independiente,Racing Club,1,2,2.7,2.9,2.9,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049671,Argentina Primera División,2022,2022-03-20 14:00:00,7,Rosario Central,Newell's Old Boys,0,1,2.05,3.5,3.5,0.0,0.0,0.0,0.0,2.05,1.8,0.0,0.0,0.0,0.0,1.8,1.95
+3049663,Argentina Primera División,2022,2022-03-20 16:15:00,7,Gimnasia La Plata,Estudiantes,1,1,3.5,3.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049666,Argentina Primera División,2022,2022-03-20 19:00:00,7,River Plate,Boca Juniors,0,1,1.91,3.25,4.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049664,Argentina Primera División,2022,2022-03-21 19:15:00,7,Defensa y Justicia,Arsenal de Sarandí,1,1,1.6,3.75,6.0,0.0,0.0,0.0,0.0,2.0,1.85,0.0,0.0,0.0,0.0,1.95,1.8
+3049665,Argentina Primera División,2022,2022-03-21 21:30:00,7,Argentinos Juniors,Vélez Sarsfield,1,0,2.38,3.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,1.57
+3049668,Argentina Primera División,2022,2022-03-22 19:15:00,7,Atlético Tucumán,Central Córdoba SdE,0,1,3.2,3.1,2.4,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049667,Argentina Primera División,2022,2022-03-22 21:30:00,7,Talleres Córdoba,Godoy Cruz,2,1,2.38,3.1,3.2,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.8,1.95
+3049689,Argentina Primera División,2022,2022-03-31 21:30:00,8,Colón,Aldosivi,1,3,1.55,3.75,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049678,Argentina Primera División,2022,2022-04-01 16:30:00,8,Gimnasia La Plata,Talleres Córdoba,2,1,2.4,3.2,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049686,Argentina Primera División,2022,2022-04-01 19:00:00,8,Central Córdoba SdE,Huracán,2,2,1.95,3.4,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049682,Argentina Primera División,2022,2022-04-01 19:00:00,8,Patronato,Unión Santa Fe,2,1,2.5,2.9,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,1.5
+3049676,Argentina Primera División,2022,2022-04-01 21:30:00,8,Banfield,Argentinos Juniors,0,2,2.88,3.0,2.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049687,Argentina Primera División,2022,2022-04-01 21:30:00,8,Barracas Central,Independiente,0,1,5.25,3.3,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049680,Argentina Primera División,2022,2022-04-02 14:00:00,8,Racing Club,Sarmiento,4,1,1.4,4.5,8.5,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,2.1,1.67
+3049685,Argentina Primera División,2022,2022-04-02 16:30:00,8,Godoy Cruz,Estudiantes,3,3,2.3,3.1,3.3,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.8,1.95
+3049683,Argentina Primera División,2022,2022-04-02 16:30:00,8,Vélez Sarsfield,Lanús,3,1,2.05,3.2,3.8,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049677,Argentina Primera División,2022,2022-04-02 19:00:00,8,Defensa y Justicia,River Plate,1,2,5.0,3.8,1.67,0.0,0.0,0.0,0.0,1.7,2.1,0.0,0.0,0.0,0.0,1.7,2.05
+3049684,Argentina Primera División,2022,2022-04-02 21:30:00,8,Boca Juniors,Arsenal de Sarandí,2,2,1.57,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049679,Argentina Primera División,2022,2022-04-03 16:30:00,8,San Lorenzo,Atlético Tucumán,1,1,1.67,3.6,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049681,Argentina Primera División,2022,2022-04-03 19:00:00,8,Newell's Old Boys,Platense,3,1,2.0,3.4,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049688,Argentina Primera División,2022,2022-04-03 21:30:00,8,Tigre,Rosario Central,2,0,1.91,3.3,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049694,Argentina Primera División,2022,2022-04-08 19:00:00,9,Atlético Tucumán,Gimnasia La Plata,1,2,2.8,3.1,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049702,Argentina Primera División,2022,2022-04-08 19:00:00,9,Arsenal de Sarandí,Godoy Cruz,3,3,3.3,3.2,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049693,Argentina Primera División,2022,2022-04-08 21:30:00,9,Sarmiento,San Lorenzo,2,1,3.25,2.88,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049698,Argentina Primera División,2022,2022-04-08 21:30:00,9,Rosario Central,Colón,2,2,2.45,3.3,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049691,Argentina Primera División,2022,2022-04-09 14:00:00,9,Unión Santa Fe,Newell's Old Boys,1,0,2.45,3.1,3.1,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049695,Argentina Primera División,2022,2022-04-09 16:30:00,9,Talleres Córdoba,Defensa y Justicia,1,5,3.2,3.2,2.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049699,Argentina Primera División,2022,2022-04-09 19:00:00,9,Independiente,Tigre,1,1,3.2,2.9,2.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,1.57
+3049703,Argentina Primera División,2022,2022-04-09 21:30:00,9,Vélez Sarsfield,Boca Juniors,0,0,3.3,3.25,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049690,Argentina Primera División,2022,2022-04-10 14:00:00,9,Patronato,Banfield,0,1,2.38,3.2,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049701,Argentina Primera División,2022,2022-04-10 14:00:00,9,Estudiantes,Central Córdoba SdE,5,0,2.1,3.25,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049692,Argentina Primera División,2022,2022-04-10 16:30:00,9,Platense,Racing Club,0,1,4.2,3.5,1.91,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,0.0,0.0,1.8,1.95
+3049696,Argentina Primera División,2022,2022-04-10 19:00:00,9,River Plate,Argentinos Juniors,4,2,1.73,3.6,5.25,0.0,0.0,0.0,0.0,2.0,1.85,0.0,0.0,0.0,0.0,1.95,1.8
+3049700,Argentina Primera División,2022,2022-04-11 19:00:00,9,Huracán,Barracas Central,1,2,1.67,3.4,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049697,Argentina Primera División,2022,2022-04-11 21:30:00,9,Lanús,Aldosivi,1,2,1.8,3.6,4.33,0.0,0.0,0.0,0.0,1.98,1.88,0.0,0.0,0.0,0.0,1.8,1.95
+3049707,Argentina Primera División,2022,2022-04-14 21:30:00,10,Gimnasia La Plata,Sarmiento,1,3,1.7,3.75,5.25,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,0.0,0.0,1.91,1.91
+3049715,Argentina Primera División,2022,2022-04-15 16:30:00,10,Tigre,Huracán,2,1,1.95,3.4,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049717,Argentina Primera División,2022,2022-04-15 19:00:00,10,Aldosivi,Rosario Central,1,0,2.45,3.4,2.8,0.0,0.0,0.0,0.0,1.88,1.98,0.0,0.0,0.0,0.0,1.7,2.05
+3049713,Argentina Primera División,2022,2022-04-15 19:00:00,10,Central Córdoba SdE,Arsenal de Sarandí,3,3,1.95,3.4,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049710,Argentina Primera División,2022,2022-04-15 21:30:00,10,Newell's Old Boys,Patronato,1,0,1.91,3.3,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049708,Argentina Primera División,2022,2022-04-16 14:00:00,10,San Lorenzo,Platense,2,2,2.2,3.25,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049716,Argentina Primera División,2022,2022-04-16 16:30:00,10,Colón,Independiente,2,2,2.15,3.1,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049714,Argentina Primera División,2022,2022-04-16 19:00:00,10,Barracas Central,Estudiantes,1,6,3.75,3.25,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049709,Argentina Primera División,2022,2022-04-16 21:30:00,10,Racing Club,Unión Santa Fe,1,0,1.83,3.4,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049706,Argentina Primera División,2022,2022-04-17 14:00:00,10,Defensa y Justicia,Atlético Tucumán,1,1,1.53,4.0,7.0,0.0,0.0,0.0,0.0,2.05,1.8,0.0,0.0,0.0,0.0,2.05,1.7
+3049712,Argentina Primera División,2022,2022-04-17 14:00:00,10,Godoy Cruz,Vélez Sarsfield,0,0,2.1,3.25,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049705,Argentina Primera División,2022,2022-04-17 16:30:00,10,Argentinos Juniors,Talleres Córdoba,2,1,1.95,3.25,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049711,Argentina Primera División,2022,2022-04-17 19:00:00,10,Boca Juniors,Lanús,1,1,1.67,3.75,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049704,Argentina Primera División,2022,2022-04-17 21:30:00,10,Banfield,River Plate,1,2,5.5,3.6,1.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049729,Argentina Primera División,2022,2022-04-19 14:00:00,11,Arsenal de Sarandí,Barracas Central,0,1,1.95,3.4,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049720,Argentina Primera División,2022,2022-04-19 16:30:00,11,Unión Santa Fe,San Lorenzo,1,2,1.91,3.25,4.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049728,Argentina Primera División,2022,2022-04-19 19:00:00,11,Estudiantes,Tigre,2,1,2.5,3.2,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049727,Argentina Primera División,2022,2022-04-19 19:00:00,11,Huracán,Colón,1,1,3.1,3.2,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049726,Argentina Primera División,2022,2022-04-19 21:30:00,11,Independiente,Aldosivi,1,1,1.55,3.8,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049721,Argentina Primera División,2022,2022-04-19 21:30:00,11,Platense,Gimnasia La Plata,0,3,2.88,3.1,2.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049718,Argentina Primera División,2022,2022-04-20 14:00:00,11,Newell's Old Boys,Banfield,1,0,2.25,3.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049719,Argentina Primera División,2022,2022-04-20 16:30:00,11,Patronato,Racing Club,2,3,3.5,3.25,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049730,Argentina Primera División,2022,2022-04-20 16:30:00,11,Vélez Sarsfield,Central Córdoba SdE,1,2,2.0,3.2,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049724,Argentina Primera División,2022,2022-04-20 19:00:00,11,Talleres Córdoba,River Plate,1,0,3.6,3.4,2.1,0.0,0.0,0.0,0.0,2.05,1.8,0.0,0.0,0.0,0.0,1.8,1.95
+3049725,Argentina Primera División,2022,2022-04-20 19:00:00,11,Lanús,Rosario Central,3,1,2.2,3.2,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049731,Argentina Primera División,2022,2022-04-20 21:30:00,11,Boca Juniors,Godoy Cruz,1,1,1.83,3.5,4.75,0.0,0.0,0.0,0.0,2.05,1.8,0.0,0.0,0.0,0.0,1.8,1.95
+3049722,Argentina Primera División,2022,2022-04-21 16:00:00,11,Sarmiento,Defensa y Justicia,2,1,3.75,3.6,1.95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.67,2.1
+3049723,Argentina Primera División,2022,2022-04-21 18:30:00,11,Atlético Tucumán,Argentinos Juniors,2,4,4.5,3.5,1.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049743,Argentina Primera División,2022,2022-04-22 20:30:00,12,Colón,Estudiantes,2,2,1.45,4.33,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049736,Argentina Primera División,2022,2022-04-23 14:00:00,12,Gimnasia La Plata,Unión Santa Fe,1,0,2.3,2.9,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049737,Argentina Primera División,2022,2022-04-23 14:00:00,12,San Lorenzo,Patronato,1,2,2.25,3.1,3.0,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.91,1.91
+3049745,Argentina Primera División,2022,2022-04-23 16:30:00,12,Rosario Central,Independiente,3,0,2.8,3.0,2.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049740,Argentina Primera División,2022,2022-04-23 19:00:00,12,Central Córdoba SdE,Boca Juniors,1,2,3.0,3.0,2.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049732,Argentina Primera División,2022,2022-04-23 21:30:00,12,Banfield,Talleres Córdoba,3,1,2.15,2.9,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049741,Argentina Primera División,2022,2022-04-23 21:30:00,12,Barracas Central,Vélez Sarsfield,1,1,2.9,2.9,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049738,Argentina Primera División,2022,2022-04-24 16:30:00,12,Racing Club,Newell's Old Boys,0,0,1.85,3.5,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049733,Argentina Primera División,2022,2022-04-24 19:00:00,12,River Plate,Atlético Tucumán,1,1,1.18,8.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.9,0.0,0.0,2.2,1.62
+3049735,Argentina Primera División,2022,2022-04-24 21:30:00,12,Defensa y Justicia,Platense,1,1,1.62,3.8,5.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049739,Argentina Primera División,2022,2022-04-24 21:30:00,12,Godoy Cruz,Lanús,1,1,1.73,3.75,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,2.05
+3049742,Argentina Primera División,2022,2022-04-25 15:30:00,12,Tigre,Arsenal de Sarandí,0,0,1.8,3.6,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049744,Argentina Primera División,2022,2022-04-25 21:30:00,12,Aldosivi,Huracán,0,2,2.88,3.6,2.38,0.0,0.0,0.0,0.0,1.85,2.0,0.0,0.0,0.0,0.0,1.67,2.1
+3049734,Argentina Primera División,2022,2022-04-25 21:30:00,12,Argentinos Juniors,Sarmiento,0,0,1.57,4.33,6.0,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,1.95,1.8
+3049747,Argentina Primera División,2022,2022-04-27 20:30:00,13,Newell's Old Boys,San Lorenzo,1,2,2.0,3.0,4.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,1.5
+3049755,Argentina Primera División,2022,2022-04-29 19:00:00,13,Estudiantes,Aldosivi,2,1,1.62,3.75,6.0,0.0,0.0,0.0,0.0,1.9,1.95,0.0,0.0,0.0,0.0,1.8,1.95
+3049748,Argentina Primera División,2022,2022-04-29 21:30:00,13,Patronato,Gimnasia La Plata,0,6,2.4,3.1,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049752,Argentina Primera División,2022,2022-04-30 12:00:00,13,Atlético Tucumán,Talleres Córdoba,3,0,2.15,3.2,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049746,Argentina Primera División,2022,2022-04-30 16:00:00,13,Racing Club,Banfield,1,1,2.05,3.1,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049757,Argentina Primera División,2022,2022-04-30 16:00:00,13,Vélez Sarsfield,Tigre,3,2,2.45,3.1,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049758,Argentina Primera División,2022,2022-04-30 19:00:00,13,Boca Juniors,Barracas Central,2,0,1.4,5.0,7.5,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,2.2,1.62
+3049756,Argentina Primera División,2022,2022-04-30 19:00:00,13,Arsenal de Sarandí,Colón,2,0,1.91,3.3,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049751,Argentina Primera División,2022,2022-04-30 21:30:00,13,Sarmiento,River Plate,0,7,8.0,4.75,1.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049753,Argentina Primera División,2022,2022-04-30 21:30:00,13,Lanús,Independiente,1,0,3.3,2.9,2.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049759,Argentina Primera División,2022,2022-05-02 19:00:00,13,Godoy Cruz,Central Córdoba SdE,1,0,1.8,3.5,4.75,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,1.8,1.95
+3049749,Argentina Primera División,2022,2022-05-02 19:00:00,13,Unión Santa Fe,Defensa y Justicia,1,2,3.25,3.2,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049750,Argentina Primera División,2022,2022-05-02 21:30:00,13,Platense,Argentinos Juniors,1,1,5.75,3.5,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.05,1.7
+3049754,Argentina Primera División,2022,2022-05-02 21:30:00,13,Huracán,Rosario Central,2,1,1.91,3.5,4.0,0.0,0.0,0.0,0.0,1.93,1.93,0.0,0.0,0.0,0.0,1.8,1.95
+3049766,Argentina Primera División,2022,2022-05-06 18:30:00,14,San Lorenzo,Racing Club,1,1,3.1,3.4,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049768,Argentina Primera División,2022,2022-05-06 21:30:00,14,Barracas Central,Godoy Cruz,3,1,5.0,3.75,1.67,0.0,0.0,0.0,0.0,1.98,1.88,0.0,0.0,0.0,0.0,1.91,1.91
+3049773,Argentina Primera División,2022,2022-05-07 16:30:00,14,Independiente,Huracán,3,0,2.5,3.1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,1.67
+3049771,Argentina Primera División,2022,2022-05-07 16:30:00,14,Aldosivi,Arsenal de Sarandí,1,2,2.3,3.25,3.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049769,Argentina Primera División,2022,2022-05-07 16:30:00,14,Tigre,Boca Juniors,0,2,2.4,3.1,3.2,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049772,Argentina Primera División,2022,2022-05-07 19:00:00,14,Rosario Central,Estudiantes,3,1,1.73,3.6,4.5,0.0,0.0,0.0,0.0,1.9,1.95,0.0,0.0,0.0,0.0,1.8,1.95
+3049763,Argentina Primera División,2022,2022-05-08 16:00:00,14,Argentinos Juniors,Unión Santa Fe,2,1,1.65,3.6,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,1.57
+3049764,Argentina Primera División,2022,2022-05-08 16:00:00,14,Defensa y Justicia,Patronato,1,0,1.57,4.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,2.0
+3049765,Argentina Primera División,2022,2022-05-08 16:00:00,14,Gimnasia La Plata,Newell's Old Boys,3,1,2.0,3.25,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049761,Argentina Primera División,2022,2022-05-08 16:00:00,14,Talleres Córdoba,Sarmiento,1,0,1.83,3.4,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049762,Argentina Primera División,2022,2022-05-08 21:00:00,14,River Plate,Platense,2,1,1.44,4.75,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,2.05
+3049767,Argentina Primera División,2022,2022-05-09 19:00:00,14,Central Córdoba SdE,Lanús,3,3,2.2,3.2,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,1.95
+3049770,Argentina Primera División,2022,2022-05-09 19:00:00,14,Colón,Vélez Sarsfield,1,2,2.3,3.1,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049760,Argentina Primera División,2022,2022-05-09 21:30:00,14,Banfield,Atlético Tucumán,1,1,1.95,3.4,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.95,1.8
+3049774,Argentina Primera División,2022,2022-05-10 19:15:00,0,Racing Club,Aldosivi,5,0,1.4,4.5,7.0,0.0,0.0,0.0,0.0,1.83,2.03,0.0,0.0,0.0,0.0,1.95,1.8
+3049775,Argentina Primera División,2022,2022-05-10 21:30:00,0,Boca Juniors,Defensa y Justicia,2,0,1.95,3.4,4.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,2.05
+3049776,Argentina Primera División,2022,2022-05-11 19:15:00,0,Estudiantes,Argentinos Juniors,1,1,2.3,3.3,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.91,1.91
+3049777,Argentina Primera División,2022,2022-05-11 21:30:00,0,River Plate,Tigre,1,2,1.5,4.0,7.0,0.0,0.0,0.0,0.0,1.83,2.03,0.0,0.0,0.0,0.0,1.95,1.8
+3049779,Argentina Primera División,2022,2022-05-14 17:00:00,0,Boca Juniors,Racing Club,0,0,2.25,3.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049780,Argentina Primera División,2022,2022-05-15 16:00:00,0,Tigre,Argentinos Juniors,1,1,3.0,3.1,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.75
+3049778,Argentina Primera División,2022,2022-05-22 16:00:00,0,Boca Juniors,Tigre,3,0,2.2,2.88,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,1.62
+3049781,Argentina Primera División,2022,2022-06-03 20:00:00,1,Barracas Central,Central Córdoba SdE,1,1,3.4,3.1,2.3,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.91,1.91
+3049783,Argentina Primera División,2022,2022-06-04 12:00:00,1,Atlético Tucumán,Colón,1,1,2.38,3.3,3.0,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,1.75,2.0
+3049782,Argentina Primera División,2022,2022-06-04 14:00:00,1,San Lorenzo,Independiente,1,1,3.1,3.0,2.55,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049784,Argentina Primera División,2022,2022-06-04 16:30:00,1,Banfield,Newell's Old Boys,1,2,2.1,3.1,4.0,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049786,Argentina Primera División,2022,2022-06-04 19:00:00,1,Platense,Godoy Cruz,2,1,2.75,3.2,2.7,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.8,1.95
+3049785,Argentina Primera División,2022,2022-06-04 19:00:00,1,Patronato,Vélez Sarsfield,1,1,3.6,3.1,2.25,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049787,Argentina Primera División,2022,2022-06-04 21:30:00,1,Racing Club,Huracán,2,0,2.05,3.4,3.8,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.95,1.8
+3049788,Argentina Primera División,2022,2022-06-05 13:00:00,1,Unión Santa Fe,Tigre,1,2,2.45,3.0,3.2,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049789,Argentina Primera División,2022,2022-06-05 13:00:00,1,Talleres Córdoba,Sarmiento,2,0,1.8,3.4,5.25,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.2,1.62
+3049790,Argentina Primera División,2022,2022-06-05 17:00:00,1,Estudiantes,Gimnasia La Plata,1,1,2.05,3.25,4.0,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.91,1.91
+3049791,Argentina Primera División,2022,2022-06-05 19:30:00,1,Boca Juniors,Arsenal de Sarandí,2,1,1.95,3.0,4.5,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.1,1.67
+3049792,Argentina Primera División,2022,2022-06-05 21:30:00,1,Defensa y Justicia,River Plate,0,0,3.0,3.6,2.3,0.0,0.0,0.0,0.0,1.67,2.15,0.0,0.0,0.0,0.0,1.53,2.38
+3049793,Argentina Primera División,2022,2022-06-06 19:00:00,1,Rosario Central,Lanús,0,0,2.25,3.25,3.4,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049794,Argentina Primera División,2022,2022-06-06 21:30:00,1,Argentinos Juniors,Aldosivi,2,1,1.6,3.75,6.5,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,1.95,1.8
+3049805,Argentina Primera División,2022,2022-06-09 20:00:00,2,Newell's Old Boys,San Lorenzo,0,0,2.0,3.3,4.0,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,2.0,1.75
+3049801,Argentina Primera División,2022,2022-06-10 16:30:00,2,Gimnasia La Plata,Patronato,2,0,1.8,3.5,4.75,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,2.0,1.75
+3049802,Argentina Primera División,2022,2022-06-10 19:00:00,2,Aldosivi,Estudiantes,0,1,4.5,3.5,1.83,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.91,1.91
+3049797,Argentina Primera División,2022,2022-06-10 19:00:00,2,Lanús,Defensa y Justicia,1,1,3.25,3.1,2.38,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.95,1.8
+3049804,Argentina Primera División,2022,2022-06-10 21:30:00,2,Independiente,Talleres Córdoba,1,0,2.1,3.4,3.6,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.2,1.62
+3049798,Argentina Primera División,2022,2022-06-10 21:30:00,2,Huracán,Rosario Central,2,0,2.0,3.3,4.0,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.91,1.91
+3049806,Argentina Primera División,2022,2022-06-11 15:30:00,2,Arsenal de Sarandí,Banfield,0,0,2.8,2.9,2.8,0.0,0.0,0.0,0.0,2.7,1.44,0.0,0.0,0.0,0.0,2.2,1.62
+3049808,Argentina Primera División,2022,2022-06-11 15:30:00,2,Tigre,Barracas Central,1,1,1.53,4.0,6.0,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,2.0,1.75
+3049803,Argentina Primera División,2022,2022-06-11 18:00:00,2,Sarmiento,Argentinos Juniors,1,0,3.5,3.1,2.2,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049796,Argentina Primera División,2022,2022-06-11 20:30:00,2,River Plate,Atlético Tucumán,0,0,1.22,7.0,10.0,0.0,0.0,0.0,0.0,1.5,2.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049795,Argentina Primera División,2022,2022-06-12 13:00:00,2,Colón,Unión Santa Fe,2,2,2.25,3.2,3.3,0.0,0.0,0.0,0.0,2.35,1.57,0.0,0.0,0.0,0.0,2.0,1.75
+3049799,Argentina Primera División,2022,2022-06-12 15:30:00,2,Godoy Cruz,Racing Club,2,0,2.4,3.25,3.0,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,1.7,2.05
+3049800,Argentina Primera División,2022,2022-06-12 18:00:00,2,Vélez Sarsfield,Platense,0,1,1.65,3.6,6.5,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,2.1,1.67
+3049807,Argentina Primera División,2022,2022-06-12 20:30:00,2,Central Córdoba SdE,Boca Juniors,1,0,4.2,3.2,2.0,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.2,1.62
+3049812,Argentina Primera División,2022,2022-06-14 15:00:00,3,San Lorenzo,Arsenal de Sarandí,3,3,2.5,3.1,3.1,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049813,Argentina Primera División,2022,2022-06-14 19:00:00,3,Talleres Córdoba,Newell's Old Boys,0,1,2.45,2.9,3.3,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049816,Argentina Primera División,2022,2022-06-14 19:00:00,3,Patronato,Aldosivi,1,0,1.91,3.5,4.2,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.95,1.8
+3049815,Argentina Primera División,2022,2022-06-14 21:30:00,3,Estudiantes,Sarmiento,2,1,1.6,3.8,5.75,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,1.91,1.91
+3049820,Argentina Primera División,2022,2022-06-14 21:30:00,3,Defensa y Justicia,Huracán,1,1,2.5,3.1,2.9,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049809,Argentina Primera División,2022,2022-06-15 14:00:00,3,Barracas Central,Unión Santa Fe,1,2,4.33,3.4,1.91,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,2.0,1.75
+3049811,Argentina Primera División,2022,2022-06-15 16:30:00,3,Banfield,Central Córdoba SdE,2,1,1.91,3.4,4.33,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.95,1.8
+3049821,Argentina Primera División,2022,2022-06-15 16:30:00,3,Atlético Tucumán,Lanús,2,1,2.4,2.9,3.4,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049822,Argentina Primera División,2022,2022-06-15 19:00:00,3,Colón,River Plate,1,0,3.75,3.8,1.91,0.0,0.0,0.0,0.0,1.67,2.15,0.0,0.0,0.0,0.0,1.62,2.2
+3049810,Argentina Primera División,2022,2022-06-15 21:30:00,3,Boca Juniors,Tigre,5,3,2.05,3.1,4.2,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.1,1.67
+3049814,Argentina Primera División,2022,2022-06-16 19:00:00,3,Argentinos Juniors,Independiente,2,1,2.25,3.1,3.5,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.1,1.67
+3049819,Argentina Primera División,2022,2022-06-16 19:00:00,3,Rosario Central,Godoy Cruz,1,0,2.63,3.3,2.7,0.0,0.0,0.0,0.0,1.9,1.9,0.0,0.0,0.0,0.0,1.7,2.05
+3049817,Argentina Primera División,2022,2022-06-16 21:30:00,3,Platense,Gimnasia La Plata,1,1,2.88,3.2,2.5,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.95,1.8
+3049818,Argentina Primera División,2022,2022-06-16 21:30:00,3,Racing Club,Vélez Sarsfield,2,0,2.2,3.25,3.5,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,2.0,1.75
+3049833,Argentina Primera División,2022,2022-06-18 18:00:00,4,Arsenal de Sarandí,Talleres Córdoba,1,1,2.55,3.1,3.0,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049830,Argentina Primera División,2022,2022-06-18 20:30:00,4,Sarmiento,Patronato,3,1,2.63,3.0,2.9,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.05,1.7
+3049835,Argentina Primera División,2022,2022-06-19 13:00:00,4,Tigre,Banfield,0,1,2.0,3.1,4.33,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.05,1.7
+3049825,Argentina Primera División,2022,2022-06-19 15:30:00,4,Huracán,Atlético Tucumán,0,0,1.85,3.4,4.33,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.2,1.62
+3049824,Argentina Primera División,2022,2022-06-19 15:30:00,4,Lanús,Colón,1,0,2.15,3.3,3.3,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.91,1.91
+3049823,Argentina Primera División,2022,2022-06-19 18:00:00,4,Unión Santa Fe,River Plate,1,5,5.25,3.8,1.7,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,1.91,1.91
+3049836,Argentina Primera División,2022,2022-06-19 21:30:00,4,Barracas Central,Boca Juniors,1,3,7.5,4.0,1.5,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,2.25,1.57
+3049826,Argentina Primera División,2022,2022-06-20 16:30:00,4,Godoy Cruz,Defensa y Justicia,2,1,2.05,3.6,3.6,0.0,0.0,0.0,0.0,1.9,1.9,0.0,0.0,0.0,0.0,1.75,2.0
+3049827,Argentina Primera División,2022,2022-06-20 19:00:00,4,Vélez Sarsfield,Rosario Central,2,0,1.85,3.3,4.75,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.95,1.8
+3049828,Argentina Primera División,2022,2022-06-20 19:00:00,4,Gimnasia La Plata,Racing Club,3,1,3.0,2.9,2.55,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049831,Argentina Primera División,2022,2022-06-20 21:30:00,4,Independiente,Estudiantes,2,1,2.5,2.9,3.2,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049832,Argentina Primera División,2022,2022-06-20 21:30:00,4,Newell's Old Boys,Argentinos Juniors,1,0,3.0,3.0,2.55,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049829,Argentina Primera División,2022,2022-06-21 19:00:00,4,Aldosivi,Platense,0,0,2.8,3.0,2.75,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.95,1.8
+3049834,Argentina Primera División,2022,2022-06-21 21:30:00,4,Central Córdoba SdE,San Lorenzo,0,2,1.95,3.3,4.33,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.95,1.8
+3049846,Argentina Primera División,2022,2022-06-24 19:00:00,5,Rosario Central,Gimnasia La Plata,0,1,2.7,3.2,2.7,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.91,1.91
+3049838,Argentina Primera División,2022,2022-06-24 19:00:00,5,Banfield,Barracas Central,1,1,1.73,3.6,5.0,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,2.05,1.7
+3049837,Argentina Primera División,2022,2022-06-24 21:30:00,5,Boca Juniors,Unión Santa Fe,1,2,1.7,3.4,6.0,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.38,1.53
+3049847,Argentina Primera División,2022,2022-06-25 15:30:00,5,Defensa y Justicia,Vélez Sarsfield,1,1,2.5,3.2,3.0,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.95,1.8
+3049840,Argentina Primera División,2022,2022-06-25 15:30:00,5,Talleres Córdoba,Central Córdoba SdE,0,2,2.2,3.2,3.4,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.95,1.8
+3049849,Argentina Primera División,2022,2022-06-25 18:00:00,5,Colón,Huracán,0,1,3.4,3.3,2.2,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.91,1.91
+3049842,Argentina Primera División,2022,2022-06-25 18:00:00,5,Estudiantes,Newell's Old Boys,0,2,1.85,3.3,4.5,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,2.0,1.75
+3049850,Argentina Primera División,2022,2022-06-25 20:30:00,5,River Plate,Lanús,2,1,1.44,4.33,8.0,0.0,0.0,0.0,0.0,1.75,2.05,0.0,0.0,0.0,0.0,1.95,1.8
+3049839,Argentina Primera División,2022,2022-06-26 13:00:00,5,San Lorenzo,Tigre,1,1,3.0,3.2,2.45,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.95,1.8
+3049844,Argentina Primera División,2022,2022-06-26 15:30:00,5,Platense,Sarmiento,0,0,2.25,3.2,3.4,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.95,1.8
+3049845,Argentina Primera División,2022,2022-06-26 18:00:00,5,Racing Club,Aldosivi,5,0,1.36,5.0,8.5,0.0,0.0,0.0,0.0,1.7,2.1,0.0,0.0,0.0,0.0,2.0,1.75
+3049841,Argentina Primera División,2022,2022-06-26 20:30:00,5,Argentinos Juniors,Arsenal de Sarandí,1,1,1.95,3.25,4.33,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.2,1.62
+3049843,Argentina Primera División,2022,2022-06-27 15:30:00,5,Patronato,Independiente,3,1,3.1,2.9,2.55,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.0,1.75
+3049848,Argentina Primera División,2022,2022-06-27 20:00:00,5,Atlético Tucumán,Godoy Cruz,1,1,2.7,3.1,2.75,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049861,Argentina Primera División,2022,2022-07-01 19:00:00,6,Central Córdoba SdE,Argentinos Juniors,1,2,2.55,3.0,2.9,0.0,0.0,0.0,0.0,2.35,1.57,0.0,0.0,0.0,0.0,1.95,1.8
+3049864,Argentina Primera División,2022,2022-07-01 21:30:00,6,Boca Juniors,Banfield,0,3,2.1,3.1,4.0,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.2,1.62
+3049862,Argentina Primera División,2022,2022-07-02 15:30:00,6,Tigre,Talleres Córdoba,1,1,2.1,3.25,3.75,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.2,1.62
+3049853,Argentina Primera División,2022,2022-07-02 18:00:00,6,Godoy Cruz,Colón,1,0,1.55,4.2,5.75,0.0,0.0,0.0,0.0,1.75,2.05,0.0,0.0,0.0,0.0,1.8,1.95
+3049854,Argentina Primera División,2022,2022-07-02 18:00:00,6,Vélez Sarsfield,Atlético Tucumán,0,1,2.15,3.1,3.8,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.1,1.67
+3049855,Argentina Primera División,2022,2022-07-02 20:30:00,6,Gimnasia La Plata,Defensa y Justicia,1,0,2.3,3.2,3.25,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049851,Argentina Primera División,2022,2022-07-03 13:00:00,6,Unión Santa Fe,Lanús,3,0,1.85,3.25,4.75,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,2.05,1.7
+3049863,Argentina Primera División,2022,2022-07-03 15:00:00,6,Barracas Central,San Lorenzo,2,1,3.5,3.1,2.25,0.0,0.0,0.0,0.0,2.35,1.57,0.0,0.0,0.0,0.0,2.0,1.75
+3049857,Argentina Primera División,2022,2022-07-03 18:00:00,6,Sarmiento,Racing Club,1,1,3.8,3.3,2.1,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.91,1.91
+3049852,Argentina Primera División,2022,2022-07-03 21:00:00,6,Huracán,River Plate,3,2,3.1,3.2,2.45,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.91,1.91
+3049860,Argentina Primera División,2022,2022-07-04 17:00:00,6,Arsenal de Sarandí,Estudiantes,2,1,2.75,2.88,2.55,1.1,6.5,1.4,2.75,2.25,1.6,4.0,1.22,8.0,1.06,1.91,1.8
+3049856,Argentina Primera División,2022,2022-07-04 19:00:00,6,Aldosivi,Rosario Central,2,1,2.8,2.8,2.4,1.1,6.5,1.44,2.62,2.38,1.53,4.33,1.2,8.0,1.06,1.98,1.76
+3049859,Argentina Primera División,2022,2022-07-04 19:00:00,6,Newell's Old Boys,Patronato,2,2,1.73,3.3,4.5,1.08,7.0,1.4,2.75,2.3,1.57,4.0,1.22,8.0,1.06,2.09,1.68
+3049858,Argentina Primera División,2022,2022-07-04 21:30:00,6,Independiente,Platense,1,3,1.8,3.1,4.4,1.1,6.5,1.44,2.62,2.25,1.6,4.33,1.2,8.0,1.06,2.1,1.67
+3049873,Argentina Primera División,2022,2022-07-08 20:00:00,7,Rosario Central,Sarmiento,1,0,2.15,3.25,3.5,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049870,Argentina Primera División,2022,2022-07-09 13:00:00,7,Patronato,Arsenal de Sarandí,0,1,2.25,3.2,3.2,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,2.0,1.75
+3049866,Argentina Primera División,2022,2022-07-09 15:30:00,7,San Lorenzo,Boca Juniors,2,1,4.33,3.2,1.95,0.0,0.0,0.0,0.0,2.6,1.48,0.0,0.0,0.0,0.0,2.2,1.62
+3049865,Argentina Primera División,2022,2022-07-09 18:00:00,7,Banfield,Unión Santa Fe,2,3,1.85,3.2,4.75,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.2,1.62
+3049867,Argentina Primera División,2022,2022-07-09 20:30:00,7,Talleres Córdoba,Barracas Central,0,2,1.62,3.6,6.0,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,2.05,1.7
+3049871,Argentina Primera División,2022,2022-07-09 20:30:00,7,Platense,Newell's Old Boys,1,1,2.7,3.1,2.88,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049869,Argentina Primera División,2022,2022-07-10 13:00:00,7,Estudiantes,Central Córdoba SdE,2,2,1.7,3.6,5.25,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,2.0,1.75
+3049872,Argentina Primera División,2022,2022-07-10 15:30:00,7,Racing Club,Independiente,1,0,1.91,3.3,4.2,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.95,1.8
+3049878,Argentina Primera División,2022,2022-07-10 18:00:00,7,Lanús,Huracán,2,3,2.9,2.9,2.7,0.0,0.0,0.0,0.0,2.7,1.44,0.0,0.0,0.0,0.0,2.05,1.7
+3049875,Argentina Primera División,2022,2022-07-10 18:00:00,7,Atlético Tucumán,Gimnasia La Plata,2,0,2.63,3.0,3.0,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.0,1.75
+3049877,Argentina Primera División,2022,2022-07-10 20:30:00,7,River Plate,Godoy Cruz,0,2,1.57,3.8,6.0,0.0,0.0,0.0,0.0,1.7,2.1,0.0,0.0,0.0,0.0,1.8,1.95
+3049876,Argentina Primera División,2022,2022-07-11 19:00:00,7,Colón,Vélez Sarsfield,2,1,3.5,3.1,2.15,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049874,Argentina Primera División,2022,2022-07-11 19:00:00,7,Defensa y Justicia,Aldosivi,3,2,1.7,3.5,5.5,0.0,0.0,0.0,0.0,1.95,1.85,0.0,0.0,0.0,0.0,1.91,1.91
+3049868,Argentina Primera División,2022,2022-07-11 21:30:00,7,Argentinos Juniors,Tigre,2,1,2.3,2.9,3.5,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049888,Argentina Primera División,2022,2022-07-14 21:00:00,8,Central Córdoba SdE,Patronato,1,3,2.38,3.2,3.1,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,1.91,1.91
+3049884,Argentina Primera División,2022,2022-07-15 19:00:00,8,Sarmiento,Defensa y Justicia,2,0,2.9,3.0,2.6,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.91,1.91
+3049883,Argentina Primera División,2022,2022-07-15 21:30:00,8,Aldosivi,Atlético Tucumán,0,1,3.25,3.1,2.38,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.05,1.7
+3049887,Argentina Primera División,2022,2022-07-15 21:30:00,8,Arsenal de Sarandí,Platense,1,1,2.45,3.2,3.1,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.05,1.7
+3049890,Argentina Primera División,2022,2022-07-16 13:00:00,8,Barracas Central,Argentinos Juniors,1,3,4.0,3.5,1.95,0.0,0.0,0.0,0.0,2.35,1.57,0.0,0.0,0.0,0.0,2.1,1.67
+3049882,Argentina Primera División,2022,2022-07-16 15:30:00,8,Gimnasia La Plata,Colón,0,0,2.0,3.5,3.75,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.91,1.91
+3049885,Argentina Primera División,2022,2022-07-16 15:30:00,8,Independiente,Rosario Central,0,0,1.83,3.5,4.5,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,2.0,1.75
+3049886,Argentina Primera División,2022,2022-07-16 18:00:00,8,Newell's Old Boys,Racing Club,0,0,3.1,3.3,2.3,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.91,1.91
+3049891,Argentina Primera División,2022,2022-07-16 20:30:00,8,Boca Juniors,Talleres Córdoba,1,0,1.8,3.4,5.0,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.25,1.57
+3049879,Argentina Primera División,2022,2022-07-17 13:00:00,8,Unión Santa Fe,Huracán,0,0,2.6,3.1,2.9,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.05,1.7
+3049880,Argentina Primera División,2022,2022-07-17 13:00:00,8,Godoy Cruz,Lanús,2,1,1.75,3.75,4.75,0.0,0.0,0.0,0.0,2.05,1.75,0.0,0.0,0.0,0.0,1.95,1.8
+3049892,Argentina Primera División,2022,2022-07-17 15:30:00,8,Banfield,San Lorenzo,1,1,2.1,3.25,3.8,0.0,0.0,0.0,0.0,2.7,1.44,0.0,0.0,0.0,0.0,2.25,1.57
+3049889,Argentina Primera División,2022,2022-07-17 18:00:00,8,Tigre,Estudiantes,2,1,2.2,3.25,3.4,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.95,1.8
+3049881,Argentina Primera División,2022,2022-07-17 20:30:00,8,Vélez Sarsfield,River Plate,2,2,2.75,3.3,2.63,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,1.95,1.8
+3049903,Argentina Primera División,2022,2022-07-19 16:30:00,9,Colón,Aldosivi,1,1,1.5,4.5,6.0,0.0,0.0,0.0,0.0,1.73,2.08,0.0,0.0,0.0,0.0,1.91,1.91
+3049898,Argentina Primera División,2022,2022-07-19 17:00:00,9,Platense,Central Córdoba SdE,2,0,2.1,3.1,3.8,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,2.0,1.75
+3049902,Argentina Primera División,2022,2022-07-19 19:00:00,9,Atlético Tucumán,Sarmiento,1,0,1.85,3.2,4.75,0.0,0.0,0.0,0.0,2.5,1.5,0.0,0.0,0.0,0.0,2.2,1.62
+3049899,Argentina Primera División,2022,2022-07-19 19:00:00,9,Racing Club,Arsenal de Sarandí,1,1,1.75,3.5,5.0,0.0,0.0,0.0,0.0,2.1,1.7,0.0,0.0,0.0,0.0,2.0,1.75
+3049895,Argentina Primera División,2022,2022-07-19 21:30:00,9,Argentinos Juniors,Boca Juniors,2,0,2.9,3.1,2.5,0.0,0.0,0.0,0.0,2.88,1.4,0.0,0.0,0.0,0.0,2.25,1.57
+3049893,Argentina Primera División,2022,2022-07-20 14:00:00,9,San Lorenzo,Unión Santa Fe,2,2,2.2,3.1,3.5,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.05,1.7
+3049897,Argentina Primera División,2022,2022-07-20 16:30:00,9,Patronato,Tigre,1,0,2.8,3.2,2.63,0.0,0.0,0.0,0.0,2.2,1.65,0.0,0.0,0.0,0.0,1.95,1.8
+3049896,Argentina Primera División,2022,2022-07-20 19:00:00,9,Estudiantes,Barracas Central,3,1,1.5,4.2,6.5,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,1.95,1.8
+3049901,Argentina Primera División,2022,2022-07-20 19:00:00,9,Defensa y Justicia,Independiente,2,1,2.55,3.2,2.9,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049905,Argentina Primera División,2022,2022-07-20 21:30:00,9,Lanús,Vélez Sarsfield,2,2,3.5,3.2,2.2,0.0,0.0,0.0,0.0,2.4,1.53,0.0,0.0,0.0,0.0,2.1,1.67
+3049906,Argentina Primera División,2022,2022-07-20 21:30:00,9,Huracán,Godoy Cruz,0,0,2.45,3.2,3.0,0.0,0.0,0.0,0.0,2.25,1.62,0.0,0.0,0.0,0.0,1.95,1.8
+3049900,Argentina Primera División,2022,2022-07-21 16:30:00,9,Rosario Central,Newell's Old Boys,1,0,2.45,3.1,3.2,1.09,7.5,1.45,2.75,2.5,1.5,4.75,1.2,9.5,1.05,2.05,1.7
+3049894,Argentina Primera División,2022,2022-07-21 19:00:00,9,Talleres Córdoba,Banfield,1,0,2.4,2.9,3.4,1.1,7.0,1.52,2.55,2.6,1.48,5.0,1.16,10.0,1.04,2.1,1.67
+3049904,Argentina Primera División,2022,2022-07-21 21:30:00,9,River Plate,Gimnasia La Plata,1,0,1.7,3.8,5.0,1.04,13.0,1.27,3.6,1.9,1.9,3.2,1.33,6.5,1.12,1.8,1.95
+3049911,Argentina Primera División,2022,2022-07-23 15:30:00,10,Sarmiento,Colón,1,3,2.55,3.2,2.9,1.07,9.25,1.4,2.9,2.15,1.67,4.2,1.22,8.75,1.07,1.91,1.91
+3049915,Argentina Primera División,2022,2022-07-23 20:30:00,10,Central Córdoba SdE,Racing Club,1,3,4.0,3.6,1.91,1.06,10.0,1.36,3.2,1.95,1.85,3.75,1.25,7.5,1.08,1.8,1.95
+3049912,Argentina Primera División,2022,2022-07-24 11:00:00,10,Independiente,Atlético Tucumán,0,1,2.38,3.0,3.25,1.09,7.5,1.47,2.7,2.5,1.5,4.75,1.18,9.5,1.05,2.05,1.7
+3049916,Argentina Primera División,2022,2022-07-24 13:15:00,10,Tigre,Platense,3,0,1.85,3.4,4.5,1.08,8.5,1.42,2.85,2.3,1.6,4.33,1.22,8.5,1.06,2.05,1.7
+3049910,Argentina Primera División,2022,2022-07-24 15:30:00,10,Aldosivi,River Plate,0,3,7.5,4.75,1.4,1.03,13.0,1.22,4.0,1.7,2.1,3.0,1.38,5.5,1.14,1.95,1.8
+3049909,Argentina Primera División,2022,2022-07-24 18:00:00,10,Gimnasia La Plata,Lanús,1,0,2.1,3.3,3.75,1.08,8.0,1.44,2.8,2.35,1.57,4.5,1.2,9.0,1.05,2.0,1.75
+3049918,Argentina Primera División,2022,2022-07-24 20:30:00,10,Boca Juniors,Estudiantes,3,1,1.95,3.4,4.0,1.11,7.13,1.49,2.71,2.35,1.57,4.88,1.19,8.4,1.03,2.1,1.67
+3049920,Argentina Primera División,2022,2022-07-25 16:30:00,10,San Lorenzo,Talleres Córdoba,1,1,2.88,3.0,2.75,1.1,6.5,1.44,2.62,2.4,1.53,4.33,1.2,8.0,1.06,2.0,1.75
+3049913,Argentina Primera División,2022,2022-07-25 19:00:00,10,Newell's Old Boys,Defensa y Justicia,1,2,2.4,2.9,3.3,1.09,8.0,1.42,2.8,2.6,1.48,4.33,1.2,8.5,1.06,2.1,1.67
+3049919,Argentina Primera División,2022,2022-07-25 19:00:00,10,Banfield,Argentinos Juniors,1,1,2.63,3.0,2.9,1.1,7.0,1.5,2.45,2.4,1.53,5.0,1.16,11.0,1.03,2.0,1.75
+3049907,Argentina Primera División,2022,2022-07-25 21:30:00,10,Unión Santa Fe,Godoy Cruz,2,1,2.7,3.3,2.6,1.06,8.0,1.36,3.22,2.05,1.75,3.86,1.28,7.58,1.1,1.8,1.95
+3049908,Argentina Primera División,2022,2022-07-25 21:30:00,10,Vélez Sarsfield,Huracán,1,1,2.1,3.1,4.0,1.12,6.84,1.51,2.65,2.5,1.5,4.98,1.19,9.25,1.05,2.1,1.67
+3049917,Argentina Primera División,2022,2022-07-26 20:00:00,10,Barracas Central,Patronato,2,1,2.9,3.2,2.5,1.06,9.5,1.4,3.06,2.15,1.67,4.11,1.25,7.5,1.08,1.91,1.91
+3049914,Argentina Primera División,2022,2022-07-26 20:00:00,10,Arsenal de Sarandí,Rosario Central,0,3,2.5,3.1,3.0,1.1,7.59,1.44,2.87,2.35,1.57,4.53,1.22,9.0,1.05,2.0,1.75
+3049934,Argentina Primera División,2022,2022-07-29 20:00:00,11,Godoy Cruz,Vélez Sarsfield,1,1,2.05,3.4,3.8,1.08,7.0,1.4,2.75,2.15,1.67,4.0,1.22,7.5,1.07,1.95,1.8
+3049922,Argentina Primera División,2022,2022-07-30 15:30:00,11,Argentinos Juniors,San Lorenzo,0,1,1.7,3.6,5.25,1.08,8.6,1.42,2.8,2.2,1.65,4.23,1.21,8.3,1.06,2.1,1.67
+3049923,Argentina Primera División,2022,2022-07-30 18:00:00,11,Estudiantes,Banfield,0,0,1.95,3.5,3.8,1.1,6.5,1.4,2.75,2.2,1.65,4.0,1.22,7.5,1.07,2.0,1.75
+3049929,Argentina Primera División,2022,2022-07-30 20:30:00,11,Atlético Tucumán,Newell's Old Boys,2,0,2.3,3.1,3.5,1.12,5.5,1.53,2.38,2.7,1.44,4.5,1.17,10.0,1.04,2.2,1.62
+3049933,Argentina Primera División,2022,2022-07-30 20:30:00,11,Huracán,Gimnasia La Plata,0,1,2.15,3.2,3.6,1.1,6.5,1.5,2.5,2.4,1.53,4.33,1.2,9.0,1.05,2.05,1.7
+3049925,Argentina Primera División,2022,2022-07-31 13:00:00,11,Platense,Barracas Central,0,0,1.8,3.4,4.75,1.08,8.0,1.44,2.8,2.1,1.7,4.5,1.2,9.0,1.05,1.95,1.8
+3049932,Argentina Primera División,2022,2022-07-31 13:00:00,11,Lanús,Aldosivi,0,1,1.7,3.6,5.25,1.06,9.5,1.36,3.2,2.0,1.8,3.75,1.25,7.5,1.08,1.95,1.8
+3049926,Argentina Primera División,2022,2022-07-31 15:30:00,11,Racing Club,Tigre,3,3,1.85,3.5,4.2,1.07,9.0,1.36,3.1,1.95,1.85,3.75,1.25,7.5,1.08,1.8,1.95
+3049924,Argentina Primera División,2022,2022-07-31 18:00:00,11,Patronato,Boca Juniors,3,0,4.5,3.3,1.85,1.09,7.5,1.47,2.75,2.25,1.62,4.75,1.2,9.5,1.05,2.0,1.75
+3049931,Argentina Primera División,2022,2022-07-31 20:30:00,11,River Plate,Sarmiento,1,2,1.3,5.0,11.0,1.02,15.0,1.22,4.2,1.57,2.35,2.9,1.42,5.0,1.16,2.0,1.75
+3049928,Argentina Primera División,2022,2022-08-01 19:00:00,11,Defensa y Justicia,Arsenal de Sarandí,0,0,1.91,3.4,4.2,1.06,9.5,1.36,3.2,2.25,1.62,3.75,1.25,7.5,1.08,2.0,1.75
+3049927,Argentina Primera División,2022,2022-08-01 19:00:00,11,Rosario Central,Central Córdoba SdE,0,3,1.91,3.6,4.0,1.05,8.0,1.33,3.0,2.05,1.75,3.4,1.29,6.0,1.09,1.95,1.8
+3049930,Argentina Primera División,2022,2022-08-01 21:30:00,11,Colón,Independiente,0,3,2.4,3.3,3.0,1.08,7.0,1.4,2.7,2.08,1.73,4.0,1.21,8.25,1.06,1.8,1.95
+3049936,Argentina Primera División,2022,2022-08-05 19:00:00,12,Gimnasia La Plata,Godoy Cruz,2,0,2.75,3.25,2.63,1.08,7.0,1.36,3.0,2.25,1.62,3.75,1.25,7.0,1.08,1.95,1.8
+3049938,Argentina Primera División,2022,2022-08-05 21:30:00,12,Sarmiento,Lanús,2,1,2.4,3.2,3.1,1.1,6.5,1.4,2.75,2.35,1.57,4.0,1.22,7.5,1.07,2.0,1.75
+3049946,Argentina Primera División,2022,2022-08-05 21:30:00,12,Banfield,Patronato,0,0,2.1,3.3,3.6,1.08,7.0,1.4,2.75,2.3,1.6,3.75,1.25,7.5,1.07,2.0,1.75
+3049941,Argentina Primera División,2022,2022-08-06 13:00:00,12,Arsenal de Sarandí,Atlético Tucumán,3,1,3.0,2.8,2.75,1.11,6.0,1.5,2.5,2.88,1.4,4.5,1.17,10.0,1.04,2.2,1.62
+3049944,Argentina Primera División,2022,2022-08-06 15:00:00,12,Barracas Central,Racing Club,0,0,5.0,3.75,1.7,1.07,7.5,1.36,3.0,1.95,1.85,3.5,1.29,6.5,1.1,1.95,1.8
+3049948,Argentina Primera División,2022,2022-08-06 18:00:00,12,Talleres Córdoba,Argentinos Juniors,2,0,2.9,3.0,2.63,1.1,7.6,1.47,2.64,2.5,1.5,4.58,1.19,9.1,1.05,2.05,1.7
+3049935,Argentina Primera División,2022,2022-08-06 18:00:00,12,Unión Santa Fe,Vélez Sarsfield,2,1,1.95,3.25,4.0,1.1,6.5,1.4,2.75,2.25,1.62,4.0,1.22,8.0,1.06,2.0,1.75
+3049945,Argentina Primera División,2022,2022-08-06 21:00:00,12,Boca Juniors,Platense,2,1,1.67,3.3,6.5,1.09,7.95,1.45,2.71,2.5,1.5,4.42,1.2,8.7,1.06,2.38,1.53
+3049937,Argentina Primera División,2022,2022-08-07 13:00:00,12,Aldosivi,Huracán,0,1,4.2,3.2,2.0,1.08,7.0,1.44,2.62,2.35,1.57,4.0,1.22,7.5,1.07,2.0,1.75
+3049947,Argentina Primera División,2022,2022-08-07 15:00:00,12,San Lorenzo,Estudiantes,0,0,2.05,3.3,3.8,1.1,6.5,1.44,2.62,2.15,1.67,4.33,1.2,8.0,1.06,1.95,1.8
+3049939,Argentina Primera División,2022,2022-08-07 17:30:00,12,Independiente,River Plate,0,1,4.2,3.25,2.0,1.06,9.5,1.38,3.0,2.15,1.67,4.0,1.22,8.0,1.07,1.95,1.8
+3049940,Argentina Primera División,2022,2022-08-07 20:00:00,12,Newell's Old Boys,Colón,0,0,2.05,3.3,4.0,1.08,8.5,1.4,2.95,2.25,1.62,4.0,1.22,8.0,1.07,2.0,1.75
+3049942,Argentina Primera División,2022,2022-08-08 11:00:00,12,Central Córdoba SdE,Defensa y Justicia,1,0,2.63,3.25,2.7,1.08,8.5,1.42,2.9,2.1,1.7,4.33,1.22,8.5,1.06,1.95,1.8
+3049943,Argentina Primera División,2022,2022-08-08 20:00:00,12,Tigre,Rosario Central,3,1,1.5,4.0,7.5,1.04,7.9,1.38,3.12,1.9,1.9,3.87,1.27,7.2,1.05,2.0,1.75
+3049961,Argentina Primera División,2022,2022-08-11 19:00:00,13,Godoy Cruz,Aldosivi,2,0,1.44,4.75,7.0,1.05,9.0,1.25,3.75,1.8,2.0,3.0,1.36,5.0,1.14,2.0,1.75
+3049956,Argentina Primera División,2022,2022-08-11 21:30:00,13,Atlético Tucumán,Central Córdoba SdE,1,0,1.91,3.5,4.2,1.04,7.4,1.39,2.81,2.15,1.67,4.04,1.21,7.8,1.04,1.95,1.8
+3049957,Argentina Primera División,2022,2022-08-11 21:30:00,13,Colón,Arsenal de Sarandí,1,1,2.0,3.4,3.9,1.03,8.2,1.33,3.08,2.05,1.75,3.62,1.25,6.8,1.06,1.91,1.91
+3049960,Argentina Primera División,2022,2022-08-12 19:00:00,13,Huracán,Sarmiento,4,1,1.73,3.5,5.0,1.08,8.0,1.42,2.85,2.4,1.53,4.5,1.2,8.5,1.06,2.25,1.57
+3049952,Argentina Primera División,2022,2022-08-12 19:00:00,13,Platense,Banfield,3,1,2.6,2.9,3.1,1.11,6.5,1.53,2.5,2.7,1.44,5.0,1.16,11.0,1.03,2.2,1.62
+3049951,Argentina Primera División,2022,2022-08-12 21:30:00,13,Patronato,San Lorenzo,3,2,2.38,3.3,3.0,1.05,7.4,1.37,2.89,2.2,1.65,3.8,1.23,7.3,1.05,1.95,1.8
+3049954,Argentina Primera División,2022,2022-08-13 15:30:00,13,Rosario Central,Barracas Central,3,1,2.05,3.4,3.6,1.07,7.5,1.36,3.0,2.15,1.67,3.5,1.29,7.0,1.08,1.95,1.8
+3049955,Argentina Primera División,2022,2022-08-13 15:30:00,13,Defensa y Justicia,Tigre,0,0,2.9,3.25,2.55,1.07,7.5,1.36,3.0,2.2,1.65,3.5,1.29,7.0,1.08,1.95,1.8
+3049959,Argentina Primera División,2022,2022-08-13 18:00:00,13,Lanús,Independiente,1,1,2.8,3.1,2.75,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,1.95,1.8
+3049958,Argentina Primera División,2022,2022-08-13 20:30:00,13,River Plate,Newell's Old Boys,4,1,1.44,4.2,8.5,1.06,8.0,1.3,3.4,1.95,1.85,3.0,1.36,5.5,1.12,2.05,1.7
+3049962,Argentina Primera División,2022,2022-08-14 15:30:00,13,Vélez Sarsfield,Gimnasia La Plata,1,1,1.85,3.4,4.5,1.09,6.0,1.44,2.6,2.3,1.6,4.33,1.18,8.0,1.05,2.05,1.7
+3049949,Argentina Primera División,2022,2022-08-14 18:00:00,13,Argentinos Juniors,Unión Santa Fe,2,0,2.1,3.3,3.6,1.08,6.5,1.42,2.62,2.4,1.53,4.0,1.2,8.0,1.05,2.05,1.7
+3049950,Argentina Primera División,2022,2022-08-14 18:00:00,13,Estudiantes,Talleres Córdoba,1,0,2.25,3.2,3.4,1.08,6.5,1.4,2.7,2.35,1.57,3.8,1.22,7.5,1.06,2.05,1.7
+3049953,Argentina Primera División,2022,2022-08-14 20:30:00,13,Racing Club,Boca Juniors,0,0,2.38,3.25,3.1,1.08,8.0,1.42,2.85,2.4,1.53,4.33,1.22,8.5,1.06,2.05,1.7
+3049969,Argentina Primera División,2022,2022-08-16 16:30:00,14,Central Córdoba SdE,Colón,3,0,2.25,3.5,3.1,1.03,8.2,1.34,3.04,1.95,1.85,3.62,1.25,6.9,1.06,1.75,2.0
+3049965,Argentina Primera División,2022,2022-08-16 16:30:00,14,Sarmiento,Godoy Cruz,1,2,3.2,3.6,2.2,1.03,8.0,1.35,2.98,2.1,1.7,3.72,1.24,7.1,1.05,1.95,1.8
+3049974,Argentina Primera División,2022,2022-08-16 19:00:00,14,San Lorenzo,Platense,2,0,2.2,3.0,3.75,1.05,7.1,1.43,2.66,2.6,1.48,4.4,1.18,8.4,1.03,2.1,1.67
+3049966,Argentina Primera División,2022,2022-08-16 21:30:00,14,Independiente,Huracán,1,1,2.8,2.9,2.8,1.06,6.75,1.46,2.56,3.1,1.36,4.6,1.17,8.9,1.02,2.25,1.57
+3049967,Argentina Primera División,2022,2022-08-17 16:30:00,14,Newell's Old Boys,Lanús,2,0,2.1,3.2,4.0,1.1,6.5,1.4,2.75,2.6,1.48,4.0,1.22,8.0,1.06,2.2,1.62
+3049970,Argentina Primera División,2022,2022-08-17 16:30:00,14,Tigre,Atlético Tucumán,0,0,2.05,3.25,4.0,1.07,8.75,1.42,2.8,2.3,1.6,4.25,1.21,9.5,1.06,2.0,1.75
+3049968,Argentina Primera División,2022,2022-08-17 19:00:00,14,Arsenal de Sarandí,River Plate,0,0,5.25,3.75,1.67,1.05,11.0,1.29,3.45,1.8,2.0,3.4,1.3,6.75,1.11,1.8,1.95
+3049972,Argentina Primera División,2022,2022-08-17 21:30:00,14,Boca Juniors,Rosario Central,0,0,1.53,4.2,6.0,1.06,10.25,1.35,3.1,2.1,1.7,3.8,1.25,8.0,1.09,2.2,1.62
+3049971,Argentina Primera División,2022,2022-08-18 14:30:00,14,Barracas Central,Defensa y Justicia,3,1,3.2,3.1,2.25,1.08,8.7,1.4,2.91,2.35,1.57,4.03,1.23,7.95,1.07,1.95,1.8
+3049964,Argentina Primera División,2022,2022-08-18 16:30:00,14,Aldosivi,Vélez Sarsfield,3,2,4.75,3.5,1.8,1.08,7.25,1.41,2.99,2.1,1.7,4.21,1.24,8.25,1.06,2.0,1.75
+3049963,Argentina Primera División,2022,2022-08-18 19:00:00,14,Unión Santa Fe,Gimnasia La Plata,0,2,2.25,3.25,3.3,1.11,6.88,1.43,2.93,2.25,1.62,4.32,1.23,9.0,1.05,2.0,1.75
+3049975,Argentina Primera División,2022,2022-08-18 19:00:00,14,Talleres Córdoba,Patronato,3,3,1.83,3.5,4.5,1.08,8.0,1.45,2.82,2.05,1.75,4.46,1.22,9.0,1.05,1.95,1.8
+3049976,Argentina Primera División,2022,2022-08-18 21:30:00,14,Argentinos Juniors,Estudiantes,1,0,2.1,3.4,3.6,1.11,7.41,1.47,2.8,2.25,1.62,4.78,1.2,9.0,1.05,1.95,1.8
+3049973,Argentina Primera División,2022,2022-08-18 21:30:00,14,Banfield,Racing Club,0,2,3.25,3.2,2.3,1.11,7.32,1.43,2.91,2.2,1.65,4.37,1.23,9.5,1.05,1.91,1.91
+3049984,Argentina Primera División,2022,2022-08-20 18:00:00,15,Colón,Tigre,2,1,2.88,3.4,2.45,1.07,7.5,1.36,3.0,2.0,1.8,3.5,1.29,6.5,1.1,1.75,2.0
+3049987,Argentina Primera División,2022,2022-08-20 20:30:00,15,Huracán,Newell's Old Boys,1,0,2.0,3.2,4.33,1.11,7.0,1.53,2.5,2.6,1.48,5.5,1.16,11.0,1.03,2.2,1.62
+3049986,Argentina Primera División,2022,2022-08-21 13:00:00,15,Lanús,Arsenal de Sarandí,1,0,2.1,3.4,3.6,1.1,6.5,1.44,2.62,2.4,1.53,4.33,1.2,9.0,1.05,2.1,1.67
+3049988,Argentina Primera División,2022,2022-08-21 15:30:00,15,Godoy Cruz,Independiente,1,1,1.95,3.6,3.8,1.1,6.5,1.4,2.75,2.15,1.67,4.0,1.22,8.0,1.06,2.0,1.75
+3049985,Argentina Primera División,2022,2022-08-21 18:00:00,15,River Plate,Central Córdoba SdE,3,0,1.36,5.75,7.5,1.04,10.0,1.22,4.0,1.6,2.3,2.62,1.44,4.5,1.17,1.95,1.8
+3049982,Argentina Primera División,2022,2022-08-21 20:30:00,15,Defensa y Justicia,Boca Juniors,0,1,2.8,3.1,2.63,1.08,8.5,1.44,2.75,2.4,1.53,4.5,1.2,9.0,1.05,2.0,1.75
+3049977,Argentina Primera División,2022,2022-08-22 16:30:00,15,Estudiantes,Unión Santa Fe,1,0,2.05,3.4,3.6,1.07,9.0,1.38,3.13,2.08,1.73,4.0,1.26,8.5,1.06,1.91,1.91
+3049981,Argentina Primera División,2022,2022-08-22 16:30:00,15,Rosario Central,Banfield,0,1,2.45,3.1,3.1,1.12,6.89,1.5,2.69,2.5,1.5,4.98,1.19,9.5,1.05,2.05,1.7
+3049980,Argentina Primera División,2022,2022-08-22 19:00:00,15,Racing Club,San Lorenzo,1,2,1.91,3.6,4.2,1.06,9.5,1.36,3.1,2.0,1.8,3.75,1.25,7.5,1.08,1.91,1.91
+3049979,Argentina Primera División,2022,2022-08-22 21:30:00,15,Platense,Talleres Córdoba,0,0,3.0,2.7,2.8,1.1,7.0,1.52,2.55,3.1,1.36,5.0,1.16,10.0,1.04,2.38,1.53
+3049989,Argentina Primera División,2022,2022-08-22 21:30:00,15,Vélez Sarsfield,Sarmiento,1,1,1.8,3.4,5.0,1.07,8.5,1.4,2.95,2.3,1.6,4.2,1.22,8.5,1.06,2.1,1.67
+3049978,Argentina Primera División,2022,2022-08-23 19:00:00,15,Patronato,Argentinos Juniors,0,0,3.25,3.25,2.25,1.08,8.0,1.44,2.75,2.3,1.6,4.5,1.2,9.0,1.05,2.0,1.75
+3049983,Argentina Primera División,2022,2022-08-23 21:30:00,15,Atlético Tucumán,Barracas Central,4,0,1.6,3.75,6.5,1.06,9.5,1.38,3.0,2.15,1.67,4.0,1.22,8.0,1.07,2.1,1.67
+3049990,Argentina Primera División,2022,2022-08-23 21:30:00,15,Gimnasia La Plata,Aldosivi,0,0,1.75,3.5,5.0,1.06,9.5,1.36,3.1,2.15,1.67,4.0,1.25,8.0,1.07,2.0,1.75
+3049996,Argentina Primera División,2022,2022-08-26 18:00:00,16,Central Córdoba SdE,Lanús,2,2,2.25,3.1,3.5,1.07,9.0,1.42,2.85,2.2,1.65,4.33,1.22,8.5,1.06,1.95,1.8
+3049995,Argentina Primera División,2022,2022-08-26 21:00:00,16,Arsenal de Sarandí,Huracán,1,1,3.6,3.1,2.25,1.1,7.5,1.47,2.6,2.6,1.48,5.0,1.18,10.0,1.04,2.1,1.67
+3050001,Argentina Primera División,2022,2022-08-27 13:00:00,16,San Lorenzo,Rosario Central,1,1,1.91,3.25,4.75,1.09,8.0,1.45,2.75,2.35,1.57,4.5,1.2,9.5,1.05,2.1,1.67
+3050000,Argentina Primera División,2022,2022-08-27 15:30:00,16,Banfield,Defensa y Justicia,1,2,2.45,3.1,3.1,1.09,8.0,1.45,2.7,2.3,1.6,4.75,1.2,9.5,1.05,1.95,1.8
+3049994,Argentina Primera División,2022,2022-08-27 15:30:00,16,Newell's Old Boys,Godoy Cruz,1,2,2.7,3.2,2.8,1.08,8.0,1.42,2.8,2.2,1.65,4.5,1.2,9.0,1.05,1.91,1.91
+3050002,Argentina Primera División,2022,2022-08-27 18:00:00,16,Talleres Córdoba,Racing Club,1,1,2.5,3.25,2.9,1.08,8.0,1.42,2.9,2.25,1.62,4.33,1.22,8.5,1.06,1.95,1.8
+3050003,Argentina Primera División,2022,2022-08-27 18:00:00,16,Argentinos Juniors,Platense,0,2,1.85,3.2,5.0,1.09,7.5,1.5,2.6,2.6,1.48,5.0,1.17,10.0,1.04,2.25,1.57
+3049997,Argentina Primera División,2022,2022-08-27 20:30:00,16,Tigre,River Plate,1,1,3.2,3.3,2.25,1.05,10.0,1.33,3.25,1.95,1.85,3.6,1.28,7.0,1.09,1.7,2.05
+3049992,Argentina Primera División,2022,2022-08-28 13:00:00,16,Sarmiento,Gimnasia La Plata,0,0,2.8,2.9,2.9,1.09,8.0,1.45,2.75,2.6,1.48,4.75,1.2,9.5,1.05,2.1,1.67
+3049998,Argentina Primera División,2022,2022-08-28 13:00:00,16,Barracas Central,Colón,1,0,2.8,3.4,2.55,1.06,10.0,1.33,3.25,1.95,1.85,3.6,1.28,7.0,1.09,1.7,2.05
+3049993,Argentina Primera División,2022,2022-08-28 15:30:00,16,Independiente,Vélez Sarsfield,1,1,2.38,3.0,3.5,1.1,7.0,1.49,2.44,2.7,1.44,5.0,1.16,11.0,1.03,2.1,1.67
+3049999,Argentina Primera División,2022,2022-08-28 18:00:00,16,Boca Juniors,Atlético Tucumán,2,1,1.95,3.25,4.33,1.09,8.0,1.47,2.7,2.5,1.5,4.75,1.2,9.5,1.05,2.2,1.62
+3049991,Argentina Primera División,2022,2022-08-28 20:30:00,16,Unión Santa Fe,Aldosivi,0,0,1.6,3.75,5.75,1.03,8.3,1.35,3.31,2.0,1.8,3.8,1.28,6.44,1.1,2.0,1.75
+3050004,Argentina Primera División,2022,2022-08-28 20:30:00,16,Estudiantes,Patronato,1,0,1.91,3.4,4.0,1.02,8.8,1.33,3.42,2.08,1.73,3.54,1.31,7.13,1.11,1.91,1.91
+3050014,Argentina Primera División,2022,2022-09-01 20:00:00,17,Huracán,Central Córdoba SdE,2,0,1.5,4.2,7.0,1.08,8.85,1.41,2.87,2.0,1.8,4.1,1.23,8.05,1.07,2.0,1.75
+3050013,Argentina Primera División,2022,2022-09-03 12:00:00,17,Lanús,Tigre,1,2,3.1,3.0,2.45,1.07,7.5,1.36,3.0,2.2,1.65,3.75,1.25,7.0,1.08,1.91,1.91
+3050008,Argentina Primera División,2022,2022-09-03 13:00:00,17,Rosario Central,Talleres Córdoba,1,0,2.75,3.2,2.63,1.09,7.95,1.45,2.69,2.5,1.5,4.47,1.2,8.85,1.06,2.05,1.7
+3050016,Argentina Primera División,2022,2022-09-03 15:30:00,17,Vélez Sarsfield,Newell's Old Boys,0,1,1.91,3.3,4.5,1.1,7.65,1.48,2.61,2.4,1.53,4.67,1.18,9.2,1.05,2.2,1.62
+3050018,Argentina Primera División,2022,2022-09-03 15:30:00,17,Aldosivi,Sarmiento,1,2,2.6,3.1,2.9,1.08,8.35,1.42,2.82,2.3,1.6,4.2,1.22,8.3,1.06,1.95,1.8
+3050007,Argentina Primera División,2022,2022-09-03 18:00:00,17,Racing Club,Argentinos Juniors,1,0,2.0,3.4,4.0,1.1,6.5,1.44,2.62,2.1,1.7,4.33,1.2,8.0,1.06,1.95,1.8
+3050017,Argentina Primera División,2022,2022-09-03 20:30:00,17,Gimnasia La Plata,Independiente,3,1,2.5,3.0,3.2,1.11,6.0,1.44,2.62,2.88,1.4,4.5,1.17,9.0,1.05,2.25,1.57
+3050006,Argentina Primera División,2022,2022-09-04 15:30:00,17,Platense,Estudiantes,0,0,2.55,3.0,3.0,1.08,6.5,1.43,2.63,2.5,1.5,4.0,1.2,8.0,1.05,2.05,1.7
+3050005,Argentina Primera División,2022,2022-09-04 15:30:00,17,Patronato,Unión Santa Fe,0,0,2.3,3.3,3.1,1.08,7.0,1.36,3.0,2.15,1.67,3.75,1.25,7.0,1.08,1.91,1.91
+3050011,Argentina Primera División,2022,2022-09-04 18:00:00,17,Colón,Boca Juniors,1,2,2.9,3.3,2.5,1.04,7.7,1.37,2.89,2.15,1.67,3.9,1.22,7.5,1.04,1.95,1.8
+3050012,Argentina Primera División,2022,2022-09-04 20:30:00,17,River Plate,Barracas Central,2,0,1.25,5.75,15.0,1.03,16.5,1.2,4.0,1.57,2.35,2.6,1.44,4.5,1.17,2.1,1.67
+3050009,Argentina Primera División,2022,2022-09-05 19:00:00,17,Defensa y Justicia,San Lorenzo,0,0,2.6,3.1,3.0,1.05,7.1,1.43,2.66,2.4,1.53,4.4,1.18,8.4,1.03,1.95,1.8
+3050015,Argentina Primera División,2022,2022-09-05 19:00:00,17,Godoy Cruz,Arsenal de Sarandí,1,0,1.67,3.6,6.0,1.03,8.1,1.35,2.98,2.08,1.73,3.72,1.24,6.95,1.05,2.0,1.75
+3050010,Argentina Primera División,2022,2022-09-05 21:30:00,17,Atlético Tucumán,Banfield,0,0,1.95,3.2,4.33,1.1,7.5,1.5,2.6,2.6,1.48,5.0,1.17,10.0,1.04,2.25,1.57
+3050020,Argentina Primera División,2022,2022-09-08 18:00:00,18,Independiente,Aldosivi,3,0,1.62,3.6,6.0,1.07,7.5,1.36,3.0,2.3,1.6,3.75,1.25,7.0,1.08,2.2,1.62
+3050030,Argentina Primera División,2022,2022-09-08 20:30:00,18,Argentinos Juniors,Rosario Central,2,1,2.05,3.1,4.0,1.1,6.5,1.44,2.62,2.7,1.44,4.33,1.2,8.0,1.06,2.25,1.57
+3050019,Argentina Primera División,2022,2022-09-08 20:30:00,18,Unión Santa Fe,Sarmiento,1,0,1.91,3.5,4.0,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,2.0,1.75
+3050025,Argentina Primera División,2022,2022-09-09 15:30:00,18,Barracas Central,Lanús,2,0,2.9,3.1,2.5,1.07,9.1,1.37,3.02,2.25,1.62,3.85,1.25,7.55,1.08,1.95,1.8
+3050032,Argentina Primera División,2022,2022-09-09 18:00:00,18,Patronato,Platense,1,0,2.25,3.2,3.3,1.11,6.0,1.5,2.5,2.4,1.53,4.33,1.2,9.0,1.05,2.1,1.67
+3050024,Argentina Primera División,2022,2022-09-09 20:30:00,18,Tigre,Huracán,1,1,2.7,3.0,2.8,1.1,6.5,1.44,2.62,2.6,1.48,4.33,1.2,8.0,1.06,2.05,1.7
+3050031,Argentina Primera División,2022,2022-09-09 20:30:00,18,Estudiantes,Racing Club,1,0,2.7,3.3,2.6,1.08,7.0,1.4,2.75,2.15,1.67,4.0,1.22,7.5,1.07,1.91,1.91
+3050023,Argentina Primera División,2022,2022-09-10 15:30:00,18,Central Córdoba SdE,Godoy Cruz,3,0,3.0,3.4,2.38,1.08,7.0,1.36,3.0,2.05,1.75,3.75,1.25,7.0,1.08,1.8,1.95
+3050028,Argentina Primera División,2022,2022-09-10 18:00:00,18,San Lorenzo,Atlético Tucumán,1,1,2.3,3.1,3.4,1.11,6.0,1.5,2.5,2.5,1.5,4.5,1.17,9.0,1.05,2.1,1.67
+3050027,Argentina Primera División,2022,2022-09-10 20:30:00,18,Banfield,Colón,2,1,2.25,3.2,3.4,1.08,7.0,1.4,2.75,2.25,1.62,4.0,1.22,7.5,1.07,1.91,1.91
+3050021,Argentina Primera División,2022,2022-09-11 13:00:00,18,Newell's Old Boys,Gimnasia La Plata,2,0,2.7,3.1,2.8,1.11,6.0,1.5,2.5,2.5,1.5,4.5,1.17,9.0,1.05,2.05,1.7
+3050022,Argentina Primera División,2022,2022-09-11 13:00:00,18,Arsenal de Sarandí,Vélez Sarsfield,2,2,3.0,3.0,2.55,1.1,6.5,1.44,2.62,2.35,1.57,4.33,1.2,8.0,1.06,1.95,1.8
+3050026,Argentina Primera División,2022,2022-09-11 17:00:00,18,Boca Juniors,River Plate,1,0,3.5,3.0,2.3,1.1,6.5,1.4,2.75,2.4,1.53,4.0,1.22,7.5,1.07,2.0,1.75
+3050029,Argentina Primera División,2022,2022-09-11 20:00:00,18,Talleres Córdoba,Defensa y Justicia,1,0,1.95,3.3,4.33,1.08,7.0,1.4,2.75,2.3,1.6,4.0,1.22,7.5,1.07,2.05,1.7
+3050046,Argentina Primera División,2022,2022-09-12 17:00:00,19,Sarmiento,Independiente,1,2,3.0,2.9,2.7,1.13,5.95,1.57,2.44,2.6,1.48,5.41,1.15,12.0,1.04,2.05,1.7
+3050041,Argentina Primera División,2022,2022-09-13 19:00:00,19,Huracán,Barracas Central,1,1,1.53,4.2,6.0,1.06,8.0,1.36,3.16,2.0,1.8,3.7,1.28,7.11,1.1,2.05,1.7
+3050042,Argentina Primera División,2022,2022-09-13 19:00:00,19,Godoy Cruz,Tigre,1,1,2.3,3.25,3.2,1.07,7.5,1.34,3.24,2.15,1.67,3.65,1.28,7.07,1.1,1.91,1.91
+3050033,Argentina Primera División,2022,2022-09-13 21:30:00,19,Platense,Unión Santa Fe,1,0,2.55,2.9,3.1,1.1,6.5,1.44,2.62,2.6,1.48,4.33,1.2,8.0,1.06,2.05,1.7
+3050034,Argentina Primera División,2022,2022-09-13 21:30:00,19,Racing Club,Patronato,1,0,1.57,4.0,6.0,1.02,9.1,1.29,3.36,1.85,1.95,3.26,1.3,6.05,1.08,1.91,1.91
+3050045,Argentina Primera División,2022,2022-09-14 14:00:00,19,Aldosivi,Newell's Old Boys,1,2,2.7,3.2,2.7,1.05,7.3,1.4,2.77,2.25,1.62,4.14,1.2,7.9,1.04,1.95,1.8
+3050038,Argentina Primera División,2022,2022-09-14 16:30:00,19,Colón,San Lorenzo,0,0,2.8,3.0,2.75,1.11,6.94,1.47,2.73,2.25,1.62,4.46,1.21,9.0,1.05,1.95,1.8
+3050039,Argentina Primera División,2022,2022-09-14 19:00:00,19,River Plate,Banfield,1,2,1.44,4.75,7.5,1.01,9.7,1.26,3.54,1.85,1.95,3.08,1.33,5.6,1.09,2.05,1.7
+3050040,Argentina Primera División,2022,2022-09-14 21:30:00,19,Lanús,Boca Juniors,0,1,3.8,2.88,2.25,1.05,7.2,1.41,2.73,3.1,1.36,4.24,1.19,8.1,1.03,2.5,1.5
+3050035,Argentina Primera División,2022,2022-09-15 19:00:00,19,Rosario Central,Estudiantes,1,1,2.6,2.9,3.0,1.1,6.99,1.45,2.76,2.7,1.44,4.43,1.21,8.9,1.02,2.2,1.62
+3050036,Argentina Primera División,2022,2022-09-15 19:00:00,19,Defensa y Justicia,Argentinos Juniors,2,1,3.1,2.9,2.63,1.12,6.43,1.51,2.6,2.88,1.4,4.89,1.18,9.4,1.01,2.2,1.62
+3050044,Argentina Primera División,2022,2022-09-15 21:30:00,19,Gimnasia La Plata,Arsenal de Sarandí,2,0,2.15,3.1,3.8,1.08,8.0,1.44,2.79,2.6,1.48,4.52,1.2,9.0,1.05,2.2,1.62
+3050037,Argentina Primera División,2022,2022-09-15 21:30:00,19,Atlético Tucumán,Talleres Córdoba,1,1,2.15,3.1,3.6,1.11,7.1,1.5,2.69,2.4,1.53,4.99,1.19,9.5,1.05,2.05,1.7
+3050052,Argentina Primera División,2022,2022-09-17 15:30:00,20,Barracas Central,Godoy Cruz,3,1,3.1,3.1,2.5,1.07,9.25,1.35,3.2,2.3,1.6,3.62,1.29,7.5,1.08,1.95,1.8
+3050048,Argentina Primera División,2022,2022-09-17 20:30:00,20,Newell's Old Boys,Sarmiento,0,1,2.2,3.4,3.4,1.1,7.09,1.48,2.68,2.35,1.57,4.82,1.18,9.5,1.05,2.05,1.7
+3050051,Argentina Primera División,2022,2022-09-18 13:00:00,20,Tigre,Vélez Sarsfield,2,0,1.95,3.5,4.0,1.08,7.0,1.36,3.0,2.2,1.65,3.75,1.25,7.5,1.07,2.0,1.75
+3050055,Argentina Primera División,2022,2022-09-18 15:30:00,20,San Lorenzo,River Plate,0,1,3.6,3.3,2.1,1.07,7.5,1.36,3.0,2.4,1.53,3.75,1.25,7.0,1.08,2.05,1.7
+3050054,Argentina Primera División,2022,2022-09-18 18:00:00,20,Banfield,Lanús,1,2,2.25,3.0,3.6,1.08,7.0,1.4,2.75,2.5,1.5,4.0,1.22,7.5,1.07,2.05,1.7
+3050060,Argentina Primera División,2022,2022-09-18 20:30:00,20,Platense,Racing Club,0,1,3.5,3.0,2.38,1.09,8.0,1.44,2.75,2.7,1.44,4.5,1.2,9.0,1.05,2.2,1.62
+3050056,Argentina Primera División,2022,2022-09-18 20:30:00,20,Talleres Córdoba,Colón,2,0,1.85,3.6,4.2,1.07,9.0,1.36,3.1,2.1,1.7,3.75,1.25,7.5,1.08,1.95,1.8
+3050049,Argentina Primera División,2022,2022-09-19 16:30:00,20,Arsenal de Sarandí,Aldosivi,3,0,1.8,3.4,4.75,1.08,7.5,1.42,2.96,2.08,1.73,4.29,1.23,7.75,1.07,1.95,1.8
+3050047,Argentina Primera División,2022,2022-09-19 19:00:00,20,Unión Santa Fe,Independiente,0,1,2.45,3.1,3.1,1.09,8.0,1.45,2.75,2.4,1.53,4.75,1.2,9.5,1.05,2.0,1.75
+3050053,Argentina Primera División,2022,2022-09-19 19:00:00,20,Boca Juniors,Huracán,0,0,2.4,3.0,3.25,1.13,6.31,1.56,2.5,2.88,1.4,5.44,1.16,10.0,1.05,2.2,1.62
+3050057,Argentina Primera División,2022,2022-09-19 21:30:00,20,Argentinos Juniors,Atlético Tucumán,1,2,2.2,3.2,3.5,1.1,7.0,1.52,2.55,2.5,1.5,5.0,1.16,10.0,1.04,2.1,1.67
+3050058,Argentina Primera División,2022,2022-09-19 21:30:00,20,Estudiantes,Defensa y Justicia,1,2,1.91,3.5,4.2,1.07,9.0,1.4,2.9,2.3,1.6,4.2,1.22,9.0,1.07,2.0,1.75
+3050059,Argentina Primera División,2022,2022-09-20 18:00:00,20,Patronato,Rosario Central,0,0,2.38,3.1,3.25,1.05,7.3,1.41,2.73,2.35,1.57,4.2,1.2,8.0,1.03,1.95,1.8
+3050050,Argentina Primera División,2022,2022-09-20 20:30:00,20,Central Córdoba SdE,Gimnasia La Plata,1,0,2.63,3.2,2.63,1.05,7.4,1.4,2.77,2.25,1.62,4.04,1.21,7.9,1.04,1.95,1.8
+3050068,Argentina Primera División,2022,2022-09-23 19:00:00,21,Huracán,Banfield,3,1,1.85,3.3,4.75,1.08,7.0,1.41,2.65,2.6,1.48,4.1,1.2,8.25,1.06,2.25,1.57
+3050069,Argentina Primera División,2022,2022-09-23 19:00:00,21,Godoy Cruz,Boca Juniors,0,1,2.45,3.1,3.1,1.1,6.5,1.44,2.62,2.5,1.5,4.33,1.2,8.0,1.06,2.05,1.7
+3050063,Argentina Primera División,2022,2022-09-24 13:00:00,21,Defensa y Justicia,Patronato,2,1,2.25,3.4,3.2,1.08,7.0,1.4,2.75,2.2,1.65,4.0,1.22,7.5,1.07,1.95,1.8
+3050073,Argentina Primera División,2022,2022-09-24 13:00:00,21,Sarmiento,Arsenal de Sarandí,2,0,2.6,3.0,2.88,1.1,6.5,1.44,2.62,2.5,1.5,4.0,1.22,8.0,1.06,2.05,1.7
+3050067,Argentina Primera División,2022,2022-09-24 15:30:00,21,Lanús,San Lorenzo,2,0,2.75,2.9,2.9,1.08,7.0,1.36,3.0,2.88,1.4,3.75,1.25,7.5,1.07,2.2,1.62
+3050066,Argentina Primera División,2022,2022-09-24 18:00:00,21,River Plate,Talleres Córdoba,0,1,1.53,4.2,6.0,1.05,11.25,1.31,3.4,1.95,1.85,3.33,1.32,6.3,1.11,2.0,1.75
+3050074,Argentina Primera División,2022,2022-09-24 20:30:00,21,Independiente,Newell's Old Boys,1,0,2.25,3.1,3.6,1.1,6.5,1.5,2.5,2.7,1.44,4.33,1.2,9.0,1.05,2.2,1.62
+3050071,Argentina Primera División,2022,2022-09-25 15:30:00,21,Gimnasia La Plata,Tigre,0,1,2.63,3.2,2.7,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,1.95,1.8
+3050062,Argentina Primera División,2022,2022-09-25 15:30:00,21,Rosario Central,Platense,1,1,2.15,3.0,3.8,1.11,6.0,1.5,2.5,2.88,1.4,4.5,1.17,9.0,1.05,2.25,1.57
+3050061,Argentina Primera División,2022,2022-09-25 18:00:00,21,Racing Club,Unión Santa Fe,2,1,1.75,3.6,4.75,1.08,7.0,1.4,2.75,1.95,1.85,4.0,1.22,7.0,1.08,1.91,1.91
+3050064,Argentina Primera División,2022,2022-09-25 20:30:00,21,Atlético Tucumán,Estudiantes,3,1,2.4,3.0,3.25,1.1,6.5,1.44,2.62,2.4,1.53,4.33,1.2,8.0,1.06,2.0,1.75
+3050070,Argentina Primera División,2022,2022-09-25 20:30:00,21,Vélez Sarsfield,Barracas Central,1,0,1.85,3.6,4.2,1.07,8.5,1.4,2.95,2.15,1.67,4.2,1.22,8.5,1.06,1.95,1.8
+3050072,Argentina Primera División,2022,2022-09-26 17:00:00,21,Aldosivi,Central Córdoba SdE,0,3,2.88,3.2,2.55,1.08,8.5,1.42,2.9,2.15,1.67,4.33,1.22,8.5,1.06,1.95,1.8
+3050065,Argentina Primera División,2022,2022-09-26 17:00:00,21,Colón,Argentinos Juniors,0,4,3.1,3.2,2.4,1.09,8.0,1.45,2.7,2.25,1.62,4.5,1.2,9.5,1.05,1.95,1.8
+3050080,Argentina Primera División,2022,2022-09-29 15:30:00,22,Barracas Central,Gimnasia La Plata,1,1,2.7,3.1,2.8,1.05,7.4,1.4,2.77,2.35,1.57,4.14,1.2,7.9,1.04,2.0,1.75
+3050079,Argentina Primera División,2022,2022-09-30 19:00:00,22,Tigre,Aldosivi,3,0,1.3,5.0,11.0,1.06,9.0,1.31,3.1,1.8,2.0,3.3,1.28,6.5,1.1,2.2,1.62
+3050086,Argentina Primera División,2022,2022-09-30 19:00:00,22,Estudiantes,Colón,2,4,1.83,3.5,4.75,1.03,8.2,1.34,3.04,1.95,1.85,3.62,1.25,6.9,1.06,1.91,1.91
+3050076,Argentina Primera División,2022,2022-09-30 21:30:00,22,Unión Santa Fe,Newell's Old Boys,0,1,2.05,3.3,3.75,1.09,7.5,1.45,2.75,2.3,1.6,4.75,1.2,9.5,1.05,2.0,1.75
+3050088,Argentina Primera División,2022,2022-09-30 21:30:00,22,Racing Club,Rosario Central,4,3,1.6,3.8,6.0,1.07,9.0,1.38,3.0,2.1,1.7,4.0,1.22,8.0,1.07,2.1,1.67
+3050075,Argentina Primera División,2022,2022-10-01 13:00:00,22,Platense,Defensa y Justicia,0,0,2.38,3.0,3.3,1.11,6.0,1.53,2.38,2.7,1.44,4.75,1.15,9.0,1.05,2.2,1.62
+3050078,Argentina Primera División,2022,2022-10-01 13:00:00,22,Central Córdoba SdE,Sarmiento,0,0,2.2,3.1,3.5,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,1.95,1.8
+3050083,Argentina Primera División,2022,2022-10-01 15:30:00,22,San Lorenzo,Huracán,1,0,2.55,3.0,3.0,1.11,6.0,1.53,2.38,2.88,1.4,4.75,1.15,10.0,1.04,2.25,1.57
+3050082,Argentina Primera División,2022,2022-10-01 18:00:00,22,Banfield,Godoy Cruz,1,1,2.38,3.25,3.1,1.08,7.0,1.4,2.75,2.15,1.67,4.0,1.22,7.5,1.07,1.95,1.8
+3050077,Argentina Primera División,2022,2022-10-01 20:30:00,22,Arsenal de Sarandí,Independiente,0,1,2.75,3.0,2.88,1.11,6.0,1.5,2.5,2.7,1.44,4.75,1.15,10.0,1.04,2.2,1.62
+3050087,Argentina Primera División,2022,2022-10-02 15:30:00,22,Patronato,Atlético Tucumán,2,1,2.7,3.3,2.7,1.1,6.5,1.5,2.5,2.25,1.62,4.33,1.2,9.0,1.05,1.95,1.8
+3050081,Argentina Primera División,2022,2022-10-02 18:00:00,22,Boca Juniors,Vélez Sarsfield,1,0,1.95,3.2,4.33,1.12,6.9,1.53,2.62,2.5,1.5,5.33,1.18,9.5,1.05,2.1,1.67
+3050084,Argentina Primera División,2022,2022-10-02 18:30:00,22,Talleres Córdoba,Lanús,0,1,2.0,3.25,4.2,1.11,7.67,1.45,2.86,2.4,1.53,4.63,1.22,8.0,1.06,2.05,1.7
+3050085,Argentina Primera División,2022,2022-10-02 20:30:00,22,Argentinos Juniors,River Plate,0,3,3.1,3.1,2.45,1.05,7.4,1.4,2.77,2.35,1.57,4.14,1.2,7.9,1.04,1.95,1.8
+3050089,Argentina Primera División,2022,2022-10-03 20:00:00,23,Rosario Central,Unión Santa Fe,1,1,2.4,3.1,3.2,1.12,5.5,1.5,2.5,2.35,1.57,4.5,1.17,9.0,1.05,2.05,1.7
+3050099,Argentina Primera División,2022,2022-10-04 14:00:00,23,Aldosivi,Barracas Central,2,0,3.4,3.25,2.2,1.08,7.0,1.4,2.75,2.1,1.7,4.0,1.22,8.0,1.06,1.91,1.91
+3050096,Argentina Primera División,2022,2022-10-04 16:30:00,23,Godoy Cruz,San Lorenzo,0,0,2.45,3.0,3.2,1.1,6.5,1.44,2.62,2.7,1.44,4.0,1.22,8.0,1.06,2.2,1.62
+3050102,Argentina Primera División,2022,2022-10-04 16:30:00,23,Newell's Old Boys,Arsenal de Sarandí,0,0,2.2,3.2,3.5,1.1,6.5,1.4,2.75,2.5,1.5,4.0,1.22,7.5,1.07,2.1,1.67
+3050100,Argentina Primera División,2022,2022-10-04 19:00:00,23,Sarmiento,Tigre,2,2,3.4,3.4,2.2,1.08,7.0,1.4,2.75,2.25,1.62,3.75,1.25,7.5,1.07,1.95,1.8
+3050097,Argentina Primera División,2022,2022-10-04 21:30:00,23,Vélez Sarsfield,Banfield,1,0,1.95,3.5,4.0,1.08,7.0,1.44,2.62,2.3,1.6,4.33,1.2,7.5,1.07,2.05,1.7
+3050092,Argentina Primera División,2022,2022-10-05 16:30:00,23,Colón,Patronato,1,0,2.4,3.5,2.88,1.04,7.7,1.35,2.98,1.85,1.95,3.62,1.25,6.9,1.06,1.7,2.05
+3050091,Argentina Primera División,2022,2022-10-05 19:00:00,23,Atlético Tucumán,Platense,2,1,2.0,3.2,4.33,1.06,6.7,1.46,2.56,2.7,1.44,4.64,1.16,9.0,1.02,2.25,1.57
+3050090,Argentina Primera División,2022,2022-10-05 19:00:00,23,Defensa y Justicia,Racing Club,3,3,3.3,3.3,2.25,1.04,7.7,1.37,2.89,2.05,1.75,3.9,1.22,7.4,1.04,1.91,1.91
+3050093,Argentina Primera División,2022,2022-10-05 21:30:00,23,River Plate,Estudiantes,5,0,1.55,4.0,6.5,1.01,9.4,1.27,3.48,1.8,2.0,3.14,1.32,5.75,1.09,1.95,1.8
+3050101,Argentina Primera División,2022,2022-10-05 21:30:00,23,Independiente,Central Córdoba SdE,1,2,1.95,3.25,4.2,1.05,7.3,1.41,2.73,2.35,1.57,4.2,1.2,8.0,1.03,2.05,1.7
+3050094,Argentina Primera División,2022,2022-10-06 19:00:00,23,Lanús,Argentinos Juniors,0,4,3.1,2.9,2.55,1.08,6.05,1.51,2.5,2.7,1.44,5.25,1.13,10.0,1.0,2.1,1.67
+3050095,Argentina Primera División,2022,2022-10-06 19:00:00,23,Huracán,Talleres Córdoba,1,0,1.67,3.5,5.75,1.07,6.25,1.51,2.42,2.35,1.57,5.1,1.14,9.9,1.01,2.25,1.57
+3050106,Argentina Primera División,2022,2022-10-08 13:00:00,24,Barracas Central,Sarmiento,1,1,2.38,3.1,3.25,1.1,6.5,1.44,2.62,2.2,1.65,4.33,1.2,8.0,1.06,1.91,1.91
+3050109,Argentina Primera División,2022,2022-10-08 16:00:00,24,San Lorenzo,Vélez Sarsfield,1,0,2.55,2.9,3.1,1.1,6.5,1.44,2.62,2.88,1.4,4.33,1.2,8.0,1.06,2.25,1.57
+3050103,Argentina Primera División,2022,2022-10-08 18:15:00,24,Unión Santa Fe,Arsenal de Sarandí,1,0,2.1,3.25,3.6,1.08,7.0,1.44,2.62,2.4,1.53,4.33,1.2,8.0,1.06,2.05,1.7
+3050114,Argentina Primera División,2022,2022-10-08 20:30:00,24,Platense,Colón,1,2,2.05,3.3,3.75,1.1,6.5,1.4,2.75,2.25,1.62,4.33,1.2,8.0,1.06,2.0,1.75
+3050105,Argentina Primera División,2022,2022-10-09 13:00:00,24,Tigre,Independiente,2,1,1.95,3.3,4.2,1.1,6.5,1.4,2.75,2.35,1.57,4.0,1.22,8.0,1.06,2.05,1.7
+3050110,Argentina Primera División,2022,2022-10-09 15:30:00,24,Talleres Córdoba,Godoy Cruz,3,1,2.25,3.3,3.3,1.05,7.2,1.41,2.73,2.3,1.6,4.24,1.19,8.2,1.03,1.95,1.8
+3050108,Argentina Primera División,2022,2022-10-09 15:30:00,24,Banfield,Gimnasia La Plata,0,2,2.55,3.1,2.9,1.08,6.65,1.54,2.57,2.5,1.5,4.8,1.13,9.6,1.01,2.1,1.67
+3050107,Argentina Primera División,2022,2022-10-09 18:00:00,24,Boca Juniors,Aldosivi,2,1,1.36,4.5,9.5,1.05,9.0,1.25,3.74,1.95,1.85,2.75,1.4,4.74,1.16,2.25,1.57
+3050113,Argentina Primera División,2022,2022-10-09 20:30:00,24,Patronato,River Plate,0,1,4.5,4.0,1.75,1.01,13.5,1.23,3.9,1.85,1.95,2.9,1.37,5.6,1.12,1.8,1.95
+3050111,Argentina Primera División,2022,2022-10-10 16:30:00,24,Argentinos Juniors,Huracán,1,1,2.55,2.88,3.1,1.07,7.5,1.52,2.55,3.1,1.36,5.1,1.15,11.0,1.02,2.38,1.53
+3050116,Argentina Primera División,2022,2022-10-10 16:30:00,24,Rosario Central,Defensa y Justicia,0,0,2.05,3.3,3.8,1.08,7.1,1.55,2.45,2.15,1.67,5.3,1.13,12.0,1.02,1.95,1.8
+3050112,Argentina Primera División,2022,2022-10-10 19:00:00,24,Estudiantes,Lanús,3,1,1.95,3.25,4.33,1.1,6.5,1.4,2.75,2.2,1.65,4.0,1.22,8.0,1.06,1.95,1.8
+3050115,Argentina Primera División,2022,2022-10-10 19:00:00,24,Racing Club,Atlético Tucumán,2,0,1.91,3.3,4.2,1.03,10.0,1.34,3.1,2.15,1.67,3.7,1.25,7.6,1.07,1.95,1.8
+3050104,Argentina Primera División,2022,2022-10-10 21:30:00,24,Central Córdoba SdE,Newell's Old Boys,0,3,2.5,3.0,3.0,1.12,6.78,1.49,2.73,2.6,1.48,4.71,1.2,8.25,1.06,2.1,1.67
+3050126,Argentina Primera División,2022,2022-10-12 14:00:00,25,Aldosivi,Banfield,0,1,2.75,3.2,2.6,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,1.95,1.8
+3050127,Argentina Primera División,2022,2022-10-12 16:30:00,25,Sarmiento,Boca Juniors,0,1,3.75,3.0,2.2,1.1,6.5,1.44,2.62,2.6,1.48,4.33,1.2,8.0,1.06,2.1,1.67
+3050125,Argentina Primera División,2022,2022-10-12 16:30:00,25,Gimnasia La Plata,San Lorenzo,0,1,2.4,2.88,3.3,1.12,5.5,1.53,2.38,3.1,1.36,5.0,1.14,10.0,1.04,2.38,1.53
+3050128,Argentina Primera División,2022,2022-10-12 19:00:00,25,Independiente,Barracas Central,2,2,1.91,3.4,4.2,1.08,7.0,1.44,2.62,2.35,1.57,4.33,1.2,8.0,1.06,2.1,1.67
+3050120,Argentina Primera División,2022,2022-10-12 21:30:00,25,River Plate,Platense,2,1,1.36,4.5,10.0,1.04,10.0,1.25,3.75,1.85,1.95,2.75,1.4,5.0,1.14,2.2,1.62
+3050124,Argentina Primera División,2022,2022-10-13 16:30:00,25,Vélez Sarsfield,Talleres Córdoba,2,1,2.25,3.1,3.6,1.1,6.5,1.44,2.62,2.6,1.48,4.33,1.2,8.0,1.06,2.1,1.67
+3050121,Argentina Primera División,2022,2022-10-13 19:00:00,25,Lanús,Patronato,0,1,2.2,3.4,3.25,1.1,6.5,1.44,2.62,2.0,1.8,4.33,1.2,8.0,1.06,1.75,2.0
+3050123,Argentina Primera División,2022,2022-10-13 19:00:00,25,Godoy Cruz,Argentinos Juniors,0,0,3.0,3.1,2.45,1.1,6.5,1.44,2.62,2.6,1.48,4.33,1.2,8.0,1.06,2.1,1.67
+3050118,Argentina Primera División,2022,2022-10-13 21:30:00,25,Atlético Tucumán,Rosario Central,1,1,1.91,3.4,4.33,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,2.0,1.75
+3050129,Argentina Primera División,2022,2022-10-13 21:30:00,25,Newell's Old Boys,Tigre,0,2,2.7,3.2,2.7,1.1,6.5,1.44,2.62,2.35,1.57,4.33,1.2,9.0,1.05,2.0,1.75
+3050119,Argentina Primera División,2022,2022-10-14 16:30:00,25,Colón,Racing Club,0,2,3.6,3.75,2.0,1.07,7.5,1.36,3.0,1.75,2.05,3.5,1.29,6.5,1.1,1.67,2.1
+3050117,Argentina Primera División,2022,2022-10-14 19:00:00,25,Defensa y Justicia,Unión Santa Fe,1,0,2.25,3.3,3.4,1.1,6.5,1.44,2.62,2.25,1.62,4.33,1.2,8.0,1.06,2.0,1.75
+3050122,Argentina Primera División,2022,2022-10-14 19:00:00,25,Huracán,Estudiantes,3,1,2.0,3.25,4.0,1.1,6.5,1.44,2.62,2.35,1.57,4.33,1.2,8.0,1.06,2.1,1.67
+3050130,Argentina Primera División,2022,2022-10-14 21:30:00,25,Arsenal de Sarandí,Central Córdoba SdE,2,0,2.3,3.1,3.5,1.11,6.0,1.5,2.5,2.6,1.48,4.5,1.17,9.0,1.05,2.1,1.67
+3050139,Argentina Primera División,2022,2022-10-16 13:00:00,26,Aldosivi,Talleres Córdoba,1,3,3.75,3.3,2.05,1.08,7.0,1.4,2.75,2.2,1.65,4.0,1.22,7.5,1.07,1.95,1.8
+3050142,Argentina Primera División,2022,2022-10-16 15:30:00,26,Newell's Old Boys,Boca Juniors,2,0,3.2,2.75,2.63,1.11,6.0,1.5,2.5,3.1,1.36,4.5,1.17,9.0,1.05,2.25,1.57
+3050136,Argentina Primera División,2022,2022-10-16 18:00:00,26,Godoy Cruz,Patronato,0,1,2.05,3.3,3.8,1.1,6.5,1.44,2.62,2.1,1.7,4.33,1.2,8.0,1.06,1.91,1.91
+3050141,Argentina Primera División,2022,2022-10-16 18:00:00,26,Independiente,Banfield,1,0,2.1,3.25,3.75,1.1,6.5,1.44,2.62,2.5,1.5,4.33,1.2,8.0,1.06,2.1,1.67
+3050133,Argentina Primera División,2022,2022-10-16 20:30:00,26,River Plate,Rosario Central,1,2,1.45,4.2,8.0,1.05,10.0,1.26,3.5,1.85,1.95,2.9,1.35,5.25,1.13,2.0,1.75
+3050143,Argentina Primera División,2022,2022-10-17 14:00:00,26,Arsenal de Sarandí,Barracas Central,1,2,2.25,3.2,3.4,1.09,8.0,1.47,2.7,2.4,1.53,4.75,1.18,9.5,1.05,2.0,1.75
+3050138,Argentina Primera División,2022,2022-10-17 15:00:00,26,Gimnasia La Plata,Argentinos Juniors,0,0,3.5,3.0,2.3,1.12,6.5,1.52,2.4,2.6,1.48,5.5,1.15,11.0,1.03,2.05,1.7
+3050137,Argentina Primera División,2022,2022-10-17 16:30:00,26,Vélez Sarsfield,Estudiantes,4,0,2.25,3.0,3.6,1.08,7.0,1.42,2.65,2.2,1.65,4.1,1.2,8.5,1.06,1.91,1.91
+3050131,Argentina Primera División,2022,2022-10-17 21:30:00,26,Atlético Tucumán,Unión Santa Fe,1,1,1.91,3.3,4.33,1.08,8.5,1.41,2.8,2.35,1.57,4.35,1.21,10.0,1.06,2.1,1.67
+3050140,Argentina Primera División,2022,2022-10-17 21:30:00,26,Sarmiento,San Lorenzo,2,4,2.88,3.1,2.6,1.11,6.0,1.51,2.37,2.6,1.48,4.8,1.15,10.5,1.04,2.1,1.67
+3050132,Argentina Primera División,2022,2022-10-18 16:30:00,26,Colón,Defensa y Justicia,1,2,2.3,3.4,3.1,1.06,10.25,1.35,3.1,1.85,1.95,3.8,1.25,8.25,1.09,1.7,2.05
+3050134,Argentina Primera División,2022,2022-10-18 19:00:00,26,Lanús,Racing Club,0,1,4.2,3.3,1.95,1.07,9.0,1.41,2.8,2.1,1.7,4.25,1.21,9.25,1.07,1.91,1.91
+3050135,Argentina Primera División,2022,2022-10-18 21:30:00,26,Huracán,Platense,2,0,1.67,3.5,5.75,1.1,6.5,1.47,2.45,2.5,1.5,4.6,1.17,9.75,1.05,2.38,1.53
+3050144,Argentina Primera División,2022,2022-10-18 21:30:00,26,Central Córdoba SdE,Tigre,1,2,3.5,3.3,2.15,1.07,7.5,1.37,2.8,2.15,1.67,3.75,1.23,7.5,1.07,1.95,1.8
+3049921,Argentina Primera División,2022,2022-10-19 21:30:00,11,Talleres Córdoba,Unión Santa Fe,2,2,1.95,3.3,4.33,1.11,6.0,1.5,2.5,2.4,1.53,4.5,1.17,9.0,1.05,2.2,1.62
+3050098,Argentina Primera División,2022,2022-10-20 15:00:00,23,Gimnasia La Plata,Boca Juniors,1,2,3.1,2.9,2.6,1.09,5.75,1.52,2.39,2.7,1.44,5.0,1.14,9.7,1.01,2.2,1.62
+3050145,Argentina Primera División,2022,2022-10-22 14:00:00,27,Unión Santa Fe,Central Córdoba SdE,1,4,1.91,3.2,4.75,1.04,9.25,1.39,2.9,2.35,1.57,4.15,1.23,9.0,1.07,2.05,1.7
+3050150,Argentina Primera División,2022,2022-10-22 16:30:00,27,San Lorenzo,Aldosivi,3,0,1.14,7.5,21.0,1.01,10.5,1.27,3.3,1.85,1.95,3.4,1.25,6.5,1.07,3.5,1.29
+3050153,Argentina Primera División,2022,2022-10-22 16:30:00,27,Estudiantes,Godoy Cruz,2,0,1.91,3.4,4.2,1.05,11.0,1.32,3.25,2.0,1.8,3.6,1.28,7.25,1.1,1.91,1.91
+3050158,Argentina Primera División,2022,2022-10-22 16:30:00,27,Defensa y Justicia,Atlético Tucumán,3,1,2.5,3.25,2.88,1.07,9.5,1.38,2.95,2.2,1.65,4.0,1.23,8.75,1.07,1.91,1.91
+3050152,Argentina Primera División,2022,2022-10-22 19:30:00,27,Argentinos Juniors,Vélez Sarsfield,2,0,1.73,3.5,5.5,1.07,9.25,1.41,2.8,2.35,1.57,4.3,1.21,9.5,1.06,2.2,1.62
+3050149,Argentina Primera División,2022,2022-10-23 12:00:00,27,Banfield,Sarmiento,0,0,2.7,3.2,2.7,1.05,8.0,1.4,2.7,2.25,1.62,4.25,1.17,8.25,1.03,1.95,1.8
+3050151,Argentina Primera División,2022,2022-10-23 14:30:00,27,Talleres Córdoba,Gimnasia La Plata,2,1,3.2,3.0,2.45,1.12,6.97,1.52,2.64,2.6,1.48,5.07,1.18,10.75,1.05,2.05,1.7
+3050148,Argentina Primera División,2022,2022-10-23 17:00:00,27,Boca Juniors,Independiente,2,2,1.45,4.2,7.5,1.11,6.89,1.44,2.87,2.3,1.6,4.54,1.22,9.25,1.07,2.63,1.44
+3050154,Argentina Primera División,2022,2022-10-23 17:00:00,27,Patronato,Huracán,3,2,5.25,3.6,1.7,1.1,7.19,1.42,2.86,2.2,1.65,4.2,1.23,9.0,1.07,2.05,1.7
+3050156,Argentina Primera División,2022,2022-10-23 17:00:00,27,Racing Club,River Plate,1,2,1.8,3.75,4.33,1.04,13.0,1.29,3.69,1.8,2.0,3.37,1.34,6.71,1.12,1.75,2.0
+3050147,Argentina Primera División,2022,2022-10-24 15:30:00,27,Barracas Central,Newell's Old Boys,1,1,2.7,3.0,2.8,1.09,8.0,1.44,2.7,2.3,1.6,4.6,1.19,10.25,1.06,1.95,1.8
+3050157,Argentina Primera División,2022,2022-10-24 16:30:00,27,Rosario Central,Colón,1,1,2.2,3.25,3.5,1.05,11.0,1.34,3.37,1.95,1.85,3.59,1.31,7.23,1.11,1.75,2.0
+3050146,Argentina Primera División,2022,2022-10-24 20:30:00,27,Tigre,Arsenal de Sarandí,1,4,1.5,3.8,8.0,1.03,9.25,1.38,3.04,2.1,1.7,4.0,1.25,7.25,1.05,2.25,1.57
+3050043,Argentina Primera División,2022,2022-10-25 19:00:00,19,Vélez Sarsfield,Central Córdoba SdE,3,1,1.85,3.5,4.0,1.06,9.5,1.37,3.0,2.08,1.73,3.95,1.25,8.5,1.08,1.95,1.8
+3050155,Argentina Primera División,2022,2022-10-25 20:00:00,27,Platense,Lanús,1,1,2.3,3.1,3.4,1.1,7.5,1.5,2.6,2.5,1.5,5.0,1.18,10.0,1.04,2.05,1.7

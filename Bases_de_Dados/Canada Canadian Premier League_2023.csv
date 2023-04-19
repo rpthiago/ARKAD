@@ -1,0 +1,5 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+5275373,Canada Canadian Premier League,2023,2023-04-15 14:00:00,1,Atlético Ottawa,HFX Wanderers FC,1,1,1.75,3.52,4.5,0.0,0.0,0.0,0.0,2.07,1.74,0.0,0.0,0.0,0.0,2.1,1.67
+5275374,Canada Canadian Premier League,2023,2023-04-15 17:00:00,1,Forge FC,Cavalry FC,2,2,1.75,3.35,3.95,1.03,8.0,1.33,2.91,2.08,1.68,3.65,1.25,7.5,1.05,2.1,1.67
+5275372,Canada Canadian Premier League,2023,2023-04-15 20:00:00,1,Pacific FC,Vancouver FC,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5275375,Canada Canadian Premier League,2023,2023-04-16 15:00:00,1,York9 FC,Valour FC,0,2,2.18,2.98,3.03,1.05,9.75,1.31,3.1,2.0,1.72,3.45,1.25,7.0,1.09,1.91,1.8

@@ -1,0 +1,71 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+5280683,Venezuela Primera División,2023,2023-02-03 18:00:00,1,Caracas,Carabobo,0,0,2.75,2.62,2.7,1.1,6.5,1.5,2.4,2.45,1.46,5.25,1.14,12.0,1.03,2.15,1.61
+5280684,Venezuela Primera División,2023,2023-02-03 20:30:00,1,Zamora,Hermanos Colmenares,2,0,1.73,3.21,4.47,1.05,9.75,1.32,3.0,2.1,1.73,3.65,1.25,7.25,1.08,1.95,1.73
+5280685,Venezuela Primera División,2023,2023-02-04 18:00:00,1,Angostura,Mineros de Guayana,2,0,1.46,4.1,7.1,1.03,8.4,1.31,3.04,2.1,1.73,3.48,1.24,6.7,1.06,2.16,1.59
+5280681,Venezuela Primera División,2023,2023-02-04 20:30:00,1,Deportivo La Guaira,Monagas,0,0,2.76,2.62,2.47,1.03,7.9,1.31,3.04,2.43,1.5,3.42,1.25,6.6,1.06,1.76,1.91
+5280679,Venezuela Primera División,2023,2023-02-05 16:00:00,1,Metropolitanos,UCV,1,1,1.33,4.0,10.0,1.05,7.2,1.4,2.64,2.4,1.55,4.15,1.17,8.2,1.03,2.17,1.58
+5280682,Venezuela Primera División,2023,2023-02-05 18:15:00,1,Deportivo Táchira,Estudiantes Mérida,3,0,1.45,3.9,5.59,1.07,7.5,1.36,3.0,1.94,1.73,3.5,1.29,6.5,1.1,2.2,1.64
+5280680,Venezuela Primera División,2023,2023-02-05 21:30:00,1,Academia Puerto Cabello,Rayo Zuliano,3,0,1.61,3.6,4.42,1.02,9.1,1.27,3.28,1.84,1.82,3.18,1.29,5.95,1.08,1.83,1.83
+5280687,Venezuela Primera División,2023,2023-02-10 18:00:00,2,Hermanos Colmenares,Deportivo Táchira,3,1,3.82,3.32,1.97,1.08,8.15,1.41,2.71,2.25,1.57,4.07,1.2,7.5,1.06,2.0,1.72
+5280689,Venezuela Primera División,2023,2023-02-11 16:00:00,2,UCV,Deportivo La Guaira,1,1,3.02,2.99,2.2,1.05,8.0,1.5,2.5,2.5,1.48,3.8,1.21,8.0,1.06,1.92,1.84
+5280688,Venezuela Primera División,2023,2023-02-11 18:15:00,2,Portuguesa,Angostura,0,2,1.89,2.88,3.8,1.07,6.35,1.5,2.5,2.48,1.48,4.8,1.13,9.6,1.01,2.15,1.63
+5280691,Venezuela Primera División,2023,2023-02-11 20:30:00,2,Monagas,Mineros de Guayana,3,1,1.33,3.87,7.78,1.02,9.0,1.28,3.2,1.85,1.76,3.2,1.28,6.1,1.08,2.23,1.62
+5280690,Venezuela Primera División,2023,2023-02-12 16:00:00,2,Estudiantes Mérida,Academia Puerto Cabello,1,3,3.38,3.3,1.9,1.07,7.5,1.32,2.92,1.96,1.72,3.44,1.25,7.0,1.08,1.9,1.86
+5280686,Venezuela Primera División,2023,2023-02-12 18:15:00,2,Caracas,Rayo Zuliano,3,3,1.52,3.47,5.95,1.07,7.5,1.35,2.78,2.15,1.67,3.7,1.22,7.0,1.08,2.1,1.7
+5280692,Venezuela Primera División,2023,2023-02-12 20:30:00,2,Carabobo,Zamora,3,0,1.53,3.4,6.0,1.12,5.5,1.5,2.5,2.54,1.43,5.0,1.14,10.0,1.04,2.65,1.46
+5280693,Venezuela Primera División,2023,2023-02-17 20:30:00,3,Academia Puerto Cabello,UCV,4,0,1.72,3.34,5.3,1.06,8.25,1.37,2.8,2.25,1.58,4.0,1.21,8.75,1.06,2.05,1.66
+5280694,Venezuela Primera División,2023,2023-02-18 16:00:00,3,Deportivo La Guaira,Metropolitanos,2,0,2.8,3.0,2.3,1.06,10.25,1.28,3.4,2.5,1.5,3.37,1.28,6.25,1.09,1.75,1.95
+5280698,Venezuela Primera División,2023,2023-02-18 18:15:00,3,Deportivo Táchira,Monagas,1,0,2.15,3.0,3.2,1.03,8.3,1.29,3.25,2.25,1.6,3.48,1.24,6.75,1.06,1.79,1.87
+5280696,Venezuela Primera División,2023,2023-02-18 20:30:00,3,Angostura,Rayo Zuliano,1,1,1.73,3.35,4.4,1.03,8.4,1.31,3.04,1.98,1.74,3.48,1.24,6.75,1.07,2.01,1.68
+5280699,Venezuela Primera División,2023,2023-02-19 16:00:00,3,Caracas,Hermanos Colmenares,2,2,1.47,3.6,5.99,1.06,9.7,1.35,2.95,2.02,1.67,3.65,1.24,6.7,1.07,2.0,1.7
+5280695,Venezuela Primera División,2023,2023-02-19 18:15:00,3,Mineros de Guayana,Portuguesa,0,0,2.77,2.95,2.35,1.09,7.7,1.38,2.7,2.01,1.68,3.9,1.2,7.75,1.03,1.95,1.75
+5280697,Venezuela Primera División,2023,2023-02-19 20:30:00,3,Zamora,Estudiantes Mérida,1,5,1.71,3.55,3.87,1.06,10.25,1.33,3.03,1.98,1.7,3.52,1.26,6.5,1.08,1.95,1.75
+5280702,Venezuela Primera División,2023,2023-02-24 18:00:00,4,Hermanos Colmenares,Deportivo La Guaira,0,0,2.63,2.9,2.75,0.0,0.0,1.5,2.55,2.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0
+5280705,Venezuela Primera División,2023,2023-02-24 20:30:00,4,Monagas,Angostura,1,0,1.75,3.25,4.75,1.04,7.7,1.36,3.0,2.1,1.7,3.5,1.29,7.0,1.08,1.93,1.83
+5280701,Venezuela Primera División,2023,2023-02-25 18:00:00,4,Metropolitanos,Zamora,1,2,2.0,2.9,3.95,1.1,6.5,1.45,2.5,2.45,1.5,4.6,1.16,10.5,1.06,2.05,1.7
+5280706,Venezuela Primera División,2023,2023-02-25 20:30:00,4,Carabobo,Deportivo Táchira,1,3,2.4,3.0,2.8,1.07,8.25,1.38,2.8,2.25,1.57,3.9,1.22,8.5,1.06,1.83,1.87
+5280704,Venezuela Primera División,2023,2023-02-26 16:00:00,4,UCV,Caracas,0,2,3.55,2.95,2.0,1.1,6.5,1.5,2.5,2.4,1.51,4.1,1.18,8.0,1.06,2.0,1.72
+5280700,Venezuela Primera División,2023,2023-02-26 18:05:00,4,Rayo Zuliano,Mineros de Guayana,4,4,2.03,3.0,3.35,1.06,6.75,1.36,2.79,2.2,1.53,3.65,1.22,7.2,1.05,1.85,1.81
+5280703,Venezuela Primera División,2023,2023-02-26 20:30:00,4,Portuguesa,Academia Puerto Cabello,0,2,2.86,2.9,2.35,0.0,0.0,1.53,2.4,2.42,1.47,0.0,0.0,0.0,0.0,0.0,0.0
+5280712,Venezuela Primera División,2023,2023-03-03 16:00:00,5,Caracas,Portuguesa,1,1,1.91,2.9,3.9,1.08,7.25,1.5,2.45,2.37,1.44,4.65,1.16,10.75,1.04,2.15,1.6
+5280709,Venezuela Primera División,2023,2023-03-03 18:15:00,5,Mineros de Guayana,UCV,2,0,1.73,3.25,4.4,1.03,8.0,1.33,2.93,2.0,1.67,3.64,1.22,7.0,1.05,1.86,1.8
+5280707,Venezuela Primera División,2023,2023-03-03 20:30:00,5,Academia Puerto Cabello,Metropolitanos,1,0,2.25,3.0,3.0,1.03,8.0,1.33,2.93,2.15,1.57,3.64,1.22,7.1,1.05,1.83,1.83
+5280708,Venezuela Primera División,2023,2023-03-04 16:00:00,5,Deportivo La Guaira,Estudiantes Mérida,1,3,1.71,3.25,4.33,1.03,8.0,1.33,2.93,1.96,1.84,3.65,1.22,7.1,1.05,1.92,1.75
+5280713,Venezuela Primera División,2023,2023-03-04 18:15:00,5,Monagas,Hermanos Colmenares,2,1,1.31,4.33,8.75,0.0,0.0,0.0,0.0,2.01,1.8,0.0,0.0,0.0,0.0,0.0,0.0
+5280711,Venezuela Primera División,2023,2023-03-04 20:30:00,5,Deportivo Táchira,Rayo Zuliano,5,0,1.39,4.2,6.5,1.01,10.0,1.22,3.64,1.81,1.99,2.84,1.35,5.25,1.11,1.97,1.71
+5280710,Venezuela Primera División,2023,2023-03-05 18:00:00,5,Angostura,Carabobo,0,1,2.5,3.1,2.65,1.07,9.3,1.5,2.45,2.09,1.66,3.6,1.23,6.75,1.07,1.82,1.88
+5280716,Venezuela Primera División,2023,2023-03-10 20:00:00,6,Portuguesa,Deportivo La Guaira,2,0,2.54,2.63,2.69,1.07,6.25,1.61,2.2,2.48,1.45,4.3,1.16,8.6,1.02,1.95,1.81
+5280719,Venezuela Primera División,2023,2023-03-11 16:00:00,6,Estudiantes Mérida,Rayo Zuliano,1,2,1.75,3.27,3.8,1.03,14.5,1.21,3.98,1.62,2.17,2.63,1.43,4.63,1.16,1.65,2.15
+5280718,Venezuela Primera División,2023,2023-03-11 18:15:00,6,Zamora,Mineros de Guayana,1,1,1.79,3.17,3.78,1.04,12.25,1.25,3.57,1.76,1.84,2.94,1.35,5.3,1.12,1.71,2.08
+5280714,Venezuela Primera División,2023,2023-03-11 20:30:00,6,Metropolitanos,Deportivo Táchira,2,0,2.51,3.13,2.37,1.06,10.0,1.5,2.45,2.07,1.75,3.47,1.26,6.4,1.08,1.8,1.96
+5280717,Venezuela Primera División,2023,2023-03-12 16:00:00,6,UCV,Monagas,0,2,4.4,3.0,1.75,1.04,7.6,1.36,2.79,2.2,1.61,3.88,1.2,7.6,1.04,1.91,1.85
+5280715,Venezuela Primera División,2023,2023-03-12 18:15:00,6,Hermanos Colmenares,Angostura,2,2,2.35,2.8,2.95,1.04,8.25,1.4,2.7,2.25,1.58,4.1,1.2,7.75,1.03,1.95,1.75
+5280720,Venezuela Primera División,2023,2023-03-12 20:30:00,6,Carabobo,Academia Puerto Cabello,0,2,2.14,3.0,3.1,1.05,7.2,1.4,2.64,2.48,1.48,4.15,1.17,8.2,1.03,1.92,1.84
+5280724,Venezuela Primera División,2023,2023-03-17 18:00:00,7,Mineros de Guayana,Academia Puerto Cabello,0,3,3.4,3.15,2.0,1.03,9.5,1.29,3.54,1.9,1.8,3.2,1.3,5.5,1.11,1.73,2.05
+5280722,Venezuela Primera División,2023,2023-03-17 20:30:00,7,Hermanos Colmenares,Carabobo,2,1,3.1,2.9,2.25,1.1,6.5,1.5,2.5,2.19,1.6,4.5,1.17,9.0,1.05,2.05,1.7
+5280723,Venezuela Primera División,2023,2023-03-18 18:00:00,7,Deportivo La Guaira,Zamora,3,0,2.4,3.0,2.65,1.07,7.5,1.33,3.24,2.0,1.75,3.5,1.29,6.5,1.1,1.91,1.8
+5280727,Venezuela Primera División,2023,2023-03-18 20:30:00,7,Monagas,Estudiantes Mérida,1,1,1.75,3.25,4.2,1.06,8.0,1.33,3.25,2.0,1.75,3.4,1.3,6.5,1.1,1.85,1.85
+5280725,Venezuela Primera División,2023,2023-03-19 16:00:00,7,Deportivo Táchira,UCV,1,1,1.32,4.4,8.0,1.05,11.0,1.31,3.17,2.02,1.78,3.35,1.28,6.1,1.09,2.3,1.55
+5280721,Venezuela Primera División,2023,2023-03-19 18:15:00,7,Rayo Zuliano,Portuguesa,1,1,2.75,3.0,2.35,1.08,7.0,1.36,3.0,2.1,1.65,3.75,1.25,7.0,1.08,1.85,1.85
+5280726,Venezuela Primera División,2023,2023-03-19 20:30:00,7,Caracas,Metropolitanos,2,0,2.15,3.1,2.95,1.03,9.4,1.3,3.2,1.97,1.73,3.33,1.28,6.6,1.07,1.78,1.95
+5280733,Venezuela Primera División,2023,2023-03-31 16:00:00,8,Estudiantes Mérida,Hermanos Colmenares,1,0,2.0,3.1,3.4,0.0,0.0,1.95,1.8,1.95,1.85,0.0,0.0,0.0,0.0,0.0,0.0
+5280728,Venezuela Primera División,2023,2023-03-31 18:15:00,8,Metropolitanos,Rayo Zuliano,2,1,1.77,3.58,4.42,1.05,11.25,1.27,3.38,1.9,1.9,3.1,1.32,5.7,1.11,1.8,1.9
+5280734,Venezuela Primera División,2023,2023-03-31 20:30:00,8,Carabobo,Monagas,3,0,2.68,2.94,2.76,1.06,6.6,1.5,2.4,2.35,1.53,4.1,1.18,8.0,1.03,1.9,1.77
+5280730,Venezuela Primera División,2023,2023-04-01 18:00:00,8,Portuguesa,Deportivo Táchira,0,1,3.1,2.9,2.3,1.09,7.6,1.5,2.5,2.35,1.53,4.28,1.18,8.0,1.05,2.0,1.72
+5280729,Venezuela Primera División,2023,2023-04-01 20:30:00,8,Academia Puerto Cabello,Deportivo La Guaira,1,0,1.91,3.35,3.65,1.05,10.75,1.3,3.2,1.95,1.76,3.32,1.29,6.1,1.09,1.82,1.88
+5280731,Venezuela Primera División,2023,2023-04-02 18:00:00,8,UCV,Angostura,1,2,3.3,3.05,2.12,1.08,7.85,1.5,2.55,2.48,1.48,4.32,1.18,8.0,1.05,2.05,1.7
+5280732,Venezuela Primera División,2023,2023-04-02 20:30:00,8,Zamora,Caracas,1,2,2.5,3.0,2.7,1.07,9.2,1.34,2.99,2.18,1.68,3.58,1.25,6.7,1.07,1.82,1.9
+5280736,Venezuela Primera División,2023,2023-04-07 20:30:00,9,Hermanos Colmenares,UCV,1,1,1.75,3.2,4.4,0.0,0.0,0.0,0.0,2.15,1.61,0.0,0.0,0.0,0.0,0.0,0.0
+5280735,Venezuela Primera División,2023,2023-04-08 17:00:00,9,Metropolitanos,Carabobo,1,0,2.69,3.08,2.64,1.06,9.4,1.36,2.92,2.38,1.51,3.7,1.24,6.85,1.07,1.85,1.85
+5280739,Venezuela Primera División,2023,2023-04-08 19:15:00,9,Deportivo Táchira,Zamora,1,1,1.82,3.45,4.25,1.07,9.15,1.36,2.92,2.15,1.61,3.68,1.24,6.85,1.07,2.0,1.75
+5280737,Venezuela Primera División,2023,2023-04-08 21:30:00,9,Mineros de Guayana,Deportivo La Guaira,0,2,2.76,3.18,2.51,1.07,9.1,1.35,2.94,2.15,1.61,3.67,1.24,6.85,1.07,1.82,1.88
+5280740,Venezuela Primera División,2023,2023-04-09 16:00:00,9,Caracas,Estudiantes Mérida,2,2,2.05,3.13,3.5,1.06,9.2,1.35,2.93,2.2,1.65,3.67,1.24,6.8,1.07,1.85,1.85
+5280738,Venezuela Primera División,2023,2023-04-09 18:15:00,9,Angostura,Academia Puerto Cabello,2,2,3.32,3.32,2.15,1.06,9.8,1.57,2.2,2.11,1.72,3.52,1.26,6.55,1.08,1.82,1.88
+5280741,Venezuela Primera División,2023,2023-04-09 21:00:00,9,Monagas,Portuguesa,1,2,1.77,3.44,4.66,1.07,8.5,1.39,2.78,2.2,1.53,3.93,1.21,7.3,1.06,2.1,1.68
+5280746,Venezuela Primera División,2023,2023-04-14 16:30:00,10,Estudiantes Mérida,Metropolitanos,0,2,2.64,2.94,2.38,1.03,8.1,1.33,2.93,2.18,1.62,3.56,1.23,6.95,1.05,1.79,1.87
+5280745,Venezuela Primera División,2023,2023-04-14 19:00:00,10,Zamora,Monagas,1,1,2.15,3.2,3.3,1.03,8.0,1.33,2.93,2.15,1.57,3.64,1.22,7.1,1.05,1.83,1.93
+5280742,Venezuela Primera División,2023,2023-04-14 21:15:00,10,Academia Puerto Cabello,Hermanos Colmenares,1,0,1.58,3.65,5.8,0.0,0.0,0.0,0.0,2.0,1.67,0.0,0.0,0.0,0.0,0.0,0.0
+5280743,Venezuela Primera División,2023,2023-04-15 18:00:00,10,Deportivo La Guaira,Angostura,1,0,1.9,2.85,3.95,1.08,9.45,1.49,2.45,2.45,1.5,4.3,1.18,7.95,1.05,2.1,1.65
+5280748,Venezuela Primera División,2023,2023-04-15 20:15:00,10,Carabobo,Rayo Zuliano,0,0,1.33,3.5,10.0,1.04,10.75,1.28,3.15,1.71,2.02,3.37,1.32,6.2,1.11,2.1,1.65
+5280747,Venezuela Primera División,2023,2023-04-16 17:00:00,10,Caracas,Mineros de Guayana,1,1,1.61,3.7,4.4,1.04,11.0,1.27,3.4,1.86,1.84,3.2,1.3,5.1,1.11,1.91,1.85
+5280744,Venezuela Primera División,2023,2023-04-16 19:15:00,10,Portuguesa,UCV,2,0,1.83,3.1,3.95,1.08,6.75,1.5,2.43,2.4,1.5,4.7,1.14,10.75,1.03,2.1,1.57

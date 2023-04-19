@@ -1,0 +1,307 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+2265289,China Chinese Super League,2022,2022-06-03 09:00:00,1,Shandong Luneng,Hangzhou,1,0,1.12,5.25,5.5,1.02,12.0,1.17,4.5,1.67,2.15,2.37,1.57,3.75,1.25,2.05,1.7
+2265290,China Chinese Super League,2022,2022-06-03 09:00:00,1,Guangzhou Evergrande,Shanghai Shenhua,0,1,5.4,4.0,1.53,1.02,9.9,1.25,3.54,1.83,2.03,3.02,1.33,5.6,1.1,1.8,1.95
+2265291,China Chinese Super League,2022,2022-06-03 09:00:00,1,Hebei CFFC,Wuhan Three Towns,0,4,23.0,8.4,1.08,1.02,15.0,1.12,5.5,1.36,2.89,1.88,1.98,3.0,1.36,2.5,1.5
+2265292,China Chinese Super League,2022,2022-06-04 04:30:00,1,Shanghai SIPG,Wuhan Zall,0,1,1.53,4.0,5.25,1.04,13.25,1.26,3.73,1.7,2.0,3.02,1.37,5.6,1.14,2.05,1.7
+2265293,China Chinese Super League,2022,2022-06-04 05:30:00,1,Shenzhen,Chengdu Better City FC,2,0,1.7,3.4,2.05,1.05,11.5,1.29,3.5,1.8,2.0,3.23,1.33,6.1,1.12,1.62,2.2
+2265294,China Chinese Super League,2022,2022-06-04 06:30:00,1,Changchun Yatai,Guangzhou R&F,4,1,1.22,5.5,10.0,1.04,15.0,1.24,3.97,1.7,2.0,2.83,1.41,5.15,1.16,1.95,1.8
+2265295,China Chinese Super League,2022,2022-06-04 08:00:00,1,Meizhou Hakka,Tianjin Teda,1,1,2.1,3.4,3.05,1.06,8.0,1.33,3.25,1.85,1.85,3.4,1.3,6.0,1.11,1.7,2.05
+2265296,China Chinese Super League,2022,2022-06-04 08:30:00,1,Henan Jianye,Dalian Yifang,2,2,1.05,7.0,9.0,1.06,11.0,1.33,3.22,1.85,1.95,3.55,1.29,6.8,1.1,3.5,1.29
+2265297,China Chinese Super League,2022,2022-06-05 08:00:00,1,Beijing Guoan,Shijiazhuang Ever Bright,1,2,1.41,4.2,6.6,1.05,11.75,1.31,3.4,1.83,1.77,3.33,1.32,6.3,1.11,2.2,1.62
+2265298,China Chinese Super League,2022,2022-06-07 04:30:00,2,Wuhan Three Towns,Guangzhou Evergrande,6,0,1.17,6.5,14.0,1.04,12.5,1.21,4.31,1.65,2.11,2.61,1.47,4.6,1.18,2.5,1.5
+2265299,China Chinese Super League,2022,2022-06-07 06:30:00,2,Wuhan Zall,Hebei CFFC,2,1,1.05,5.75,8.0,1.04,13.0,1.18,4.2,1.85,1.95,2.55,1.45,4.5,1.16,2.63,1.44
+2265300,China Chinese Super League,2022,2022-06-07 08:30:00,2,Hangzhou,Changchun Yatai,0,0,3.66,3.5,1.92,1.02,12.5,1.27,3.67,1.82,1.88,3.13,1.36,5.94,1.13,1.8,1.95
+2265301,China Chinese Super League,2022,2022-06-08 06:30:00,2,Henan Jianye,Shandong Luneng,4,1,3.07,3.4,1.38,1.05,11.75,1.28,3.64,2.1,1.7,2.95,1.39,5.57,1.14,1.91,1.91
+2265304,China Chinese Super League,2022,2022-06-08 08:30:00,2,Shanghai Shenhua,Shanghai SIPG,2,0,3.38,3.46,2.15,1.05,7.5,1.36,3.09,2.02,1.81,3.74,1.27,6.8,1.1,1.95,1.8
+2265303,China Chinese Super League,2022,2022-06-08 08:30:00,2,Dalian Yifang,Guangzhou R&F,0,3,2.08,3.56,3.48,1.05,12.5,1.25,3.9,1.81,2.02,2.95,1.39,5.62,1.14,1.8,1.95
+2265302,China Chinese Super League,2022,2022-06-08 08:30:00,2,Chengdu Better City FC,Beijing Guoan,2,3,5.55,4.08,1.61,1.05,9.25,1.29,3.3,1.9,1.92,3.1,1.31,6.0,1.11,1.91,1.91
+2265305,China Chinese Super League,2022,2022-06-09 05:30:00,2,Shijiazhuang Ever Bright,Meizhou Hakka,1,1,3.56,3.36,1.88,1.02,9.5,1.27,3.4,1.9,1.77,3.14,1.31,5.9,1.09,2.0,1.75
+2265306,China Chinese Super League,2022,2022-06-09 08:30:00,2,Tianjin Teda,Shenzhen,1,2,3.89,3.38,1.95,1.06,10.75,1.31,3.4,1.96,1.79,3.42,1.31,6.83,1.1,2.0,1.75
+2265307,China Chinese Super League,2022,2022-06-11 06:30:00,3,Guangzhou Evergrande,Wuhan Zall,0,1,5.0,4.33,1.14,1.03,8.9,1.34,3.0,2.05,1.75,3.6,1.24,7.3,1.06,2.2,1.62
+2265308,China Chinese Super League,2022,2022-06-11 08:30:00,3,Henan Jianye,Hangzhou,3,1,1.5,3.4,2.5,1.06,7.2,1.36,2.89,2.15,1.67,3.72,1.23,7.3,1.05,1.95,1.8
+2265309,China Chinese Super League,2022,2022-06-11 08:30:00,3,Hebei CFFC,Shanghai SIPG,0,2,9.5,4.6,1.28,1.04,8.1,1.36,2.89,2.1,1.65,3.82,1.22,7.4,1.05,2.25,1.57
+2265310,China Chinese Super League,2022,2022-06-12 06:30:00,3,Guangzhou R&F,Shandong Luneng,0,1,11.0,5.4,1.32,1.04,13.25,1.29,3.3,1.94,1.94,3.0,1.33,5.7,1.13,3.0,1.36
+2265311,China Chinese Super League,2022,2022-06-12 08:30:00,3,Shijiazhuang Ever Bright,Chengdu Better City FC,0,0,2.1,3.0,1.65,1.07,9.2,1.36,2.9,2.88,1.4,3.6,1.25,7.65,1.08,2.25,1.57
+2265312,China Chinese Super League,2022,2022-06-12 08:30:00,3,Changchun Yatai,Dalian Yifang,1,1,1.4,4.9,8.8,1.05,11.25,1.3,3.2,2.03,1.86,3.3,1.29,6.5,1.1,2.05,1.7
+2265313,China Chinese Super League,2022,2022-06-12 08:30:00,3,Shanghai Shenhua,Wuhan Three Towns,1,1,5.0,3.9,1.74,1.06,10.0,1.36,2.9,1.95,1.78,3.6,1.25,6.9,1.09,1.91,1.91
+2265314,China Chinese Super League,2022,2022-06-13 05:30:00,3,Beijing Guoan,Tianjin Teda,1,0,1.54,3.7,6.15,1.07,9.3,1.39,2.96,2.14,1.58,3.93,1.24,7.65,1.08,2.0,1.75
+2265315,China Chinese Super League,2022,2022-06-13 08:30:00,3,Shenzhen,Meizhou Hakka,1,2,2.27,3.15,3.15,1.08,7.0,1.4,2.75,2.19,1.56,4.0,1.22,7.5,1.07,1.91,1.91
+2265316,China Chinese Super League,2022,2022-06-15 06:30:00,4,Shanghai SIPG,Guangzhou Evergrande,1,0,1.2,5.25,15.0,1.04,10.5,1.25,3.5,1.75,1.95,2.9,1.36,5.25,1.13,2.63,1.44
+2265317,China Chinese Super League,2022,2022-06-15 08:30:00,4,Guangzhou R&F,Henan Jianye,0,3,8.0,5.5,1.06,1.05,10.0,1.28,3.4,1.85,1.95,3.1,1.32,5.75,1.12,2.63,1.44
+2265318,China Chinese Super League,2022,2022-06-15 08:30:00,4,Wuhan Zall,Wuhan Three Towns,1,3,5.2,3.5,1.57,1.05,9.25,1.31,3.2,1.95,1.75,3.3,1.29,6.25,1.1,1.95,1.8
+2265319,China Chinese Super League,2022,2022-06-16 04:30:00,4,Hebei CFFC,Shanghai Shenhua,1,3,9.15,4.65,1.32,1.05,9.75,1.3,3.25,1.88,1.76,3.2,1.3,6.0,1.11,2.63,1.44
+2265320,China Chinese Super League,2022,2022-06-16 05:30:00,4,Tianjin Teda,Chengdu Better City FC,1,1,2.05,3.1,1.72,1.06,7.1,1.43,2.62,2.7,1.44,4.34,1.18,8.6,1.03,2.2,1.62
+2265321,China Chinese Super League,2022,2022-06-16 06:30:00,4,Dalian Yifang,Hangzhou,1,1,2.0,3.3,1.73,1.06,10.75,1.3,3.2,2.1,1.7,3.3,1.29,6.5,1.1,1.91,1.91
+2265322,China Chinese Super League,2022,2022-06-16 08:30:00,4,Shandong Luneng,Changchun Yatai,4,0,2.03,3.5,3.3,1.06,11.0,1.3,3.2,1.9,1.74,3.3,1.29,6.5,1.1,1.91,1.91
+2265323,China Chinese Super League,2022,2022-06-17 05:30:00,4,Shenzhen,Shijiazhuang Ever Bright,1,0,1.43,3.2,2.63,1.08,8.7,1.38,2.8,2.88,1.4,3.6,1.25,8.5,1.03,2.38,1.53
+2265324,China Chinese Super League,2022,2022-06-17 08:30:00,4,Meizhou Hakka,Beijing Guoan,2,2,2.65,3.15,2.55,1.06,10.25,1.3,3.2,2.0,1.73,3.3,1.29,6.85,1.09,1.91,1.91
+2265325,China Chinese Super League,2022,2022-06-19 06:30:00,5,Wuhan Three Towns,Shanghai SIPG,2,1,2.09,3.1,3.57,1.06,8.5,1.33,3.0,2.04,1.75,3.4,1.27,6.75,1.09,1.95,1.8
+2265326,China Chinese Super League,2022,2022-06-19 08:30:00,5,Guangzhou Evergrande,Hebei CFFC,1,0,1.39,3.0,2.91,1.09,6.75,1.44,2.55,2.7,1.44,4.4,1.18,9.25,1.05,2.2,1.62
+2265327,China Chinese Super League,2022,2022-06-20 06:30:00,5,Chengdu Better City FC,Meizhou Hakka,0,0,3.3,2.9,2.2,1.09,7.8,1.48,2.55,2.45,1.5,4.33,1.18,9.0,1.06,1.95,1.8
+2265328,China Chinese Super League,2022,2022-06-20 06:30:00,5,Changchun Yatai,Henan Jianye,0,0,2.8,3.1,2.35,1.06,8.75,1.3,3.2,1.95,1.8,3.25,1.3,6.25,1.1,1.8,1.95
+2265329,China Chinese Super League,2022,2022-06-20 08:30:00,5,Guangzhou R&F,Hangzhou,2,4,4.33,4.0,1.18,1.04,13.0,1.28,3.45,1.95,1.85,3.3,1.3,6.25,1.11,2.0,1.75
+2265330,China Chinese Super League,2022,2022-06-20 08:30:00,5,Shanghai Shenhua,Wuhan Zall,2,0,2.1,3.1,3.3,1.05,10.25,1.32,3.15,2.05,1.73,3.45,1.28,7.25,1.1,1.95,1.8
+2265331,China Chinese Super League,2022,2022-06-21 05:30:00,5,Beijing Guoan,Shenzhen,4,1,2.52,3.34,2.67,1.05,11.25,1.29,3.3,1.88,1.88,3.0,1.33,6.25,1.11,1.75,2.0
+2265332,China Chinese Super League,2022,2022-06-21 06:30:00,5,Shijiazhuang Ever Bright,Tianjin Teda,0,2,2.43,3.0,1.5,1.12,6.65,1.53,2.35,3.1,1.36,4.75,1.15,10.5,1.04,2.25,1.57
+2265333,China Chinese Super League,2022,2022-06-21 09:00:00,5,Shandong Luneng,Dalian Yifang,3,0,1.28,4.86,10.24,1.03,14.0,1.27,3.45,1.88,1.89,3.15,1.31,6.25,1.11,2.2,1.62
+2265334,China Chinese Super League,2022,2022-06-24 07:30:00,6,Guangzhou R&F,Changchun Yatai,1,3,6.1,3.95,1.36,1.02,9.6,1.27,3.4,1.92,1.78,3.14,1.31,5.9,1.09,2.1,1.67
+2265335,China Chinese Super League,2022,2022-06-24 08:30:00,6,Dalian Yifang,Henan Jianye,0,2,5.5,4.5,1.11,1.05,11.25,1.3,3.2,1.85,1.95,3.3,1.29,6.5,1.1,2.1,1.67
+2265336,China Chinese Super League,2022,2022-06-25 05:30:00,6,Shijiazhuang Ever Bright,Beijing Guoan,1,1,6.5,4.0,1.5,1.05,11.25,1.3,3.2,1.95,1.75,3.3,1.29,6.55,1.1,2.25,1.57
+2265337,China Chinese Super League,2022,2022-06-25 08:30:00,6,Tianjin Teda,Meizhou Hakka,1,0,2.6,3.3,2.6,1.07,7.75,1.36,2.87,1.95,1.83,3.7,1.24,7.25,1.08,1.8,1.95
+2265338,China Chinese Super League,2022,2022-06-25 08:30:00,6,Hangzhou,Shandong Luneng,2,0,4.2,4.2,1.2,1.06,9.0,1.3,3.2,1.85,1.95,3.25,1.29,6.25,1.1,1.95,1.8
+2265339,China Chinese Super League,2022,2022-06-25 08:30:00,6,Wuhan Zall,Shanghai SIPG,1,2,6.5,4.0,1.47,1.05,11.25,1.3,3.2,1.95,1.83,3.3,1.29,6.5,1.1,1.95,1.8
+2265340,China Chinese Super League,2022,2022-06-26 04:30:00,6,Wuhan Three Towns,Hebei CFFC,5,0,1.1,10.0,27.0,1.02,18.0,1.15,4.75,1.43,2.62,2.2,1.6,3.6,1.25,3.0,1.36
+2265341,China Chinese Super League,2022,2022-06-26 06:30:00,6,Shanghai Shenhua,Guangzhou Evergrande,2,1,1.36,4.84,9.7,1.02,9.4,1.28,3.34,1.97,1.85,3.2,1.3,6.0,1.09,2.38,1.53
+2265342,China Chinese Super League,2022,2022-06-26 08:30:00,6,Chengdu Better City FC,Shenzhen,2,2,2.15,3.25,1.62,1.08,7.25,1.4,2.7,2.2,1.65,4.0,1.21,8.25,1.06,1.95,1.8
+2265343,China Chinese Super League,2022,2022-06-28 07:30:00,7,Shandong Luneng,Henan Jianye,2,0,1.55,3.5,2.3,1.06,10.0,1.3,3.2,1.85,1.95,3.3,1.29,6.9,1.09,1.7,2.05
+2265344,China Chinese Super League,2022,2022-06-28 08:30:00,7,Guangzhou R&F,Dalian Yifang,0,3,3.4,3.2,1.94,1.05,11.25,1.3,3.2,2.01,1.75,3.3,1.29,6.3,1.11,1.91,1.91
+2265345,China Chinese Super League,2022,2022-06-29 04:30:00,7,Shanghai SIPG,Shanghai Shenhua,1,1,2.38,3.26,3.12,1.08,8.7,1.38,2.8,2.24,1.63,3.8,1.22,8.0,1.07,2.05,1.7
+2265346,China Chinese Super League,2022,2022-06-29 06:00:00,7,Meizhou Hakka,Shijiazhuang Ever Bright,4,1,2.08,3.4,3.64,1.08,8.65,1.38,2.8,2.2,1.69,3.8,1.22,8.0,1.07,2.05,1.7
+2265347,China Chinese Super League,2022,2022-06-29 06:30:00,7,Shenzhen,Tianjin Teda,2,3,2.21,3.28,3.44,1.09,8.15,1.42,2.62,2.28,1.61,4.0,1.2,8.65,1.06,2.05,1.7
+2265348,China Chinese Super League,2022,2022-06-29 08:30:00,7,Changchun Yatai,Hangzhou,1,1,2.3,3.38,3.16,1.07,10.25,1.33,3.0,2.05,1.79,3.4,1.29,6.8,1.1,1.75,2.0
+2265349,China Chinese Super League,2022,2022-06-30 06:30:00,7,Guangzhou Evergrande,Wuhan Three Towns,1,2,36.0,8.5,1.05,1.01,25.0,1.07,6.75,1.33,3.0,1.95,1.8,2.95,1.35,3.5,1.29
+2265351,China Chinese Super League,2022,2022-06-30 08:30:00,7,Hebei CFFC,Wuhan Zall,2,1,6.5,5.0,1.1,1.04,13.75,1.25,3.6,1.8,2.0,2.9,1.36,5.5,1.14,2.25,1.57
+2265350,China Chinese Super League,2022,2022-06-30 08:30:00,7,Beijing Guoan,Chengdu Better City FC,0,0,2.05,3.3,3.2,1.07,9.4,1.36,2.9,2.1,1.65,3.6,1.25,7.45,1.08,1.95,1.8
+2265354,China Chinese Super League,2022,2022-07-03 05:30:00,8,Meizhou Hakka,Shenzhen,1,0,1.17,4.5,4.5,1.06,10.0,1.33,3.0,1.62,2.25,3.4,1.29,7.05,1.09,1.7,2.05
+2265352,China Chinese Super League,2022,2022-07-03 06:30:00,8,Dalian Yifang,Changchun Yatai,2,2,2.8,3.4,1.38,1.06,10.25,1.36,2.9,2.25,1.62,3.6,1.25,7.05,1.09,2.0,1.75
+2265355,China Chinese Super League,2022,2022-07-03 06:30:00,8,Tianjin Teda,Beijing Guoan,1,2,2.1,3.4,1.67,1.07,9.7,1.35,3.12,2.15,1.67,3.68,1.27,7.15,1.09,1.91,1.91
+2265353,China Chinese Super League,2022,2022-07-03 08:30:00,8,Shandong Luneng,Guangzhou R&F,2,0,1.01,12.0,11.75,1.02,22.0,1.15,4.75,1.36,3.1,2.28,1.57,3.6,1.25,3.4,1.3
+2265357,China Chinese Super League,2022,2022-07-03 08:30:00,8,Wuhan Three Towns,Shanghai Shenhua,4,2,1.25,3.8,3.57,1.05,11.75,1.29,3.3,1.85,1.95,3.2,1.3,6.25,1.11,1.95,1.8
+2265356,China Chinese Super League,2022,2022-07-03 09:00:00,8,Hangzhou,Henan Jianye,0,1,2.5,3.5,1.48,1.08,8.55,1.41,2.85,2.1,1.7,4.13,1.22,8.15,1.07,1.95,1.8
+2265358,China Chinese Super League,2022,2022-07-04 04:30:00,8,Wuhan Zall,Guangzhou Evergrande,2,1,1.67,3.0,2.1,1.08,7.0,1.4,2.75,2.5,1.5,4.0,1.22,7.5,1.07,2.05,1.7
+2265359,China Chinese Super League,2022,2022-07-04 06:30:00,8,Shanghai SIPG,Hebei CFFC,2,1,1.1,8.5,28.0,1.01,10.5,1.22,3.8,1.73,2.0,2.7,1.4,4.75,1.15,3.0,1.36
+2265360,China Chinese Super League,2022,2022-07-04 08:30:00,8,Chengdu Better City FC,Shijiazhuang Ever Bright,1,1,1.18,4.2,4.33,1.07,9.2,1.38,2.8,2.1,1.7,3.8,1.22,7.85,1.07,2.2,1.62
+2265361,China Chinese Super League,2022,2022-07-06 07:30:00,9,Hangzhou,Dalian Yifang,2,0,1.51,3.3,2.57,1.04,7.9,1.38,2.98,2.05,1.75,4.01,1.24,7.5,1.05,1.8,1.95
+2265362,China Chinese Super League,2022,2022-07-06 08:30:00,9,Changchun Yatai,Shandong Luneng,1,2,3.3,3.3,2.2,1.02,9.5,1.25,3.5,1.86,1.9,2.95,1.35,6.5,1.07,1.91,1.91
+2265363,China Chinese Super League,2022,2022-07-07 06:30:00,9,Shanghai Shenhua,Hebei CFFC,1,0,1.2,5.75,15.0,1.02,18.0,1.19,4.5,1.61,2.2,2.3,1.57,4.65,1.18,2.63,1.44
+2265364,China Chinese Super League,2022,2022-07-07 06:30:00,9,Beijing Guoan,Meizhou Hakka,0,0,2.6,3.1,2.55,1.06,10.25,1.3,3.2,2.05,1.73,3.3,1.29,6.85,1.09,1.8,1.95
+2265366,China Chinese Super League,2022,2022-07-07 08:30:00,9,Henan Jianye,Guangzhou R&F,2,1,1.07,5.75,7.5,1.03,17.5,1.2,4.37,1.62,2.25,2.59,1.48,4.57,1.19,2.1,1.67
+2265365,China Chinese Super League,2022,2022-07-07 08:30:00,9,Shijiazhuang Ever Bright,Shenzhen,1,2,2.05,3.2,1.7,1.06,9.25,1.37,2.9,2.25,1.62,3.9,1.23,8.25,1.07,1.95,1.8
+2265367,China Chinese Super League,2022,2022-07-08 05:30:00,9,Chengdu Better City FC,Tianjin Teda,2,1,2.05,3.1,1.7,1.07,9.55,1.36,3.08,2.5,1.5,3.73,1.26,7.3,1.08,2.05,1.7
+2265368,China Chinese Super League,2022,2022-07-08 06:30:00,9,Wuhan Three Towns,Wuhan Zall,5,0,1.22,5.5,11.0,1.02,24.0,1.15,5.35,1.56,2.39,2.1,1.7,3.65,1.27,2.1,1.67
+2265369,China Chinese Super League,2022,2022-07-08 08:30:00,9,Guangzhou Evergrande,Shanghai SIPG,0,1,11.0,6.0,1.25,1.03,11.0,1.21,3.8,1.69,2.13,2.6,1.41,4.6,1.16,2.2,1.62
+2265370,China Chinese Super League,2022,2022-07-10 07:30:00,10,Dalian Yifang,Shandong Luneng,1,3,12.0,5.0,1.25,1.04,10.0,1.25,3.75,1.7,2.1,2.75,1.4,4.75,1.15,2.05,1.7
+2265371,China Chinese Super League,2022,2022-07-10 08:30:00,10,Hangzhou,Guangzhou R&F,2,0,1.08,4.75,7.0,1.07,7.5,1.36,2.95,1.9,1.9,4.0,1.22,7.0,1.08,2.25,1.57
+2265372,China Chinese Super League,2022,2022-07-11 05:30:00,10,Meizhou Hakka,Chengdu Better City FC,1,2,2.11,3.25,3.25,1.07,7.75,1.37,2.8,2.21,1.68,3.8,1.23,7.75,1.07,2.05,1.7
+2265374,China Chinese Super League,2022,2022-07-11 08:30:00,10,Henan Jianye,Changchun Yatai,6,2,2.41,3.25,2.75,1.06,8.5,1.32,3.1,2.06,1.78,3.4,1.27,6.75,1.09,1.75,2.0
+2265375,China Chinese Super League,2022,2022-07-11 08:30:00,10,Hebei CFFC,Guangzhou Evergrande,0,1,3.75,3.75,1.25,1.06,8.5,1.33,3.1,2.1,1.7,3.4,1.27,6.75,1.09,2.05,1.7
+2265373,China Chinese Super League,2022,2022-07-11 08:30:00,10,Shenzhen,Beijing Guoan,2,1,3.45,3.3,2.02,1.06,8.25,1.33,3.0,2.06,1.78,3.5,1.27,6.75,1.09,2.1,1.67
+2265376,China Chinese Super League,2022,2022-07-12 06:30:00,10,Wuhan Zall,Shanghai Shenhua,2,2,4.1,3.45,1.83,1.06,8.25,1.34,2.95,2.0,1.7,3.5,1.26,7.0,1.08,2.05,1.7
+2265378,China Chinese Super League,2022,2022-07-12 07:30:00,10,Shanghai SIPG,Wuhan Three Towns,0,1,4.1,3.45,1.83,1.05,9.25,1.3,3.2,1.9,1.8,3.25,1.29,6.25,1.1,1.67,2.1
+2265377,China Chinese Super League,2022,2022-07-12 08:30:00,10,Tianjin Teda,Shijiazhuang Ever Bright,3,0,1.38,3.5,2.8,1.07,7.25,1.38,2.8,2.2,1.65,3.8,1.22,7.5,1.06,2.0,1.75
+3239216,China Chinese Super League,2022,2022-08-05 06:30:00,11,Shanghai Shenhua,Changchun Yatai,0,0,2.82,3.0,2.31,1.02,8.9,1.28,3.2,1.96,1.8,3.2,1.28,6.15,1.08,1.8,1.95
+3239217,China Chinese Super League,2022,2022-08-05 08:30:00,11,Hebei CFFC,Chengdu Better City FC,0,1,10.0,5.0,1.33,1.02,8.6,1.33,3.1,2.0,1.8,3.75,1.25,6.5,1.06,2.5,1.5
+3239218,China Chinese Super League,2022,2022-08-05 09:00:00,11,Shenzhen,Hangzhou,0,2,7.0,4.2,1.5,1.04,7.7,1.36,2.95,2.0,1.8,4.0,1.22,7.5,1.04,2.1,1.67
+3239219,China Chinese Super League,2022,2022-08-06 06:30:00,11,Dalian Yifang,Shanghai SIPG,1,1,7.4,5.1,1.36,1.01,13.5,1.2,4.2,1.67,2.16,2.75,1.42,4.74,1.13,1.8,1.95
+3239220,China Chinese Super League,2022,2022-08-06 08:30:00,11,Guangzhou R&F,Wuhan Three Towns,0,3,14.25,7.85,1.15,1.02,16.0,1.16,4.75,1.5,2.4,2.25,1.63,4.0,1.22,2.2,1.62
+3239221,China Chinese Super League,2022,2022-08-06 09:00:00,11,Tianjin Teda,Shandong Luneng,0,1,3.72,3.83,1.85,1.01,9.6,1.25,3.75,1.71,2.1,3.1,1.36,5.6,1.09,1.95,1.8
+3239222,China Chinese Super League,2022,2022-08-07 08:30:00,11,Meizhou Hakka,Wuhan Zall,2,1,2.15,3.5,3.0,1.05,8.5,1.28,3.5,1.98,1.78,3.3,1.3,6.0,1.1,2.0,1.75
+3239223,China Chinese Super League,2022,2022-08-07 08:30:00,11,Henan Jianye,Beijing Guoan,3,0,2.1,3.5,3.1,1.05,8.75,1.3,3.3,1.91,1.85,3.5,1.28,5.75,1.1,1.67,2.1
+3239224,China Chinese Super League,2022,2022-08-07 09:00:00,11,Shijiazhuang Ever Bright,Guangzhou Evergrande,2,0,2.3,3.1,3.4,1.07,7.0,1.4,2.8,2.5,1.5,4.2,1.2,7.75,1.06,2.05,1.7
+3239233,China Chinese Super League,2022,2022-08-11 09:00:00,12,Hebei CFFC,Tianjin Teda,3,4,8.0,4.75,1.4,1.01,14.0,1.22,3.7,1.85,1.95,3.0,1.33,5.7,1.1,2.1,1.67
+3239226,China Chinese Super League,2022,2022-08-12 08:30:00,12,Wuhan Three Towns,Beijing Guoan,5,1,1.3,5.0,9.5,1.02,12.5,1.19,4.1,1.64,2.18,2.45,1.46,4.2,1.18,1.91,1.91
+3239265,China Chinese Super League,2022,2022-08-12 09:00:00,16,Guangzhou Evergrande,Chengdu Better City FC,1,2,6.5,4.2,1.53,1.06,8.0,1.3,3.3,2.08,1.73,3.5,1.28,6.0,1.11,2.2,1.62
+3239266,China Chinese Super League,2022,2022-08-12 09:00:00,16,Shijiazhuang Ever Bright,Shandong Luneng,0,2,9.5,5.25,1.3,0.0,0.0,0.0,0.0,1.73,2.08,0.0,0.0,0.0,0.0,2.1,1.67
+3239231,China Chinese Super League,2022,2022-08-13 08:00:00,12,Henan Jianye,Meizhou Hakka,0,1,1.77,3.4,3.55,1.04,10.5,1.23,3.6,1.76,2.0,2.75,1.37,5.0,1.14,1.8,1.95
+3239229,China Chinese Super League,2022,2022-08-13 08:30:00,12,Guangzhou R&F,Wuhan Zall,0,5,2.3,3.66,2.92,1.01,10.0,1.22,3.64,1.52,2.25,2.84,1.35,5.2,1.11,2.05,1.7
+3239242,China Chinese Super League,2022,2022-08-15 09:00:00,13,Tianjin Teda,Changchun Yatai,2,2,3.2,3.4,2.12,1.03,9.0,1.25,3.6,1.88,1.87,3.3,1.29,6.5,1.08,1.7,2.05
+3239241,China Chinese Super League,2022,2022-08-15 09:00:00,13,Hebei CFFC,Shandong Luneng,0,7,29.0,9.2,1.07,1.01,17.0,1.11,5.5,1.4,2.75,2.3,1.58,3.8,1.22,2.5,1.5
+3239350,China Chinese Super League,2022,2022-08-16 08:30:00,13,Shanghai SIPG,Shenzhen,2,0,1.67,3.6,4.8,0.0,0.0,0.0,0.0,1.95,1.87,0.0,0.0,0.0,0.0,0.0,0.0
+3239344,China Chinese Super League,2022,2022-08-17 06:30:00,13,Shanghai Shenhua,Chengdu Better City FC,0,2,3.45,3.35,2.05,0.0,0.0,0.0,0.0,1.95,1.83,0.0,0.0,0.0,0.0,0.0,0.0
+3239234,China Chinese Super League,2022,2022-08-17 08:30:00,13,Henan Jianye,Wuhan Three Towns,0,3,5.5,4.33,1.53,1.03,18.0,1.18,4.33,1.57,2.25,2.4,1.5,4.0,1.2,1.67,2.1
+3239240,China Chinese Super League,2022,2022-08-17 08:30:00,13,Wuhan Zall,Beijing Guoan,1,4,3.4,3.35,2.0,1.02,8.6,1.29,3.14,1.89,1.88,3.34,1.26,6.4,1.07,1.7,2.05
+3239238,China Chinese Super League,2022,2022-08-17 08:30:00,13,Meizhou Hakka,Guangzhou R&F,2,1,1.2,6.0,13.0,1.03,12.0,1.19,4.0,1.6,2.2,2.45,1.46,4.2,1.18,2.25,1.57
+3239250,China Chinese Super League,2022,2022-08-18 08:30:00,14,Dalian Yifang,Shijiazhuang Ever Bright,2,0,2.25,3.4,3.25,1.05,11.0,1.3,3.4,2.0,1.8,3.4,1.3,6.75,1.11,1.75,2.0
+3239356,China Chinese Super League,2022,2022-08-19 09:00:00,14,Hebei CFFC,Changchun Yatai,1,7,7.4,4.8,1.23,1.01,12.5,1.22,4.0,1.6,2.25,2.75,1.42,5.1,1.15,2.1,1.67
+3239243,China Chinese Super League,2022,2022-08-20 08:30:00,14,Shanghai SIPG,Hangzhou,1,1,2.2,3.4,3.25,1.05,9.25,1.27,3.25,2.05,1.75,3.3,1.3,5.75,1.11,1.8,1.95
+3239244,China Chinese Super League,2022,2022-08-21 08:00:00,14,Wuhan Zall,Henan Jianye,2,2,7.5,4.5,1.44,1.04,9.75,1.28,3.5,1.73,2.08,3.25,1.33,5.75,1.11,1.95,1.8
+3239247,China Chinese Super League,2022,2022-08-21 08:00:00,14,Shandong Luneng,Chengdu Better City FC,2,1,1.29,5.5,12.0,1.04,10.0,1.22,4.0,1.67,2.15,2.8,1.4,4.5,1.17,2.2,1.62
+3239353,China Chinese Super League,2022,2022-08-21 08:30:00,14,Shanghai Shenhua,Tianjin Teda,1,1,2.2,3.5,3.2,1.06,8.0,1.28,3.5,1.9,1.9,3.3,1.3,5.5,1.12,1.75,2.0
+3239245,China Chinese Super League,2022,2022-08-21 08:30:00,14,Guangzhou Evergrande,Shenzhen,4,1,3.3,3.3,2.25,1.08,7.0,1.36,3.0,2.1,1.7,3.75,1.25,7.0,1.08,1.91,1.91
+3239246,China Chinese Super League,2022,2022-08-22 08:30:00,14,Meizhou Hakka,Wuhan Three Towns,1,2,6.45,4.33,1.44,1.03,11.0,1.17,4.75,1.57,2.25,2.55,1.5,4.33,1.2,1.8,1.95
+3239251,China Chinese Super League,2022,2022-08-22 08:30:00,14,Beijing Guoan,Guangzhou R&F,1,0,1.19,6.02,12.35,1.03,12.5,1.2,4.1,1.57,2.25,2.5,1.46,4.4,1.18,2.25,1.57
+3239236,China Chinese Super League,2022,2022-08-24 06:30:00,13,Shijiazhuang Ever Bright,Hangzhou,1,1,6.5,4.0,1.53,1.06,10.75,1.3,3.2,1.95,1.85,3.3,1.29,6.7,1.1,2.05,1.7
+3239237,China Chinese Super League,2022,2022-08-24 08:30:00,13,Guangzhou Evergrande,Dalian Yifang,0,0,4.2,3.8,1.8,1.06,10.5,1.34,3.17,2.0,1.8,3.3,1.29,6.95,1.09,1.95,1.8
+3239252,China Chinese Super League,2022,2022-08-26 08:30:00,15,Beijing Guoan,Shanghai Shenhua,0,2,2.0,3.15,3.0,1.05,8.5,1.3,3.3,1.83,1.77,3.3,1.3,6.0,1.1,1.75,2.0
+3239256,China Chinese Super League,2022,2022-08-27 06:30:00,15,Shanghai SIPG,Tianjin Teda,1,0,1.53,4.2,6.5,1.05,9.25,1.28,3.5,1.85,1.95,3.3,1.3,5.75,1.11,1.95,1.8
+3239257,China Chinese Super League,2022,2022-08-27 08:30:00,15,Wuhan Zall,Shandong Luneng,1,2,15.0,6.5,1.2,1.03,11.0,1.22,4.0,1.67,2.15,2.95,1.38,5.0,1.13,2.5,1.5
+3239254,China Chinese Super League,2022,2022-08-27 08:30:00,15,Guangzhou R&F,Chengdu Better City FC,1,2,8.0,4.5,1.4,1.05,9.0,1.3,3.3,1.95,1.85,3.5,1.28,6.25,1.09,2.2,1.62
+3239259,China Chinese Super League,2022,2022-08-28 06:30:00,15,Shijiazhuang Ever Bright,Changchun Yatai,1,2,4.75,4.0,1.7,1.05,8.5,1.3,3.3,1.85,1.95,3.4,1.3,6.25,1.09,1.91,1.91
+3239258,China Chinese Super League,2022,2022-08-28 08:00:00,15,Henan Jianye,Guangzhou Evergrande,2,1,1.57,4.0,6.0,1.04,10.0,1.25,3.75,1.95,1.85,3.0,1.36,5.0,1.13,1.95,1.8
+3239253,China Chinese Super League,2022,2022-08-28 08:30:00,15,Meizhou Hakka,Dalian Yifang,4,2,1.85,3.75,3.8,1.05,8.75,1.3,3.4,1.95,1.85,3.4,1.28,6.0,1.1,1.8,1.95
+3239255,China Chinese Super League,2022,2022-08-28 08:30:00,15,Hangzhou,Hebei CFFC,3,0,1.14,8.5,19.0,1.02,13.0,1.17,4.75,1.57,2.35,2.55,1.47,4.2,1.18,2.75,1.4
+3239362,China Chinese Super League,2022,2022-08-28 08:30:00,15,Wuhan Three Towns,Shenzhen,5,1,1.1,9.0,23.0,1.01,16.5,1.14,5.0,1.44,2.7,2.3,1.57,3.75,1.25,2.63,1.44
+3239232,China Chinese Super League,2022,2022-08-31 08:30:00,12,Shanghai Shenhua,Shandong Luneng,2,1,4.5,4.0,1.79,1.05,9.0,1.25,3.6,1.9,1.99,3.2,1.33,5.5,1.12,1.95,1.8
+3239228,China Chinese Super League,2022,2022-09-01 06:30:00,12,Shijiazhuang Ever Bright,Shanghai SIPG,0,0,5.5,4.0,1.65,1.06,8.0,1.33,3.2,2.1,1.7,3.75,1.25,6.5,1.1,2.05,1.7
+3239225,China Chinese Super League,2022,2022-09-01 08:30:00,12,Hangzhou,Guangzhou Evergrande,3,0,1.4,4.5,8.5,1.05,9.0,1.25,3.75,1.8,2.0,3.1,1.33,5.5,1.12,2.0,1.75
+3239230,China Chinese Super League,2022,2022-09-01 08:30:00,12,Changchun Yatai,Chengdu Better City FC,0,1,2.07,3.25,2.78,1.06,8.0,1.3,3.3,1.82,1.78,3.4,1.3,6.0,1.11,1.7,2.05
+3239334,China Chinese Super League,2022,2022-09-01 08:30:00,12,Dalian Yifang,Shenzhen,5,1,1.53,3.55,4.55,0.0,0.0,0.0,0.0,1.83,1.77,0.0,0.0,0.0,0.0,1.8,1.95
+3239374,China Chinese Super League,2022,2022-09-03 08:30:00,16,Guangzhou R&F,Tianjin Teda,2,0,5.5,3.85,1.41,1.06,9.0,1.3,3.2,1.92,1.78,3.25,1.3,6.25,1.1,1.91,1.91
+3239269,China Chinese Super League,2022,2022-09-06 08:30:00,16,Beijing Guoan,Hangzhou,2,2,3.46,3.28,2.09,1.06,8.75,1.3,3.2,1.92,1.84,3.25,1.29,6.25,1.1,1.75,2.0
+3239274,China Chinese Super League,2022,2022-09-09 08:30:00,17,Guangzhou Evergrande,Tianjin Teda,0,0,3.75,3.5,2.0,1.06,8.5,1.32,3.1,2.08,1.73,3.4,1.27,6.5,1.09,1.91,1.91
+3239276,China Chinese Super League,2022,2022-09-10 08:30:00,17,Hangzhou,Shanghai Shenhua,1,1,2.0,3.4,3.8,1.03,8.0,1.33,2.93,2.1,1.7,3.64,1.22,7.1,1.05,1.95,1.8
+3239381,China Chinese Super League,2022,2022-09-10 08:30:00,17,Meizhou Hakka,Hebei CFFC,6,0,1.06,12.0,41.0,1.01,28.5,1.12,5.95,1.33,3.4,2.06,1.78,3.27,1.33,3.25,1.33
+3239280,China Chinese Super League,2022,2022-09-13 08:30:00,18,Guangzhou R&F,Guangzhou Evergrande,1,0,1.67,1.94,2.75,1.06,8.0,1.28,3.5,1.9,1.85,3.25,1.3,5.74,1.11,1.91,1.91
+3239286,China Chinese Super League,2022,2022-09-14 08:30:00,18,Beijing Guoan,Hebei CFFC,3,1,1.02,18.0,45.0,1.01,26.0,1.08,7.25,1.25,3.75,1.7,2.1,2.25,1.6,4.0,1.22
+3239285,China Chinese Super League,2022,2022-09-14 08:30:00,18,Meizhou Hakka,Hangzhou,0,0,2.1,3.05,3.4,1.07,8.0,1.35,2.9,1.92,1.96,3.6,1.25,7.25,1.08,1.95,1.8
+3239284,China Chinese Super League,2022,2022-09-14 08:30:00,18,Shandong Luneng,Wuhan Three Towns,1,1,3.35,3.45,2.0,1.04,10.5,1.23,3.75,1.88,1.86,2.7,1.4,4.8,1.15,1.75,2.0
+3239389,China Chinese Super League,2022,2022-09-14 08:30:00,18,Henan Jianye,Tianjin Teda,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3239263,China Chinese Super League,2022,2022-09-20 06:30:00,16,Changchun Yatai,Wuhan Three Towns,1,2,3.2,3.2,1.9,1.04,13.75,1.25,3.75,1.8,1.96,3.0,1.36,5.6,1.15,1.8,1.95
+3239268,China Chinese Super League,2022,2022-09-20 06:30:00,16,Shanghai Shenhua,Meizhou Hakka,1,0,2.23,3.4,2.49,1.07,10.25,1.33,3.0,2.0,1.76,3.4,1.29,7.0,1.1,1.8,1.95
+3239261,China Chinese Super League,2022,2022-09-20 08:30:00,16,Wuhan Zall,Shenzhen,0,3,2.08,3.5,2.6,1.04,13.5,1.25,3.6,1.8,1.96,2.8,1.38,4.75,1.15,1.53,2.38
+3239264,China Chinese Super League,2022,2022-09-20 08:30:00,16,Henan Jianye,Shanghai SIPG,1,2,3.8,3.6,1.95,1.07,10.25,1.33,3.0,1.95,1.85,3.6,1.25,7.35,1.09,1.8,1.95
+3239267,China Chinese Super League,2022,2022-09-20 08:30:00,16,Dalian Yifang,Hebei CFFC,2,1,1.09,10.0,21.0,1.01,26.5,1.13,5.95,1.36,3.1,2.1,1.74,3.2,1.3,2.5,1.5
+3239273,China Chinese Super League,2022,2022-09-24 06:30:00,17,Changchun Yatai,Wuhan Zall,2,0,1.33,5.25,9.5,1.05,9.0,1.28,3.5,1.85,1.95,3.3,1.3,5.0,1.14,2.38,1.53
+3239275,China Chinese Super League,2022,2022-09-24 08:30:00,17,Wuhan Three Towns,Shijiazhuang Ever Bright,3,4,1.4,5.0,7.0,1.03,17.25,1.2,4.2,1.75,2.05,2.75,1.42,4.5,1.17,2.05,1.7
+3239277,China Chinese Super League,2022,2022-09-24 08:30:00,17,Dalian Yifang,Beijing Guoan,2,2,3.2,3.3,2.25,1.07,7.5,1.36,3.2,2.05,1.75,3.6,1.28,6.5,1.1,1.8,1.95
+3239270,China Chinese Super League,2022,2022-09-24 09:00:00,17,Shenzhen,Shandong Luneng,0,4,7.5,5.0,1.4,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,2.1,1.67
+3239271,China Chinese Super League,2022,2022-09-25 06:30:00,17,Shanghai SIPG,Guangzhou R&F,2,0,1.11,6.0,12.0,1.03,17.0,1.2,4.0,1.7,2.08,2.62,1.42,4.5,1.17,2.5,1.5
+3239272,China Chinese Super League,2022,2022-09-25 09:00:00,17,Chengdu Better City FC,Henan Jianye,0,0,2.63,3.3,2.7,1.05,8.0,1.3,3.2,1.95,1.85,3.3,1.29,6.0,1.09,1.75,2.0
+3239281,China Chinese Super League,2022,2022-09-29 06:30:00,18,Shanghai SIPG,Chengdu Better City FC,3,0,1.8,3.4,4.75,1.03,8.4,1.31,3.04,2.0,1.8,3.48,1.24,6.7,1.06,1.8,1.95
+3239282,China Chinese Super League,2022,2022-09-29 08:30:00,18,Wuhan Zall,Shijiazhuang Ever Bright,1,4,5.0,4.0,1.65,1.04,14.25,1.24,4.12,1.85,1.95,2.84,1.43,5.25,1.16,1.8,1.95
+3239283,China Chinese Super League,2022,2022-09-29 08:30:00,18,Dalian Yifang,Shanghai Shenhua,1,2,2.64,3.46,2.64,1.06,11.5,1.31,3.5,1.8,1.95,3.35,1.33,6.5,1.12,1.67,2.1
+3239279,China Chinese Super League,2022,2022-09-30 06:30:00,18,Changchun Yatai,Shenzhen,1,0,1.45,4.75,6.0,1.04,14.5,1.22,4.0,1.6,2.3,2.95,1.38,5.0,1.13,1.75,2.0
+3239310,China Chinese Super League,2022,2022-10-04 04:30:00,21,Hebei CFFC,Shijiazhuang Ever Bright,0,5,23.0,8.5,1.11,1.02,13.0,1.14,5.0,1.48,2.6,2.1,1.67,3.4,1.3,2.5,1.5
+3239306,China Chinese Super League,2022,2022-10-04 08:30:00,21,Dalian Yifang,Tianjin Teda,0,2,2.25,3.3,3.25,1.06,10.75,1.32,3.42,1.95,1.85,3.45,1.32,6.75,1.11,1.7,2.05
+3239309,China Chinese Super League,2022,2022-10-04 08:30:00,21,Shanghai Shenhua,Henan Jianye,1,0,3.25,3.0,2.4,1.06,8.0,1.29,3.3,2.7,1.44,3.2,1.3,5.75,1.1,2.2,1.62
+3239308,China Chinese Super League,2022,2022-10-04 08:30:00,21,Hangzhou,Wuhan Three Towns,2,1,3.75,4.0,1.85,1.05,9.0,1.3,3.4,1.6,2.3,3.25,1.33,5.5,1.12,1.57,2.25
+3239307,China Chinese Super League,2022,2022-10-04 08:30:00,21,Guangzhou R&F,Shenzhen,1,1,2.7,3.3,2.6,1.05,9.0,1.29,3.3,2.0,1.8,3.0,1.33,5.5,1.11,1.7,2.05
+3239311,China Chinese Super League,2022,2022-10-05 04:30:00,21,Changchun Yatai,Guangzhou Evergrande,0,0,1.45,4.33,7.0,1.05,9.0,1.29,3.5,1.88,1.98,3.0,1.36,5.0,1.14,2.0,1.75
+3239314,China Chinese Super League,2022,2022-10-05 08:30:00,21,Wuhan Zall,Chengdu Better City FC,0,1,7.5,4.2,1.5,1.06,8.0,1.33,3.25,1.85,1.95,3.4,1.3,6.5,1.1,2.0,1.75
+3239313,China Chinese Super League,2022,2022-10-05 08:30:00,21,Shanghai SIPG,Beijing Guoan,0,1,1.73,4.0,4.5,1.05,9.0,1.29,3.5,1.7,2.1,2.75,1.4,5.0,1.14,1.7,2.05
+3239312,China Chinese Super League,2022,2022-10-05 08:30:00,21,Meizhou Hakka,Shandong Luneng,1,2,5.25,3.6,1.7,1.06,8.0,1.33,3.25,2.15,1.67,3.4,1.3,6.5,1.1,2.05,1.7
+3239315,China Chinese Super League,2022,2022-10-08 08:30:00,22,Henan Jianye,Hebei CFFC,1,0,1.06,13.0,34.0,1.0,23.0,1.08,7.25,1.25,4.0,1.8,2.02,2.45,1.49,2.5,1.5
+3239316,China Chinese Super League,2022,2022-10-08 09:00:00,22,Tianjin Teda,Wuhan Three Towns,0,1,5.5,3.5,1.7,1.04,11.0,1.24,3.7,1.85,1.95,2.8,1.37,5.25,1.14,1.8,1.95
+3239317,China Chinese Super League,2022,2022-10-08 09:00:00,22,Shijiazhuang Ever Bright,Guangzhou R&F,0,0,1.55,4.2,6.0,1.04,11.0,1.23,3.8,1.8,2.0,2.65,1.41,4.75,1.16,1.91,1.91
+3239318,China Chinese Super League,2022,2022-10-09 04:30:00,22,Changchun Yatai,Shanghai SIPG,1,4,3.97,3.47,1.97,1.06,8.75,1.31,3.2,1.93,1.82,3.3,1.29,6.25,1.1,1.8,1.95
+3239323,China Chinese Super League,2022,2022-10-09 08:30:00,22,Guangzhou Evergrande,Meizhou Hakka,1,3,5.75,3.6,1.65,1.05,8.0,1.29,3.3,2.15,1.67,3.2,1.3,5.5,1.11,2.2,1.62
+3239322,China Chinese Super League,2022,2022-10-09 08:30:00,22,Beijing Guoan,Shandong Luneng,3,3,3.8,3.6,1.95,1.05,13.25,1.29,3.4,1.85,1.95,3.0,1.33,5.5,1.11,1.75,2.0
+3239320,China Chinese Super League,2022,2022-10-09 08:30:00,22,Wuhan Zall,Hangzhou,0,3,12.0,5.0,1.3,1.05,11.75,1.29,3.3,1.85,1.95,3.2,1.3,5.5,1.11,2.38,1.53
+3239319,China Chinese Super League,2022,2022-10-09 08:30:00,22,Dalian Yifang,Chengdu Better City FC,2,0,2.88,3.3,2.45,1.05,8.0,1.29,3.3,2.3,1.6,3.2,1.3,5.5,1.11,2.0,1.75
+3239321,China Chinese Super League,2022,2022-10-09 09:00:00,22,Shenzhen,Shanghai Shenhua,0,0,3.8,3.2,2.1,1.05,8.0,1.3,3.2,2.3,1.6,3.2,1.3,5.75,1.1,2.0,1.75
+3239293,China Chinese Super League,2022,2022-10-24 04:00:00,19,Chengdu Better City FC,Hangzhou,1,1,2.88,3.1,2.63,1.06,9.5,1.37,2.9,2.15,1.67,3.95,1.23,8.5,1.07,1.91,1.91
+3239291,China Chinese Super League,2022,2022-10-24 04:00:00,19,Henan Jianye,Shijiazhuang Ever Bright,3,0,2.3,3.3,3.25,1.06,11.5,1.29,3.3,1.95,1.85,3.2,1.3,5.75,1.1,1.75,2.0
+3239290,China Chinese Super League,2022,2022-10-24 04:30:00,19,Changchun Yatai,Beijing Guoan,0,1,3.75,3.5,2.0,1.04,12.0,1.3,3.39,1.95,1.85,3.32,1.31,6.4,1.11,1.8,1.95
+3239288,China Chinese Super League,2022,2022-10-24 06:30:00,19,Shanghai SIPG,Meizhou Hakka,7,0,1.6,3.45,4.25,1.04,11.0,1.33,3.33,1.87,1.73,3.58,1.29,7.16,1.1,1.91,1.91
+3239401,China Chinese Super League,2022,2022-10-24 08:30:00,19,Shandong Luneng,Guangzhou Evergrande,3,0,1.18,7.0,19.0,0.0,0.0,0.0,0.0,1.53,2.4,2.32,1.62,0.0,0.0,2.25,1.57
+3239404,China Chinese Super League,2022,2022-10-24 09:00:00,19,Shenzhen,Hebei CFFC,2,1,1.05,12.0,41.0,0.0,0.0,0.0,0.0,1.44,2.7,2.38,1.55,0.0,0.0,4.0,1.22
+3239292,China Chinese Super League,2022,2022-10-24 09:00:00,19,Tianjin Teda,Wuhan Zall,3,1,1.4,4.5,9.0,1.03,14.0,1.25,3.75,1.8,2.0,3.0,1.36,5.75,1.13,2.05,1.7
+3239294,China Chinese Super League,2022,2022-10-25 06:30:00,19,Shanghai Shenhua,Guangzhou R&F,1,1,1.42,4.25,7.12,1.03,14.0,1.27,3.55,1.85,1.85,3.15,1.33,6.0,1.12,1.91,1.91
+3239295,China Chinese Super League,2022,2022-10-25 08:30:00,19,Wuhan Three Towns,Dalian Yifang,4,0,1.25,5.75,12.0,1.02,16.0,1.19,4.4,1.44,2.7,2.2,1.62,4.2,1.21,1.8,1.95
+3239304,China Chinese Super League,2022,2022-10-29 04:00:00,20,Hebei CFFC,Guangzhou R&F,0,4,15.0,6.7,1.17,1.0,10.5,1.16,4.3,1.62,2.3,2.42,1.47,4.25,1.17,2.41,1.5
+3239297,China Chinese Super League,2022,2022-10-29 04:30:00,20,Changchun Yatai,Meizhou Hakka,1,0,2.6,3.2,2.55,1.01,9.75,1.27,3.4,1.83,1.87,3.0,1.33,5.75,1.12,1.7,2.05
+3239412,China Chinese Super League,2022,2022-10-29 06:30:00,20,Shanghai Shenhua,Shijiazhuang Ever Bright,1,2,1.91,3.2,3.8,0.0,0.0,1.88,1.93,2.1,1.67,0.0,0.0,0.0,0.0,1.75,2.0
+3239407,China Chinese Super League,2022,2022-10-29 08:00:00,20,Shenzhen,Henan Jianye,0,2,5.5,4.0,1.62,0.0,0.0,0.0,0.0,1.85,1.95,0.0,0.0,0.0,0.0,1.95,1.8
+3239303,China Chinese Super League,2022,2022-10-29 08:30:00,20,Wuhan Three Towns,Chengdu Better City FC,0,1,1.25,6.0,10.0,1.04,15.0,1.25,3.6,1.65,2.2,2.8,1.38,4.75,1.15,2.2,1.62
+3239298,China Chinese Super League,2022,2022-10-29 08:30:00,20,Beijing Guoan,Guangzhou Evergrande,4,1,1.13,9.0,19.0,1.04,11.0,1.25,3.6,1.48,2.6,2.9,1.36,5.0,1.13,2.63,1.44
+3239301,China Chinese Super League,2022,2022-10-29 09:00:00,20,Tianjin Teda,Hangzhou,1,2,2.05,3.6,3.5,0.0,0.0,0.0,0.0,2.15,1.67,0.0,0.0,0.0,0.0,1.95,1.8
+3239299,China Chinese Super League,2022,2022-10-30 08:30:00,20,Shandong Luneng,Shanghai SIPG,3,1,2.7,3.25,2.75,1.06,8.0,1.33,3.25,2.1,1.7,3.4,1.3,6.0,1.11,1.8,1.95
+3239300,China Chinese Super League,2022,2022-10-30 08:30:00,20,Dalian Yifang,Wuhan Zall,2,1,1.5,4.2,7.0,1.0,10.5,1.21,3.74,1.75,2.05,2.78,1.36,5.05,1.12,1.8,1.95
+3239330,China Chinese Super League,2022,2022-11-03 04:30:00,23,Changchun Yatai,Shanghai Shenhua,0,0,2.8,3.1,2.4,1.03,8.5,1.33,3.1,2.13,1.72,3.5,1.26,7.0,1.06,1.88,1.8
+3239331,China Chinese Super League,2022,2022-11-03 06:30:00,23,Shandong Luneng,Tianjin Teda,4,1,1.56,4.46,5.35,1.03,12.5,1.19,4.2,1.6,2.2,2.2,1.61,4.2,1.19,1.78,1.9
+3239325,China Chinese Super League,2022,2022-11-03 08:00:00,23,Hangzhou,Shenzhen,0,2,1.45,4.75,6.5,1.02,11.0,1.26,3.55,1.67,2.15,3.35,1.3,6.25,1.1,1.83,1.91
+3239332,China Chinese Super League,2022,2022-11-03 08:30:00,23,Chengdu Better City FC,Hebei CFFC,6,0,1.03,19.0,41.0,1.01,31.0,1.11,6.75,1.22,4.2,1.87,1.9,3.1,1.37,4.5,1.17
+3239324,China Chinese Super League,2022,2022-11-03 08:30:00,23,Wuhan Three Towns,Guangzhou R&F,4,1,1.05,15.0,34.0,1.02,16.0,1.14,5.25,1.29,3.6,2.35,1.56,3.4,1.28,2.85,1.37
+3239326,China Chinese Super League,2022,2022-11-04 06:30:00,23,Shanghai SIPG,Dalian Yifang,2,1,1.21,5.8,7.0,1.03,13.0,1.17,4.25,1.76,2.07,2.25,1.6,4.33,1.16,2.2,1.62
+3239327,China Chinese Super League,2022,2022-11-04 08:00:00,23,Guangzhou Evergrande,Shijiazhuang Ever Bright,3,3,11.0,6.0,1.25,1.02,9.2,1.27,3.28,1.57,2.35,3.18,1.29,5.95,1.08,2.05,1.7
+3239328,China Chinese Super League,2022,2022-11-04 08:30:00,23,Wuhan Zall,Meizhou Hakka,0,0,6.0,4.33,1.53,1.03,12.5,1.18,4.15,1.67,2.15,2.54,1.43,4.5,1.15,1.8,1.95
+3239329,China Chinese Super League,2022,2022-11-04 08:30:00,23,Beijing Guoan,Henan Jianye,2,1,2.55,3.4,2.75,1.02,9.0,1.27,3.28,2.1,1.7,3.2,1.28,6.05,1.08,1.8,1.95
+3239339,China Chinese Super League,2022,2022-11-07 06:30:00,24,Shandong Luneng,Shanghai Shenhua,2,0,1.35,4.4,5.8,1.04,14.0,1.26,3.88,1.86,1.9,3.0,1.39,5.6,1.15,1.95,1.8
+3239341,China Chinese Super League,2022,2022-11-07 08:00:00,24,Tianjin Teda,Hebei CFFC,5,0,1.03,17.0,41.0,1.01,56.0,1.07,9.7,1.17,5.0,1.66,2.24,2.43,1.57,2.87,1.42
+3239338,China Chinese Super League,2022,2022-11-07 08:30:00,24,Chengdu Better City FC,Changchun Yatai,2,2,2.15,3.2,3.6,1.07,11.25,1.34,3.67,2.25,1.62,3.2,1.3,7.1,1.1,1.95,1.8
+3239335,China Chinese Super League,2022,2022-11-08 04:00:00,24,Guangzhou Evergrande,Hangzhou,1,5,8.5,4.5,1.4,1.0,10.25,1.22,3.65,1.8,2.0,2.79,1.36,5.15,1.11,2.0,1.75
+3239340,China Chinese Super League,2022,2022-11-08 04:30:00,24,Wuhan Zall,Guangzhou R&F,2,1,3.1,3.5,2.25,1.07,9.95,1.36,3.15,1.9,1.9,3.78,1.27,7.5,1.09,1.7,2.05
+3239333,China Chinese Super League,2022,2022-11-08 06:30:00,24,Shanghai SIPG,Shijiazhuang Ever Bright,2,0,1.36,5.0,8.5,1.04,10.0,1.2,4.33,1.65,2.2,2.65,1.45,4.5,1.17,1.95,1.8
+3239336,China Chinese Super League,2022,2022-11-08 08:30:00,24,Meizhou Hakka,Henan Jianye,3,2,3.3,3.4,2.2,1.05,10.25,1.32,3.15,2.08,1.73,3.6,1.27,7.25,1.1,1.91,1.91
+3239337,China Chinese Super League,2022,2022-11-08 08:30:00,24,Beijing Guoan,Wuhan Three Towns,0,2,4.5,3.8,1.7,1.01,10.0,1.25,3.75,1.57,2.35,2.95,1.36,5.25,1.11,1.62,2.2
+3239227,China Chinese Super League,2022,2022-11-08 09:00:00,24,Shenzhen,Dalian Yifang,0,2,2.7,3.4,2.63,1.02,11.25,1.3,3.3,1.95,1.85,3.3,1.32,5.85,1.08,1.7,2.05
+3239346,China Chinese Super League,2022,2022-11-12 06:30:00,25,Shandong Luneng,Hebei CFFC,4,0,1.02,19.0,53.0,0.0,0.0,1.03,15.5,1.16,6.0,1.42,2.89,1.86,1.81,2.75,1.39
+3239343,China Chinese Super League,2022,2022-11-12 08:00:00,25,Changchun Yatai,Tianjin Teda,2,3,2.63,3.3,2.7,1.06,8.0,1.3,3.3,2.0,1.8,3.5,1.28,6.0,1.11,1.75,2.0
+3239345,China Chinese Super League,2022,2022-11-12 08:30:00,25,Guangzhou R&F,Meizhou Hakka,0,1,4.0,4.0,1.8,1.06,8.0,1.3,3.3,1.85,1.95,3.5,1.28,6.0,1.11,1.8,1.95
+3239239,China Chinese Super League,2022,2022-11-12 08:30:00,25,Chengdu Better City FC,Shanghai Shenhua,3,2,1.91,3.4,4.5,1.07,7.5,1.33,3.1,2.4,1.53,3.75,1.25,7.0,1.08,2.2,1.62
+3239342,China Chinese Super League,2022,2022-11-13 04:00:00,25,Dalian Yifang,Guangzhou Evergrande,1,1,1.5,4.75,5.75,1.03,14.0,1.27,3.55,1.85,1.95,3.1,1.33,6.0,1.12,2.0,1.75
+3239235,China Chinese Super League,2022,2022-11-13 08:00:00,25,Shenzhen,Shanghai SIPG,0,3,29.0,15.0,1.05,1.02,16.0,1.2,4.25,1.4,2.88,2.38,1.53,5.0,1.16,4.0,1.22
+3239349,China Chinese Super League,2022,2022-11-13 08:30:00,25,Beijing Guoan,Wuhan Zall,3,1,1.36,5.25,8.5,1.0,10.5,1.25,3.75,1.7,2.1,3.1,1.33,4.85,1.18,2.0,1.75
+3239348,China Chinese Super League,2022,2022-11-13 08:30:00,25,Hangzhou,Shijiazhuang Ever Bright,3,3,3.2,3.6,2.2,1.02,9.0,1.3,3.3,1.8,2.0,3.5,1.28,6.35,1.11,1.67,2.1
+3239347,China Chinese Super League,2022,2022-11-13 08:30:00,25,Wuhan Three Towns,Henan Jianye,1,3,1.45,5.0,6.0,1.01,13.0,1.2,4.33,1.57,2.35,2.7,1.44,5.09,1.17,1.8,1.95
+3239248,China Chinese Super League,2022,2022-11-21 08:00:00,26,Changchun Yatai,Hebei CFFC,4,1,1.03,21.0,34.0,1.01,26.0,1.07,7.75,1.18,4.5,1.66,2.23,2.4,1.53,3.25,1.33
+3239249,China Chinese Super League,2022,2022-11-21 08:00:00,26,Tianjin Teda,Shanghai Shenhua,2,1,1.91,3.75,3.8,1.06,8.75,1.31,3.2,2.05,1.75,3.3,1.29,6.25,1.1,1.95,1.8
+3239351,China Chinese Super League,2022,2022-11-21 08:30:00,26,Guangzhou R&F,Beijing Guoan,1,2,8.5,4.75,1.4,1.04,11.0,1.24,3.7,1.6,2.3,2.85,1.37,5.25,1.14,1.8,1.95
+3239354,China Chinese Super League,2022,2022-11-21 08:30:00,26,Wuhan Three Towns,Meizhou Hakka,3,0,1.09,10.0,29.0,1.04,11.0,1.25,3.6,1.4,2.88,2.87,1.36,5.25,1.13,2.63,1.44
+3239355,China Chinese Super League,2022,2022-11-21 08:30:00,26,Chengdu Better City FC,Shandong Luneng,2,1,5.0,4.0,1.62,1.04,11.5,1.23,3.75,1.75,2.05,2.75,1.39,5.0,1.15,1.8,1.95
+3239352,China Chinese Super League,2022,2022-11-22 08:00:00,26,Shijiazhuang Ever Bright,Dalian Yifang,1,1,1.83,4.0,3.6,1.05,12.25,1.28,3.72,1.73,2.08,3.15,1.36,6.0,1.13,1.7,2.05
+3239359,China Chinese Super League,2022,2022-11-22 08:30:00,26,Shenzhen,Guangzhou Evergrande,2,1,2.15,3.5,3.25,1.05,9.0,1.29,3.5,1.85,1.95,3.0,1.36,5.5,1.12,1.7,2.05
+3239358,China Chinese Super League,2022,2022-11-22 08:30:00,26,Hangzhou,Shanghai SIPG,2,1,5.5,4.75,1.53,1.03,16.5,1.21,4.45,1.57,2.35,2.63,1.49,4.73,1.19,1.7,2.05
+3239357,China Chinese Super League,2022,2022-11-22 08:30:00,26,Henan Jianye,Wuhan Zall,3,0,1.25,5.75,12.0,1.03,16.75,1.22,4.38,1.5,2.5,2.67,1.48,4.8,1.19,2.0,1.75
+3239366,China Chinese Super League,2022,2022-11-25 08:00:00,27,Chengdu Better City FC,Guangzhou R&F,3,0,1.45,4.2,7.5,1.04,10.5,1.23,3.75,1.85,1.95,2.7,1.4,4.8,1.15,2.0,1.75
+3239365,China Chinese Super League,2022,2022-11-25 08:30:00,27,Shanghai Shenhua,Beijing Guoan,1,2,5.75,4.33,1.53,1.02,9.2,1.28,3.5,1.73,2.08,3.3,1.3,5.85,1.08,1.8,1.95
+3239360,China Chinese Super League,2022,2022-11-26 04:00:00,27,Changchun Yatai,Shijiazhuang Ever Bright,0,2,2.04,3.3,2.9,1.06,8.0,1.29,3.5,1.83,1.87,3.0,1.36,5.5,1.12,1.7,2.05
+3239364,China Chinese Super League,2022,2022-11-26 04:00:00,27,Dalian Yifang,Meizhou Hakka,2,1,2.32,3.3,2.43,1.05,9.0,1.25,3.75,1.92,1.78,2.75,1.4,5.0,1.14,1.62,2.2
+3239367,China Chinese Super League,2022,2022-11-26 06:30:00,27,Shandong Luneng,Wuhan Zall,5,0,1.06,11.25,25.0,1.0,23.0,1.1,6.25,1.33,2.88,1.91,1.77,2.9,1.35,2.5,1.5
+3239368,China Chinese Super League,2022,2022-11-26 08:00:00,27,Hebei CFFC,Hangzhou,1,6,51.0,19.0,1.02,1.01,75.0,1.03,11.5,1.13,6.0,1.37,2.85,1.84,1.83,3.6,1.24
+3239260,China Chinese Super League,2022,2022-11-26 08:30:00,27,Shenzhen,Wuhan Three Towns,0,4,67.0,21.0,1.02,1.02,15.0,1.11,6.0,1.13,6.0,2.01,1.8,2.05,1.73,3.75,1.25
+3239361,China Chinese Super League,2022,2022-11-26 08:30:00,27,Guangzhou Evergrande,Henan Jianye,1,1,7.0,6.0,1.33,1.01,13.0,1.19,4.0,1.62,2.25,2.75,1.37,5.25,1.11,2.0,1.75
+3239363,China Chinese Super League,2022,2022-11-26 09:00:00,27,Tianjin Teda,Shanghai SIPG,1,0,5.0,3.8,1.7,1.05,9.0,1.29,3.5,1.7,2.1,3.0,1.36,5.0,1.14,1.7,2.05
+3239371,China Chinese Super League,2022,2022-11-30 04:00:00,28,Shandong Luneng,Shijiazhuang Ever Bright,2,3,1.2,6.5,13.0,1.01,31.0,1.11,6.7,1.36,3.1,1.95,1.86,3.12,1.37,1.91,1.91
+3239262,China Chinese Super League,2022,2022-11-30 08:00:00,28,Tianjin Teda,Guangzhou R&F,1,0,3.4,3.4,2.2,1.01,10.0,1.22,3.64,2.1,1.7,2.84,1.35,5.25,1.11,1.91,1.91
+3239377,China Chinese Super League,2022,2022-11-30 08:00:00,28,Hebei CFFC,Dalian Yifang,1,4,29.0,12.0,1.07,1.01,77.0,1.05,12.5,1.18,4.5,1.51,2.57,2.13,1.72,2.05,1.7
+3239376,China Chinese Super League,2022,2022-11-30 08:30:00,28,Shenzhen,Wuhan Zall,1,2,4.0,3.5,1.91,1.04,13.5,1.26,3.88,1.85,1.95,3.0,1.4,5.6,1.15,1.8,1.95
+3239369,China Chinese Super League,2022,2022-11-30 08:30:00,28,Shanghai SIPG,Henan Jianye,1,3,2.0,3.6,3.6,1.02,9.2,1.26,3.34,1.73,2.08,3.14,1.29,5.9,1.08,1.62,2.2
+3239372,China Chinese Super League,2022,2022-11-30 08:30:00,28,Wuhan Three Towns,Changchun Yatai,2,3,1.14,8.5,15.0,1.02,24.0,1.15,5.5,1.33,3.4,2.23,1.61,3.72,1.28,2.0,1.75
+3239375,China Chinese Super League,2022,2022-11-30 08:30:00,28,Hangzhou,Beijing Guoan,2,0,2.45,3.75,2.7,1.03,8.2,1.32,2.98,1.65,2.2,3.56,1.23,6.85,1.06,1.57,2.25
+3239370,China Chinese Super League,2022,2022-12-01 08:00:00,28,Chengdu Better City FC,Guangzhou Evergrande,2,0,1.55,4.2,6.0,1.04,15.25,1.24,4.15,1.62,2.25,2.82,1.44,5.15,1.17,1.7,2.05
+3239373,China Chinese Super League,2022,2022-12-01 08:30:00,28,Meizhou Hakka,Shanghai Shenhua,0,1,1.83,4.2,3.8,1.01,9.7,1.24,3.48,1.95,1.85,2.98,1.32,5.5,1.1,1.91,1.91
+3239379,China Chinese Super League,2022,2022-12-04 08:00:00,29,Shijiazhuang Ever Bright,Wuhan Three Towns,0,4,9.5,8.0,1.22,1.02,15.0,1.16,4.8,1.25,4.0,2.25,1.6,3.6,1.25,1.67,2.1
+3239380,China Chinese Super League,2022,2022-12-04 08:30:00,29,Guangzhou R&F,Shanghai SIPG,1,2,41.0,11.0,1.05,1.04,15.5,1.22,3.8,1.33,3.4,2.05,1.7,4.5,1.17,3.25,1.33
+3239386,China Chinese Super League,2022,2022-12-04 08:30:00,29,Wuhan Zall,Changchun Yatai,1,1,2.1,3.75,3.3,1.04,15.75,1.22,3.8,1.7,2.1,2.7,1.4,4.75,1.15,1.62,2.2
+3239384,China Chinese Super League,2022,2022-12-05 04:30:00,29,Beijing Guoan,Dalian Yifang,1,3,1.67,4.0,5.0,1.04,10.0,1.25,3.75,1.85,1.95,3.0,1.36,5.0,1.14,1.91,1.91
+3239383,China Chinese Super League,2022,2022-12-05 08:00:00,29,Tianjin Teda,Guangzhou Evergrande,0,0,1.62,4.0,5.5,1.05,9.0,1.25,3.6,1.73,2.08,2.9,1.36,5.25,1.13,1.8,1.95
+3239278,China Chinese Super League,2022,2022-12-05 08:00:00,29,Hebei CFFC,Meizhou Hakka,0,4,15.0,6.0,1.2,1.01,75.0,1.05,9.75,1.36,3.1,1.5,2.43,2.2,1.6,1.88,1.8
+3239378,China Chinese Super League,2022,2022-12-05 08:30:00,29,Henan Jianye,Chengdu Better City FC,0,1,2.2,3.6,3.0,1.05,13.0,1.25,3.6,1.7,2.1,2.88,1.36,5.0,1.13,1.62,2.2
+3239385,China Chinese Super League,2022,2022-12-05 08:30:00,29,Shanghai Shenhua,Hangzhou,0,2,4.75,3.8,1.7,1.04,14.0,1.25,3.6,1.95,1.85,2.9,1.36,5.0,1.13,1.8,1.95
+3239395,China Chinese Super League,2022,2022-12-09 08:00:00,30,Shijiazhuang Ever Bright,Wuhan Zall,1,0,1.5,4.0,7.0,1.05,12.0,1.27,3.78,1.7,2.1,3.08,1.38,5.9,1.14,1.8,1.95
+3239387,China Chinese Super League,2022,2022-12-09 08:30:00,30,Shanghai Shenhua,Dalian Yifang,1,2,2.9,3.1,2.6,1.05,9.5,1.32,3.3,2.15,1.67,3.1,1.28,6.5,1.11,1.91,1.91
+3239388,China Chinese Super League,2022,2022-12-09 08:30:00,30,Wuhan Three Towns,Shandong Luneng,1,1,2.0,3.8,3.4,1.02,9.0,1.31,3.52,1.6,2.3,3.33,1.33,6.5,1.08,1.57,2.25
+3239392,China Chinese Super League,2022,2022-12-10 04:00:00,30,Hebei CFFC,Beijing Guoan,0,4,21.0,12.0,1.08,1.0,29.0,1.07,7.75,1.29,3.6,1.88,1.79,2.45,1.49,2.25,1.57
+3239393,China Chinese Super League,2022,2022-12-10 04:00:00,30,Chengdu Better City FC,Shanghai SIPG,0,0,2.6,3.3,2.7,1.06,8.0,1.33,3.25,1.95,1.85,3.4,1.3,6.0,1.11,1.75,2.0
+3239394,China Chinese Super League,2022,2022-12-10 08:00:00,30,Shenzhen,Changchun Yatai,0,2,5.25,3.6,1.7,1.04,10.5,1.23,3.75,1.8,2.0,2.75,1.39,4.6,1.12,1.75,2.0
+3239390,China Chinese Super League,2022,2022-12-10 08:30:00,30,Hangzhou,Meizhou Hakka,2,0,1.67,4.0,5.0,1.05,9.0,1.29,3.5,1.73,2.08,3.0,1.36,5.5,1.12,1.75,2.0
+3239391,China Chinese Super League,2022,2022-12-10 08:30:00,30,Guangzhou Evergrande,Guangzhou R&F,0,0,2.6,3.4,2.63,1.07,7.5,1.33,3.25,1.85,1.95,3.4,1.3,6.5,1.1,1.67,2.1
+3239287,China Chinese Super League,2022,2022-12-10 09:00:00,30,Tianjin Teda,Henan Jianye,1,1,3.5,3.5,2.1,1.06,8.0,1.33,3.25,1.8,2.0,3.4,1.3,6.0,1.11,1.67,2.1
+3239402,China Chinese Super League,2022,2022-12-14 04:00:00,31,Dalian Yifang,Wuhan Three Towns,1,2,8.0,4.5,1.44,1.01,16.5,1.12,5.0,1.57,2.35,2.2,1.62,3.56,1.23,1.75,2.0
+3239398,China Chinese Super League,2022,2022-12-14 06:00:00,31,Wuhan Zall,Tianjin Teda,0,3,11.0,6.0,1.25,1.04,11.0,1.2,3.84,1.65,2.2,2.67,1.39,4.9,1.13,2.2,1.62
+3239396,China Chinese Super League,2022,2022-12-14 08:30:00,31,Guangzhou R&F,Shanghai Shenhua,1,1,3.3,3.0,2.38,1.06,7.5,1.36,2.9,2.5,1.5,3.6,1.25,6.5,1.08,2.05,1.7
+3239399,China Chinese Super League,2022,2022-12-15 04:00:00,31,Beijing Guoan,Changchun Yatai,3,0,1.29,5.5,12.0,1.07,7.5,1.33,3.1,1.7,2.1,3.75,1.25,7.0,1.08,2.2,1.62
+3239400,China Chinese Super League,2022,2022-12-15 08:00:00,31,Shijiazhuang Ever Bright,Henan Jianye,1,1,3.0,3.4,2.38,1.05,9.0,1.25,3.6,2.2,1.65,2.8,1.38,5.0,1.13,1.95,1.8
+3239397,China Chinese Super League,2022,2022-12-15 08:30:00,31,Hangzhou,Chengdu Better City FC,1,1,2.25,3.4,3.2,1.05,8.0,1.3,3.2,2.0,1.8,3.3,1.29,6.0,1.09,1.8,1.95
+3239403,China Chinese Super League,2022,2022-12-15 08:30:00,31,Meizhou Hakka,Shanghai SIPG,0,1,3.3,3.5,2.2,1.05,9.0,1.29,3.3,1.85,1.95,3.0,1.33,5.5,1.11,1.7,2.05
+3239289,China Chinese Super League,2022,2022-12-15 08:30:00,31,Guangzhou Evergrande,Shandong Luneng,2,4,14.0,6.75,1.17,1.02,12.0,1.15,4.75,1.45,2.55,2.3,1.57,3.6,1.25,1.95,1.8
+3239296,China Chinese Super League,2022,2022-12-15 09:00:00,31,Hebei CFFC,Shenzhen,2,0,11.0,6.5,1.18,1.01,54.0,1.03,8.3,1.22,4.2,1.61,2.33,2.28,1.58,1.62,2.2
+3239382,China Chinese Super League,2022,2022-12-19 08:00:00,29,Shandong Luneng,Shenzhen,8,0,1.17,7.0,9.0,1.01,17.0,1.11,5.5,1.44,2.47,2.35,1.6,3.3,1.29,2.5,1.48
+3239413,China Chinese Super League,2022,2022-12-23 04:00:00,32,Wuhan Zall,Dalian Yifang,3,0,1.8,3.5,4.0,1.04,15.0,1.19,3.92,1.67,2.15,2.64,1.4,4.75,1.13,1.58,2.23
+3239405,China Chinese Super League,2022,2022-12-23 04:00:00,32,Meizhou Hakka,Changchun Yatai,1,0,1.53,3.75,5.0,1.02,9.0,1.27,3.28,1.7,2.1,3.2,1.28,6.05,1.08,1.67,2.07
+3239302,China Chinese Super League,2022,2022-12-23 04:00:00,32,Henan Jianye,Shenzhen,3,0,1.2,6.0,9.0,1.01,17.5,1.09,5.7,1.4,2.88,2.06,1.72,3.08,1.3,1.81,1.89
+3239408,China Chinese Super League,2022,2022-12-23 04:00:00,32,Hangzhou,Tianjin Teda,3,0,1.22,4.75,11.0,1.02,8.9,1.29,3.18,2.0,1.8,3.28,1.27,6.25,1.07,2.49,1.47
+3239411,China Chinese Super League,2022,2022-12-23 04:00:00,32,Guangzhou R&F,Hebei CFFC,4,1,1.04,15.0,26.0,1.01,62.0,1.04,7.6,1.22,4.2,1.86,2.03,2.4,1.48,2.55,1.45
+3239410,China Chinese Super League,2022,2022-12-23 04:00:00,32,Guangzhou Evergrande,Beijing Guoan,1,3,3.75,3.8,1.85,1.01,10.0,1.22,3.64,2.08,1.73,2.84,1.35,5.25,1.11,1.89,1.81
+3239305,China Chinese Super League,2022,2022-12-23 09:00:00,32,Shijiazhuang Ever Bright,Shanghai Shenhua,0,3,4.45,3.78,1.73,1.01,9.7,1.24,3.48,1.86,1.94,2.98,1.32,5.55,1.1,1.77,1.94
+3239406,China Chinese Super League,2022,2022-12-23 09:00:00,32,Chengdu Better City FC,Wuhan Three Towns,1,0,4.2,3.6,1.83,1.0,10.5,1.21,3.74,1.75,2.05,2.75,1.37,5.05,1.12,1.69,2.04
+3239409,China Chinese Super League,2022,2022-12-23 09:00:00,32,Shanghai SIPG,Shandong Luneng,2,0,6.5,4.0,1.57,1.01,9.5,1.25,3.42,1.8,2.0,3.04,1.31,5.65,1.09,1.81,1.89
+3239421,China Chinese Super League,2022,2022-12-27 04:00:00,33,Guangzhou Evergrande,Changchun Yatai,1,4,3.5,3.25,2.2,1.03,9.0,1.29,3.4,1.95,1.85,3.2,1.32,6.3,1.11,1.7,2.05
+3239414,China Chinese Super League,2022,2022-12-27 04:00:00,33,Beijing Guoan,Shanghai SIPG,0,3,6.0,4.0,1.57,1.04,13.0,1.23,3.9,1.62,2.25,2.77,1.41,5.25,1.15,1.7,2.05
+3239415,China Chinese Super League,2022,2022-12-27 04:00:00,33,Shenzhen,Guangzhou R&F,0,3,8.0,4.75,1.4,1.02,13.0,1.17,5.0,1.4,2.88,2.33,1.62,4.2,1.23,1.53,2.38
+3239416,China Chinese Super League,2022,2022-12-27 04:00:00,33,Shijiazhuang Ever Bright,Hebei CFFC,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3239418,China Chinese Super League,2022,2022-12-27 04:00:00,33,Chengdu Better City FC,Wuhan Zall,3,1,1.17,7.0,19.0,1.0,10.5,1.2,3.88,1.65,2.2,2.67,1.39,4.8,1.13,2.63,1.44
+3239420,China Chinese Super League,2022,2022-12-27 04:00:00,33,Henan Jianye,Shanghai Shenhua,1,1,1.8,3.3,5.25,1.03,8.2,1.32,3.1,2.1,1.7,3.9,1.24,7.5,1.07,1.95,1.8
+3239417,China Chinese Super League,2022,2022-12-27 09:00:00,33,Tianjin Teda,Dalian Yifang,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3239419,China Chinese Super League,2022,2022-12-27 09:00:00,33,Shandong Luneng,Meizhou Hakka,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3239422,China Chinese Super League,2022,2022-12-27 09:00:00,33,Wuhan Three Towns,Hangzhou,2,0,1.36,5.0,8.0,1.02,17.0,1.2,4.3,1.57,2.35,2.55,1.46,4.65,1.18,1.75,2.0
+3239429,China Chinese Super League,2022,2022-12-30 04:00:00,34,Hebei CFFC,Henan Jianye,0,4,10.5,5.4,1.22,0.0,0.0,0.0,0.0,1.6,2.1,0.0,0.0,1.93,1.73,0.0,0.0
+3239430,China Chinese Super League,2022,2022-12-30 04:00:00,34,Shanghai Shenhua,Shenzhen,2,0,1.07,10.0,26.0,1.01,49.5,1.07,9.6,1.22,4.2,1.57,2.28,2.44,1.56,2.3,1.55
+3239425,China Chinese Super League,2022,2022-12-31 04:00:00,34,Shandong Luneng,Beijing Guoan,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3239426,China Chinese Super League,2022,2022-12-31 04:00:00,34,Guangzhou R&F,Shijiazhuang Ever Bright,1,4,2.25,3.8,2.9,1.01,11.0,1.17,4.3,1.67,2.15,2.5,1.45,4.3,1.17,1.62,2.2
+3239427,China Chinese Super League,2022,2022-12-31 04:00:00,34,Hangzhou,Wuhan Zall,4,0,1.06,15.0,25.0,1.01,68.0,1.03,8.5,1.22,4.2,1.5,2.4,2.12,1.73,2.63,1.44
+3239428,China Chinese Super League,2022,2022-12-31 04:00:00,34,Shanghai SIPG,Changchun Yatai,4,0,1.1,9.0,23.0,1.01,21.0,1.13,5.0,1.44,2.7,1.95,1.93,3.25,1.32,2.63,1.44
+3239423,China Chinese Super League,2022,2022-12-31 04:00:00,34,Meizhou Hakka,Guangzhou Evergrande,1,0,1.55,4.5,5.5,1.03,16.0,1.18,4.85,1.57,2.35,2.26,1.65,4.0,1.22,1.67,2.1
+3239424,China Chinese Super League,2022,2022-12-31 04:00:00,34,Chengdu Better City FC,Dalian Yifang,3,0,1.2,7.0,13.0,1.02,20.0,1.14,5.75,1.44,2.7,2.06,1.7,3.55,1.28,2.05,1.7
+3239431,China Chinese Super League,2022,2022-12-31 04:00:00,34,Wuhan Three Towns,Tianjin Teda,3,0,2.01,3.84,3.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

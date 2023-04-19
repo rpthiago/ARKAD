@@ -1,0 +1,181 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1540619,Republic of Ireland Premier Division,2022,2022-02-18 16:45:00,1,Dundalk,Derry City,2,2,1.97,3.2,3.45,1.07,7.5,1.36,3.0,2.0,1.73,3.75,1.25,7.0,1.08,1.91,1.91
+1540620,Republic of Ireland Premier Division,2022,2022-02-18 16:45:00,1,Shelbourne,St Patrick's Athl.,0,3,3.1,3.1,2.15,1.13,6.45,1.5,2.5,2.33,1.54,5.17,1.18,9.0,1.05,2.0,1.75
+1540622,Republic of Ireland Premier Division,2022,2022-02-18 17:00:00,1,Shamrock Rovers,UCD,3,0,1.3,4.5,9.0,1.04,10.0,1.24,4.21,1.85,1.86,2.93,1.42,5.51,1.14,2.38,1.53
+1540624,Republic of Ireland Premier Division,2022,2022-02-25 16:45:00,2,Bohemians,Dundalk,2,2,2.25,3.4,2.9,1.06,8.0,1.33,3.2,1.82,1.92,3.6,1.28,6.5,1.1,1.78,1.95
+1540625,Republic of Ireland Premier Division,2022,2022-02-25 16:45:00,2,Derry City,Shamrock Rovers,2,1,4.3,3.45,1.78,1.07,7.5,1.36,2.95,2.16,1.66,4.0,1.22,7.0,1.08,1.95,1.83
+1540626,Republic of Ireland Premier Division,2022,2022-02-25 16:45:00,2,Drogheda United,Shelbourne,0,2,2.04,3.3,3.5,1.08,7.0,1.4,2.8,2.28,1.6,4.2,1.2,7.5,1.07,1.95,1.8
+1540627,Republic of Ireland Premier Division,2022,2022-02-25 16:45:00,2,St Patrick's Athl.,Sligo Rovers,1,2,1.91,3.35,3.9,1.07,7.5,1.42,2.75,2.28,1.58,4.33,1.2,7.5,1.07,2.05,1.72
+1540628,Republic of Ireland Premier Division,2022,2022-02-25 16:45:00,2,UCD,Finn Harps,0,0,2.29,3.2,3.05,1.07,7.5,1.36,2.95,2.2,1.63,4.0,1.22,7.0,1.08,1.85,1.9
+1540632,Republic of Ireland Premier Division,2022,2022-02-28 16:45:00,3,UCD,Shelbourne,0,0,3.25,3.0,2.3,1.07,7.0,1.36,2.87,2.16,1.66,3.6,1.25,7.0,1.07,1.92,1.84
+1540631,Republic of Ireland Premier Division,2022,2022-02-28 16:45:00,3,Dundalk,Finn Harps,3,0,1.83,3.3,4.5,1.02,9.1,1.3,3.2,2.02,1.84,3.3,1.29,5.75,1.1,1.91,1.85
+1540630,Republic of Ireland Premier Division,2022,2022-02-28 16:45:00,3,Derry City,Sligo Rovers,0,0,2.9,2.88,2.6,1.07,7.0,1.4,2.7,2.25,1.6,3.8,1.22,7.0,1.07,1.98,1.78
+1540629,Republic of Ireland Premier Division,2022,2022-02-28 16:45:00,3,Bohemians,St Patrick's Athl.,1,0,2.5,3.0,2.9,1.07,7.0,1.38,2.8,2.25,1.61,3.8,1.22,7.0,1.07,1.91,1.85
+1540633,Republic of Ireland Premier Division,2022,2022-02-28 17:00:00,3,Shamrock Rovers,Drogheda United,3,1,1.33,4.33,10.0,1.02,9.3,1.29,3.3,2.02,1.84,3.2,1.3,5.75,1.1,2.36,1.56
+1540634,Republic of Ireland Premier Division,2022,2022-03-04 16:45:00,4,Drogheda United,UCD,4,2,2.01,3.48,3.78,1.03,8.3,1.35,3.1,2.1,1.7,3.7,1.26,7.0,1.06,1.93,1.87
+1540635,Republic of Ireland Premier Division,2022,2022-03-04 16:45:00,4,Shelbourne,Derry City,0,1,3.35,3.34,2.21,1.08,7.0,1.4,2.75,2.2,1.61,3.75,1.25,7.0,1.08,1.96,1.8
+1540636,Republic of Ireland Premier Division,2022,2022-03-04 16:45:00,4,St Patrick's Athl.,Shamrock Rovers,1,0,3.64,3.45,2.06,1.07,7.5,1.36,3.0,2.0,1.75,3.5,1.29,6.5,1.1,1.91,1.85
+1540637,Republic of Ireland Premier Division,2022,2022-03-04 17:00:00,4,Finn Harps,Bohemians,1,1,3.64,3.42,2.07,1.08,7.0,1.4,2.75,2.25,1.6,3.75,1.25,7.5,1.07,1.91,1.85
+1540638,Republic of Ireland Premier Division,2022,2022-03-05 16:45:00,4,Sligo Rovers,Dundalk,0,0,2.34,3.34,3.02,1.08,7.0,1.36,3.0,2.06,1.74,3.75,1.25,7.0,1.08,1.83,1.9
+1540640,Republic of Ireland Premier Division,2022,2022-03-11 16:45:00,5,Shelbourne,Dundalk,1,1,3.22,3.32,2.28,1.04,8.0,1.37,2.99,2.11,1.65,3.88,1.24,7.4,1.05,1.91,1.89
+1540639,Republic of Ireland Premier Division,2022,2022-03-11 16:45:00,5,Drogheda United,Sligo Rovers,0,3,3.98,3.32,2.01,1.04,8.0,1.37,2.99,2.14,1.63,3.88,1.24,7.4,1.05,1.92,1.88
+1540643,Republic of Ireland Premier Division,2022,2022-03-11 17:00:00,5,Shamrock Rovers,Bohemians,1,0,1.73,3.65,5.05,1.02,9.3,1.3,3.4,1.92,1.79,3.32,1.31,6.15,1.08,2.09,1.74
+1540642,Republic of Ireland Premier Division,2022,2022-03-11 17:00:00,5,Finn Harps,St Patrick's Athl.,0,2,3.38,3.3,2.22,1.05,7.5,1.41,2.82,2.16,1.62,4.1,1.22,8.0,1.04,1.97,1.83
+1540644,Republic of Ireland Premier Division,2022,2022-03-14 16:45:00,6,Bohemians,Shelbourne,1,1,1.95,3.25,3.85,1.04,8.3,1.35,3.1,2.03,1.7,3.7,1.26,7.0,1.06,1.91,1.85
+1540645,Republic of Ireland Premier Division,2022,2022-03-14 16:45:00,6,Derry City,Drogheda United,2,0,1.6,3.55,5.75,1.04,8.3,1.36,3.04,2.01,1.89,3.7,1.26,7.1,1.06,1.98,1.78
+1540646,Republic of Ireland Premier Division,2022,2022-03-14 16:45:00,6,Dundalk,Shamrock Rovers,0,0,3.15,3.15,2.2,1.02,9.3,1.3,3.4,2.06,1.84,3.32,1.31,6.1,1.08,1.73,2.0
+1540647,Republic of Ireland Premier Division,2022,2022-03-14 16:45:00,6,Sligo Rovers,Finn Harps,3,1,1.85,3.2,4.3,1.05,7.7,1.4,2.86,2.09,1.66,4.1,1.22,7.8,1.04,1.91,1.8
+1540648,Republic of Ireland Premier Division,2022,2022-03-14 16:45:00,6,St Patrick's Athl.,UCD,2,0,1.3,4.8,10.0,1.02,9.5,1.29,3.46,1.88,2.02,3.26,1.32,5.95,1.09,2.62,1.44
+1540652,Republic of Ireland Premier Division,2022,2022-03-18 14:00:00,7,UCD,Bohemians,1,1,3.06,3.06,2.17,1.02,9.3,1.29,3.46,1.97,1.76,3.26,1.32,6.05,1.09,1.9,1.9
+1540649,Republic of Ireland Premier Division,2022,2022-03-18 16:45:00,7,Derry City,St Patrick's Athl.,2,1,2.42,3.06,2.67,1.07,7.5,1.36,3.0,1.97,1.76,3.5,1.29,7.0,1.08,1.95,1.81
+1540650,Republic of Ireland Premier Division,2022,2022-03-18 16:45:00,7,Drogheda United,Dundalk,1,0,2.37,3.16,2.66,1.05,9.0,1.3,3.4,1.89,1.83,3.25,1.33,5.5,1.12,1.81,1.95
+1540651,Republic of Ireland Premier Division,2022,2022-03-18 16:45:00,7,Shelbourne,Finn Harps,0,3,2.41,2.96,2.76,1.08,7.0,1.4,2.75,2.15,1.61,4.0,1.22,8.0,1.06,2.0,1.77
+1540653,Republic of Ireland Premier Division,2022,2022-03-18 17:00:00,7,Shamrock Rovers,Sligo Rovers,2,2,1.73,3.37,4.16,1.06,8.0,1.33,3.25,1.88,1.84,3.4,1.3,6.0,1.11,2.15,1.67
+1540658,Republic of Ireland Premier Division,2022,2022-04-01 15:45:00,8,Sligo Rovers,Shelbourne,0,1,1.75,3.25,4.33,1.08,7.25,1.43,2.6,2.55,1.5,4.33,1.19,9.0,1.06,2.2,1.62
+1540656,Republic of Ireland Premier Division,2022,2022-04-01 15:45:00,8,St Patrick's Athl.,Drogheda United,1,1,1.36,4.33,8.0,1.05,9.0,1.28,3.5,1.8,1.81,3.3,1.3,6.0,1.11,2.1,1.67
+1540654,Republic of Ireland Premier Division,2022,2022-04-01 15:45:00,8,Bohemians,Derry City,1,2,2.8,3.1,2.5,1.08,7.0,1.38,2.9,1.87,1.74,4.0,1.22,7.5,1.07,1.95,1.8
+1540655,Republic of Ireland Premier Division,2022,2022-04-01 15:45:00,8,Dundalk,UCD,2,0,1.3,4.6,9.5,1.05,9.0,1.25,3.75,1.74,1.87,3.0,1.36,5.0,1.14,2.2,1.62
+1540657,Republic of Ireland Premier Division,2022,2022-04-01 16:00:00,8,Finn Harps,Shamrock Rovers,0,3,5.0,3.5,1.67,1.08,7.0,1.42,2.75,2.25,1.65,4.33,1.2,7.5,1.07,2.25,1.57
+1540641,Republic of Ireland Premier Division,2022,2022-04-04 15:45:00,5,UCD,Derry City,0,2,6.2,4.1,1.44,1.02,9.2,1.3,3.4,1.98,1.88,3.32,1.31,6.15,1.08,2.01,1.8
+1540621,Republic of Ireland Premier Division,2022,2022-04-04 16:00:00,1,Finn Harps,Drogheda United,2,2,1.85,3.3,3.9,1.08,7.0,1.42,2.75,2.1,1.67,4.33,1.2,8.0,1.06,2.0,1.75
+1540623,Republic of Ireland Premier Division,2022,2022-04-05 15:45:00,1,Sligo Rovers,Bohemians,0,1,2.5,3.2,2.75,1.08,7.0,1.38,2.9,2.16,1.66,4.0,1.22,7.0,1.08,1.91,1.91
+1540659,Republic of Ireland Premier Division,2022,2022-04-08 15:45:00,9,Drogheda United,Bohemians,1,1,3.82,3.2,1.91,1.08,7.0,1.36,3.0,2.05,1.69,3.75,1.25,7.0,1.08,1.91,1.8
+1540660,Republic of Ireland Premier Division,2022,2022-04-08 15:45:00,9,Shelbourne,Shamrock Rovers,1,2,5.45,3.92,1.51,1.07,7.5,1.33,3.25,1.97,1.75,3.4,1.3,6.5,1.1,2.0,1.73
+1540661,Republic of Ireland Premier Division,2022,2022-04-08 15:45:00,9,St Patrick's Athl.,Dundalk,0,0,1.95,3.25,3.58,1.07,7.5,1.36,3.0,2.03,1.7,3.75,1.25,7.0,1.08,1.85,1.85
+1540662,Republic of Ireland Premier Division,2022,2022-04-09 13:30:00,9,Finn Harps,Derry City,1,2,3.5,3.2,2.05,1.08,7.0,1.4,2.75,2.3,1.58,4.0,1.22,7.5,1.07,2.08,1.71
+1540663,Republic of Ireland Premier Division,2022,2022-04-09 15:45:00,9,Sligo Rovers,UCD,2,2,1.4,4.5,6.5,1.04,10.0,1.22,4.0,1.89,1.86,2.75,1.4,4.75,1.15,2.42,1.54
+1540667,Republic of Ireland Premier Division,2022,2022-04-15 15:45:00,10,UCD,Drogheda United,0,2,2.85,3.05,2.35,1.08,7.0,1.36,3.0,1.94,1.79,3.75,1.25,7.0,1.08,1.85,1.85
+1540666,Republic of Ireland Premier Division,2022,2022-04-15 15:45:00,10,Dundalk,Sligo Rovers,2,1,2.05,3.15,3.5,1.08,7.0,1.4,2.75,2.08,1.71,4.0,1.22,7.5,1.07,2.0,1.73
+1540664,Republic of Ireland Premier Division,2022,2022-04-15 15:45:00,10,Bohemians,Finn Harps,2,2,1.8,3.4,4.3,1.07,7.5,1.36,3.0,1.97,1.76,3.75,1.25,7.0,1.08,2.0,1.73
+1540665,Republic of Ireland Premier Division,2022,2022-04-15 15:45:00,10,Derry City,Shelbourne,1,2,1.6,3.65,5.75,1.1,6.5,1.4,2.75,2.3,1.58,4.0,1.22,8.0,1.06,2.2,1.62
+1540668,Republic of Ireland Premier Division,2022,2022-04-15 16:00:00,10,Shamrock Rovers,St Patrick's Athl.,1,0,1.6,3.65,5.5,1.07,7.5,1.36,3.0,2.12,1.68,3.75,1.25,7.0,1.08,2.05,1.7
+1540670,Republic of Ireland Premier Division,2022,2022-04-18 11:00:00,11,Shelbourne,Bohemians,1,4,3.03,2.96,2.42,1.11,6.0,1.5,2.5,2.4,1.51,4.5,1.17,9.0,1.05,2.0,1.77
+1540671,Republic of Ireland Premier Division,2022,2022-04-18 13:00:00,11,UCD,St Patrick's Athl.,1,2,5.15,3.8,1.56,1.02,10.0,1.22,3.8,1.79,1.92,3.2,1.3,6.5,1.08,1.85,1.91
+1540672,Republic of Ireland Premier Division,2022,2022-04-18 14:00:00,11,Finn Harps,Sligo Rovers,0,1,2.76,3.03,2.44,1.05,7.5,1.44,2.5,2.33,1.54,4.6,1.14,8.75,1.02,2.12,1.69
+1540673,Republic of Ireland Premier Division,2022,2022-04-18 15:00:00,11,Shamrock Rovers,Dundalk,1,0,1.58,3.8,4.95,1.01,11.0,1.26,3.3,1.95,1.77,3.25,1.27,6.0,1.08,2.0,1.77
+1540669,Republic of Ireland Premier Division,2022,2022-04-18 15:45:00,11,Drogheda United,Derry City,1,1,4.5,3.4,1.71,1.02,9.5,1.31,3.05,2.11,1.65,3.7,1.22,6.75,1.05,2.02,1.76
+1540676,Republic of Ireland Premier Division,2022,2022-04-22 15:45:00,12,Dundalk,Shelbourne,2,1,1.72,3.7,4.5,1.06,9.5,1.36,3.05,2.23,1.61,4.25,1.21,9.0,1.06,2.1,1.68
+1540677,Republic of Ireland Premier Division,2022,2022-04-22 15:45:00,12,St Patrick's Athl.,Finn Harps,2,0,1.7,3.7,4.65,1.06,10.0,1.33,3.2,2.08,1.71,4.0,1.23,8.5,1.07,2.0,1.74
+1540674,Republic of Ireland Premier Division,2022,2022-04-22 15:45:00,12,Bohemians,Shamrock Rovers,1,3,3.7,3.3,2.0,1.07,9.0,1.35,3.05,2.23,1.61,4.2,1.21,9.0,1.07,1.92,1.81
+1540675,Republic of Ireland Premier Division,2022,2022-04-22 15:45:00,12,Derry City,UCD,7,1,1.2,6.0,11.5,1.02,16.0,1.18,4.6,1.65,2.17,2.7,1.45,5.0,1.16,2.26,1.59
+1540678,Republic of Ireland Premier Division,2022,2022-04-23 15:45:00,12,Sligo Rovers,Drogheda United,3,2,1.63,3.65,5.1,1.02,9.75,1.32,3.0,2.1,1.7,3.75,1.21,7.0,1.05,2.2,1.64
+1540679,Republic of Ireland Premier Division,2022,2022-04-29 15:45:00,13,Bohemians,UCD,3,0,1.28,5.0,9.6,1.04,10.0,1.25,3.75,1.73,2.15,2.75,1.4,4.75,1.15,2.2,1.62
+1540680,Republic of Ireland Premier Division,2022,2022-04-29 15:45:00,13,Dundalk,Drogheda United,4,1,1.49,4.1,6.0,1.05,9.0,1.29,3.5,1.82,1.92,3.0,1.36,5.0,1.14,2.0,1.73
+1540681,Republic of Ireland Premier Division,2022,2022-04-29 15:45:00,13,St Patrick's Athl.,Derry City,0,4,2.55,3.15,2.7,1.08,7.0,1.4,2.75,2.17,1.62,4.0,1.22,7.5,1.07,1.91,1.8
+1540683,Republic of Ireland Premier Division,2022,2022-04-29 15:45:00,13,Sligo Rovers,Shamrock Rovers,1,1,4.4,3.25,1.84,1.1,6.5,1.44,2.62,2.28,1.56,4.33,1.2,9.0,1.05,2.2,1.62
+1540682,Republic of Ireland Premier Division,2022,2022-04-29 16:00:00,13,Finn Harps,Shelbourne,1,0,2.3,3.05,3.15,1.11,6.0,1.53,2.5,2.39,1.51,4.5,1.17,8.0,1.06,2.1,1.67
+1540687,Republic of Ireland Premier Division,2022,2022-05-06 15:45:00,14,UCD,Dundalk,2,2,8.68,3.98,1.36,1.05,9.0,1.25,3.75,1.93,1.79,3.0,1.36,5.0,1.14,2.0,1.73
+1540684,Republic of Ireland Premier Division,2022,2022-05-06 15:45:00,14,Derry City,Bohemians,1,1,1.73,3.35,4.36,1.08,7.0,1.36,3.0,2.08,1.7,3.75,1.25,7.0,1.08,2.0,1.73
+1540685,Republic of Ireland Premier Division,2022,2022-05-06 15:45:00,14,Drogheda United,St Patrick's Athl.,0,4,4.74,3.45,1.65,1.07,7.5,1.36,3.0,2.11,1.76,3.5,1.29,6.5,1.1,1.91,1.8
+1540686,Republic of Ireland Premier Division,2022,2022-05-06 15:45:00,14,Shelbourne,Sligo Rovers,2,1,2.82,2.97,2.4,1.11,6.0,1.5,2.48,2.55,1.45,4.75,1.15,9.0,1.05,2.1,1.67
+1540688,Republic of Ireland Premier Division,2022,2022-05-06 16:00:00,14,Shamrock Rovers,Finn Harps,3,1,1.26,4.84,10.12,1.05,9.0,1.25,3.75,1.84,1.95,3.0,1.36,5.0,1.14,2.38,1.53
+1540729,Republic of Ireland Premier Division,2022,2022-05-09 15:45:00,23,Derry City,St Patrick's Athl.,0,0,1.82,3.5,3.9,1.07,7.5,1.36,3.0,2.12,1.68,3.75,1.25,7.0,1.08,1.97,1.8
+1540733,Republic of Ireland Premier Division,2022,2022-05-09 16:00:00,23,Shamrock Rovers,Sligo Rovers,3,1,1.45,3.85,7.0,1.07,7.5,1.36,3.0,2.12,1.68,3.75,1.25,7.0,1.08,2.38,1.55
+1540689,Republic of Ireland Premier Division,2022,2022-05-13 15:45:00,15,Dundalk,Bohemians,3,1,1.95,3.25,3.3,1.05,9.0,1.25,3.75,1.75,1.95,3.0,1.36,5.0,1.14,1.67,2.1
+1540690,Republic of Ireland Premier Division,2022,2022-05-13 15:45:00,15,Shelbourne,Drogheda United,1,0,2.15,2.9,3.2,1.1,6.5,1.4,2.75,2.3,1.53,4.0,1.22,8.0,1.06,1.91,1.8
+1540692,Republic of Ireland Premier Division,2022,2022-05-13 15:45:00,15,Shamrock Rovers,Derry City,1,0,1.75,3.2,4.25,1.07,7.5,1.36,3.0,2.15,1.61,3.75,1.25,7.0,1.08,1.91,1.8
+1540691,Republic of Ireland Premier Division,2022,2022-05-13 16:00:00,15,Finn Harps,UCD,0,1,1.57,3.6,5.0,1.05,9.0,1.3,3.4,1.83,1.87,3.25,1.33,5.5,1.12,1.85,1.85
+1540693,Republic of Ireland Premier Division,2022,2022-05-14 15:45:00,15,Sligo Rovers,St Patrick's Athl.,1,1,2.85,2.9,2.45,1.1,6.5,1.4,2.75,2.48,1.5,4.0,1.22,7.5,1.07,2.05,1.73
+1540698,Republic of Ireland Premier Division,2022,2022-05-19 15:45:00,16,UCD,Shamrock Rovers,0,3,16.0,6.2,1.17,1.03,11.0,1.22,4.0,1.67,2.14,2.62,1.44,4.33,1.2,3.0,1.36
+1540694,Republic of Ireland Premier Division,2022,2022-05-20 15:45:00,16,Bohemians,Sligo Rovers,2,1,2.05,3.5,3.3,1.06,8.0,1.33,3.25,2.12,1.68,3.4,1.3,6.5,1.1,1.85,1.85
+1540695,Republic of Ireland Premier Division,2022,2022-05-20 15:45:00,16,Derry City,Dundalk,1,2,1.7,3.8,4.4,1.06,8.0,1.3,3.4,1.9,1.85,3.25,1.33,6.0,1.11,1.85,1.85
+1540696,Republic of Ireland Premier Division,2022,2022-05-20 15:45:00,16,Drogheda United,Finn Harps,3,1,2.5,3.3,2.7,1.08,7.0,1.4,2.75,2.14,1.67,4.0,1.22,7.5,1.07,1.91,1.8
+1540697,Republic of Ireland Premier Division,2022,2022-05-20 15:45:00,16,St Patrick's Athl.,Shelbourne,1,2,1.88,3.4,4.0,1.08,7.0,1.36,3.0,2.3,1.58,3.75,1.25,7.0,1.08,2.0,1.73
+1540702,Republic of Ireland Premier Division,2022,2022-05-23 15:45:00,17,St Patrick's Athl.,Bohemians,3,0,2.15,3.3,3.0,1.07,7.5,1.36,3.0,2.0,1.85,3.75,1.25,7.0,1.08,1.85,1.85
+1540701,Republic of Ireland Premier Division,2022,2022-05-23 15:45:00,17,Sligo Rovers,Derry City,2,1,3.6,3.4,1.91,1.08,7.0,1.4,2.75,2.06,1.72,4.0,1.22,7.5,1.07,1.91,1.8
+1540700,Republic of Ireland Premier Division,2022,2022-05-23 15:45:00,17,Shelbourne,UCD,2,0,1.44,4.0,5.75,1.06,8.0,1.3,3.4,2.03,1.83,3.25,1.33,6.0,1.11,2.0,1.73
+1540699,Republic of Ireland Premier Division,2022,2022-05-23 15:45:00,17,Drogheda United,Shamrock Rovers,1,0,11.0,5.0,1.25,1.04,10.0,1.29,3.5,1.68,2.12,3.0,1.36,5.5,1.12,2.1,1.67
+1540703,Republic of Ireland Premier Division,2022,2022-05-23 16:00:00,17,Finn Harps,Dundalk,0,1,3.75,3.4,1.91,1.07,7.5,1.36,3.0,2.03,1.83,3.5,1.29,6.5,1.1,1.85,1.85
+1540704,Republic of Ireland Premier Division,2022,2022-05-27 15:45:00,18,Bohemians,Drogheda United,1,1,1.4,4.75,7.5,1.01,16.5,1.24,4.16,1.7,2.05,2.9,1.42,5.41,1.16,1.94,1.86
+1540705,Republic of Ireland Premier Division,2022,2022-05-27 15:45:00,18,Derry City,Finn Harps,2,2,1.29,5.25,10.0,1.01,11.0,1.23,4.28,1.7,2.1,2.85,1.43,5.32,1.16,2.22,1.66
+1540706,Republic of Ireland Premier Division,2022,2022-05-27 15:45:00,18,Dundalk,St Patrick's Athl.,1,0,1.95,3.35,3.8,1.05,10.0,1.33,3.37,1.95,1.8,3.53,1.31,7.1,1.11,1.79,2.02
+1540707,Republic of Ireland Premier Division,2022,2022-05-27 15:45:00,18,UCD,Sligo Rovers,1,1,5.25,3.85,1.62,1.05,11.0,1.31,3.48,1.87,1.85,3.44,1.32,6.9,1.11,1.91,1.89
+1540708,Republic of Ireland Premier Division,2022,2022-05-27 16:00:00,18,Shamrock Rovers,Shelbourne,2,0,1.4,4.2,8.5,1.02,9.3,1.31,3.49,1.91,1.83,3.51,1.31,7.03,1.11,2.62,1.49
+1540714,Republic of Ireland Premier Division,2022,2022-06-17 15:45:00,20,Bohemians,Shelbourne,1,0,1.91,3.1,4.25,1.1,7.38,1.42,2.93,2.3,1.57,4.3,1.23,8.25,1.06,2.0,1.75
+1540715,Republic of Ireland Premier Division,2022,2022-06-17 15:45:00,20,Derry City,Drogheda United,1,1,1.3,5.1,8.6,1.03,11.5,1.22,4.33,1.61,2.15,2.8,1.45,5.21,1.17,2.1,1.67
+1540716,Republic of Ireland Premier Division,2022,2022-06-17 15:45:00,20,Dundalk,Shamrock Rovers,1,0,4.05,3.35,1.87,1.03,8.6,1.34,3.33,1.95,1.75,3.73,1.28,7.36,1.1,1.91,1.91
+1540717,Republic of Ireland Premier Division,2022,2022-06-17 15:45:00,20,St Patrick's Athl.,UCD,2,1,1.35,4.8,7.7,1.01,10.5,1.25,4.05,1.7,2.05,3.0,1.4,5.7,1.15,2.0,1.75
+1540718,Republic of Ireland Premier Division,2022,2022-06-18 15:45:00,20,Sligo Rovers,Finn Harps,3,0,1.94,3.48,4.1,1.04,7.8,1.39,3.03,2.18,1.64,4.1,1.24,7.6,1.05,2.0,1.75
+1540723,Republic of Ireland Premier Division,2022,2022-06-24 15:45:00,21,Shamrock Rovers,Bohemians,1,0,1.45,4.1,5.75,1.01,10.5,1.27,3.83,1.8,1.9,3.13,1.37,6.0,1.14,1.8,1.95
+1540721,Republic of Ireland Premier Division,2022,2022-06-24 15:45:00,21,UCD,Derry City,0,1,9.0,5.0,1.25,1.04,10.0,1.22,4.0,1.65,2.1,2.62,1.44,4.5,1.17,2.2,1.62
+1540719,Republic of Ireland Premier Division,2022,2022-06-24 15:45:00,21,Drogheda United,Sligo Rovers,0,0,3.4,3.25,2.0,1.07,7.5,1.36,3.0,2.1,1.65,3.5,1.29,6.5,1.1,1.91,1.85
+1540720,Republic of Ireland Premier Division,2022,2022-06-24 15:45:00,21,Shelbourne,Dundalk,0,0,2.7,3.1,2.45,1.08,7.0,1.4,2.75,2.15,1.62,4.0,1.22,7.5,1.07,1.91,1.8
+1540722,Republic of Ireland Premier Division,2022,2022-06-24 16:00:00,21,Finn Harps,St Patrick's Athl.,2,2,3.15,3.1,2.2,1.07,7.5,1.36,3.0,1.96,1.75,3.75,1.25,6.5,1.1,1.85,1.85
+1540711,Republic of Ireland Premier Division,2022,2022-06-27 15:45:00,19,St Patrick's Athl.,Shamrock Rovers,1,2,4.2,3.4,1.8,1.04,8.1,1.36,3.07,2.18,1.65,3.77,1.26,7.3,1.05,2.0,1.81
+1540724,Republic of Ireland Premier Division,2022,2022-07-01 15:45:00,22,Bohemians,Derry City,2,3,3.18,3.38,2.25,1.05,8.0,1.33,3.0,1.95,1.83,3.4,1.29,6.0,1.09,1.91,1.8
+1540725,Republic of Ireland Premier Division,2022,2022-07-01 15:45:00,22,Dundalk,UCD,3,0,1.25,5.75,10.83,1.04,10.0,1.22,4.0,1.6,2.2,2.3,1.6,4.5,1.17,2.26,1.61
+1540726,Republic of Ireland Premier Division,2022,2022-07-01 15:45:00,22,St Patrick's Athl.,Drogheda United,3,0,1.37,5.0,7.58,1.05,9.0,1.29,3.5,1.85,1.95,3.0,1.36,5.5,1.12,2.06,1.73
+1540727,Republic of Ireland Premier Division,2022,2022-07-01 16:00:00,22,Finn Harps,Shamrock Rovers,0,1,7.01,4.26,1.53,1.05,9.0,1.29,3.5,1.91,1.89,3.0,1.36,5.5,1.12,2.11,1.69
+1540728,Republic of Ireland Premier Division,2022,2022-07-02 15:45:00,22,Sligo Rovers,Shelbourne,3,1,2.26,3.05,3.25,1.1,6.5,1.42,2.75,2.55,1.5,4.33,1.2,8.0,1.06,1.95,1.8
+1540732,Republic of Ireland Premier Division,2022,2022-07-07 15:45:00,23,UCD,Bohemians,1,3,5.2,3.85,1.5,1.05,9.0,1.25,3.75,1.98,1.88,2.75,1.4,5.0,1.14,1.91,1.8
+1540730,Republic of Ireland Premier Division,2022,2022-07-08 15:45:00,23,Drogheda United,Dundalk,1,0,4.6,3.65,1.7,1.06,8.0,1.33,3.25,1.89,1.87,3.4,1.3,6.0,1.11,1.85,1.85
+1540731,Republic of Ireland Premier Division,2022,2022-07-08 15:45:00,23,Shelbourne,Finn Harps,3,1,2.0,3.0,4.1,1.1,6.5,1.44,2.62,2.55,1.49,4.0,1.22,8.0,1.06,2.0,1.73
+1540734,Republic of Ireland Premier Division,2022,2022-07-15 15:45:00,24,Drogheda United,Bohemians,0,1,3.7,3.25,1.87,1.03,9.0,1.31,3.51,1.91,1.8,3.47,1.32,6.77,1.11,1.8,1.95
+1540736,Republic of Ireland Premier Division,2022,2022-07-15 15:45:00,24,St Patrick's Athl.,Dundalk,1,1,2.65,3.0,2.45,1.07,7.75,1.35,3.26,1.95,1.75,3.59,1.3,7.24,1.1,1.91,1.91
+1540737,Republic of Ireland Premier Division,2022,2022-07-17 14:00:00,24,Finn Harps,Derry City,1,2,4.6,3.4,1.67,1.02,9.5,1.28,3.4,1.87,1.83,3.3,1.3,5.5,1.11,1.9,1.86
+1540738,Republic of Ireland Premier Division,2022,2022-07-17 14:00:00,24,Sligo Rovers,UCD,0,2,1.33,4.33,8.5,1.05,9.0,1.22,4.0,1.75,1.95,2.95,1.38,5.0,1.14,2.05,1.68
+1540741,Republic of Ireland Premier Division,2022,2022-07-22 15:45:00,25,Dundalk,Finn Harps,3,0,1.48,3.95,5.2,1.05,9.0,1.3,3.4,1.96,1.9,3.25,1.33,5.5,1.12,2.1,1.67
+1540742,Republic of Ireland Premier Division,2022,2022-07-22 15:45:00,25,UCD,Shelbourne,0,2,4.4,3.3,1.68,1.08,7.0,1.36,3.0,2.01,1.85,4.0,1.22,7.5,1.07,2.1,1.67
+1540743,Republic of Ireland Premier Division,2022,2022-07-23 10:00:00,25,Shamrock Rovers,Drogheda United,1,1,1.16,7.0,17.0,1.04,10.0,1.25,3.75,1.72,2.05,2.75,1.4,5.0,1.14,2.63,1.44
+1540709,Republic of Ireland Premier Division,2022,2022-08-01 13:00:00,19,Drogheda United,UCD,1,1,1.73,3.75,4.6,1.03,8.6,1.34,3.31,2.0,1.85,3.71,1.28,6.75,1.07,1.92,1.88
+1540744,Republic of Ireland Premier Division,2022,2022-08-05 15:45:00,26,Dundalk,Derry City,1,1,2.18,3.2,2.91,1.07,7.5,1.33,3.1,1.96,1.71,3.5,1.28,6.5,1.1,1.91,1.91
+1540746,Republic of Ireland Premier Division,2022,2022-08-05 16:00:00,26,Finn Harps,Drogheda United,3,0,2.42,3.29,2.52,1.07,7.5,1.33,3.1,2.01,1.68,3.75,1.25,7.0,1.08,1.91,1.91
+1540748,Republic of Ireland Premier Division,2022,2022-08-07 12:45:00,26,Sligo Rovers,Bohemians,2,1,3.0,3.25,2.4,1.04,7.9,1.38,3.09,2.15,1.7,3.81,1.27,7.4,1.05,1.95,1.8
+1540753,Republic of Ireland Premier Division,2022,2022-08-12 15:45:00,27,UCD,Finn Harps,2,1,3.05,3.03,2.12,1.07,7.5,1.36,3.0,2.0,1.7,3.5,1.29,7.0,1.08,1.86,1.9
+1540751,Republic of Ireland Premier Division,2022,2022-08-12 15:45:00,27,Drogheda United,Shelbourne,3,1,3.0,2.98,2.17,1.1,6.5,1.44,2.62,2.35,1.53,4.33,1.2,8.0,1.06,2.05,1.73
+1540750,Republic of Ireland Premier Division,2022,2022-08-12 15:45:00,27,Derry City,Shamrock Rovers,0,0,2.67,3.24,2.48,1.07,8.5,1.37,3.0,2.2,1.6,4.35,1.21,9.5,1.06,1.93,1.8
+1540749,Republic of Ireland Premier Division,2022,2022-08-12 15:45:00,27,Bohemians,Dundalk,0,1,2.23,3.35,3.2,1.05,10.0,1.29,3.45,1.85,1.85,3.6,1.27,7.5,1.09,1.72,2.02
+1540752,Republic of Ireland Premier Division,2022,2022-08-14 13:00:00,27,St Patrick's Athl.,Sligo Rovers,1,0,1.88,3.25,3.85,1.08,7.0,1.4,2.75,2.15,1.62,4.0,1.22,7.5,1.07,2.0,1.75
+1540755,Republic of Ireland Premier Division,2022,2022-08-19 15:45:00,28,Shelbourne,Bohemians,1,1,2.63,3.1,2.63,1.08,7.0,1.36,3.0,2.22,1.7,3.75,1.25,7.0,1.08,1.88,1.88
+1540756,Republic of Ireland Premier Division,2022,2022-08-19 15:45:00,28,UCD,St Patrick's Athl.,1,2,5.4,4.1,1.53,1.05,9.0,1.29,3.5,1.85,2.01,3.0,1.36,5.0,1.14,1.91,1.85
+1540754,Republic of Ireland Premier Division,2022,2022-08-19 15:45:00,28,Drogheda United,Derry City,1,1,5.6,3.95,1.54,1.05,9.0,1.3,3.4,1.95,1.95,3.25,1.33,5.5,1.12,1.87,1.89
+1540757,Republic of Ireland Premier Division,2022,2022-08-19 16:00:00,28,Finn Harps,Sligo Rovers,3,2,2.76,3.15,2.49,1.08,7.0,1.36,3.0,2.11,1.8,3.75,1.25,7.0,1.08,1.83,1.93
+1540758,Republic of Ireland Premier Division,2022,2022-08-21 15:00:00,28,Shamrock Rovers,Dundalk,3,0,1.6,3.8,5.0,1.04,7.9,1.36,2.94,2.05,1.69,3.8,1.23,7.3,1.05,1.91,1.8
+1540739,Republic of Ireland Premier Division,2022,2022-08-29 15:45:00,25,Bohemians,St Patrick's Athl.,1,3,2.25,3.2,3.0,1.03,8.5,1.34,3.14,2.05,1.8,3.62,1.27,6.75,1.06,1.86,1.94
+1540710,Republic of Ireland Premier Division,2022,2022-08-29 15:45:00,19,Shelbourne,Derry City,0,1,3.3,3.2,2.1,1.04,7.8,1.41,3.05,1.93,1.93,4.24,1.25,7.6,1.05,2.03,1.79
+1540713,Republic of Ireland Premier Division,2022,2022-08-29 15:45:00,19,Sligo Rovers,Dundalk,2,0,2.75,3.25,2.38,1.06,8.0,1.33,3.25,2.05,1.8,3.4,1.3,6.5,1.1,1.8,1.91
+1540760,Republic of Ireland Premier Division,2022,2022-09-02 15:45:00,29,Derry City,UCD,3,0,1.17,5.8,17.0,1.02,12.5,1.18,4.2,1.6,2.2,2.35,1.49,4.0,1.2,2.42,1.56
+1540762,Republic of Ireland Premier Division,2022,2022-09-02 15:45:00,29,St Patrick's Athl.,Finn Harps,2,1,1.44,3.9,6.0,1.05,9.0,1.29,3.5,1.75,1.95,3.0,1.36,5.0,1.14,2.0,1.83
+1540761,Republic of Ireland Premier Division,2022,2022-09-02 15:45:00,29,Dundalk,Shelbourne,0,0,1.75,3.2,4.33,1.08,7.0,1.4,2.75,2.2,1.6,3.75,1.25,7.5,1.07,2.1,1.75
+1540759,Republic of Ireland Premier Division,2022,2022-09-02 15:45:00,29,Bohemians,Shamrock Rovers,1,0,3.0,3.0,2.2,1.07,7.5,1.36,3.0,2.0,1.7,3.5,1.29,7.0,1.08,1.87,1.89
+1540763,Republic of Ireland Premier Division,2022,2022-09-03 15:45:00,29,Sligo Rovers,Drogheda United,2,0,1.76,3.55,4.35,1.06,8.0,1.33,3.25,2.01,1.85,3.4,1.3,6.0,1.11,1.91,1.8
+1540764,Republic of Ireland Premier Division,2022,2022-09-09 15:45:00,30,Derry City,Bohemians,1,0,1.73,3.3,4.6,1.07,7.5,1.36,3.0,1.92,1.98,3.5,1.29,7.0,1.08,1.91,1.8
+1540765,Republic of Ireland Premier Division,2022,2022-09-09 15:45:00,30,Drogheda United,St Patrick's Athl.,0,2,4.6,3.6,1.65,1.06,8.0,1.3,3.4,1.9,1.96,3.25,1.33,6.0,1.11,1.73,2.0
+1540766,Republic of Ireland Premier Division,2022,2022-09-09 15:45:00,30,Shelbourne,Sligo Rovers,0,2,2.05,3.1,3.4,1.07,7.5,1.36,3.0,2.55,1.5,3.5,1.29,7.0,1.08,1.85,1.85
+1540767,Republic of Ireland Premier Division,2022,2022-09-09 15:45:00,30,UCD,Dundalk,3,2,7.0,3.9,1.44,1.05,9.0,1.29,3.5,1.84,2.02,3.0,1.36,5.0,1.14,2.05,1.7
+1540768,Republic of Ireland Premier Division,2022,2022-09-11 15:00:00,30,Shamrock Rovers,Finn Harps,5,1,1.17,5.52,12.48,1.04,10.0,1.25,3.75,1.79,1.94,2.62,1.44,4.5,1.17,2.34,1.61
+1540740,Republic of Ireland Premier Division,2022,2022-09-13 15:45:00,25,Derry City,Sligo Rovers,1,0,1.65,3.74,5.19,1.03,8.8,1.32,3.42,2.1,1.73,3.56,1.3,7.1,1.11,1.95,1.7
+1540735,Republic of Ireland Premier Division,2022,2022-09-22 15:45:00,24,Shelbourne,Shamrock Rovers,0,0,5.2,3.45,1.7,1.04,7.9,1.38,2.94,2.03,1.66,3.88,1.24,7.5,1.05,2.05,1.7
+1540712,Republic of Ireland Premier Division,2022,2022-09-24 12:00:00,19,Finn Harps,Bohemians,0,2,3.5,3.3,1.95,1.06,8.0,1.3,3.3,1.91,1.83,3.3,1.3,6.0,1.11,1.8,1.95
+1540747,Republic of Ireland Premier Division,2022,2022-09-26 16:00:00,26,Shamrock Rovers,UCD,1,0,1.12,7.6,18.0,1.02,14.0,1.16,4.6,1.47,2.5,2.25,1.65,3.6,1.24,2.7,1.42
+1540769,Republic of Ireland Premier Division,2022,2022-09-30 15:45:00,31,Bohemians,UCD,1,0,1.3,4.5,9.0,1.01,12.5,1.22,3.9,1.75,1.95,2.77,1.4,4.9,1.12,2.2,1.62
+1540771,Republic of Ireland Premier Division,2022,2022-09-30 15:45:00,31,St Patrick's Athl.,Derry City,0,1,2.65,3.0,2.4,1.02,8.8,1.3,3.26,2.0,1.73,3.36,1.29,6.25,1.07,1.8,1.95
+1540770,Republic of Ireland Premier Division,2022,2022-09-30 15:45:00,31,Dundalk,Drogheda United,2,0,1.4,3.9,7.0,1.01,10.0,1.24,3.72,1.91,1.8,2.89,1.37,5.2,1.11,2.05,1.7
+1540772,Republic of Ireland Premier Division,2022,2022-09-30 16:00:00,31,Finn Harps,Shelbourne,1,1,2.6,3.0,2.5,1.04,7.8,1.36,2.92,2.0,1.7,3.8,1.23,7.3,1.05,1.8,1.95
+1540773,Republic of Ireland Premier Division,2022,2022-10-01 15:45:00,31,Sligo Rovers,Shamrock Rovers,1,3,3.8,3.2,1.91,1.03,8.2,1.33,3.08,2.03,1.83,3.62,1.25,6.8,1.06,1.8,1.95
+1540745,Republic of Ireland Premier Division,2022,2022-10-03 15:45:00,26,Shelbourne,St Patrick's Athl.,4,4,3.5,2.95,2.17,1.08,7.0,1.45,2.65,2.35,1.56,4.5,1.18,8.0,1.06,1.95,1.8
+1540774,Republic of Ireland Premier Division,2022,2022-10-07 15:45:00,32,Bohemians,Drogheda United,0,1,1.57,3.5,5.5,1.06,8.0,1.33,3.25,2.0,1.9,3.4,1.3,6.0,1.11,1.89,1.87
+1540775,Republic of Ireland Premier Division,2022,2022-10-07 15:45:00,32,Derry City,Finn Harps,3,0,1.25,4.8,12.0,1.04,10.0,1.22,4.0,1.66,2.09,2.75,1.4,4.5,1.17,2.17,1.66
+1540776,Republic of Ireland Premier Division,2022,2022-10-07 15:45:00,32,Dundalk,St Patrick's Athl.,1,2,1.85,3.3,3.8,1.05,9.0,1.3,3.4,2.05,1.85,3.25,1.33,5.5,1.12,1.8,1.96
+1540777,Republic of Ireland Premier Division,2022,2022-10-07 15:45:00,32,UCD,Sligo Rovers,0,2,4.33,3.3,1.75,1.02,10.5,1.24,3.65,2.0,1.9,3.25,1.33,6.0,1.1,1.81,2.02
+1540778,Republic of Ireland Premier Division,2022,2022-10-09 13:00:00,32,Shamrock Rovers,Shelbourne,3,2,1.47,4.32,6.85,1.07,7.5,1.36,3.0,2.0,1.85,3.5,1.29,6.5,1.1,2.34,1.57
+1540781,Republic of Ireland Premier Division,2022,2022-10-14 15:45:00,33,St Patrick's Athl.,Bohemians,3,1,1.72,3.6,4.75,1.06,8.0,1.36,3.0,2.0,1.75,3.5,1.29,6.5,1.1,1.91,1.8
+1540782,Republic of Ireland Premier Division,2022,2022-10-14 16:00:00,33,Finn Harps,Dundalk,1,2,4.0,3.5,1.87,1.02,10.5,1.27,3.7,1.9,1.85,3.4,1.3,6.25,1.09,1.81,1.92
+1540779,Republic of Ireland Premier Division,2022,2022-10-16 13:00:00,33,Drogheda United,Shamrock Rovers,1,1,5.2,3.6,1.57,1.05,9.0,1.29,3.5,1.85,1.87,3.0,1.36,5.5,1.12,1.91,1.8
+1540788,Republic of Ireland Premier Division,2022,2022-10-21 15:45:00,34,Shamrock Rovers,St Patrick's Athl.,4,1,1.83,3.55,3.95,1.06,8.0,1.36,3.0,2.03,1.83,3.5,1.29,6.5,1.1,1.86,1.9
+1540787,Republic of Ireland Premier Division,2022,2022-10-21 15:45:00,34,UCD,Drogheda United,2,1,2.9,3.4,2.26,1.07,7.5,1.36,3.0,2.04,1.82,3.5,1.29,6.5,1.1,1.78,1.99
+1540785,Republic of Ireland Premier Division,2022,2022-10-21 15:45:00,34,Derry City,Shelbourne,1,1,1.43,4.3,6.7,1.02,8.6,1.32,3.14,2.01,1.85,3.48,1.27,6.45,1.07,2.25,1.57
+1540786,Republic of Ireland Premier Division,2022,2022-10-21 15:45:00,34,Dundalk,Sligo Rovers,3,3,2.0,3.4,3.45,1.02,8.6,1.31,3.2,2.09,1.77,3.48,1.27,6.45,1.07,1.83,1.85
+1540784,Republic of Ireland Premier Division,2022,2022-10-21 15:45:00,34,Bohemians,Finn Harps,2,2,1.57,4.05,5.0,1.01,9.8,1.25,3.62,1.88,1.98,2.98,1.35,5.45,1.1,1.87,1.8
+1540783,Republic of Ireland Premier Division,2022,2022-10-24 15:45:00,33,Sligo Rovers,Derry City,0,0,4.2,3.5,1.83,1.05,8.0,1.33,3.0,2.0,1.75,3.4,1.29,6.0,1.09,1.91,1.8
+1540780,Republic of Ireland Premier Division,2022,2022-10-24 15:45:00,33,Shelbourne,UCD,1,1,1.45,4.2,7.0,1.05,8.0,1.32,3.36,1.95,1.78,3.54,1.3,6.86,1.11,2.15,1.7
+1540789,Republic of Ireland Premier Division,2022,2022-10-28 15:45:00,35,Dundalk,Bohemians,2,1,1.83,3.6,3.9,1.01,9.4,1.27,3.48,1.86,2.0,3.14,1.32,5.7,1.09,1.78,1.99
+1540790,Republic of Ireland Premier Division,2022,2022-10-28 15:45:00,35,Shelbourne,Drogheda United,6,0,2.03,3.3,3.55,1.07,7.5,1.33,3.1,2.12,1.75,3.75,1.25,7.0,1.08,1.85,1.83
+1540793,Republic of Ireland Premier Division,2022,2022-10-28 15:45:00,35,Sligo Rovers,St Patrick's Athl.,1,0,3.7,3.35,1.96,1.03,8.3,1.33,3.1,2.02,1.72,3.62,1.25,6.8,1.06,1.83,1.93
+1540791,Republic of Ireland Premier Division,2022,2022-10-28 16:00:00,35,Finn Harps,UCD,1,3,1.77,3.6,4.25,1.06,8.0,1.28,3.5,2.04,1.82,3.3,1.3,6.0,1.11,1.78,1.9
+1540792,Republic of Ireland Premier Division,2022,2022-10-30 16:00:00,35,Shamrock Rovers,Derry City,1,0,2.23,3.3,3.0,1.07,7.5,1.33,3.1,2.06,1.68,3.6,1.25,7.0,1.08,1.85,1.85
+1540797,Republic of Ireland Premier Division,2022,2022-11-06 16:00:00,36,St Patrick's Athl.,Shelbourne,4,0,1.94,3.55,3.55,1.05,8.0,1.25,3.5,1.9,2.0,3.3,1.28,5.7,1.1,1.87,1.93
+1540794,Republic of Ireland Premier Division,2022,2022-11-06 16:00:00,36,Bohemians,Sligo Rovers,3,1,2.11,3.55,3.05,1.04,8.5,1.25,3.5,1.88,2.02,3.2,1.3,6.5,1.07,1.72,2.07
+1540795,Republic of Ireland Premier Division,2022,2022-11-06 16:00:00,36,Derry City,Dundalk,0,1,1.65,3.75,4.8,1.05,8.0,1.25,3.5,2.01,1.89,3.2,1.3,5.2,1.12,1.95,1.75
+1540796,Republic of Ireland Premier Division,2022,2022-11-06 16:00:00,36,Drogheda United,Finn Harps,2,0,2.17,3.6,2.92,1.04,8.5,1.22,3.7,1.8,2.0,2.8,1.37,4.7,1.15,1.66,2.17
+1540798,Republic of Ireland Premier Division,2022,2022-11-06 16:00:00,36,UCD,Shamrock Rovers,0,2,6.9,4.8,1.38,1.03,12.0,1.17,4.3,1.65,2.25,2.45,1.47,4.1,1.2,1.93,1.83

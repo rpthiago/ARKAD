@@ -1,0 +1,453 @@
+Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1534299,Colombia Categoria Primera A,2022,2022-01-20 20:00:00,1,Rionegro Águilas,Atlético Bucaramanga,1,1,2.21,3.17,2.93,1.09,7.0,1.4,2.7,2.26,1.59,3.8,1.22,8.0,1.06,1.92,1.84
+1534295,Colombia Categoria Primera A,2022,2022-01-20 22:05:00,1,América de Cali,Envigado,1,0,1.71,3.33,4.43,1.07,8.0,1.35,2.9,2.08,1.7,3.6,1.25,7.0,1.08,2.1,1.68
+1534296,Colombia Categoria Primera A,2022,2022-01-21 20:00:00,1,Santa Fe,La Equidad,1,1,2.05,3.18,3.79,1.11,6.0,1.53,2.37,2.45,1.5,4.0,1.2,9.5,1.05,2.1,1.7
+1534293,Colombia Categoria Primera A,2022,2022-01-21 22:05:00,1,Deportivo Pasto,Millonarios,0,1,4.23,3.47,1.85,1.09,6.75,1.41,2.65,2.2,1.6,4.1,1.2,8.25,1.06,1.98,1.79
+1534290,Colombia Categoria Primera A,2022,2022-01-22 18:05:00,1,Cortuluá,Atlético Nacional,1,1,5.5,3.3,1.65,1.09,6.75,1.37,2.85,2.15,1.61,3.6,1.25,7.0,1.08,1.95,1.81
+1534291,Colombia Categoria Primera A,2022,2022-01-22 20:10:00,1,Once Caldas,Unión Magdalena,1,1,1.8,3.2,4.4,1.1,6.25,1.47,2.45,2.36,1.52,4.5,1.17,9.5,1.05,2.3,1.58
+1534297,Colombia Categoria Primera A,2022,2022-01-22 22:15:00,1,Junior,Patriotas Boyacá,3,1,1.4,4.0,8.0,1.05,10.0,1.29,3.3,1.89,1.89,3.2,1.3,6.5,1.09,2.75,1.43
+1534298,Colombia Categoria Primera A,2022,2022-01-23 18:05:00,1,Independiente Medellín,Deportes Tolima,1,0,3.02,3.0,2.35,1.1,6.25,1.53,2.37,2.45,1.49,4.6,1.17,9.75,1.05,2.25,1.61
+1534292,Colombia Categoria Primera A,2022,2022-01-23 20:10:00,1,Jaguares de Córdoba,Deportivo Cali,2,1,3.05,3.05,2.3,1.09,6.5,1.42,2.6,2.16,1.62,4.1,1.2,8.5,1.06,2.1,1.7
+1534294,Colombia Categoria Primera A,2022,2022-01-23 22:15:00,1,Alianza Petrolera,Deportivo Pereira,2,1,2.05,3.2,3.45,1.08,7.0,1.41,2.7,2.16,1.62,4.0,1.21,8.25,1.06,2.02,1.75
+1534309,Colombia Categoria Primera A,2022,2022-01-25 18:00:00,2,Envigado,Deportivo Pasto,1,0,2.23,3.12,3.32,1.1,7.5,1.48,2.6,2.3,1.57,4.25,1.22,8.25,1.08,2.17,1.66
+1534305,Colombia Categoria Primera A,2022,2022-01-25 20:05:00,2,Santa Fe,Rionegro Águilas,3,0,1.6,3.68,5.75,1.06,10.25,1.33,3.2,2.15,1.61,3.6,1.25,7.0,1.11,2.1,1.7
+1534302,Colombia Categoria Primera A,2022,2022-01-25 22:10:00,2,Atlético Bucaramanga,Millonarios,0,0,4.05,2.7,2.21,1.09,8.0,1.4,2.8,2.25,1.57,4.2,1.22,7.75,1.1,1.88,1.88
+1534304,Colombia Categoria Primera A,2022,2022-01-26 16:00:00,2,La Equidad,Once Caldas,1,2,2.09,3.15,3.3,1.1,7.75,1.4,2.7,2.45,1.53,4.7,1.15,9.0,1.07,1.9,1.8
+1534301,Colombia Categoria Primera A,2022,2022-01-26 18:05:00,2,Jaguares de Córdoba,Cortuluá,2,1,1.98,3.2,3.55,1.06,7.1,1.4,2.7,2.38,1.57,3.9,1.2,6.2,1.08,1.95,1.75
+1534306,Colombia Categoria Primera A,2022,2022-01-26 20:10:00,2,Deportivo Cali,Deportes Tolima,0,1,2.26,2.88,3.2,1.11,6.5,1.52,2.45,2.55,1.5,4.75,1.17,10.25,1.01,2.1,1.68
+1534308,Colombia Categoria Primera A,2022,2022-01-26 22:15:00,2,Atlético Nacional,Junior,3,1,2.01,3.15,3.5,1.09,8.0,1.42,2.75,2.2,1.65,4.33,1.2,7.5,1.05,2.0,1.75
+1534307,Colombia Categoria Primera A,2022,2022-01-27 18:00:00,2,Unión Magdalena,Alianza Petrolera,0,0,3.32,2.96,2.37,1.08,6.35,1.5,2.4,2.43,1.55,4.8,1.15,9.6,1.02,1.98,1.79
+1534303,Colombia Categoria Primera A,2022,2022-01-27 20:05:00,2,Patriotas Boyacá,Independiente Medellín,2,0,3.36,2.99,2.33,1.12,6.0,1.53,2.45,2.62,1.43,4.7,1.15,10.75,1.05,2.2,1.63
+1534300,Colombia Categoria Primera A,2022,2022-01-27 22:10:00,2,Deportivo Pereira,América de Cali,1,1,2.73,3.14,2.66,1.06,7.5,1.42,2.7,2.32,1.58,4.5,1.2,8.0,1.06,2.0,1.75
+1534311,Colombia Categoria Primera A,2022,2022-01-29 16:00:00,3,Cortuluá,Santa Fe,1,1,4.5,3.2,1.85,1.09,6.75,1.38,2.8,2.25,1.57,3.8,1.22,8.5,1.06,2.09,1.7
+1534318,Colombia Categoria Primera A,2022,2022-01-29 18:05:00,3,Rionegro Águilas,Once Caldas,1,1,2.05,3.1,3.75,1.06,7.1,1.48,2.5,2.3,1.55,4.0,1.2,8.6,1.03,2.0,1.73
+1534316,Colombia Categoria Primera A,2022,2022-01-29 20:10:00,3,Junior,La Equidad,1,0,1.62,3.4,6.5,1.05,7.7,1.4,2.7,1.93,1.93,3.8,1.22,7.7,1.05,2.2,1.6
+1534310,Colombia Categoria Primera A,2022,2022-01-29 22:15:00,3,Millonarios,Atlético Nacional,0,2,2.05,3.25,3.6,1.08,7.25,1.38,2.8,2.0,1.7,3.8,1.22,7.5,1.07,1.91,1.8
+1534314,Colombia Categoria Primera A,2022,2022-01-30 16:00:00,3,Patriotas Boyacá,Deportivo Pereira,2,3,2.8,2.88,2.45,1.07,7.5,1.38,2.8,1.89,1.8,3.8,1.22,7.0,1.08,1.91,1.8
+1534317,Colombia Categoria Primera A,2022,2022-01-30 18:05:00,3,Independiente Medellín,Deportivo Cali,2,0,2.7,2.9,2.55,1.12,5.5,1.55,2.4,2.55,1.5,5.0,1.14,10.0,1.04,2.1,1.67
+1534315,Colombia Categoria Primera A,2022,2022-01-30 20:10:00,3,América de Cali,Atlético Bucaramanga,3,0,1.7,3.2,4.75,1.1,6.5,1.4,2.7,2.38,1.57,3.8,1.22,8.0,1.06,2.05,1.7
+1534313,Colombia Categoria Primera A,2022,2022-01-30 22:15:00,3,Alianza Petrolera,Envigado,2,2,1.8,3.0,4.33,1.06,6.8,1.48,2.5,2.45,1.53,4.6,1.16,9.2,1.02,2.1,1.67
+1534312,Colombia Categoria Primera A,2022,2022-01-31 20:00:00,3,Deportivo Pasto,Jaguares de Córdoba,1,1,1.79,3.3,4.3,1.08,7.0,1.42,2.62,2.3,1.55,4.0,1.2,7.5,1.07,2.1,1.67
+1534319,Colombia Categoria Primera A,2022,2022-01-31 22:05:00,3,Deportes Tolima,Unión Magdalena,2,1,1.33,4.0,10.0,1.08,7.0,1.44,2.6,2.25,1.57,3.8,1.22,8.0,1.06,2.4,1.5
+1534323,Colombia Categoria Primera A,2022,2022-02-02 16:00:00,4,Atlético Bucaramanga,Alianza Petrolera,2,1,1.99,3.32,3.74,1.11,6.0,1.5,2.4,2.25,1.62,4.0,1.2,9.0,1.05,2.11,1.69
+1534329,Colombia Categoria Primera A,2022,2022-02-02 18:05:00,4,Envigado,Millonarios,0,0,3.32,3.28,2.18,1.11,6.0,1.5,2.4,2.3,1.6,3.8,1.22,9.0,1.05,2.23,1.62
+1534326,Colombia Categoria Primera A,2022,2022-02-02 20:10:00,4,Deportivo Cali,Deportivo Pereira,1,0,1.78,3.37,4.81,1.07,7.5,1.36,2.9,2.2,1.65,3.6,1.25,6.5,1.1,2.0,1.73
+1534325,Colombia Categoria Primera A,2022,2022-02-02 22:15:00,4,Santa Fe,Junior,2,1,2.12,3.15,3.63,1.05,7.5,1.37,2.76,2.38,1.57,4.1,1.2,8.1,1.04,2.08,1.77
+1534324,Colombia Categoria Primera A,2022,2022-02-03 16:00:00,4,La Equidad,Rionegro Águilas,0,1,1.8,3.52,4.4,1.08,7.0,1.5,2.4,2.05,1.67,4.0,1.2,7.5,1.07,2.2,1.62
+1534327,Colombia Categoria Primera A,2022,2022-02-03 18:05:00,4,Unión Magdalena,Deportivo Pasto,0,0,2.59,3.13,2.76,1.11,6.0,1.5,2.55,2.25,1.57,4.0,1.2,9.0,1.05,2.18,1.65
+1534322,Colombia Categoria Primera A,2022,2022-02-03 20:10:00,4,Jaguares de Córdoba,Patriotas Boyacá,3,1,1.77,3.62,4.46,1.06,8.0,1.33,3.0,1.8,1.91,3.6,1.25,6.5,1.1,1.97,1.8
+1534328,Colombia Categoria Primera A,2022,2022-02-03 22:15:00,4,Atlético Nacional,Deportes Tolima,0,1,1.74,3.56,4.74,1.11,6.0,1.48,2.5,2.2,1.6,4.0,1.2,8.0,1.06,2.08,1.71
+1534320,Colombia Categoria Primera A,2022,2022-02-04 18:00:00,4,Cortuluá,América de Cali,2,0,4.05,3.3,1.93,1.1,6.5,1.42,2.62,2.3,1.53,4.0,1.2,8.0,1.06,2.08,1.71
+1534321,Colombia Categoria Primera A,2022,2022-02-04 22:00:00,4,Once Caldas,Independiente Medellín,2,1,2.77,2.9,2.41,1.11,6.0,1.5,2.55,2.35,1.53,4.5,1.17,9.0,1.05,2.0,1.77
+1534338,Colombia Categoria Primera A,2022,2022-02-05 18:05:00,5,Envigado,Deportivo Cali,1,0,3.5,3.2,2.12,1.1,7.0,1.47,2.5,2.2,1.6,4.35,1.2,8.75,1.07,1.95,1.8
+1534334,Colombia Categoria Primera A,2022,2022-02-06 16:00:00,5,Patriotas Boyacá,La Equidad,0,1,2.76,3.0,2.47,5.59,1.13,1.45,2.65,2.5,1.52,4.5,1.18,8.9,1.03,1.91,1.8
+1534339,Colombia Categoria Primera A,2022,2022-02-06 18:05:00,5,Deportes Tolima,Atlético Bucaramanga,2,1,1.69,3.4,4.65,1.06,7.0,1.5,2.5,2.23,1.64,4.75,1.16,8.7,1.03,2.2,1.62
+1534330,Colombia Categoria Primera A,2022,2022-02-06 20:10:00,5,Millonarios,Unión Magdalena,1,0,1.65,3.4,4.95,1.04,8.2,1.36,3.0,2.38,1.57,4.0,1.25,7.3,1.05,2.75,1.4
+1534332,Colombia Categoria Primera A,2022,2022-02-06 22:15:00,5,Deportivo Pasto,Atlético Nacional,0,1,3.45,3.1,2.06,1.06,7.1,1.42,2.7,2.43,1.54,4.33,1.2,8.6,1.03,2.0,1.73
+1534333,Colombia Categoria Primera A,2022,2022-02-07 18:05:00,5,Alianza Petrolera,Jaguares de Córdoba,2,0,3.38,3.38,2.11,1.06,7.0,1.45,2.65,2.05,1.7,4.5,1.18,8.8,1.03,2.0,1.73
+1534336,Colombia Categoria Primera A,2022,2022-02-07 20:10:00,5,Junior,Rionegro Águilas,2,1,1.62,3.8,5.4,1.04,8.1,1.32,2.93,2.05,1.7,3.72,1.23,7.3,1.05,2.63,1.44
+1534335,Colombia Categoria Primera A,2022,2022-02-07 22:15:00,5,América de Cali,Santa Fe,2,2,3.07,3.26,2.31,1.06,6.75,1.43,2.62,2.15,1.61,4.32,1.18,8.6,1.03,2.0,1.73
+1534337,Colombia Categoria Primera A,2022,2022-02-08 20:00:00,5,Independiente Medellín,Cortuluá,3,1,1.92,3.1,3.9,1.06,7.1,1.53,2.35,2.46,1.51,4.44,1.16,8.9,1.03,2.38,1.53
+1534347,Colombia Categoria Primera A,2022,2022-02-11 18:00:00,6,Unión Magdalena,Envigado,2,1,2.45,2.87,2.75,1.11,6.0,1.5,2.55,2.35,1.53,4.5,1.17,9.0,1.05,2.1,1.67
+1534343,Colombia Categoria Primera A,2022,2022-02-11 20:05:00,6,Atlético Bucaramanga,Deportivo Pasto,0,1,2.05,3.0,3.4,1.1,6.5,1.44,2.62,2.2,1.6,4.33,1.2,8.0,1.06,2.0,1.73
+1534348,Colombia Categoria Primera A,2022,2022-02-11 22:10:00,6,Atlético Nacional,Alianza Petrolera,0,0,1.44,3.75,6.0,1.06,8.0,1.3,3.4,1.87,1.85,3.25,1.33,6.0,1.11,2.05,1.7
+1534340,Colombia Categoria Primera A,2022,2022-02-12 16:00:00,6,Cortuluá,Patriotas Boyacá,1,0,2.57,2.89,2.35,1.08,7.0,1.36,3.0,2.12,1.67,3.75,1.25,7.0,1.08,1.91,1.8
+1534344,Colombia Categoria Primera A,2022,2022-02-12 18:05:00,6,La Equidad,Independiente Medellín,2,0,1.95,2.83,3.41,1.11,6.0,1.5,2.49,2.41,1.5,4.5,1.17,9.0,1.05,2.05,1.7
+1534341,Colombia Categoria Primera A,2022,2022-02-12 20:10:00,6,Once Caldas,Junior,1,0,2.56,3.0,2.3,1.07,7.5,1.33,3.25,2.06,1.71,3.75,1.25,7.0,1.08,1.8,1.91
+1534349,Colombia Categoria Primera A,2022,2022-02-12 22:15:00,6,Rionegro Águilas,América de Cali,2,0,3.25,2.95,1.95,1.08,7.0,1.36,3.0,2.17,1.64,3.75,1.25,7.0,1.08,1.91,1.8
+1534345,Colombia Categoria Primera A,2022,2022-02-13 18:00:00,6,Santa Fe,Deportivo Pereira,1,2,1.57,3.5,5.5,1.07,7.5,1.36,3.0,2.15,1.61,3.75,1.25,7.0,1.08,2.1,1.67
+1534346,Colombia Categoria Primera A,2022,2022-02-13 20:05:00,6,Deportivo Cali,Millonarios,0,2,2.8,3.0,2.4,1.08,7.0,1.36,3.0,2.15,1.61,3.75,1.25,7.0,1.08,1.85,1.85
+1534342,Colombia Categoria Primera A,2022,2022-02-13 22:10:00,6,Jaguares de Córdoba,Deportes Tolima,0,2,2.7,3.0,2.45,1.09,6.05,3.17,1.35,2.15,1.61,5.3,1.12,10.5,1.01,2.2,1.62
+1534356,Colombia Categoria Primera A,2022,2022-02-15 20:00:00,7,Unión Magdalena,Atlético Bucaramanga,0,1,2.4,2.8,3.1,1.08,6.15,1.52,2.5,2.52,1.46,5.2,1.13,10.5,1.01,2.16,1.65
+1534358,Colombia Categoria Primera A,2022,2022-02-15 22:05:00,7,Envigado,Atlético Nacional,1,2,3.6,3.0,2.05,1.06,7.1,1.43,2.62,2.43,1.55,4.44,1.17,8.7,1.03,2.48,1.51
+1534351,Colombia Categoria Primera A,2022,2022-02-16 16:00:00,7,Deportivo Pereira,Jaguares de Córdoba,2,1,2.23,2.99,3.48,1.07,6.75,1.43,2.63,2.05,1.67,4.0,1.2,8.1,1.04,2.09,1.7
+1534359,Colombia Categoria Primera A,2022,2022-02-16 18:05:00,7,Deportes Tolima,Santa Fe,3,0,1.76,3.4,4.8,1.07,6.75,1.5,2.4,2.1,1.67,4.0,1.2,9.3,1.02,2.24,1.62
+1534350,Colombia Categoria Primera A,2022,2022-02-16 20:10:00,7,Millonarios,Rionegro Águilas,2,0,1.5,3.94,6.7,1.05,7.3,1.43,2.63,2.15,1.61,4.0,1.2,8.4,1.03,2.5,1.5
+1534357,Colombia Categoria Primera A,2022,2022-02-16 22:15:00,7,Independiente Medellín,Junior,2,0,2.24,3.12,3.3,1.08,6.2,1.51,2.36,2.05,1.67,5.15,1.13,10.5,1.01,2.23,1.62
+1534354,Colombia Categoria Primera A,2022,2022-02-17 16:00:00,7,Patriotas Boyacá,Once Caldas,0,0,2.83,3.24,2.45,1.08,6.05,1.55,2.3,2.2,1.6,3.8,1.22,10.75,1.01,2.3,1.59
+1534353,Colombia Categoria Primera A,2022,2022-02-17 18:05:00,7,Alianza Petrolera,Cortuluá,0,0,1.91,3.44,3.98,1.05,7.3,1.43,2.63,2.1,1.65,4.0,1.2,8.4,1.03,2.03,1.75
+1534352,Colombia Categoria Primera A,2022,2022-02-17 20:10:00,7,Deportivo Pasto,Deportivo Cali,2,0,2.43,3.08,3.05,1.09,5.95,1.5,2.45,2.55,1.45,5.45,1.11,11.0,1.0,2.19,1.64
+1534355,Colombia Categoria Primera A,2022,2022-02-17 22:15:00,7,América de Cali,La Equidad,1,1,1.57,3.78,6.1,1.08,6.2,1.47,2.3,2.2,1.6,4.0,1.2,10.25,1.01,2.36,1.56
+1534367,Colombia Categoria Primera A,2022,2022-02-19 18:05:00,8,Santa Fe,Independiente Medellín,1,0,1.66,3.3,5.6,1.08,7.0,1.53,2.38,2.3,1.6,4.0,1.2,7.5,1.07,2.2,1.64
+1534362,Colombia Categoria Primera A,2022,2022-02-19 20:10:00,8,Jaguares de Córdoba,Millonarios,1,2,2.4,3.1,2.88,1.11,6.0,1.5,2.4,2.38,1.56,4.0,1.2,9.0,1.05,2.12,1.69
+1534370,Colombia Categoria Primera A,2022,2022-02-19 22:15:00,8,Atlético Nacional,Unión Magdalena,1,0,1.5,3.75,6.5,1.07,7.5,1.33,3.0,2.15,1.7,3.4,1.29,7.0,1.08,2.65,1.46
+1534360,Colombia Categoria Primera A,2022,2022-02-20 16:00:00,8,Cortuluá,Deportivo Pereira,2,1,2.1,3.05,3.5,1.08,7.0,1.36,2.9,2.1,1.65,3.6,1.25,7.5,1.07,1.95,1.81
+1534368,Colombia Categoria Primera A,2022,2022-02-20 18:05:00,8,Deportivo Cali,Alianza Petrolera,1,1,2.0,3.1,3.75,1.1,6.5,1.48,2.5,2.3,1.55,4.0,1.2,8.0,1.06,2.23,1.62
+1534369,Colombia Categoria Primera A,2022,2022-02-20 20:10:00,8,Junior,América de Cali,1,0,1.9,3.35,3.9,1.05,7.4,1.41,2.69,2.1,1.65,4.2,1.18,8.3,1.04,2.2,1.64
+1534364,Colombia Categoria Primera A,2022,2022-02-20 22:15:00,8,La Equidad,Deportes Tolima,0,0,2.85,2.85,2.5,1.12,5.5,1.6,2.2,2.3,1.55,3.8,1.22,11.0,1.03,2.29,1.59
+1534363,Colombia Categoria Primera A,2022,2022-02-21 21:40:00,8,Atlético Bucaramanga,Envigado,1,2,1.87,3.42,4.22,1.07,6.65,1.43,2.49,2.19,1.6,4.74,1.15,9.4,1.02,2.25,1.6
+1534371,Colombia Categoria Primera A,2022,2022-02-22 19:30:00,8,Rionegro Águilas,Patriotas Boyacá,1,0,1.9,3.3,3.65,1.11,6.0,1.53,2.38,2.35,1.53,4.5,1.17,10.0,1.04,2.2,1.62
+1534361,Colombia Categoria Primera A,2022,2022-02-22 22:05:00,8,Once Caldas,Deportivo Pasto,3,0,1.95,2.85,4.2,1.06,6.95,1.44,2.58,2.25,1.57,4.5,1.17,8.9,1.03,2.38,1.53
+1534380,Colombia Categoria Primera A,2022,2022-02-26 16:00:00,9,Envigado,Jaguares de Córdoba,3,1,2.4,3.0,2.8,1.08,7.0,1.5,2.4,2.2,1.61,3.8,1.22,7.5,1.07,2.1,1.67
+1534373,Colombia Categoria Primera A,2022,2022-02-26 18:05:00,9,Deportivo Pereira,La Equidad,2,3,2.0,3.0,3.6,1.07,6.45,1.5,2.4,2.25,1.57,4.0,1.2,9.2,1.02,2.05,1.7
+1534381,Colombia Categoria Primera A,2022,2022-02-26 20:10:00,9,Deportes Tolima,Junior,0,2,1.95,2.88,4.0,1.12,5.5,1.5,2.45,2.49,1.5,4.75,1.15,10.0,1.04,2.22,1.63
+1534372,Colombia Categoria Primera A,2022,2022-02-26 22:15:00,9,Millonarios,Cortuluá,1,0,1.5,3.4,6.5,1.05,7.6,1.39,2.76,2.25,1.62,4.1,1.2,7.9,1.04,2.38,1.53
+1534378,Colombia Categoria Primera A,2022,2022-02-27 18:05:00,9,Unión Magdalena,Deportivo Cali,0,2,2.8,3.05,2.55,1.08,6.1,1.5,2.45,2.5,1.52,4.0,1.2,9.9,1.02,2.1,1.65
+1534375,Colombia Categoria Primera A,2022,2022-02-27 20:10:00,9,Atlético Bucaramanga,Atlético Nacional,3,1,3.35,3.25,2.11,1.07,6.65,1.5,2.55,2.43,1.54,4.0,1.2,4.26,1.2,2.1,1.67
+1534377,Colombia Categoria Primera A,2022,2022-02-27 22:15:00,9,América de Cali,Once Caldas,2,0,2.11,3.2,3.4,1.06,6.95,1.43,2.62,2.43,1.55,4.45,1.17,8.8,1.03,1.92,1.82
+1534376,Colombia Categoria Primera A,2022,2022-02-28 21:40:00,9,Patriotas Boyacá,Santa Fe,1,1,3.9,3.0,1.91,1.1,7.0,1.5,2.5,2.28,1.61,4.75,1.16,9.0,1.05,2.1,1.68
+1534374,Colombia Categoria Primera A,2022,2022-03-01 19:30:00,9,Deportivo Pasto,Alianza Petrolera,1,1,2.17,2.97,3.72,1.1,6.5,1.5,2.55,2.4,1.55,4.5,1.18,8.0,1.06,2.15,1.65
+1534379,Colombia Categoria Primera A,2022,2022-03-01 21:35:00,9,Independiente Medellín,Rionegro Águilas,4,0,1.71,3.36,5.45,1.07,6.65,1.5,2.55,2.38,1.57,4.8,1.15,5.13,1.15,2.38,1.53
+1534383,Colombia Categoria Primera A,2022,2022-03-04 21:40:00,10,Once Caldas,Deportivo Pereira,0,0,1.57,3.9,5.65,2.89,1.41,1.32,3.2,1.91,1.8,3.55,1.27,6.75,1.09,2.08,1.76
+1534389,Colombia Categoria Primera A,2022,2022-03-05 18:05:00,10,Junior,Unión Magdalena,3,1,1.31,4.7,11.5,1.08,7.0,1.36,3.0,2.25,1.57,3.5,1.29,6.5,1.1,2.62,1.44
+1534388,Colombia Categoria Primera A,2022,2022-03-05 20:10:00,10,Deportivo Cali,América de Cali,0,1,2.2,3.26,3.28,1.1,6.5,1.44,2.62,2.19,1.71,4.33,1.2,8.0,1.06,2.0,1.73
+1534386,Colombia Categoria Primera A,2022,2022-03-05 22:15:00,10,La Equidad,Patriotas Boyacá,1,1,1.61,3.56,6.1,1.12,5.5,1.5,2.45,2.44,1.49,5.0,1.14,10.0,1.04,2.5,1.5
+1534385,Colombia Categoria Primera A,2022,2022-03-06 18:05:00,10,Alianza Petrolera,Atlético Bucaramanga,2,2,2.28,2.88,3.4,1.1,6.5,1.5,2.55,2.27,1.59,4.0,1.2,8.0,1.06,2.05,1.7
+1534387,Colombia Categoria Primera A,2022,2022-03-06 20:10:00,10,Santa Fe,Millonarios,0,3,3.05,2.88,2.45,1.12,5.5,1.53,2.45,2.5,1.52,4.0,1.2,10.0,1.04,2.25,1.6
+1534390,Colombia Categoria Primera A,2022,2022-03-06 22:15:00,10,Atlético Nacional,Independiente Medellín,2,0,1.79,3.05,5.1,1.11,6.0,1.48,2.5,2.43,1.55,4.0,1.2,9.0,1.05,2.1,1.67
+1534382,Colombia Categoria Primera A,2022,2022-03-07 21:40:00,10,Cortuluá,Deportes Tolima,1,3,3.45,3.0,2.1,1.09,7.0,1.45,2.6,2.35,1.53,3.32,1.32,9.0,1.05,2.2,1.63
+1534391,Colombia Categoria Primera A,2022,2022-03-08 19:30:00,10,Rionegro Águilas,Envigado,1,2,2.3,2.87,3.0,1.09,5.95,1.5,2.55,2.35,1.53,5.4,1.12,10.5,1.01,2.3,1.57
+1534384,Colombia Categoria Primera A,2022,2022-03-08 21:35:00,10,Jaguares de Córdoba,Deportivo Pasto,1,0,2.0,2.9,3.7,1.06,7.0,1.5,2.55,2.45,1.5,4.44,1.17,8.8,1.03,2.1,1.67
+1534331,Colombia Categoria Primera A,2022,2022-03-09 22:00:00,5,Deportivo Pereira,Once Caldas,0,1,2.86,2.86,2.38,1.12,5.5,1.5,2.5,2.45,1.53,3.8,1.22,10.0,1.04,2.2,1.64
+1534401,Colombia Categoria Primera A,2022,2022-03-16 18:00:00,11,Deportes Tolima,Patriotas Boyacá,1,2,1.36,4.33,9.6,1.04,7.8,1.38,2.8,2.13,1.75,3.92,1.21,7.7,1.04,2.45,1.51
+1534396,Colombia Categoria Primera A,2022,2022-03-16 20:05:00,11,Atlético Bucaramanga,Deportivo Cali,1,0,2.4,2.65,3.25,1.07,6.45,1.5,2.5,2.3,1.55,4.9,1.14,9.8,1.02,2.11,1.68
+1534394,Colombia Categoria Primera A,2022,2022-03-16 22:10:00,11,Deportivo Pasto,Santa Fe,2,4,3.0,2.75,2.5,1.12,6.0,1.62,2.25,2.55,1.45,4.75,1.16,10.75,1.01,2.15,1.66
+1534399,Colombia Categoria Primera A,2022,2022-03-17 21:45:00,11,Atlético Nacional,Jaguares de Córdoba,3,1,1.56,3.6,5.0,1.06,8.0,1.33,3.0,1.94,1.77,3.3,1.29,5.3,1.12,2.15,1.67
+1534398,Colombia Categoria Primera A,2022,2022-03-18 19:30:00,11,Unión Magdalena,Cortuluá,0,2,2.29,3.1,2.77,1.08,7.0,1.36,3.0,2.25,1.63,3.75,1.25,8.0,1.06,1.83,1.9
+1534392,Colombia Categoria Primera A,2022,2022-03-18 22:00:00,11,Millonarios,Once Caldas,1,0,1.68,3.17,4.8,1.09,7.0,1.5,2.5,2.35,1.53,4.75,1.18,8.0,1.06,2.25,1.62
+1534395,Colombia Categoria Primera A,2022,2022-03-19 19:30:00,11,Alianza Petrolera,Rionegro Águilas,2,1,2.14,3.25,3.85,1.07,6.65,1.47,2.49,2.35,1.53,4.74,1.14,9.4,1.02,2.2,1.63
+1534397,Colombia Categoria Primera A,2022,2022-03-19 22:00:00,11,América de Cali,Independiente Medellín,1,3,2.29,3.06,3.72,1.09,6.0,1.5,2.5,2.55,1.45,4.84,1.14,9.7,1.02,2.1,1.67
+1534400,Colombia Categoria Primera A,2022,2022-03-20 18:05:00,11,Envigado,La Equidad,1,1,2.55,2.9,2.85,1.08,6.3,1.6,2.32,2.32,1.6,5.0,1.13,10.0,1.01,2.25,1.57
+1534393,Colombia Categoria Primera A,2022,2022-03-20 20:10:00,11,Deportivo Pereira,Junior,1,0,3.45,3.2,2.06,1.05,7.7,1.36,2.84,2.23,1.64,3.92,1.21,7.7,1.05,1.91,1.8
+1534404,Colombia Categoria Primera A,2022,2022-03-21 17:45:00,12,Jaguares de Córdoba,Unión Magdalena,2,0,1.61,3.35,5.0,1.09,7.75,1.45,2.6,2.3,1.53,4.7,1.17,10.75,1.05,2.2,1.62
+1534408,Colombia Categoria Primera A,2022,2022-03-21 20:10:00,12,Deportivo Cali,Atlético Nacional,3,3,2.5,2.9,2.65,1.08,7.75,1.44,2.65,2.25,1.57,4.5,1.18,10.0,1.05,1.95,1.8
+1534407,Colombia Categoria Primera A,2022,2022-03-21 22:15:00,12,Santa Fe,Atlético Bucaramanga,3,1,2.13,2.75,3.5,1.08,8.0,1.45,2.6,2.2,1.6,4.65,1.17,10.5,1.05,2.15,1.66
+1534403,Colombia Categoria Primera A,2022,2022-03-22 20:00:00,12,Once Caldas,Deportes Tolima,2,2,2.51,3.03,2.98,1.1,5.75,1.5,2.55,2.52,1.46,5.7,1.1,10.75,1.01,2.28,1.65
+1534405,Colombia Categoria Primera A,2022,2022-03-22 22:05:00,12,Patriotas Boyacá,América de Cali,2,1,3.1,3.12,2.37,1.07,6.45,1.49,2.44,2.27,1.56,4.9,1.14,9.8,1.02,2.1,1.76
+1534402,Colombia Categoria Primera A,2022,2022-03-23 16:00:00,12,Cortuluá,Envigado,1,1,2.27,2.95,2.95,1.1,6.5,1.5,2.55,2.27,1.59,4.33,1.2,9.0,1.05,2.0,1.73
+1534406,Colombia Categoria Primera A,2022,2022-03-23 18:05:00,12,La Equidad,Alianza Petrolera,2,1,1.79,3.1,4.2,1.1,6.5,1.5,2.5,2.46,1.51,4.33,1.2,9.0,1.05,2.3,1.57
+1534411,Colombia Categoria Primera A,2022,2022-03-23 20:10:00,12,Rionegro Águilas,Deportivo Pereira,1,0,2.07,3.21,3.69,1.1,6.5,1.5,2.45,2.45,1.53,4.33,1.2,8.0,1.06,2.0,1.73
+1534410,Colombia Categoria Primera A,2022,2022-03-23 22:15:00,12,Independiente Medellín,Millonarios,1,0,2.64,2.87,2.96,1.14,5.0,1.6,2.3,2.25,1.57,5.0,1.14,11.0,1.03,2.2,1.62
+1534409,Colombia Categoria Primera A,2022,2022-03-25 18:00:00,12,Junior,Deportivo Pasto,1,1,1.5,3.9,7.0,1.08,7.0,1.36,3.0,2.15,1.67,3.75,1.25,7.0,1.08,2.3,1.57
+1534416,Colombia Categoria Primera A,2022,2022-03-26 16:00:00,13,Atlético Bucaramanga,Jaguares de Córdoba,1,0,1.73,3.3,5.0,1.08,7.0,1.4,2.75,2.16,1.62,4.0,1.22,7.5,1.07,2.1,1.67
+1534420,Colombia Categoria Primera A,2022,2022-03-26 18:05:00,13,Envigado,Once Caldas,1,1,2.75,3.0,2.63,1.11,6.0,1.5,2.45,2.45,1.53,4.5,1.17,9.0,1.05,2.1,1.67
+1534418,Colombia Categoria Primera A,2022,2022-03-26 20:10:00,13,Unión Magdalena,Rionegro Águilas,2,1,2.7,2.55,3.05,1.11,6.0,1.52,2.48,2.5,1.47,4.75,1.15,9.0,1.05,2.05,1.7
+1534413,Colombia Categoria Primera A,2022,2022-03-26 22:15:00,13,Deportivo Pereira,Independiente Medellín,1,1,3.3,2.8,2.38,1.1,6.5,1.44,2.62,2.23,1.64,4.33,1.2,8.0,1.06,2.05,1.7
+1534417,Colombia Categoria Primera A,2022,2022-03-27 17:10:00,13,Deportivo Cali,Cortuluá,2,1,1.8,3.1,4.5,1.06,8.0,1.3,3.4,2.14,1.63,3.25,1.33,6.0,1.11,1.91,1.8
+1534415,Colombia Categoria Primera A,2022,2022-03-27 19:15:00,13,Alianza Petrolera,Patriotas Boyacá,2,1,1.67,3.1,5.5,1.11,6.0,1.5,2.5,2.16,1.62,4.33,1.2,9.0,1.05,2.2,1.62
+1534421,Colombia Categoria Primera A,2022,2022-03-27 21:30:00,13,Deportes Tolima,América de Cali,1,0,1.7,3.45,4.5,1.1,6.5,1.44,2.62,2.25,1.57,4.33,1.2,8.0,1.06,2.2,1.62
+1534414,Colombia Categoria Primera A,2022,2022-03-28 19:30:00,13,Deportivo Pasto,La Equidad,1,1,2.2,3.0,3.25,1.14,5.0,1.57,2.38,2.43,1.52,5.5,1.12,11.0,1.03,2.3,1.57
+1534419,Colombia Categoria Primera A,2022,2022-03-28 21:35:00,13,Atlético Nacional,Santa Fe,2,1,1.75,3.2,4.75,1.07,7.5,1.36,3.0,2.2,1.63,3.75,1.25,7.0,1.08,2.0,1.73
+1534412,Colombia Categoria Primera A,2022,2022-03-30 22:00:00,13,Millonarios,Junior,1,0,2.05,2.95,3.85,1.1,6.5,1.53,2.45,2.28,1.61,4.33,1.2,8.0,1.06,2.25,1.6
+1534426,Colombia Categoria Primera A,2022,2022-04-01 21:40:00,14,La Equidad,Deportivo Cali,0,0,2.3,2.95,3.05,1.11,6.0,1.5,2.55,2.55,1.45,4.5,1.17,9.0,1.05,2.2,1.62
+1534430,Colombia Categoria Primera A,2022,2022-04-02 16:00:00,14,Independiente Medellín,Envigado,2,1,1.51,3.8,6.08,1.1,6.5,1.5,2.5,2.29,1.55,4.33,1.2,9.0,1.05,2.55,1.51
+1534424,Colombia Categoria Primera A,2022,2022-04-02 18:05:00,14,Deportivo Pereira,Deportes Tolima,0,2,3.43,3.1,2.1,1.1,6.5,1.44,2.62,2.23,1.58,4.33,1.2,9.0,1.05,2.0,1.73
+1534425,Colombia Categoria Primera A,2022,2022-04-02 20:10:00,14,Patriotas Boyacá,Atlético Nacional,0,2,4.07,3.2,1.88,1.05,7.6,1.38,2.76,2.11,1.65,4.04,1.2,7.9,1.04,2.05,1.73
+1534429,Colombia Categoria Primera A,2022,2022-04-02 22:15:00,14,Junior,Alianza Petrolera,3,1,1.42,4.1,7.05,1.04,8.2,1.34,2.93,2.16,1.62,3.72,1.23,7.2,1.06,2.38,1.53
+1534431,Colombia Categoria Primera A,2022,2022-04-03 17:00:00,14,Rionegro Águilas,Jaguares de Córdoba,1,1,1.9,3.2,3.98,1.11,6.0,1.5,2.5,2.19,1.6,4.5,1.17,9.0,1.05,2.08,1.76
+1534427,Colombia Categoria Primera A,2022,2022-04-03 19:30:00,14,América de Cali,Millonarios,3,2,2.9,2.9,2.5,1.06,6.8,1.53,2.45,2.41,1.5,4.6,1.16,9.1,1.02,2.0,1.82
+1534428,Colombia Categoria Primera A,2022,2022-04-03 21:35:00,14,Santa Fe,Unión Magdalena,1,0,1.42,4.0,7.37,1.05,9.0,1.22,4.0,2.07,1.67,3.0,1.36,5.5,1.12,2.38,1.53
+1534422,Colombia Categoria Primera A,2022,2022-04-04 18:00:00,14,Cortuluá,Deportivo Pasto,0,1,2.01,2.95,3.5,1.1,6.5,1.5,2.55,2.35,1.53,4.5,1.17,8.0,1.06,2.1,1.67
+1534423,Colombia Categoria Primera A,2022,2022-04-04 22:00:00,14,Once Caldas,Atlético Bucaramanga,0,1,1.98,3.05,3.5,1.11,6.5,1.5,2.55,2.35,1.53,4.75,1.18,11.0,1.03,2.63,1.44
+1534432,Colombia Categoria Primera A,2022,2022-04-08 22:00:00,15,Millonarios,La Equidad,2,1,1.61,3.32,5.35,1.11,6.0,1.54,2.39,2.75,1.4,4.5,1.17,9.0,1.05,2.46,1.52
+1534441,Colombia Categoria Primera A,2022,2022-04-09 18:05:00,15,Deportes Tolima,Rionegro Águilas,3,0,1.5,3.55,5.8,1.05,7.7,1.37,2.8,2.33,1.58,3.92,1.2,7.8,1.04,2.29,1.59
+1534438,Colombia Categoria Primera A,2022,2022-04-09 20:10:00,15,Unión Magdalena,Patriotas Boyacá,0,1,2.0,3.05,3.4,1.11,6.0,1.5,2.4,2.28,1.61,4.0,1.2,9.0,1.05,2.23,1.62
+1534437,Colombia Categoria Primera A,2022,2022-04-09 22:15:00,15,Deportivo Cali,Junior,1,1,2.24,2.95,3.0,1.1,6.5,1.44,2.62,2.5,1.52,4.33,1.2,8.0,1.06,2.0,1.73
+1534440,Colombia Categoria Primera A,2022,2022-04-10 17:00:00,15,Envigado,Santa Fe,1,0,2.7,2.8,2.5,1.1,6.25,1.5,2.4,2.4,1.5,4.0,1.2,9.75,1.05,2.09,1.7
+1534439,Colombia Categoria Primera A,2022,2022-04-10 19:30:00,15,Atlético Nacional,América de Cali,2,0,1.61,3.3,5.2,1.02,9.7,1.25,3.48,2.1,1.67,3.1,1.32,5.8,1.09,2.0,1.77
+1534435,Colombia Categoria Primera A,2022,2022-04-10 21:35:00,15,Alianza Petrolera,Independiente Medellín,1,1,2.5,2.8,2.75,1.06,6.9,1.45,2.66,2.45,1.5,4.5,1.16,9.1,1.02,2.03,1.75
+1534433,Colombia Categoria Primera A,2022,2022-04-11 19:30:00,15,Jaguares de Córdoba,Once Caldas,2,1,2.55,3.05,2.5,1.11,6.0,1.5,2.4,2.5,1.52,4.75,1.16,10.0,1.05,2.04,1.74
+1534434,Colombia Categoria Primera A,2022,2022-04-11 21:40:00,15,Deportivo Pasto,Deportivo Pereira,2,2,2.07,2.95,3.35,1.1,6.0,1.45,2.6,2.5,1.52,4.5,1.18,9.0,1.05,2.1,1.66
+1534436,Colombia Categoria Primera A,2022,2022-04-12 21:40:00,15,Atlético Bucaramanga,Cortuluá,3,2,1.84,3.34,4.4,1.1,6.5,1.44,2.62,2.5,1.52,4.33,1.2,8.0,1.06,2.25,1.57
+1534447,Colombia Categoria Primera A,2022,2022-04-15 21:30:00,16,Santa Fe,Alianza Petrolera,0,1,1.67,3.5,4.5,1.07,7.5,1.36,3.0,1.95,1.83,3.5,1.29,6.5,1.1,2.22,1.63
+1534442,Colombia Categoria Primera A,2022,2022-04-16 16:00:00,16,Once Caldas,Cortuluá,1,0,1.71,3.2,4.9,1.07,8.0,1.35,2.9,2.23,1.64,3.6,1.25,7.25,1.08,2.18,1.65
+1534451,Colombia Categoria Primera A,2022,2022-04-16 18:05:00,16,Deportes Tolima,Deportivo Pasto,0,1,1.41,4.26,7.81,1.08,7.0,1.4,2.75,2.1,1.67,4.0,1.22,7.5,1.07,2.38,1.55
+1534445,Colombia Categoria Primera A,2022,2022-04-16 20:10:00,16,La Equidad,Jaguares de Córdoba,1,0,1.9,3.42,4.61,1.1,6.5,1.4,2.75,2.3,1.53,4.0,1.22,8.0,1.06,2.23,1.62
+1534448,Colombia Categoria Primera A,2022,2022-04-16 22:15:00,16,Junior,Atlético Bucaramanga,2,0,1.65,3.87,5.75,1.07,7.5,1.36,3.0,2.05,1.7,3.5,1.29,6.5,1.1,2.2,1.62
+1534450,Colombia Categoria Primera A,2022,2022-04-17 16:00:00,16,Rionegro Águilas,Atlético Nacional,1,0,3.2,3.2,2.16,1.05,7.6,1.36,2.8,2.14,1.68,4.04,1.2,7.9,1.04,1.91,1.8
+1534443,Colombia Categoria Primera A,2022,2022-04-17 18:05:00,16,Deportivo Pereira,Millonarios,1,0,4.0,3.25,1.9,1.06,7.2,1.42,2.65,2.15,1.68,4.3,1.18,8.4,1.03,2.1,1.67
+1534446,Colombia Categoria Primera A,2022,2022-04-17 20:10:00,16,América de Cali,Deportivo Cali,1,1,2.06,3.1,3.55,1.06,6.9,1.43,2.58,2.38,1.57,4.5,1.16,8.9,1.03,2.0,1.73
+1534449,Colombia Categoria Primera A,2022,2022-04-17 22:15:00,16,Independiente Medellín,Unión Magdalena,0,0,1.4,4.0,8.0,1.04,8.3,1.34,2.98,2.18,1.67,3.64,1.24,7.1,1.06,2.25,1.6
+1534444,Colombia Categoria Primera A,2022,2022-04-18 21:40:00,16,Patriotas Boyacá,Envigado,0,0,2.45,2.9,2.75,5.5,1.09,1.61,2.15,2.25,1.57,4.75,1.16,10.0,1.04,2.35,1.53
+1534457,Colombia Categoria Primera A,2022,2022-04-23 18:00:00,17,Atlético Bucaramanga,Independiente Medellín,2,3,2.88,2.84,2.49,1.09,6.15,1.53,2.3,2.75,1.4,5.25,1.12,10.75,1.01,2.24,1.62
+1534460,Colombia Categoria Primera A,2022,2022-04-23 20:05:00,17,Atlético Nacional,Once Caldas,0,0,1.93,3.0,4.0,1.05,7.6,1.39,2.76,2.05,1.7,4.05,1.2,7.9,1.04,2.08,1.71
+1534459,Colombia Categoria Primera A,2022,2022-04-23 22:10:00,17,Unión Magdalena,Junior,1,1,4.33,3.1,1.83,1.07,6.85,1.51,2.63,2.35,1.53,4.6,1.15,9.3,1.02,2.14,1.67
+1534461,Colombia Categoria Primera A,2022,2022-04-24 13:00:00,17,Envigado,Deportivo Pereira,2,1,2.09,3.24,3.58,1.1,5.75,1.57,2.47,2.4,1.5,3.41,1.31,10.25,1.01,2.2,1.64
+1534458,Colombia Categoria Primera A,2022,2022-04-24 16:00:00,17,Deportivo Cali,Rionegro Águilas,0,1,1.77,3.52,4.6,1.11,6.0,1.44,2.62,2.12,1.64,4.33,1.2,9.0,1.05,2.05,1.7
+1534454,Colombia Categoria Primera A,2022,2022-04-24 18:05:00,17,Jaguares de Córdoba,América de Cali,1,1,2.5,2.95,2.95,1.1,6.5,1.44,2.62,2.38,1.56,4.33,1.2,9.0,1.05,2.0,1.73
+1534452,Colombia Categoria Primera A,2022,2022-04-24 20:10:00,17,Millonarios,Santa Fe,2,1,1.79,3.3,4.5,1.1,6.5,1.44,2.62,2.28,1.61,4.5,1.17,9.0,1.05,2.05,1.7
+1534456,Colombia Categoria Primera A,2022,2022-04-24 22:15:00,17,Alianza Petrolera,Deportes Tolima,0,2,3.5,3.05,2.12,1.08,7.0,1.4,2.75,2.28,1.61,4.33,1.2,8.0,1.06,2.05,1.7
+1534453,Colombia Categoria Primera A,2022,2022-04-25 18:00:00,17,Cortuluá,La Equidad,0,2,2.8,2.8,2.45,1.11,6.0,1.5,2.45,2.55,1.45,4.75,1.15,9.0,1.05,2.13,1.68
+1534455,Colombia Categoria Primera A,2022,2022-04-26 21:40:00,17,Deportivo Pasto,Patriotas Boyacá,0,0,1.83,3.2,4.0,4.65,1.18,1.49,2.66,2.38,1.54,4.54,1.15,9.2,1.02,2.2,1.62
+1534463,Colombia Categoria Primera A,2022,2022-04-29 22:00:00,18,Deportivo Pereira,Unión Magdalena,2,0,1.89,3.36,4.18,1.09,7.25,1.5,2.55,2.2,1.6,5.0,1.16,12.0,1.04,2.15,1.62
+1534465,Colombia Categoria Primera A,2022,2022-04-30 16:00:00,18,La Equidad,Atlético Bucaramanga,1,1,1.78,3.2,4.6,1.1,6.5,1.5,2.45,2.55,1.45,4.75,1.16,9.5,1.02,2.2,1.62
+1534469,Colombia Categoria Primera A,2022,2022-04-30 18:05:00,18,Independiente Medellín,Atlético Nacional,0,0,2.25,2.85,3.4,1.08,6.3,1.44,2.57,2.3,1.55,4.45,1.17,8.8,1.03,2.01,1.75
+1534467,Colombia Categoria Primera A,2022,2022-04-30 20:10:00,18,Santa Fe,Jaguares de Córdoba,4,0,1.5,3.6,6.0,1.02,9.0,1.31,3.14,2.05,1.67,3.48,1.26,6.6,1.07,2.31,1.57
+1534471,Colombia Categoria Primera A,2022,2022-04-30 22:15:00,18,Deportes Tolima,Cortuluá,3,2,1.5,3.6,6.5,1.04,7.9,1.36,2.88,2.1,1.67,3.82,1.22,7.6,1.05,2.18,1.64
+1534462,Colombia Categoria Primera A,2022,2022-05-01 16:00:00,18,Once Caldas,Deportivo Cali,0,1,1.95,3.05,4.2,1.07,6.75,1.6,2.24,2.5,1.52,4.7,1.14,9.4,1.02,2.33,1.56
+1534464,Colombia Categoria Primera A,2022,2022-05-01 18:05:00,18,Patriotas Boyacá,Millonarios,1,2,4.6,2.97,1.94,1.09,6.0,1.5,2.55,2.4,1.5,4.95,1.13,10.25,1.01,2.22,1.62
+1534468,Colombia Categoria Primera A,2022,2022-05-01 22:15:00,18,Junior,Envigado,4,0,1.44,4.1,7.6,1.1,6.5,1.42,2.75,2.0,1.7,4.33,1.2,8.0,1.06,2.15,1.66
+1534470,Colombia Categoria Primera A,2022,2022-05-02 19:00:00,18,Rionegro Águilas,Deportivo Pasto,1,0,1.9,3.1,4.15,1.08,6.4,1.5,2.45,2.59,1.44,4.95,1.13,10.25,1.01,2.25,1.6
+1534466,Colombia Categoria Primera A,2022,2022-05-02 21:30:00,18,América de Cali,Alianza Petrolera,0,1,1.88,3.3,3.92,1.04,8.0,1.35,2.93,2.14,1.63,3.8,1.22,7.4,1.05,1.9,1.84
+1534479,Colombia Categoria Primera A,2022,2022-05-05 19:00:00,19,Unión Magdalena,La Equidad,1,1,3.65,3.04,1.79,1.1,6.5,1.44,2.62,2.35,1.53,4.33,1.2,8.0,1.06,2.0,1.73
+1534480,Colombia Categoria Primera A,2022,2022-05-06 22:00:00,19,Atlético Nacional,Deportivo Pereira,1,1,1.56,3.6,5.5,1.07,7.5,1.4,2.7,2.2,1.65,3.8,1.22,7.0,1.08,2.24,1.62
+1534477,Colombia Categoria Primera A,2022,2022-05-07 16:00:00,19,Atlético Bucaramanga,Patriotas Boyacá,1,1,1.63,3.7,5.0,1.1,6.5,1.44,2.62,2.14,1.66,4.33,1.2,8.0,1.06,2.2,1.62
+1534478,Colombia Categoria Primera A,2022,2022-05-07 18:05:00,19,Deportivo Cali,Santa Fe,1,1,3.25,3.1,2.15,1.08,7.0,1.44,2.62,2.28,1.58,4.33,1.2,8.0,1.06,2.0,1.73
+1534475,Colombia Categoria Primera A,2022,2022-05-07 20:10:00,19,Deportivo Pasto,América de Cali,3,1,2.63,3.15,2.69,1.08,7.0,1.4,2.75,2.2,1.6,4.0,1.22,7.5,1.07,2.25,1.6
+1534474,Colombia Categoria Primera A,2022,2022-05-07 22:15:00,19,Jaguares de Córdoba,Independiente Medellín,3,0,2.94,3.1,2.48,0.0,0.0,0.0,0.0,2.55,1.45,0.0,0.0,0.0,0.0,0.0,0.0
+1534473,Colombia Categoria Primera A,2022,2022-05-08 16:00:00,19,Cortuluá,Junior,1,0,4.1,3.05,1.92,1.08,7.0,1.42,2.62,2.28,1.61,4.0,1.2,7.5,1.07,1.96,1.81
+1534481,Colombia Categoria Primera A,2022,2022-05-08 18:05:00,19,Envigado,Rionegro Águilas,1,0,1.79,3.18,4.22,1.11,6.0,1.5,2.4,2.26,1.6,4.0,1.2,10.0,1.04,1.88,1.88
+1534472,Colombia Categoria Primera A,2022,2022-05-08 20:10:00,19,Millonarios,Deportes Tolima,0,0,1.82,3.28,3.92,1.08,7.0,1.4,2.7,2.2,1.63,3.8,1.22,7.5,1.07,2.02,1.75
+1534476,Colombia Categoria Primera A,2022,2022-05-08 22:15:00,19,Alianza Petrolera,Once Caldas,2,0,2.27,3.07,2.92,1.11,7.0,1.5,2.45,2.22,1.61,5.1,1.18,12.0,1.05,2.0,1.73
+1534482,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Millonarios,Alianza Petrolera,1,0,1.62,3.35,5.5,1.02,9.5,1.25,3.6,2.0,1.7,3.25,1.33,5.9,1.09,2.15,1.65
+1534484,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Deportivo Pereira,Atlético Bucaramanga,0,3,2.5,2.9,2.8,1.06,7.4,1.42,2.7,2.3,1.55,4.5,1.2,8.4,1.03,1.95,1.8
+1534486,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,La Equidad,Atlético Nacional,1,0,2.3,2.75,3.3,1.06,8.75,1.4,2.8,2.35,1.53,4.2,1.2,8.75,1.07,2.05,1.72
+1534488,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Junior,Jaguares de Córdoba,2,4,1.5,3.75,6.5,1.03,8.3,1.36,2.95,1.9,1.8,4.0,1.22,7.0,1.06,2.15,1.65
+1534489,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Independiente Medellín,Deportivo Pasto,1,0,1.65,3.4,5.0,1.04,8.1,1.36,2.95,2.3,1.55,4.0,1.22,7.3,1.05,2.2,1.62
+1534490,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Rionegro Águilas,Cortuluá,2,2,1.83,3.25,4.0,1.11,6.5,1.5,2.55,2.2,1.6,5.0,1.16,9.7,1.02,2.25,1.62
+1534491,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Deportes Tolima,Envigado,1,1,1.57,3.6,5.5,1.04,8.1,1.36,3.0,2.25,1.57,3.75,1.25,7.3,1.05,2.25,1.6
+1534483,Colombia Categoria Primera A,2022,2022-05-14 20:00:00,20,Once Caldas,Santa Fe,2,2,2.3,2.9,3.15,1.04,8.3,1.4,2.8,2.3,1.55,4.2,1.2,7.2,1.05,1.9,1.83
+1534485,Colombia Categoria Primera A,2022,2022-05-15 16:00:00,20,Patriotas Boyacá,Deportivo Cali,3,0,2.25,2.95,3.1,1.05,7.3,1.44,2.6,2.29,1.55,4.0,1.2,8.3,1.03,2.19,1.64
+1534487,Colombia Categoria Primera A,2022,2022-05-15 21:00:00,20,América de Cali,Unión Magdalena,1,0,1.67,3.4,5.07,1.06,6.7,1.44,2.49,2.25,1.57,4.7,1.15,9.3,1.02,2.3,1.55
+2148446,Colombia Categoria Primera A,2022,2022-05-21 17:00:00,21,Envigado,Deportes Tolima,1,4,3.2,2.65,2.33,1.11,6.5,1.5,2.45,2.47,1.48,4.75,1.16,11.0,1.04,2.1,1.67
+2148447,Colombia Categoria Primera A,2022,2022-05-21 19:15:00,21,Independiente Medellín,La Equidad,2,0,1.87,3.1,4.3,1.12,6.0,1.57,2.38,2.56,1.45,5.5,1.12,11.0,1.03,2.63,1.44
+2148444,Colombia Categoria Primera A,2022,2022-05-21 21:30:00,21,Junior,Atlético Nacional,1,1,2.23,3.1,3.13,1.06,8.75,1.4,2.8,2.11,1.65,4.2,1.2,9.0,1.06,2.1,1.67
+2148445,Colombia Categoria Primera A,2022,2022-05-22 19:30:00,21,Millonarios,Atlético Bucaramanga,1,0,1.4,3.8,8.0,1.04,11.0,1.33,3.2,2.1,1.67,3.75,1.25,7.25,1.09,2.5,1.5
+2148449,Colombia Categoria Primera A,2022,2022-05-31 20:00:00,22,Atlético Bucaramanga,Junior,2,0,3.35,3.2,2.25,1.11,7.5,1.5,2.55,2.41,1.5,5.2,1.16,13.0,1.04,2.23,1.63
+2148448,Colombia Categoria Primera A,2022,2022-05-31 22:05:00,22,Atlético Nacional,Millonarios,2,2,2.4,3.1,3.1,1.09,8.0,1.41,2.85,2.19,1.6,4.6,1.21,10.5,1.06,1.93,1.83
+2148451,Colombia Categoria Primera A,2022,2022-06-01 20:00:00,22,La Equidad,Envigado,2,0,1.74,3.15,4.4,1.09,8.0,1.5,2.45,2.41,1.5,4.8,1.19,11.0,1.06,2.35,1.56
+2148450,Colombia Categoria Primera A,2022,2022-06-01 22:05:00,22,Deportes Tolima,Independiente Medellín,0,0,1.97,3.0,3.55,1.12,6.0,1.57,2.38,2.45,1.5,4.75,1.16,10.0,1.04,2.25,1.57
+2148452,Colombia Categoria Primera A,2022,2022-06-04 19:15:00,23,Atlético Nacional,Atlético Bucaramanga,4,1,1.45,4.0,8.0,1.05,7.4,1.33,2.93,2.1,1.7,3.64,1.24,7.0,1.06,2.3,1.58
+2148453,Colombia Categoria Primera A,2022,2022-06-04 21:30:00,23,Junior,Millonarios,2,1,2.1,3.1,3.75,1.11,6.0,1.5,2.55,2.35,1.53,4.0,1.2,9.0,1.05,2.02,1.71
+2148455,Colombia Categoria Primera A,2022,2022-06-05 17:00:00,23,Envigado,Independiente Medellín,0,0,3.06,2.86,2.57,1.08,6.35,1.5,2.4,2.55,1.45,4.44,1.16,8.9,1.03,2.1,1.68
+2148454,Colombia Categoria Primera A,2022,2022-06-05 21:35:00,23,Deportes Tolima,La Equidad,1,0,1.94,3.04,4.52,1.08,6.4,1.5,2.55,2.45,1.5,4.4,1.16,8.8,1.03,2.15,1.66
+2148457,Colombia Categoria Primera A,2022,2022-06-08 20:15:00,24,Millonarios,Junior,0,0,1.8,3.1,4.2,1.08,6.6,1.5,2.66,2.2,1.6,4.5,1.16,9.0,1.02,2.11,1.68
+2148456,Colombia Categoria Primera A,2022,2022-06-08 22:15:00,24,Atlético Bucaramanga,Atlético Nacional,0,1,2.75,2.9,2.4,1.06,6.95,1.36,2.89,2.2,1.6,3.72,1.23,7.2,1.05,1.89,1.85
+2148458,Colombia Categoria Primera A,2022,2022-06-09 20:15:00,24,La Equidad,Deportes Tolima,1,0,2.52,2.84,2.93,1.12,6.75,1.53,2.45,2.47,1.43,5.8,1.14,13.0,1.02,2.15,1.65
+2148459,Colombia Categoria Primera A,2022,2022-06-09 22:15:00,24,Independiente Medellín,Envigado,2,1,1.47,3.7,7.0,1.08,9.0,1.42,2.62,2.24,1.52,4.0,1.2,11.0,1.06,2.37,1.55
+2148461,Colombia Categoria Primera A,2022,2022-06-11 19:00:00,25,Junior,Atlético Bucaramanga,1,0,1.45,3.75,7.0,1.03,8.4,1.33,3.04,2.2,1.65,3.54,1.25,6.9,1.06,2.35,1.56
+2148460,Colombia Categoria Primera A,2022,2022-06-11 21:30:00,25,Millonarios,Atlético Nacional,0,0,1.97,3.15,3.7,1.04,7.8,1.33,2.84,2.18,1.67,3.92,1.21,7.7,1.05,1.9,1.82
+2148463,Colombia Categoria Primera A,2022,2022-06-12 17:00:00,25,Envigado,La Equidad,0,3,2.95,3.0,2.33,1.11,6.75,1.52,2.5,2.73,1.4,5.5,1.14,13.0,1.03,2.18,1.65
+2148462,Colombia Categoria Primera A,2022,2022-06-12 19:30:00,25,Independiente Medellín,Deportes Tolima,0,1,2.04,3.15,3.45,1.1,7.0,1.5,2.45,2.45,1.53,4.85,1.16,11.0,1.04,2.06,1.7
+2148465,Colombia Categoria Primera A,2022,2022-06-15 20:00:00,26,Atlético Bucaramanga,Millonarios,2,1,3.3,3.0,2.15,1.07,8.75,1.36,2.95,2.35,1.58,4.0,1.22,8.75,1.07,1.95,1.83
+2148464,Colombia Categoria Primera A,2022,2022-06-15 22:15:00,26,Atlético Nacional,Junior,2,1,1.91,3.2,3.6,1.07,8.25,1.4,2.8,2.18,1.67,4.2,1.22,9.25,1.06,1.93,1.78
+2148466,Colombia Categoria Primera A,2022,2022-06-16 21:30:00,26,Deportes Tolima,Envigado,1,0,1.33,4.2,9.5,1.02,9.0,1.33,3.1,2.15,1.61,3.75,1.25,6.35,1.08,2.85,1.4
+2148467,Colombia Categoria Primera A,2022,2022-06-16 21:30:00,26,La Equidad,Independiente Medellín,1,5,2.45,2.9,3.2,1.11,6.0,1.53,2.3,2.57,1.4,5.5,1.13,14.0,1.03,2.25,1.57
+2462077,Colombia Categoria Primera A,2022,2022-06-22 22:00:00,0,Atlético Nacional,Deportes Tolima,3,1,2.03,3.23,3.8,1.11,7.0,1.5,2.55,2.25,1.57,5.2,1.15,11.5,1.03,2.1,1.68
+2462078,Colombia Categoria Primera A,2022,2022-06-26 21:00:00,0,Deportes Tolima,Atlético Nacional,2,1,2.02,3.14,3.97,1.1,6.5,1.5,2.5,2.27,1.55,4.5,1.17,8.0,1.06,2.1,1.67
+1534493,Colombia Categoria Primera A,2022,2022-07-07 18:00:00,1,Unión Magdalena,Once Caldas,2,2,3.6,3.18,2.11,1.11,6.5,1.5,2.5,2.41,1.5,4.75,1.17,12.0,1.04,2.1,1.7
+1534496,Colombia Categoria Primera A,2022,2022-07-07 20:05:00,1,Deportivo Pereira,Alianza Petrolera,1,2,2.3,3.15,3.19,1.06,9.0,1.36,2.95,2.15,1.67,3.75,1.25,8.25,1.07,1.88,1.82
+1534499,Colombia Categoria Primera A,2022,2022-07-07 22:10:00,1,Patriotas Boyacá,Junior,1,0,4.1,3.06,2.05,1.11,6.5,1.52,2.45,2.5,1.5,4.75,1.18,11.0,1.04,2.1,1.7
+1534497,Colombia Categoria Primera A,2022,2022-07-09 17:15:00,1,Envigado,América de Cali,0,0,2.8,3.1,2.55,1.12,6.0,1.5,2.45,2.35,1.55,4.75,1.17,13.0,1.04,2.1,1.7
+1534495,Colombia Categoria Primera A,2022,2022-07-09 20:00:00,1,Millonarios,Deportivo Pasto,1,1,1.44,3.9,6.7,1.07,8.25,1.44,2.65,2.0,1.8,4.75,1.17,10.25,1.05,2.8,1.4
+1534498,Colombia Categoria Primera A,2022,2022-07-10 16:00:00,1,La Equidad,Santa Fe,2,2,2.45,2.95,2.92,1.11,6.0,1.5,2.5,2.29,1.55,4.5,1.17,9.0,1.05,2.0,1.71
+1534492,Colombia Categoria Primera A,2022,2022-07-10 20:10:00,1,Atlético Nacional,Cortuluá,1,1,1.39,4.5,7.2,1.05,9.0,1.3,3.4,1.82,2.0,3.25,1.33,5.5,1.12,1.73,2.0
+1534500,Colombia Categoria Primera A,2022,2022-07-10 22:15:00,1,Deportes Tolima,Independiente Medellín,1,1,2.14,3.05,3.5,1.11,6.5,1.5,2.55,2.55,1.45,4.5,1.18,10.0,1.04,2.15,1.65
+1534509,Colombia Categoria Primera A,2022,2022-07-12 20:00:00,2,Alianza Petrolera,Unión Magdalena,0,1,1.58,3.47,5.06,1.1,6.5,1.4,2.7,2.38,1.57,3.8,1.22,7.5,1.07,1.99,1.76
+1534504,Colombia Categoria Primera A,2022,2022-07-12 22:05:00,2,Millonarios,Atlético Bucaramanga,0,0,1.31,4.24,8.14,1.05,9.0,1.29,3.2,1.88,1.91,3.1,1.29,5.75,1.1,2.31,1.57
+1534503,Colombia Categoria Primera A,2022,2022-07-13 16:00:00,2,Cortuluá,Jaguares de Córdoba,0,1,2.09,3.2,3.7,1.07,7.0,1.36,2.87,2.23,1.56,3.6,1.25,7.5,1.07,1.84,1.89
+1534511,Colombia Categoria Primera A,2022,2022-07-13 18:05:00,2,Deportivo Pasto,Envigado,4,0,1.79,3.5,4.7,1.1,6.0,1.47,2.4,2.3,1.53,4.5,1.16,9.25,1.04,2.25,1.53
+1534506,Colombia Categoria Primera A,2022,2022-07-13 20:10:00,2,Once Caldas,La Equidad,1,1,2.02,3.15,3.5,1.1,6.5,1.42,2.62,2.37,1.5,4.0,1.2,8.0,1.06,2.0,1.73
+1534510,Colombia Categoria Primera A,2022,2022-07-13 22:15:00,2,Junior,Atlético Nacional,3,1,1.96,3.25,3.55,1.09,6.5,1.48,2.5,2.15,1.62,4.0,1.2,8.5,1.05,2.0,1.65
+1534507,Colombia Categoria Primera A,2022,2022-07-14 18:00:00,2,Rionegro Águilas,Santa Fe,2,2,2.81,2.93,2.48,1.1,5.75,1.5,2.55,2.44,1.47,4.75,1.15,10.0,1.04,2.14,1.66
+1534505,Colombia Categoria Primera A,2022,2022-07-14 20:05:00,2,Independiente Medellín,Patriotas Boyacá,1,0,1.5,3.6,7.0,1.1,6.5,1.3,3.2,2.3,1.57,3.2,1.3,8.0,1.06,2.03,1.73
+1534508,Colombia Categoria Primera A,2022,2022-07-14 22:10:00,2,Deportes Tolima,Deportivo Cali,2,0,1.7,3.5,4.75,1.08,6.75,1.38,2.8,2.4,1.56,3.8,1.22,7.75,1.06,1.95,1.78
+1534514,Colombia Categoria Primera A,2022,2022-07-16 18:00:00,3,Jaguares de Córdoba,Deportivo Pasto,0,1,2.15,3.1,3.3,1.1,6.0,1.5,2.55,2.3,1.53,4.6,1.15,9.75,1.04,2.19,1.64
+1534512,Colombia Categoria Primera A,2022,2022-07-16 20:05:00,3,Atlético Nacional,Millonarios,1,2,2.3,3.0,3.0,1.08,8.0,1.43,2.65,2.18,1.59,4.4,1.19,9.5,1.06,1.95,1.8
+1534518,Colombia Categoria Primera A,2022,2022-07-16 22:10:00,3,La Equidad,Junior,0,0,2.1,2.88,3.6,1.11,6.5,1.52,2.5,2.41,1.48,5.5,1.14,13.0,1.03,2.17,1.65
+1534515,Colombia Categoria Primera A,2022,2022-07-17 16:00:00,3,Envigado,Alianza Petrolera,2,2,2.45,2.87,2.8,1.14,5.0,1.5,2.55,2.35,1.53,5.0,1.14,11.0,1.03,2.3,1.57
+1534513,Colombia Categoria Primera A,2022,2022-07-17 18:05:00,3,Santa Fe,Cortuluá,1,0,1.53,3.5,5.8,1.07,7.5,1.36,3.0,2.1,1.67,3.5,1.29,6.5,1.1,2.1,1.67
+1534527,Colombia Categoria Primera A,2022,2022-07-18 20:00:00,3,Unión Magdalena,Deportes Tolima,2,1,3.9,2.87,1.95,1.06,7.1,1.53,2.37,2.56,1.45,4.45,1.16,8.9,1.03,2.02,1.74
+1534520,Colombia Categoria Primera A,2022,2022-07-18 22:05:00,3,Once Caldas,Rionegro Águilas,2,0,1.91,2.87,4.0,1.07,6.4,1.53,2.35,2.5,1.5,4.95,1.14,9.9,1.01,2.18,1.64
+1534516,Colombia Categoria Primera A,2022,2022-07-19 22:00:00,3,Deportivo Pereira,Patriotas Boyacá,2,0,2.01,3.1,3.85,1.1,6.5,1.44,2.62,2.4,1.5,4.33,1.2,8.0,1.06,2.05,1.7
+1534519,Colombia Categoria Primera A,2022,2022-07-21 22:00:00,3,Deportivo Cali,Independiente Medellín,2,2,2.44,2.9,2.9,1.09,7.0,1.49,2.5,2.43,1.55,4.75,1.18,9.0,1.05,2.0,1.75
+1534531,Colombia Categoria Primera A,2022,2022-07-22 20:00:00,4,Alianza Petrolera,Atlético Bucaramanga,3,1,1.94,3.15,3.55,1.07,8.75,1.4,2.8,2.23,1.64,4.1,1.21,9.0,1.06,1.92,1.81
+1534537,Colombia Categoria Primera A,2022,2022-07-22 22:05:00,4,Millonarios,Envigado,1,0,1.31,4.9,10.5,1.02,9.3,1.29,3.3,1.97,1.83,3.26,1.29,6.15,1.08,2.46,1.5
+1534532,Colombia Categoria Primera A,2022,2022-07-23 16:00:00,4,Rionegro Águilas,La Equidad,3,0,2.45,2.95,2.92,1.11,5.5,1.52,2.5,2.69,1.41,4.8,1.14,10.5,1.04,2.16,1.66
+1534535,Colombia Categoria Primera A,2022,2022-07-23 18:05:00,4,Deportivo Pasto,Unión Magdalena,1,2,1.65,3.4,5.27,1.06,7.3,1.51,2.46,2.56,1.45,4.3,1.17,8.5,1.03,2.32,1.57
+1534533,Colombia Categoria Primera A,2022,2022-07-23 20:10:00,4,Junior,Santa Fe,2,0,2.0,3.2,3.6,1.04,8.1,1.32,2.93,2.25,1.57,3.72,1.23,7.3,1.05,2.04,1.73
+1534536,Colombia Categoria Primera A,2022,2022-07-23 22:15:00,4,Deportes Tolima,Atlético Nacional,2,2,1.94,3.1,3.6,1.06,7.1,1.37,2.8,2.35,1.53,3.82,1.22,7.5,1.05,1.97,1.77
+1534528,Colombia Categoria Primera A,2022,2022-07-24 16:45:00,4,América de Cali,Cortuluá,1,1,1.85,3.25,4.0,1.1,5.75,1.49,2.35,2.19,1.6,4.75,1.15,10.0,1.04,2.25,1.61
+1534529,Colombia Categoria Primera A,2022,2022-07-24 18:50:00,4,Independiente Medellín,Once Caldas,1,1,1.9,3.0,4.15,1.1,6.0,1.5,2.55,2.52,1.46,4.6,1.15,9.75,1.04,2.13,1.65
+1534534,Colombia Categoria Primera A,2022,2022-07-25 18:40:00,4,Deportivo Pereira,Deportivo Cali,2,1,2.5,3.2,2.85,1.04,7.8,1.35,2.84,2.07,1.75,3.92,1.21,7.7,1.05,1.85,1.86
+1534530,Colombia Categoria Primera A,2022,2022-07-26 18:40:00,4,Patriotas Boyacá,Jaguares de Córdoba,0,0,2.15,2.9,3.2,1.1,7.0,1.5,2.55,2.25,1.57,5.0,1.16,9.0,1.05,2.25,1.57
+1534545,Colombia Categoria Primera A,2022,2022-07-30 16:00:00,5,Cortuluá,Independiente Medellín,1,0,3.18,3.06,2.39,1.1,6.5,1.43,2.63,2.3,1.57,4.0,1.2,8.0,1.06,2.0,1.85
+1534541,Colombia Categoria Primera A,2022,2022-07-30 18:05:00,5,Jaguares de Córdoba,Alianza Petrolera,2,1,1.95,3.19,4.21,1.09,6.5,1.44,2.6,2.25,1.57,4.0,1.2,8.75,1.05,2.06,1.79
+1534539,Colombia Categoria Primera A,2022,2022-07-31 16:00:00,5,Once Caldas,Deportivo Pereira,2,1,1.65,3.45,5.5,1.1,6.5,1.42,2.75,2.15,1.58,4.33,1.2,8.0,1.06,2.2,1.62
+1534544,Colombia Categoria Primera A,2022,2022-07-31 18:05:00,5,Rionegro Águilas,Junior,1,1,2.93,2.97,2.49,1.09,6.2,1.5,2.55,2.36,1.48,4.54,1.15,9.2,1.02,2.1,1.67
+1534538,Colombia Categoria Primera A,2022,2022-07-31 20:10:00,5,Unión Magdalena,Millonarios,0,2,4.9,3.2,1.77,1.11,7.22,1.46,2.8,2.28,1.51,4.62,1.21,8.1,1.04,2.2,1.62
+1534542,Colombia Categoria Primera A,2022,2022-07-31 22:15:00,5,La Equidad,Patriotas Boyacá,4,3,1.69,3.3,4.4,1.1,6.5,1.46,2.5,2.56,1.45,4.75,1.16,9.0,1.05,2.25,1.57
+1534547,Colombia Categoria Primera A,2022,2022-08-01 20:00:00,5,Atlético Bucaramanga,Deportes Tolima,2,1,3.0,3.2,2.3,1.1,6.5,1.42,2.75,1.99,1.68,4.33,1.2,8.0,1.06,1.95,1.78
+1534540,Colombia Categoria Primera A,2022,2022-08-01 22:05:00,5,Atlético Nacional,Deportivo Pasto,3,1,1.84,3.35,4.25,1.08,7.0,1.36,3.0,2.21,1.54,3.75,1.25,7.5,1.07,2.1,1.66
+1534546,Colombia Categoria Primera A,2022,2022-08-02 20:00:00,5,Deportivo Cali,Envigado,0,3,1.91,3.05,3.75,1.1,6.0,1.45,2.65,2.25,1.57,4.75,1.18,8.0,1.06,2.15,1.66
+1534543,Colombia Categoria Primera A,2022,2022-08-02 22:05:00,5,Santa Fe,América de Cali,1,1,1.77,3.6,4.75,1.11,6.5,1.52,2.45,2.2,1.63,4.75,1.16,7.5,1.07,2.1,1.67
+1534552,Colombia Categoria Primera A,2022,2022-08-05 19:45:00,6,Independiente Medellín,La Equidad,1,1,1.76,3.09,4.37,1.06,6.5,1.43,2.65,2.16,1.57,4.4,1.16,8.7,1.02,2.07,1.7
+1534548,Colombia Categoria Primera A,2022,2022-08-05 21:50:00,6,Patriotas Boyacá,Cortuluá,3,0,1.94,2.95,3.78,1.12,5.5,1.5,2.49,2.28,1.51,4.5,1.17,9.0,1.05,2.15,1.66
+1534555,Colombia Categoria Primera A,2022,2022-08-06 16:00:00,6,Envigado,Unión Magdalena,1,2,2.13,3.0,3.48,1.1,6.5,1.44,2.6,2.41,1.5,4.0,1.2,9.0,1.05,2.17,1.66
+1534550,Colombia Categoria Primera A,2022,2022-08-06 18:05:00,6,Deportes Tolima,Jaguares de Córdoba,2,2,1.52,3.7,6.18,1.07,7.5,1.36,3.0,2.03,1.7,3.5,1.29,7.0,1.08,2.2,1.62
+1534556,Colombia Categoria Primera A,2022,2022-08-06 20:10:00,6,Alianza Petrolera,Atlético Nacional,0,2,3.15,3.05,2.25,1.04,9.57,1.31,3.46,2.03,1.7,3.73,1.27,7.3,1.09,1.9,1.9
+1534554,Colombia Categoria Primera A,2022,2022-08-06 22:15:00,6,Millonarios,Deportivo Cali,4,2,1.42,4.0,7.37,1.06,8.0,1.33,3.0,2.0,1.72,3.4,1.29,6.64,1.12,2.34,1.57
+1534551,Colombia Categoria Primera A,2022,2022-08-07 16:00:00,6,Deportivo Pasto,Atlético Bucaramanga,1,0,1.73,3.4,5.25,1.1,6.5,1.44,2.62,2.38,1.57,4.33,1.2,8.0,1.06,2.3,1.57
+1534549,Colombia Categoria Primera A,2022,2022-08-07 20:10:00,6,Junior,Once Caldas,1,2,1.62,3.5,6.0,1.1,6.5,1.5,2.5,2.4,1.55,4.5,1.17,8.0,1.06,2.38,1.53
+1534553,Colombia Categoria Primera A,2022,2022-08-07 22:15:00,6,Deportivo Pereira,Santa Fe,0,1,2.8,3.05,2.3,1.08,7.0,1.36,3.0,2.2,1.6,3.75,1.25,7.5,1.07,1.85,1.85
+1534557,Colombia Categoria Primera A,2022,2022-08-09 21:30:00,6,América de Cali,Rionegro Águilas,2,0,1.86,3.07,4.07,1.1,6.5,1.53,2.45,2.37,1.54,4.75,1.16,10.0,1.04,2.2,1.62
+1534564,Colombia Categoria Primera A,2022,2022-08-12 21:40:00,7,Atlético Bucaramanga,Unión Magdalena,1,0,1.83,3.44,4.59,1.04,7.4,1.42,2.88,2.25,1.57,4.0,1.19,7.9,1.04,1.99,1.73
+1534561,Colombia Categoria Primera A,2022,2022-08-13 17:15:00,7,Cortuluá,Alianza Petrolera,0,2,1.92,3.25,3.82,1.08,6.75,1.39,2.65,2.29,1.55,3.9,1.21,7.75,1.06,2.03,1.82
+1534567,Colombia Categoria Primera A,2022,2022-08-13 19:30:00,7,Santa Fe,Deportes Tolima,2,1,2.13,3.2,3.25,1.05,6.95,1.42,2.57,2.16,1.62,4.3,1.16,8.6,1.02,2.09,1.78
+1534565,Colombia Categoria Primera A,2022,2022-08-13 21:45:00,7,Junior,Independiente Medellín,4,2,1.9,3.15,4.06,1.08,6.75,1.4,2.65,2.34,1.53,3.9,1.2,8.0,1.06,2.19,1.7
+1534559,Colombia Categoria Primera A,2022,2022-08-14 18:00:00,7,Jaguares de Córdoba,Deportivo Pereira,1,2,2.06,2.9,3.4,1.1,8.0,1.45,2.75,2.4,1.5,5.0,1.18,11.5,1.05,1.98,1.77
+1534558,Colombia Categoria Primera A,2022,2022-08-14 20:05:00,7,Rionegro Águilas,Millonarios,0,0,3.6,2.85,2.03,1.09,7.0,1.45,2.75,2.55,1.45,4.7,1.18,11.5,1.05,2.06,1.73
+1534562,Colombia Categoria Primera A,2022,2022-08-15 17:15:00,7,Once Caldas,Patriotas Boyacá,1,1,1.75,3.1,4.6,1.1,7.5,1.5,2.55,2.4,1.5,4.9,1.17,11.0,1.03,2.21,1.63
+1534563,Colombia Categoria Primera A,2022,2022-08-15 19:20:00,7,La Equidad,América de Cali,0,0,1.91,3.0,3.9,1.05,7.3,1.39,2.83,2.3,1.53,4.1,1.18,8.0,1.03,1.93,1.76
+1534571,Colombia Categoria Primera A,2022,2022-08-19 18:00:00,8,Envigado,Atlético Bucaramanga,2,1,2.14,3.1,3.0,1.06,6.85,1.4,2.57,2.43,1.55,4.4,1.16,8.7,1.02,1.97,1.78
+1534574,Colombia Categoria Primera A,2022,2022-08-19 21:30:00,8,Alianza Petrolera,Deportivo Cali,4,4,2.33,3.15,2.67,1.08,9.0,1.34,3.34,2.23,1.65,3.77,1.28,9.0,1.06,1.81,2.04
+1534568,Colombia Categoria Primera A,2022,2022-08-20 16:00:00,8,Deportivo Pereira,Cortuluá,2,1,1.94,3.2,3.8,1.06,8.5,1.37,3.05,2.18,1.67,4.0,1.23,9.0,1.08,1.89,1.87
+1534577,Colombia Categoria Primera A,2022,2022-08-20 18:05:00,8,Patriotas Boyacá,Rionegro Águilas,0,1,2.4,2.88,3.1,1.12,6.75,1.5,2.55,2.47,1.48,5.2,1.16,11.5,1.03,2.0,1.77
+1534570,Colombia Categoria Primera A,2022,2022-08-20 20:10:00,8,Millonarios,Jaguares de Córdoba,2,0,1.3,4.33,10.0,1.05,11.5,1.3,3.55,1.95,1.75,3.6,1.29,7.5,1.1,2.58,1.48
+1534573,Colombia Categoria Primera A,2022,2022-08-20 22:15:00,8,Independiente Medellín,Santa Fe,2,0,2.05,2.9,3.4,1.06,8.0,1.46,2.75,2.3,1.53,4.37,1.22,9.48,1.06,1.96,1.85
+1534575,Colombia Categoria Primera A,2022,2022-08-21 17:30:00,8,América de Cali,Junior,2,1,2.7,2.8,2.55,1.11,7.0,1.5,2.55,2.4,1.51,5.3,1.17,12.5,1.05,2.02,1.75
+1534576,Colombia Categoria Primera A,2022,2022-08-21 19:35:00,8,Unión Magdalena,Atlético Nacional,2,2,3.9,2.9,1.92,1.06,8.0,1.4,3.0,2.19,1.6,4.37,1.22,8.82,1.07,1.96,1.85
+1534572,Colombia Categoria Primera A,2022,2022-08-21 21:40:00,8,Deportes Tolima,La Equidad,1,1,1.74,3.0,4.7,1.09,8.0,1.46,2.65,2.25,1.57,5.1,1.18,11.5,1.05,2.17,1.72
+1534569,Colombia Categoria Primera A,2022,2022-08-22 22:00:00,8,Deportivo Pasto,Once Caldas,2,0,2.33,3.2,2.65,1.1,6.5,1.54,2.5,2.15,1.65,5.26,1.17,11.7,1.04,2.1,1.67
+1534494,Colombia Categoria Primera A,2022,2022-08-25 22:00:00,1,Deportivo Cali,Jaguares de Córdoba,2,2,1.9,3.4,3.92,1.04,13.0,1.22,3.9,2.1,1.68,3.05,1.37,5.8,1.13,1.8,1.91
+1534583,Colombia Categoria Primera A,2022,2022-08-26 21:30:00,9,Once Caldas,América de Cali,1,1,2.25,3.1,2.84,1.08,5.95,1.47,2.4,2.55,1.5,4.6,1.14,9.2,1.02,2.15,1.63
+1534582,Colombia Categoria Primera A,2022,2022-08-27 17:30:00,9,Santa Fe,Patriotas Boyacá,2,1,1.51,3.57,5.95,1.09,7.0,1.46,2.75,2.19,1.63,4.68,1.2,9.48,1.06,2.15,1.7
+1534580,Colombia Categoria Primera A,2022,2022-08-27 19:45:00,9,Alianza Petrolera,Deportivo Pasto,0,0,1.91,3.08,3.82,1.05,9.5,1.32,3.4,2.22,1.61,3.75,1.27,8.0,1.09,1.76,2.01
+1534581,Colombia Categoria Primera A,2022,2022-08-27 22:00:00,9,Atlético Nacional,Atlético Bucaramanga,3,2,1.67,3.4,5.25,1.05,12.5,1.27,3.8,1.92,1.96,3.35,1.33,6.75,1.12,2.05,1.68
+1534579,Colombia Categoria Primera A,2022,2022-08-28 16:00:00,9,La Equidad,Deportivo Pereira,1,1,1.8,3.3,4.1,1.08,7.0,1.38,2.7,2.15,1.62,3.8,1.21,7.5,1.06,1.95,1.75
+1534578,Colombia Categoria Primera A,2022,2022-08-28 18:05:00,9,Cortuluá,Millonarios,1,4,4.75,3.05,1.75,1.09,6.75,1.44,2.55,2.35,1.53,4.33,1.19,8.75,1.06,2.1,1.65
+1534587,Colombia Categoria Primera A,2022,2022-08-28 20:10:00,9,Junior,Deportes Tolima,2,1,1.91,3.0,4.1,1.1,6.5,1.5,2.5,2.3,1.55,4.33,1.2,8.0,1.06,2.1,1.67
+1534585,Colombia Categoria Primera A,2022,2022-08-28 22:15:00,9,Rionegro Águilas,Independiente Medellín,3,0,2.3,2.7,3.4,1.1,6.5,1.54,2.5,2.4,1.5,5.26,1.17,10.6,1.05,2.11,1.65
+1534586,Colombia Categoria Primera A,2022,2022-08-29 20:00:00,9,Jaguares de Córdoba,Envigado,0,0,2.4,3.0,3.25,1.12,5.5,1.5,2.4,2.45,1.5,4.75,1.15,10.0,1.04,2.1,1.67
+1534584,Colombia Categoria Primera A,2022,2022-08-29 22:05:00,9,Deportivo Cali,Unión Magdalena,2,2,1.95,3.25,4.2,1.06,8.25,1.32,3.1,2.25,1.57,3.3,1.28,6.5,1.1,1.91,1.8
+1534517,Colombia Categoria Primera A,2022,2022-08-31 22:05:00,3,Atlético Bucaramanga,América de Cali,0,2,2.42,3.25,2.64,1.09,7.0,1.5,2.63,2.24,1.6,4.97,1.18,10.6,1.05,1.98,1.79
+1534566,Colombia Categoria Primera A,2022,2022-09-01 21:30:00,7,Atlético Nacional,Envigado,1,1,1.47,3.68,5.05,1.05,9.0,1.3,3.3,1.91,1.69,3.4,1.28,5.5,1.12,2.05,1.7
+1534591,Colombia Categoria Primera A,2022,2022-09-03 18:05:00,10,Atlético Bucaramanga,Alianza Petrolera,3,1,2.12,3.27,3.02,1.08,7.0,1.36,2.9,1.85,1.89,3.6,1.25,7.0,1.08,1.85,1.85
+1534588,Colombia Categoria Primera A,2022,2022-09-03 20:10:00,10,Deportes Tolima,Cortuluá,0,0,1.56,3.55,5.35,1.07,9.5,1.37,3.15,2.2,1.62,4.2,1.23,9.0,1.08,2.31,1.61
+1534593,Colombia Categoria Primera A,2022,2022-09-03 22:15:00,10,Millonarios,Santa Fe,2,0,1.66,3.27,5.0,1.11,6.0,1.44,2.62,2.35,1.55,4.33,1.2,8.0,1.06,2.25,1.6
+1534589,Colombia Categoria Primera A,2022,2022-09-04 16:00:00,10,Deportivo Pereira,Once Caldas,1,1,2.54,2.82,2.69,1.1,6.5,1.4,2.75,2.43,1.55,4.0,1.22,8.0,1.06,1.91,1.8
+1534595,Colombia Categoria Primera A,2022,2022-09-04 18:05:00,10,Unión Magdalena,Junior,2,1,3.9,3.1,1.87,1.06,8.0,1.46,2.75,2.2,1.6,4.68,1.2,9.48,1.06,1.89,1.87
+1534596,Colombia Categoria Primera A,2022,2022-09-04 20:10:00,10,Independiente Medellín,Atlético Nacional,4,3,2.3,2.87,3.0,1.1,6.5,1.44,2.62,2.35,1.53,4.33,1.2,8.0,1.06,1.91,1.8
+1534594,Colombia Categoria Primera A,2022,2022-09-04 22:15:00,10,América de Cali,Deportivo Cali,1,0,1.7,3.1,4.75,1.1,6.5,1.5,2.5,2.35,1.53,4.33,1.2,8.0,1.06,2.0,1.73
+1534590,Colombia Categoria Primera A,2022,2022-09-05 20:00:00,10,Deportivo Pasto,Jaguares de Córdoba,2,1,1.87,3.32,4.2,1.11,6.0,1.5,2.5,2.35,1.53,4.5,1.17,9.0,1.05,2.38,1.53
+1534592,Colombia Categoria Primera A,2022,2022-09-05 22:05:00,10,Patriotas Boyacá,La Equidad,2,3,2.49,3.02,2.88,1.1,6.5,1.5,2.55,2.33,1.49,4.75,1.17,10.0,1.04,2.1,1.7
+1534597,Colombia Categoria Primera A,2022,2022-09-06 18:00:00,10,Envigado,Rionegro Águilas,0,1,2.62,2.81,2.62,1.08,5.9,1.5,2.49,2.55,1.45,5.3,1.1,11.5,1.01,2.38,1.53
+1534607,Colombia Categoria Primera A,2022,2022-09-09 21:40:00,11,Patriotas Boyacá,Deportes Tolima,1,1,2.82,2.96,2.39,1.06,6.45,1.43,2.45,2.3,1.6,4.7,1.14,9.3,1.02,2.0,1.73
+1534604,Colombia Categoria Primera A,2022,2022-09-10 16:00:00,11,Cortuluá,Unión Magdalena,1,2,2.38,2.9,2.73,1.11,6.0,1.48,2.5,2.21,1.67,4.0,1.2,9.0,1.05,1.97,1.78
+1534599,Colombia Categoria Primera A,2022,2022-09-10 18:05:00,11,Junior,Deportivo Pereira,0,0,1.53,3.49,5.23,1.02,9.2,1.29,3.3,1.9,1.71,3.2,1.3,5.9,1.08,1.9,1.86
+1534603,Colombia Categoria Primera A,2022,2022-09-10 20:10:00,11,Independiente Medellín,América de Cali,2,0,1.82,3.25,4.1,1.08,7.75,1.45,2.6,2.4,1.55,4.5,1.18,10.0,1.05,2.06,1.79
+1534600,Colombia Categoria Primera A,2022,2022-09-10 22:15:00,11,Santa Fe,Deportivo Pasto,2,1,1.82,3.3,4.05,1.08,7.0,1.4,2.7,2.3,1.53,3.8,1.22,8.25,1.06,2.0,1.77
+1534598,Colombia Categoria Primera A,2022,2022-09-11 16:00:00,11,Once Caldas,Millonarios,2,1,2.9,2.84,2.37,1.1,6.5,1.5,2.4,2.45,1.53,4.0,1.2,9.0,1.05,2.04,1.73
+1534605,Colombia Categoria Primera A,2022,2022-09-11 18:05:00,11,Jaguares de Córdoba,Atlético Nacional,0,1,3.6,3.34,2.0,1.07,7.75,1.42,2.62,2.14,1.71,4.0,1.2,7.75,1.07,2.05,1.77
+1534606,Colombia Categoria Primera A,2022,2022-09-11 20:10:00,11,La Equidad,Envigado,0,1,1.84,3.3,4.38,1.08,7.5,1.4,2.7,2.3,1.55,3.8,1.22,7.75,1.07,2.15,1.7
+1534602,Colombia Categoria Primera A,2022,2022-09-11 22:15:00,11,Deportivo Cali,Atlético Bucaramanga,1,1,2.07,3.22,3.54,1.08,7.5,1.36,2.87,2.19,1.6,3.6,1.25,8.0,1.07,1.96,1.85
+1534601,Colombia Categoria Primera A,2022,2022-09-12 22:00:00,11,Rionegro Águilas,Alianza Petrolera,1,0,1.88,3.45,3.72,1.04,7.6,1.35,2.75,1.99,1.73,3.92,1.19,7.7,1.04,2.2,1.6
+1534560,Colombia Categoria Primera A,2022,2022-09-14 22:15:00,7,Deportivo Cali,Deportivo Pasto,2,0,2.23,2.95,3.45,1.09,7.0,1.42,2.65,2.43,1.55,4.1,1.2,8.5,1.06,2.0,1.77
+1534502,Colombia Categoria Primera A,2022,2022-09-15 22:05:00,2,América de Cali,Deportivo Pereira,0,1,1.95,3.1,4.0,1.09,6.75,1.46,2.5,2.37,1.54,4.5,1.17,9.5,1.05,2.15,1.61
+1534612,Colombia Categoria Primera A,2022,2022-09-16 20:00:00,12,Alianza Petrolera,La Equidad,1,2,2.6,2.7,2.85,1.08,7.0,1.4,2.75,2.45,1.5,4.0,1.22,7.5,1.07,1.85,1.85
+1534613,Colombia Categoria Primera A,2022,2022-09-16 22:05:00,12,Atlético Bucaramanga,Santa Fe,2,1,2.75,2.9,2.55,1.07,7.5,1.4,2.75,2.3,1.57,3.75,1.25,7.0,1.08,1.85,1.85
+1534608,Colombia Categoria Primera A,2022,2022-09-17 16:00:00,12,Envigado,Cortuluá,3,2,2.2,2.87,3.4,1.11,6.0,1.5,2.5,2.35,1.53,4.5,1.17,9.0,1.05,2.23,1.62
+1534609,Colombia Categoria Primera A,2022,2022-09-17 18:05:00,12,Deportes Tolima,Once Caldas,1,0,2.2,2.75,3.5,1.1,6.5,1.53,2.35,2.59,1.44,5.26,1.17,10.6,1.05,2.24,1.65
+1534610,Colombia Categoria Primera A,2022,2022-09-17 20:10:00,12,Unión Magdalena,Jaguares de Córdoba,1,0,2.0,3.0,3.6,1.1,6.5,1.44,2.62,2.3,1.53,4.0,1.22,8.0,1.06,2.04,1.73
+1534615,Colombia Categoria Primera A,2022,2022-09-18 17:30:00,12,Deportivo Pasto,Junior,2,1,2.63,3.05,2.63,1.12,6.75,1.5,2.55,2.4,1.55,4.0,1.2,12.0,1.03,2.08,1.71
+1534614,Colombia Categoria Primera A,2022,2022-09-18 19:35:00,12,Atlético Nacional,Deportivo Cali,3,0,1.74,3.35,4.7,1.03,11.0,1.29,3.3,2.1,1.71,3.0,1.33,6.75,1.12,1.85,1.88
+1534611,Colombia Categoria Primera A,2022,2022-09-18 21:40:00,12,América de Cali,Patriotas Boyacá,2,0,1.83,3.05,3.65,1.08,7.0,1.44,2.62,2.3,1.61,4.0,1.22,8.0,1.06,2.2,1.62
+1534617,Colombia Categoria Primera A,2022,2022-09-19 22:00:00,12,Deportivo Pereira,Rionegro Águilas,2,2,2.29,3.1,2.95,1.12,6.0,1.53,2.35,2.43,1.55,4.75,1.17,11.0,1.03,2.3,1.57
+1534622,Colombia Categoria Primera A,2022,2022-09-20 20:00:00,13,Jaguares de Córdoba,Atlético Bucaramanga,0,1,2.35,2.95,3.0,1.1,6.5,1.44,2.62,2.25,1.57,4.33,1.2,8.0,1.06,2.0,1.73
+1534626,Colombia Categoria Primera A,2022,2022-09-20 22:05:00,13,Once Caldas,Envigado,1,0,1.65,3.15,5.5,1.12,5.5,1.53,2.38,2.35,1.53,5.0,1.14,10.0,1.04,2.38,1.53
+1534623,Colombia Categoria Primera A,2022,2022-09-21 16:00:00,13,Cortuluá,Deportivo Cali,2,0,2.75,2.9,2.4,1.08,7.0,1.36,3.0,2.15,1.61,3.75,1.25,7.0,1.08,1.85,1.85
+1534620,Colombia Categoria Primera A,2022,2022-09-21 18:05:00,13,La Equidad,Deportivo Pasto,2,3,2.2,2.8,3.25,1.11,6.0,1.5,2.45,2.55,1.45,4.5,1.17,9.0,1.05,2.2,1.62
+1534627,Colombia Categoria Primera A,2022,2022-09-21 20:10:00,13,América de Cali,Deportes Tolima,0,0,2.45,2.87,2.8,1.11,6.0,1.5,2.5,2.4,1.5,4.5,1.17,9.0,1.05,2.05,1.7
+1534618,Colombia Categoria Primera A,2022,2022-09-21 22:15:00,13,Junior,Millonarios,0,1,2.44,2.93,2.71,1.1,6.5,1.4,2.75,2.4,1.5,4.33,1.2,8.0,1.06,1.9,1.78
+1534621,Colombia Categoria Primera A,2022,2022-09-22 16:00:00,13,Patriotas Boyacá,Alianza Petrolera,0,0,2.3,2.85,3.4,1.05,9.0,1.3,3.4,2.41,1.46,3.25,1.33,6.0,1.11,1.85,1.85
+1534624,Colombia Categoria Primera A,2022,2022-09-22 18:05:00,13,Rionegro Águilas,Unión Magdalena,2,0,1.72,3.4,4.9,1.08,7.45,1.45,2.79,2.2,1.55,4.69,1.2,9.96,1.06,2.18,1.68
+1534619,Colombia Categoria Primera A,2022,2022-09-22 20:10:00,13,Independiente Medellín,Deportivo Pereira,2,1,1.93,3.1,4.2,1.06,6.6,1.36,2.64,2.41,1.46,4.1,1.17,8.0,1.03,1.92,1.78
+1534629,Colombia Categoria Primera A,2022,2022-09-24 16:00:00,14,Atlético Bucaramanga,Once Caldas,0,0,2.31,3.35,2.85,1.11,6.0,1.49,2.45,2.28,1.59,4.6,1.16,10.0,1.05,2.1,1.67
+1534633,Colombia Categoria Primera A,2022,2022-09-24 18:30:00,14,Millonarios,América de Cali,2,2,1.93,3.3,3.9,1.05,9.0,1.35,3.25,2.35,1.55,4.05,1.25,8.08,1.09,2.2,1.62
+1534636,Colombia Categoria Primera A,2022,2022-09-25 16:00:00,14,Envigado,Independiente Medellín,1,2,3.0,2.88,2.5,1.09,6.0,1.5,2.4,2.48,1.52,4.5,1.17,8.0,1.05,2.1,1.67
+1534634,Colombia Categoria Primera A,2022,2022-09-25 18:05:00,14,Unión Magdalena,Santa Fe,0,2,2.7,3.0,2.65,1.05,7.3,1.39,2.67,2.23,1.64,4.1,1.18,8.0,1.03,1.83,1.94
+1534635,Colombia Categoria Primera A,2022,2022-09-25 20:10:00,14,Alianza Petrolera,Junior,0,1,3.4,3.0,2.23,1.08,7.45,1.42,2.93,2.23,1.64,4.41,1.22,8.94,1.07,2.0,1.73
+1534630,Colombia Categoria Primera A,2022,2022-09-25 22:15:00,14,Deportes Tolima,Deportivo Pereira,1,3,1.76,3.1,5.2,1.06,6.6,1.54,2.5,2.5,1.52,4.6,1.14,9.2,1.02,2.11,1.67
+1534632,Colombia Categoria Primera A,2022,2022-09-26 18:00:00,14,Deportivo Cali,La Equidad,1,2,2.65,3.3,2.28,1.04,7.5,1.29,2.9,1.9,1.8,3.6,1.25,6.5,1.08,1.8,1.91
+1534637,Colombia Categoria Primera A,2022,2022-09-26 20:00:00,14,Jaguares de Córdoba,Rionegro Águilas,0,0,3.0,2.9,2.28,1.11,5.5,1.57,2.38,2.59,1.44,5.0,1.13,11.5,1.03,2.38,1.53
+1534631,Colombia Categoria Primera A,2022,2022-09-26 22:05:00,14,Atlético Nacional,Patriotas Boyacá,1,0,1.53,4.0,4.6,1.04,10.5,1.3,3.2,1.8,1.9,3.2,1.3,5.75,1.1,2.25,1.57
+1534628,Colombia Categoria Primera A,2022,2022-09-27 21:00:00,14,Deportivo Pasto,Cortuluá,1,0,1.63,3.6,5.5,1.08,7.45,1.42,2.93,2.25,1.6,4.12,1.24,8.94,1.07,2.1,1.67
+1534625,Colombia Categoria Primera A,2022,2022-09-29 22:00:00,13,Santa Fe,Atlético Nacional,1,1,2.12,3.15,3.4,1.07,10.0,1.32,3.45,2.05,1.75,3.7,1.28,7.5,1.1,1.73,1.95
+1534641,Colombia Categoria Primera A,2022,2022-09-30 22:00:00,15,Independiente Medellín,Alianza Petrolera,3,1,1.6,3.4,5.25,1.05,8.0,1.25,3.6,2.1,1.67,2.9,1.36,5.25,1.13,1.91,1.8
+1534642,Colombia Categoria Primera A,2022,2022-10-01 16:00:00,15,Cortuluá,Atlético Bucaramanga,0,2,2.8,3.0,2.45,1.08,6.5,1.4,2.7,1.9,1.95,3.8,1.22,7.5,1.06,1.93,1.83
+1534639,Colombia Categoria Primera A,2022,2022-10-01 18:05:00,15,Once Caldas,Jaguares de Córdoba,0,1,1.65,3.1,5.8,1.08,6.5,1.42,2.62,2.27,1.56,4.0,1.2,8.0,1.05,2.21,1.63
+1534638,Colombia Categoria Primera A,2022,2022-10-01 20:10:00,15,La Equidad,Millonarios,1,0,3.1,2.9,2.3,1.07,7.0,1.36,2.87,2.03,1.83,3.6,1.25,7.0,1.07,1.92,1.84
+1534647,Colombia Categoria Primera A,2022,2022-10-01 22:15:00,15,Rionegro Águilas,Deportes Tolima,1,2,2.3,2.88,3.2,1.11,5.5,1.55,2.3,2.5,1.52,5.0,1.13,8.0,1.05,2.18,1.64
+1534640,Colombia Categoria Primera A,2022,2022-10-02 16:00:00,15,Deportivo Pereira,Deportivo Pasto,2,0,2.08,2.95,3.85,1.07,7.0,1.36,2.87,2.43,1.54,3.6,1.25,7.0,1.07,1.95,1.75
+1534643,Colombia Categoria Primera A,2022,2022-10-02 18:05:00,15,Junior,Deportivo Cali,1,0,1.84,3.25,4.35,1.05,8.0,1.29,3.3,2.16,1.68,3.0,1.33,5.5,1.11,2.05,1.77
+1534645,Colombia Categoria Primera A,2022,2022-10-02 20:10:00,15,América de Cali,Atlético Nacional,0,0,2.4,3.05,3.0,1.07,7.75,1.35,2.9,2.23,1.64,3.6,1.25,7.25,1.08,1.83,1.85
+1534646,Colombia Categoria Primera A,2022,2022-10-02 22:15:00,15,Santa Fe,Envigado,1,0,1.82,3.1,4.75,1.06,6.75,1.42,2.51,2.28,1.61,4.5,1.15,8.9,1.02,2.2,1.62
+1534644,Colombia Categoria Primera A,2022,2022-10-03 22:00:00,15,Patriotas Boyacá,Unión Magdalena,3,1,2.6,2.95,2.85,1.1,6.5,1.47,2.55,2.43,1.55,5.0,1.16,8.0,1.06,2.38,1.53
+1534658,Colombia Categoria Primera A,2022,2022-10-05 21:30:00,17,Santa Fe,Millonarios,3,2,2.5,3.2,2.8,1.08,7.0,1.4,2.75,2.23,1.66,4.0,1.22,7.5,1.07,1.91,1.8
+1534501,Colombia Categoria Primera A,2022,2022-10-06 19:30:00,1,Atlético Bucaramanga,Rionegro Águilas,0,1,2.67,3.02,2.67,1.1,7.2,1.5,2.55,2.45,1.52,4.62,1.17,8.85,1.05,2.02,1.75
+1534675,Colombia Categoria Primera A,2022,2022-10-06 22:00:00,18,Atlético Nacional,Independiente Medellín,3,2,2.02,3.4,3.48,1.06,8.0,1.29,3.5,1.91,1.91,3.0,1.36,6.0,1.11,1.77,1.93
+1534650,Colombia Categoria Primera A,2022,2022-10-07 18:00:00,16,Envigado,Patriotas Boyacá,3,2,2.03,3.1,3.8,1.11,6.0,1.49,2.5,2.4,1.46,4.5,1.17,9.0,1.05,2.05,1.68
+1534651,Colombia Categoria Primera A,2022,2022-10-07 21:45:00,16,Jaguares de Córdoba,La Equidad,1,1,2.85,3.1,2.46,1.11,6.5,1.52,2.45,2.21,1.54,4.75,1.17,10.0,1.04,2.1,1.63
+1534648,Colombia Categoria Primera A,2022,2022-10-08 16:00:00,16,Cortuluá,Once Caldas,0,1,2.7,3.0,2.4,1.1,6.5,1.44,2.62,2.45,1.53,4.33,1.2,8.0,1.06,1.91,1.8
+1534657,Colombia Categoria Primera A,2022,2022-10-08 22:00:00,16,Deportivo Pasto,Deportes Tolima,2,1,1.79,3.25,4.0,1.12,5.5,1.57,2.3,2.5,1.5,5.0,1.14,10.0,1.04,2.2,1.62
+1534656,Colombia Categoria Primera A,2022,2022-10-09 17:30:00,16,Atlético Nacional,Rionegro Águilas,1,1,1.83,3.4,4.0,1.07,7.5,1.36,3.0,2.1,1.67,3.5,1.29,6.5,1.1,1.91,1.8
+1534652,Colombia Categoria Primera A,2022,2022-10-09 19:35:00,16,Deportivo Cali,América de Cali,1,0,3.35,3.05,2.3,1.1,6.5,1.5,2.5,2.2,1.68,4.33,1.2,8.0,1.06,2.05,1.7
+1534654,Colombia Categoria Primera A,2022,2022-10-09 21:40:00,16,Atlético Bucaramanga,Junior,0,1,2.95,3.05,2.55,1.1,7.0,1.5,2.5,2.33,1.61,4.75,1.16,7.0,1.08,2.1,1.65
+1534655,Colombia Categoria Primera A,2022,2022-10-10 18:00:00,16,Unión Magdalena,Independiente Medellín,0,2,2.36,3.05,2.71,1.08,7.0,1.44,2.7,2.2,1.68,4.5,1.2,7.0,1.08,1.95,1.8
+1534653,Colombia Categoria Primera A,2022,2022-10-10 21:45:00,16,Alianza Petrolera,Santa Fe,4,0,2.71,3.05,2.36,1.1,6.5,1.4,2.8,2.25,1.65,4.2,1.22,6.09,1.13,1.91,1.8
+1534661,Colombia Categoria Primera A,2022,2022-10-11 18:00:00,17,Patriotas Boyacá,Deportivo Pasto,1,1,2.7,2.85,2.65,1.1,6.5,1.5,2.55,2.14,1.66,4.75,1.17,10.0,1.04,2.1,1.63
+1534659,Colombia Categoria Primera A,2022,2022-10-11 20:05:00,17,La Equidad,Cortuluá,1,1,1.51,3.7,6.25,1.08,7.0,1.33,3.2,2.07,1.81,3.6,1.28,7.0,1.08,2.05,1.68
+1534667,Colombia Categoria Primera A,2022,2022-10-11 22:10:00,17,Deportivo Pereira,Envigado,0,2,1.8,3.2,4.4,1.06,8.0,1.5,2.63,2.27,1.59,4.68,1.2,9.48,1.06,2.1,1.63
+1534664,Colombia Categoria Primera A,2022,2022-10-12 20:00:00,17,Rionegro Águilas,Deportivo Cali,2,2,1.79,3.25,3.95,1.08,7.0,1.36,3.0,2.09,1.69,4.1,1.16,7.0,1.08,2.1,1.65
+1534660,Colombia Categoria Primera A,2022,2022-10-12 22:05:00,17,América de Cali,Jaguares de Córdoba,1,1,1.76,3.25,4.1,1.06,6.6,1.44,2.51,2.4,1.53,4.44,1.14,8.8,1.02,2.2,1.62
+1534662,Colombia Categoria Primera A,2022,2022-10-13 17:10:00,17,Deportes Tolima,Alianza Petrolera,2,0,1.72,3.35,4.2,1.04,7.5,1.34,2.84,2.08,1.61,3.74,1.21,7.3,1.05,2.1,1.67
+1534665,Colombia Categoria Primera A,2022,2022-10-13 20:00:00,17,Junior,Unión Magdalena,1,1,1.45,4.1,5.4,1.08,7.25,1.4,2.7,1.91,1.91,4.0,1.21,8.0,1.07,2.4,1.49
+1534666,Colombia Categoria Primera A,2022,2022-10-13 22:05:00,17,Once Caldas,Atlético Nacional,1,0,2.62,3.02,2.3,1.82,2.02,1.46,2.75,2.03,1.65,4.68,1.2,9.48,1.06,1.93,1.75
+1534676,Colombia Categoria Primera A,2022,2022-10-15 20:05:00,18,Deportivo Pasto,Rionegro Águilas,1,1,2.22,2.78,3.34,1.12,5.1,1.58,2.14,2.41,1.46,5.65,1.09,14.0,1.03,2.39,1.6
+1534671,Colombia Categoria Primera A,2022,2022-10-15 22:10:00,18,Atlético Bucaramanga,La Equidad,3,1,2.0,2.87,3.81,1.06,6.85,1.36,2.75,2.28,1.51,4.09,1.24,7.5,1.04,1.88,1.88
+1534677,Colombia Categoria Primera A,2022,2022-10-16 16:00:00,18,Cortuluá,Deportes Tolima,0,1,3.2,2.9,2.45,1.04,7.6,1.5,2.5,2.41,1.46,3.42,1.25,6.6,1.06,1.8,1.96
+1534669,Colombia Categoria Primera A,2022,2022-10-16 18:05:00,18,Unión Magdalena,Deportivo Pereira,2,0,2.45,3.1,3.0,1.1,6.5,1.5,2.63,2.3,1.6,4.97,1.18,10.6,1.05,2.05,1.77
+1534670,Colombia Categoria Primera A,2022,2022-10-16 20:10:00,18,Millonarios,Patriotas Boyacá,0,0,1.4,4.2,9.0,2.85,1.44,1.33,3.4,2.15,1.67,3.71,1.29,7.24,1.1,2.31,1.61
+1534673,Colombia Categoria Primera A,2022,2022-10-16 22:15:00,18,Jaguares de Córdoba,Santa Fe,2,1,2.6,2.86,2.6,1.09,7.0,1.52,2.3,2.35,1.6,4.37,1.22,8.82,1.07,1.9,1.9
+1534674,Colombia Categoria Primera A,2022,2022-10-17 17:30:00,18,Envigado,Junior,2,0,2.64,2.85,2.56,1.08,7.45,1.5,2.4,2.41,1.46,4.69,1.2,9.96,1.06,2.05,1.77
+1534668,Colombia Categoria Primera A,2022,2022-10-17 19:35:00,18,Deportivo Cali,Once Caldas,1,1,2.65,2.9,2.52,1.11,6.0,1.66,2.25,2.0,1.67,6.32,1.13,13.1,1.03,2.31,1.61
+1534672,Colombia Categoria Primera A,2022,2022-10-17 21:40:00,18,Alianza Petrolera,América de Cali,0,2,2.8,2.8,2.46,1.05,9.0,1.5,2.48,2.64,1.39,3.71,1.29,8.08,1.09,1.85,1.96
+1534649,Colombia Categoria Primera A,2022,2022-10-19 20:00:00,16,Millonarios,Deportivo Pereira,0,1,1.55,3.75,6.5,1.04,7.8,1.35,2.84,2.1,1.73,3.74,1.21,7.4,1.04,2.2,1.58
+1534663,Colombia Categoria Primera A,2022,2022-10-19 22:05:00,17,Independiente Medellín,Atlético Bucaramanga,1,2,1.65,3.5,5.75,1.03,8.3,1.33,3.15,2.25,1.62,3.11,1.38,6.8,1.06,1.95,1.76
+1534685,Colombia Categoria Primera A,2022,2022-10-21 20:05:00,19,La Equidad,Unión Magdalena,4,1,1.72,3.45,4.4,1.03,8.0,1.32,2.93,2.19,1.6,3.56,1.23,6.9,1.06,2.29,1.65
+1534687,Colombia Categoria Primera A,2022,2022-10-21 22:10:00,19,Rionegro Águilas,Envigado,1,0,1.72,3.15,5.0,1.05,7.0,1.56,2.4,2.73,1.4,4.3,1.16,8.5,1.03,2.42,1.58
+1534684,Colombia Categoria Primera A,2022,2022-10-22 16:00:00,19,Santa Fe,Deportivo Cali,1,0,1.84,3.48,4.87,1.04,11.0,1.28,3.4,2.12,1.72,3.35,1.29,6.5,1.11,2.0,1.84
+1534681,Colombia Categoria Primera A,2022,2022-10-22 18:05:00,19,América de Cali,Deportivo Pasto,4,0,1.86,3.09,4.93,1.08,7.75,1.5,2.55,2.55,1.5,4.7,1.17,11.0,1.04,2.63,1.51
+1534678,Colombia Categoria Primera A,2022,2022-10-22 20:10:00,19,Deportes Tolima,Millonarios,1,0,2.74,3.09,2.9,1.07,6.35,1.5,2.45,2.45,1.55,4.4,1.16,8.7,1.02,1.98,1.78
+1534680,Colombia Categoria Primera A,2022,2022-10-22 22:15:00,19,Independiente Medellín,Jaguares de Córdoba,0,0,1.45,4.53,7.9,1.04,10.5,1.3,3.5,1.97,1.81,3.6,1.29,7.5,1.1,2.22,1.69
+1534683,Colombia Categoria Primera A,2022,2022-10-23 16:00:00,19,Patriotas Boyacá,Atlético Bucaramanga,3,4,1.95,3.1,3.75,1.05,10.0,1.3,3.5,2.23,1.61,3.65,1.29,7.5,1.1,1.78,2.08
+1534686,Colombia Categoria Primera A,2022,2022-10-23 18:05:00,19,Deportivo Pereira,Atlético Nacional,1,1,2.7,3.0,2.5,1.08,8.0,1.41,2.88,2.1,1.69,4.35,1.21,9.5,1.06,1.93,1.9
+1534679,Colombia Categoria Primera A,2022,2022-10-23 20:10:00,19,Junior,Cortuluá,2,1,1.36,4.0,7.5,1.04,9.57,1.3,3.62,1.99,1.76,3.5,1.31,6.83,1.11,2.18,1.68
+1534682,Colombia Categoria Primera A,2022,2022-10-23 22:15:00,19,Once Caldas,Alianza Petrolera,1,1,1.8,3.1,4.5,1.06,8.51,1.36,3.19,2.16,1.64,4.12,1.24,8.32,1.08,2.07,1.72
+1534616,Colombia Categoria Primera A,2022,2022-10-26 22:00:00,12,Millonarios,Independiente Medellín,1,2,1.8,3.34,4.54,1.04,7.9,1.35,3.0,2.38,1.58,3.64,1.22,7.2,1.05,1.94,1.89
+1534697,Colombia Categoria Primera A,2022,2022-10-29 18:00:00,20,Envigado,Deportes Tolima,1,1,2.91,2.87,2.4,1.1,7.5,1.47,2.7,2.5,1.49,5.1,1.18,12.0,1.05,2.0,1.74
+1534691,Colombia Categoria Primera A,2022,2022-10-29 20:05:00,20,Deportivo Cali,Patriotas Boyacá,1,0,1.76,3.17,4.45,0.0,0.0,0.0,0.0,2.14,1.66,0.0,0.0,0.0,0.0,1.83,1.83
+1534696,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Cortuluá,Rionegro Águilas,0,0,3.2,3.0,2.2,1.08,9.0,1.44,2.65,2.17,1.61,4.75,1.18,9.5,1.06,2.52,1.5
+1534695,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Deportivo Pasto,Independiente Medellín,0,0,3.0,3.0,2.3,1.08,8.0,1.45,2.65,2.07,1.67,4.5,1.18,9.5,1.06,1.98,1.78
+1534694,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Jaguares de Córdoba,Junior,0,2,4.75,3.25,1.72,1.08,9.0,1.38,3.05,2.11,1.65,4.4,1.22,9.5,1.07,2.19,1.64
+1534693,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Unión Magdalena,América de Cali,0,0,3.4,3.0,2.1,1.09,8.5,1.41,2.88,2.12,1.64,4.35,1.21,9.5,1.06,1.94,1.82
+1534692,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Atlético Nacional,La Equidad,1,1,1.41,4.1,7.25,1.03,12.0,1.24,4.2,1.9,1.8,3.05,1.38,5.6,1.14,1.94,1.82
+1534690,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Atlético Bucaramanga,Deportivo Pereira,1,3,2.15,3.2,3.2,1.06,9.0,1.33,3.35,2.03,1.7,3.8,1.27,8.0,1.09,1.76,2.01
+1534689,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Santa Fe,Once Caldas,2,1,1.93,3.2,3.8,1.09,7.5,1.41,2.95,2.06,1.68,4.3,1.22,9.5,1.06,1.95,1.81
+1534688,Colombia Categoria Primera A,2022,2022-10-30 18:00:00,20,Alianza Petrolera,Millonarios,2,4,4.1,3.25,1.83,1.04,11.0,1.25,3.6,2.14,1.63,3.1,1.35,6.5,1.12,1.83,1.93
+4516074,Colombia Categoria Primera A,2022,2022-11-05 18:30:00,21,Rionegro Águilas,América de Cali,2,0,2.05,3.13,3.72,1.07,6.5,1.42,2.6,2.45,1.55,4.2,1.18,9.5,1.05,2.12,1.69
+4516075,Colombia Categoria Primera A,2022,2022-11-05 21:30:00,21,Independiente Medellín,Deportivo Pasto,0,0,1.78,3.64,4.18,1.09,8.0,1.44,2.8,1.9,1.9,4.9,1.18,10.5,1.04,2.28,1.66
+4516073,Colombia Categoria Primera A,2022,2022-11-06 18:00:00,21,Millonarios,Santa Fe,1,1,1.8,3.4,4.0,1.06,8.5,1.32,3.1,2.1,1.7,3.4,1.28,6.5,1.09,1.9,1.9
+4516072,Colombia Categoria Primera A,2022,2022-11-06 21:00:00,21,Deportivo Pereira,Junior,4,3,2.56,3.15,2.56,1.11,6.0,1.56,2.43,2.38,1.57,4.75,1.17,10.5,1.04,2.07,1.69
+4516078,Colombia Categoria Primera A,2022,2022-11-08 20:15:00,22,Deportivo Pasto,Rionegro Águilas,0,1,3.23,2.99,2.57,1.12,6.0,1.55,2.4,2.6,1.44,6.25,1.11,16.0,1.02,2.25,1.58
+4516079,Colombia Categoria Primera A,2022,2022-11-08 22:20:00,22,América de Cali,Independiente Medellín,0,2,2.07,3.38,3.92,1.08,7.25,1.39,2.75,2.25,1.62,3.9,1.22,8.0,1.07,1.93,1.75
+4516076,Colombia Categoria Primera A,2022,2022-11-09 20:15:00,22,Santa Fe,Deportivo Pereira,2,0,2.21,3.15,3.05,1.07,7.5,1.36,2.87,2.11,1.73,3.7,1.24,7.25,1.08,1.83,1.83
+4516077,Colombia Categoria Primera A,2022,2022-11-09 22:20:00,22,Junior,Millonarios,0,1,2.24,3.05,3.05,1.11,6.0,1.5,2.37,2.29,1.55,4.8,1.16,10.5,1.04,2.1,1.67
+4516082,Colombia Categoria Primera A,2022,2022-11-12 21:00:00,23,Rionegro Águilas,Independiente Medellín,1,0,1.83,3.2,4.2,1.1,6.5,1.44,2.62,2.55,1.52,4.33,1.2,8.0,1.06,2.0,1.73
+4516081,Colombia Categoria Primera A,2022,2022-11-13 18:00:00,23,Santa Fe,Junior,0,0,2.28,3.18,3.1,1.1,6.25,1.46,2.5,2.2,1.6,4.4,1.18,9.25,1.05,2.1,1.67
+4516083,Colombia Categoria Primera A,2022,2022-11-13 21:00:00,23,América de Cali,Deportivo Pasto,2,1,1.69,3.3,5.25,1.1,6.5,1.5,2.55,2.55,1.52,4.5,1.17,9.5,1.05,2.25,1.57
+4516080,Colombia Categoria Primera A,2022,2022-11-14 18:00:00,23,Millonarios,Deportivo Pereira,2,0,1.53,4.0,6.25,1.07,7.75,1.37,2.85,2.25,1.65,3.75,1.23,7.5,1.08,2.2,1.62
+4516087,Colombia Categoria Primera A,2022,2022-11-22 22:35:00,24,Independiente Medellín,Rionegro Águilas,2,1,2.13,2.74,3.08,1.1,7.0,1.47,2.55,2.44,1.47,4.75,1.16,10.5,1.05,2.1,1.63
+4516085,Colombia Categoria Primera A,2022,2022-11-23 20:30:00,24,Junior,Santa Fe,2,3,1.83,3.4,4.5,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,2.1,1.67
+4516086,Colombia Categoria Primera A,2022,2022-11-23 20:30:00,24,Deportivo Pasto,América de Cali,1,0,2.64,2.85,2.56,1.09,6.0,1.5,2.55,2.4,1.5,4.33,1.18,9.0,1.05,2.0,1.73
+4516084,Colombia Categoria Primera A,2022,2022-11-23 22:35:00,24,Deportivo Pereira,Millonarios,2,1,3.5,3.1,2.2,1.09,7.75,1.45,2.6,2.3,1.6,4.5,1.18,10.25,1.05,2.05,1.68
+4516090,Colombia Categoria Primera A,2022,2022-11-26 20:00:00,25,Rionegro Águilas,Deportivo Pasto,3,4,1.77,3.12,4.26,1.06,9.0,1.5,2.55,2.54,1.42,4.05,1.22,9.0,1.06,2.24,1.67
+4516091,Colombia Categoria Primera A,2022,2022-11-26 22:05:00,25,Independiente Medellín,América de Cali,2,1,1.98,2.95,3.61,1.02,9.1,1.27,3.28,2.54,1.42,3.18,1.29,6.0,1.08,2.0,1.73
+4516088,Colombia Categoria Primera A,2022,2022-11-27 20:00:00,25,Millonarios,Junior,1,0,1.7,3.1,5.5,1.06,8.51,1.37,3.19,2.3,1.53,4.12,1.25,8.32,1.08,2.53,1.53
+4516089,Colombia Categoria Primera A,2022,2022-11-27 22:05:00,25,Deportivo Pereira,Santa Fe,5,1,1.98,2.97,3.21,1.02,12.3,1.31,3.54,2.2,1.62,3.39,1.33,6.72,1.11,1.78,2.08
+4516094,Colombia Categoria Primera A,2022,2022-11-30 20:30:00,26,América de Cali,Rionegro Águilas,1,1,3.0,2.9,2.6,1.05,7.2,1.34,2.88,2.53,1.44,3.65,1.22,7.1,1.05,1.88,1.8
+4516095,Colombia Categoria Primera A,2022,2022-11-30 20:30:00,26,Deportivo Pasto,Independiente Medellín,0,0,2.9,3.0,2.6,1.07,6.35,1.44,2.79,2.3,1.57,3.98,1.19,7.8,1.04,1.98,1.72
+4516092,Colombia Categoria Primera A,2022,2022-11-30 22:35:00,26,Junior,Deportivo Pereira,0,2,1.83,3.35,4.3,1.02,8.8,1.28,3.2,1.96,1.92,3.28,1.27,6.2,1.07,1.73,1.95
+4516093,Colombia Categoria Primera A,2022,2022-11-30 22:35:00,26,Santa Fe,Millonarios,1,1,3.3,2.95,2.27,1.02,8.7,1.29,3.14,2.12,1.72,3.34,1.26,6.4,1.07,1.93,1.77
+4776085,Colombia Categoria Primera A,2022,2022-12-04 20:00:00,0,Independiente Medellín,Deportivo Pereira,1,1,1.77,3.5,4.05,1.07,8.25,1.42,2.7,2.1,1.73,4.35,1.2,9.75,1.05,1.95,1.76
+4776086,Colombia Categoria Primera A,2022,2022-12-07 21:00:00,0,Deportivo Pereira,Independiente Medellín,0,0,2.35,3.16,3.09,1.1,6.5,1.44,2.62,2.05,1.72,4.33,1.2,9.0,1.05,1.93,1.83
