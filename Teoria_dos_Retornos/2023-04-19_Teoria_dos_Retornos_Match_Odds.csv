@@ -16,14 +16,14 @@ Chile Primera División,D,A,D
 Chile Segunda División,H,H,H
 China Chinese Super League,H,D,H
 Colombia Categoria Primera A,H,A,H
-Colombia Categoria Primera B,D,H,A
+Colombia Categoria Primera B,H,D,A
 Croatia Prva HNL,D,D,D
 Czech Republic First League,H,A,A
 Denmark 1st Division,D,H,D
 Denmark Superliga,D,H,D
 Ecuador Primera Categoría Serie A,H,A,D
-Egypt Egyptian Premier League,H,D,D
-England Championship,A,H,H
+Egypt Egyptian Premier League,H,H,H
+England Championship,H,H,D
 England EFL League One,H,A,D
 England EFL League Two,H,D,A
 England National League,D,A,D
@@ -63,7 +63,7 @@ Spain Segunda División,A,H,A
 Sweden Allsvenskan,D,A,D
 Switzerland Super League,D,D,A
 Tunisia Ligue 1,H,A,D
-Turkey Süper Lig,A,D,H
+Turkey Süper Lig,A,H,D
 USA MLS,A,D,H
 USA USL Championship,H,D,H
 Ukraine Ukrainian Premier League,H,A,D

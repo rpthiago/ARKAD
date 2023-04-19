@@ -22,8 +22,8 @@ Czech Republic First League,Under35,Over35,Under35
 Denmark 1st Division,Over35,Over35,Under35
 Denmark Superliga,Under35,Under35,Over35
 Ecuador Primera Categoría Serie A,Under35,Over35,Under35
-Egypt Egyptian Premier League,Under35,Under35,Over35
-England Championship,Under35,Under35,Under35
+Egypt Egyptian Premier League,Over35,Under35,Under35
+England Championship,Over35,Under35,Under35
 England EFL League One,Under35,Over35,Under35
 England EFL League Two,Under35,Under35,Over35
 England National League,Under35,Under35,Under35
@@ -63,7 +63,7 @@ Spain Segunda División,Under35,Under35,Under35
 Sweden Allsvenskan,Over35,Under35,Under35
 Switzerland Super League,Over35,Over35,Over35
 Tunisia Ligue 1,Over35,Under35,Under35
-Turkey Süper Lig,Over35,Under35,Over35
+Turkey Süper Lig,Under35,Over35,Under35
 USA MLS,Over35,Over35,Under35
 USA USL Championship,Under35,Under35,Under35
 Ukraine Ukrainian Premier League,Over35,Over35,Under35

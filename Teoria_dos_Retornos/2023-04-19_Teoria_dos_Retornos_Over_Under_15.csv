@@ -16,14 +16,14 @@ Chile Primera División,Under15,Over15,Over15
 Chile Segunda División,Over15,Over15,Under15
 China Chinese Super League,Under15,Under15,Under15
 Colombia Categoria Primera A,Under15,Under15,Under15
-Colombia Categoria Primera B,Over15,Under15,Over15
+Colombia Categoria Primera B,Over15,Over15,Over15
 Croatia Prva HNL,Under15,Over15,Under15
 Czech Republic First League,Over15,Over15,Over15
 Denmark 1st Division,Over15,Over15,Over15
 Denmark Superliga,Under15,Over15,Over15
 Ecuador Primera Categoría Serie A,Over15,Over15,Under15
-Egypt Egyptian Premier League,Over15,Over15,Over15
-England Championship,Over15,Over15,Over15
+Egypt Egyptian Premier League,Under15,Over15,Under15
+England Championship,Under15,Under15,Over15
 England EFL League One,Over15,Under15,Under15
 England EFL League Two,Over15,Under15,Over15
 England National League,Over15,Under15,Under15
@@ -63,7 +63,7 @@ Spain Segunda División,Over15,Under15,Under15
 Sweden Allsvenskan,Under15,Over15,Under15
 Switzerland Super League,Under15,Over15,Over15
 Tunisia Ligue 1,Over15,Over15,Under15
-Turkey Süper Lig,Under15,Under15,Over15
+Turkey Süper Lig,Under15,Over15,Under15
 USA MLS,Over15,Over15,Over15
 USA USL Championship,Under15,Over15,Under15
 Ukraine Ukrainian Premier League,Over15,Under15,Under15

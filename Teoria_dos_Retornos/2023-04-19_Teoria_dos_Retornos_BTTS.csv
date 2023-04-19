@@ -16,14 +16,14 @@ Chile Primera División,BTTS_Não,BTTS_Não,BTTS_Não
 Chile Segunda División,BTTS_Não,BTTS_Sim,BTTS_Não
 China Chinese Super League,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Colombia Categoria Primera A,BTTS_Não,BTTS_Não,BTTS_Não
-Colombia Categoria Primera B,BTTS_Sim,BTTS_Não,BTTS_Sim
+Colombia Categoria Primera B,BTTS_Não,BTTS_Sim,BTTS_Não
 Croatia Prva HNL,BTTS_Não,BTTS_Sim,BTTS_Não
 Czech Republic First League,BTTS_Sim,BTTS_Não,BTTS_Não
 Denmark 1st Division,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Denmark Superliga,BTTS_Não,BTTS_Sim,BTTS_Sim
 Ecuador Primera Categoría Serie A,BTTS_Sim,BTTS_Não,BTTS_Não
-Egypt Egyptian Premier League,BTTS_Sim,BTTS_Sim,BTTS_Sim
-England Championship,BTTS_Não,BTTS_Sim,BTTS_Sim
+Egypt Egyptian Premier League,BTTS_Não,BTTS_Sim,BTTS_Sim
+England Championship,BTTS_Não,BTTS_Não,BTTS_Sim
 England EFL League One,BTTS_Sim,BTTS_Sim,BTTS_Sim
 England EFL League Two,BTTS_Sim,BTTS_Não,BTTS_Não
 England National League,BTTS_Sim,BTTS_Sim,BTTS_Sim
@@ -63,7 +63,7 @@ Spain Segunda División,BTTS_Sim,BTTS_Não,BTTS_Não
 Sweden Allsvenskan,BTTS_Não,BTTS_Sim,BTTS_Não
 Switzerland Super League,BTTS_Não,BTTS_Não,BTTS_Sim
 Tunisia Ligue 1,BTTS_Não,BTTS_Sim,BTTS_Não
-Turkey Süper Lig,BTTS_Sim,BTTS_Não,BTTS_Sim
+Turkey Süper Lig,BTTS_Sim,BTTS_Sim,BTTS_Não
 USA MLS,BTTS_Sim,BTTS_Sim,BTTS_Sim
 USA USL Championship,BTTS_Não,BTTS_Não,BTTS_Sim
 Ukraine Ukrainian Premier League,BTTS_Não,BTTS_Não,BTTS_Não
