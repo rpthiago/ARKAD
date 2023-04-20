@@ -336,26 +336,96 @@ def pagina_08():
         mime='application/vnd.ms-excel')
 
 
+def pagina_09():
+    st.subheader("LAY_0x1_Leandro")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_LAY_0X1.csv")
+
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data
+
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'LAY_0X1_{dia}.xlsx',
+        mime='application/vnd.ms-excel')
+
+def pagina_10():
+    st.subheader("LAY_1X0_Leandro")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_LAY_1X0.csv")
+
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data
+
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'LAY_1X0_{dia}.xlsx',
+        mime='application/vnd.ms-excel')
 
 
 
-
-
-
-
-
-
-
-
-
-paginas = ['Jogos do Dia', 
+paginas = ['Jogos do Dia',
            'TR - Match Odds', 
            'TR - Over/Under 0.5FT', 
            'TR - Over/Under 1.5FT',
            'TR - Over/Under 2.5FT',
            'TR - Over/Under 3.5FT',
            'TR - Over/Under 4.5FT',
-           'TR - BTTS']
+           'TR - BTTS',
+           'LAY_0X1',
+           'LAY_1X0']
 escolha = st.sidebar.radio('',paginas)
 
 if escolha == 'Jogos do Dia':
@@ -374,3 +444,7 @@ if escolha == 'TR - Over/Under 4.5FT':
     pagina_07()
 if escolha == 'TR - BTTS':
     pagina_08()
+if escolha == 'LAY_0X1':
+    pagina_09()
+if escolha == 'LAY_1X0':
+    pagina_10()
