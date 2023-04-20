@@ -14,6 +14,7 @@ from time import sleep
 
 
 
+
 pyautogui.PAUSE = 1
 
 #pyautogui.click(1028,82, duration=1)
