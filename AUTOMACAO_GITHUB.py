@@ -11,11 +11,15 @@ from time import sleep
 # In[10]:
 
 
+
+
+
 pyautogui.PAUSE = 1
 
+#pyautogui.click(1028,82, duration=1)
+#pyautogui.press('enter')
 
-
-pyautogui.click(430,669, duration=2)
+pyautogui.click(430,669, 2, 2, 'left')
 pyautogui.press('enter')
 
 pyautogui.click(157,795, duration=2)
@@ -31,22 +35,3 @@ pyautogui.press('enter')
 
 pyautogui.click(1886,23, duration=10)
 pyautogui.press('enter')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
