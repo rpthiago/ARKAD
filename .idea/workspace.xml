@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AUTOMACAO_GITHUB.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMACAO_GITHUB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/China Chinese Super League_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/China Chinese Super League_2023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Colombia Categoria Primera A_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Colombia Categoria Primera A_2023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Denmark 1st Division_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Denmark 1st Division_20222023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Mexico Ascenso MX_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Mexico Ascenso MX_20222023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Serbia SuperLiga_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Serbia SuperLiga_20222023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Turkey Süper Lig_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Turkey Süper Lig_20222023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jogos_do_Dia_Arkad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jogos_do_Dia_Arkad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ligas.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ligas.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ligas_arkard.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ligas_arkard.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/Entradas_Lay_1x0.bat&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.AUTOMACAO_GITHUB">
+  <component name="RunManager" selected="Python.Jogos_do_Dia_Arkad">
     <configuration name="AUTOMACAO_GITHUB" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,19 +85,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Entradas_Lay_0x1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Jogos_do_Dia_Arkad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Entradas_Lay_0x1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jogos_do_Dia_Arkad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jogos_do_Dia_Arkad" />
         <item itemvalue="Python.AUTOMACAO_GITHUB" />
         <item itemvalue="Batch.AUTOMACAO_GITHUB" />
         <item itemvalue="Batch.Entradas_Lay_1x0" />
         <item itemvalue="Batch.Entradas_Lay_0x1" />
-        <item itemvalue="Python.Entradas_Lay_0x1" />
       </list>
     </recent_temporary>
   </component>
