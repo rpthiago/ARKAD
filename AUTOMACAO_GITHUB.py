@@ -30,6 +30,7 @@ pyautogui.write('Update')
 pyautogui.click(208,990, duration=2)
 pyautogui.press('enter')
 
+
 pyautogui.click(1409,358, duration=2)
 pyautogui.press('enter')
 
