@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AUTOMACAO_GITHUB.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMACAO_GITHUB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/tt.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMACAO_GITHUB.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMACAO_GITHUB.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/Entradas_Lay_1x0.bat&quot;
   }
 }</component>
-  <component name="RunManager" selected="Batch.AUTOMACAO_GITHUB">
+  <component name="RunManager" selected="Python.AUTOMACAO_GITHUB">
     <configuration name="AUTOMACAO_GITHUB" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AUTOMACAO_GITHUB" />
         <item itemvalue="Batch.AUTOMACAO_GITHUB" />
         <item itemvalue="Batch.Entradas_Lay_1x0" />
         <item itemvalue="Batch.Entradas_Lay_0x1" />
         <item itemvalue="Python.Entradas_Lay_0x1" />
-        <item itemvalue="Python.AUTOMACAO_GITHUB" />
       </list>
     </recent_temporary>
   </component>

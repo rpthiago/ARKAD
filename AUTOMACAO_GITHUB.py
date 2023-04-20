@@ -19,7 +19,7 @@ pyautogui.PAUSE = 1
 #pyautogui.click(1028,82, duration=1)
 #pyautogui.press('enter')
 
-pyautogui.click(430,669, duration=2)
+pyautogui.click(1857,56, duration=2)
 pyautogui.press('enter')
 
 pyautogui.click(157,795, duration=2)
