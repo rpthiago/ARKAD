@@ -16,7 +16,7 @@ Chile Primera División,D,A,D
 Chile Segunda División,H,H,H
 China Chinese Super League,H,D,H
 Colombia Categoria Primera A,H,A,H
-Colombia Categoria Primera B,H,D,A
+Colombia Categoria Primera B,D,D,A
 Croatia Prva HNL,D,D,D
 Czech Republic First League,H,A,A
 Denmark 1st Division,D,H,D
@@ -39,8 +39,8 @@ Italy Serie A,D,D,A
 Italy Serie B,H,D,A
 Japan J1 League,A,D,D
 Japan J2 League,D,A,A
-Mexico Ascenso MX,A,D,H
-Mexico Liga MX,A,H,A
+Mexico Ascenso MX,A,A,H
+Mexico Liga MX,A,A,D
 Netherlands Eerste Divisie,H,D,D
 Netherlands Eredivisie,H,H,D
 Netherlands Tweede Divisie,A,H,H

@@ -1,4 +1,3 @@
 @echo off
-"C:\Users\thiag\anaconda3\envs\pycaret\python.exe" "C:\Users\thiag\OneDrive\PycharmProjects\machile_pycaret\PYCARET_BACKAWAY_LIGAS_SEPARADAS.py"
+"C:\Users\thiag\anaconda3\envs\pycaret\python.exe" "C:\Users\thiag\OneDrive\Documentos\GitHub\ARKAD\Teoria_dos_Retornos_OverUnder45_Arkad.py"
 exit
-

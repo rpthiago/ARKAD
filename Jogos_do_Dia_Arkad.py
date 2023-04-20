@@ -203,7 +203,8 @@ df.to_csv(f'./Teoria_dos_Retornos/{hoje}_{nome}', index = False)
 
 
 # In[5]:
-
+print("FEITO")
 
 df
+
 

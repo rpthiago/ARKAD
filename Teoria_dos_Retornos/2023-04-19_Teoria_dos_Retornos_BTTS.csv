@@ -39,8 +39,8 @@ Italy Serie A,BTTS_Sim,BTTS_Sim,BTTS_Não
 Italy Serie B,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Japan J1 League,BTTS_Sim,BTTS_Não,BTTS_Sim
 Japan J2 League,BTTS_Não,BTTS_Sim,BTTS_Sim
-Mexico Ascenso MX,BTTS_Não,BTTS_Não,BTTS_Sim
-Mexico Liga MX,BTTS_Sim,BTTS_Não,BTTS_Não
+Mexico Ascenso MX,BTTS_Não,BTTS_Não,BTTS_Não
+Mexico Liga MX,BTTS_Sim,BTTS_Sim,BTTS_Não
 Netherlands Eerste Divisie,BTTS_Não,BTTS_Não,BTTS_Não
 Netherlands Eredivisie,BTTS_Sim,BTTS_Não,BTTS_Não
 Netherlands Tweede Divisie,BTTS_Sim,BTTS_Sim,BTTS_Sim

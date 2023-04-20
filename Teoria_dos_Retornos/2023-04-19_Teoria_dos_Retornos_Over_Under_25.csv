@@ -16,7 +16,7 @@ Chile Primera División,Under25,Under25,Over25
 Chile Segunda División,Under25,Under25,Over25
 China Chinese Super League,Under25,Over25,Over25
 Colombia Categoria Primera A,Under25,Under25,Over25
-Colombia Categoria Primera B,Under25,Under25,Over25
+Colombia Categoria Primera B,Under25,Over25,Under25
 Croatia Prva HNL,Over25,Under25,Under25
 Czech Republic First League,Under25,Over25,Over25
 Denmark 1st Division,Under25,Under25,Over25
@@ -39,8 +39,8 @@ Italy Serie A,Under25,Under25,Under25
 Italy Serie B,Under25,Over25,Under25
 Japan J1 League,Under25,Over25,Under25
 Japan J2 League,Over25,Over25,Under25
-Mexico Ascenso MX,Over25,Over25,Over25
-Mexico Liga MX,Over25,Over25,Under25
+Mexico Ascenso MX,Under25,Over25,Over25
+Mexico Liga MX,Under25,Over25,Over25
 Netherlands Eerste Divisie,Under25,Under25,Over25
 Netherlands Eredivisie,Over25,Under25,Under25
 Netherlands Tweede Divisie,Under25,Over25,Under25

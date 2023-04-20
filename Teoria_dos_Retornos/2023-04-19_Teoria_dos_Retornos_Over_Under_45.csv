@@ -16,7 +16,7 @@ Chile Primera División,Under45,Under45,Over45
 Chile Segunda División,Under45,Over45,Under45
 China Chinese Super League,Over45,Under45,Under45
 Colombia Categoria Primera A,Under45,Under45,Under45
-Colombia Categoria Primera B,Under45,Under45,Under45
+Colombia Categoria Primera B,Over45,Under45,Under45
 Croatia Prva HNL,Over45,Over45,Under45
 Czech Republic First League,Under45,Under45,Under45
 Denmark 1st Division,Under45,Over45,Over45
@@ -40,7 +40,7 @@ Italy Serie B,Under45,Under45,Over45
 Japan J1 League,Over45,Over45,Under45
 Japan J2 League,Under45,Over45,Under45
 Mexico Ascenso MX,Under45,Under45,Under45
-Mexico Liga MX,Over45,Under45,Over45
+Mexico Liga MX,Under45,Over45,Under45
 Netherlands Eerste Divisie,Over45,Under45,Under45
 Netherlands Eredivisie,Over45,Over45,Under45
 Netherlands Tweede Divisie,Under45,Over45,Over45
