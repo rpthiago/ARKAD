@@ -39,6 +39,8 @@ pyautogui.press('enter')
 #rodar segunda vez se errar na primeira
 
 
+
+
 pyautogui.click(1857,56, duration=2)
 pyautogui.press('enter')
 
