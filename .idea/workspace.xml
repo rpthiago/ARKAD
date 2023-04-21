@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/China Chinese Super League_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/China Chinese Super League_2023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Colombia Categoria Primera A_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Colombia Categoria Primera A_2023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Denmark 1st Division_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Denmark 1st Division_20222023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Mexico Ascenso MX_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Mexico Ascenso MX_20222023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Serbia SuperLiga_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Serbia SuperLiga_20222023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bases_de_Dados/Turkey Süper Lig_20222023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Bases_de_Dados/Turkey Süper Lig_20222023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jogos_do_Dia_Arkad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jogos_do_Dia_Arkad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ligas.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ligas.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ligas_arkard.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ligas_arkard.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
