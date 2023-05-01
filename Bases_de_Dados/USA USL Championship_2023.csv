@@ -80,5 +80,12 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094089,USA USL Championship,2023,2023-04-29 17:00:00,0,Detroit City FC,Tampa Bay Rowdies,0,1,2.62,3.2,2.35,1.05,9.0,1.25,3.75,1.73,2.0,2.75,1.4,5.0,1.14,1.67,2.1
 5094090,USA USL Championship,2023,2023-04-29 19:00:00,0,Tulsa Roughnecks,Sacramento Republic,1,1,3.14,3.4,2.05,1.05,9.0,1.25,3.75,1.83,1.87,2.75,1.4,5.0,1.14,1.67,2.1
 5094091,USA USL Championship,2023,2023-04-29 20:00:00,0,Indy Eleven,Pittsburgh Riverhounds,1,1,2.8,3.13,2.4,1.05,9.0,1.25,3.75,2.0,1.73,2.75,1.4,5.0,1.14,1.67,2.1
+5094088,USA USL Championship,2023,2023-04-29 20:30:00,0,Charleston Battery,Colorado Springs,1,2,2.26,3.45,2.72,1.04,10.0,1.22,4.0,1.65,2.11,2.62,1.44,4.5,1.17,1.6,2.25
 5094092,USA USL Championship,2023,2023-04-29 21:00:00,0,Memphis 901,Louisville City,1,1,2.3,3.45,2.66,1.04,10.0,1.22,4.0,1.85,1.85,2.62,1.44,4.5,1.17,1.6,2.25
 5094097,USA USL Championship,2023,2023-04-29 21:30:00,0,San Antonio,Las Vegas Lights,1,1,1.31,4.7,8.07,1.02,12.0,1.17,4.5,1.7,2.03,2.3,1.53,4.0,1.22,1.91,1.8
+5094094,USA USL Championship,2023,2023-04-29 22:00:00,0,New Mexico United,Orange County SC,3,1,1.95,3.5,3.32,1.05,9.0,1.25,3.75,1.78,1.93,3.0,1.36,5.0,1.14,1.66,2.15
+5094098,USA USL Championship,2023,2023-04-29 23:00:00,0,San Diego Loyal,El Paso Locomotive,1,2,1.75,3.6,4.2,1.0,11.0,1.22,4.0,1.75,2.0,2.85,1.4,4.83,1.15,1.64,2.07
+5094093,USA USL Championship,2023,2023-04-29 23:00:00,0,Monterey Bay,Rio Grande Valley,0,0,2.15,3.5,2.86,1.01,9.7,1.24,3.48,1.65,2.11,2.93,1.33,5.5,1.1,1.64,2.07
+5094095,USA USL Championship,2023,2023-04-29 23:00:00,0,Oakland Roots,Miami FC,0,0,2.1,3.5,2.96,0.0,0.0,0.0,0.0,1.78,1.93,0.0,0.0,0.0,0.0,0.0,0.0
+5094096,USA USL Championship,2023,2023-04-29 23:30:00,0,Phoenix Rising,Loudoun United,3,1,1.65,3.8,4.33,1.01,14.25,1.22,4.0,1.7,2.03,2.9,1.38,5.0,1.12,1.64,2.2
+5094087,USA USL Championship,2023,2023-04-30 18:00:00,0,Birmingham Legion,Hartford Athletic,3,2,1.61,3.65,4.15,1.03,15.0,1.21,3.97,1.59,1.97,2.64,1.43,4.63,1.16,1.62,2.24
