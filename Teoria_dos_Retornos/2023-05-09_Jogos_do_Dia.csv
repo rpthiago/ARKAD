@@ -1,0 +1,29 @@
+League,Date,Time,Rodada,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+South Korea K League 1,2023-05-09,07:00:00,12,Ulsan,Gangwon,1.48,4.2,6.2,1.05,10.0,1.25,3.6,1.78,1.93,2.9,1.36,5.25,1.13,1.95,1.8
+South Korea K League 1,2023-05-09,07:30:00,12,Daegu,Pohang Steelers,3.3,3.4,2.1,1.04,12.0,1.27,3.4,1.88,1.82,3.05,1.32,5.5,1.11,1.7,2.05
+South Korea K League 1,2023-05-09,07:30:00,12,FC Seoul,Gwangju,2.09,3.25,3.5,1.06,9.5,1.36,3.0,1.96,1.75,3.75,1.25,6.75,1.07,1.85,1.9
+China Chinese Super League,2023-05-09,08:35:00,6,Henan Jianye,Wuhan Three Towns,5.4,4.0,1.42,1.03,11.0,1.2,4.33,1.64,2.18,2.65,1.45,4.5,1.17,1.8,1.95
+China Chinese Super League,2023-05-09,08:35:00,6,Dalian Yifang,Shijiazhuang Ever Bright,2.53,3.25,2.52,1.06,9.75,1.36,2.95,2.2,1.68,4.0,1.22,7.5,1.09,1.95,1.8
+China Chinese Super League,2023-05-09,08:35:00,6,Shenzhen,Shanghai Shenhua,4.4,3.7,1.55,1.04,15.0,1.22,3.8,1.72,2.06,2.7,1.4,4.75,1.15,1.8,1.95
+Finland Veikkausliiga,2023-05-09,12:00:00,6,KTP,HJK,3.5,3.65,1.96,1.05,9.0,1.3,3.4,1.9,1.9,3.25,1.33,5.5,1.12,1.75,1.93
+Finland Veikkausliiga,2023-05-09,12:00:00,6,Honka,Haka,1.8,3.7,4.1,1.07,7.5,1.33,3.25,2.05,1.77,3.5,1.29,6.5,1.1,1.9,1.78
+Finland Veikkausliiga,2023-05-09,12:00:00,6,Oulu,KuPS,3.15,3.45,2.15,1.06,8.0,1.3,3.4,1.9,1.9,3.25,1.33,5.5,1.12,1.71,2.0
+Egypt Egyptian Premier League,2023-05-09,13:00:00,24,Pyramids FC,Ismaily SC,1.48,3.67,6.25,1.02,8.5,1.4,2.8,2.22,1.61,4.2,1.2,6.75,1.03,2.2,1.62
+Chile Primera B,2023-05-09,13:00:00,11,Puerto Montt,Santiago Morning,2.22,2.94,3.13,1.08,6.5,1.45,2.65,2.34,1.53,4.5,1.18,8.0,1.02,1.97,1.8
+Chile Segunda División,2023-05-09,13:00:00,9,Deportes Limache,Real San Joaquín,1.9,3.6,3.2,0.0,0.0,1.35,2.84,2.17,1.67,3.74,1.21,0.0,0.0,1.88,1.78
+Serbia SuperLiga,2023-05-09,13:15:00,4,Mladost Lučani,Radnik Surdulica,2.14,3.1,3.1,0.0,0.0,0.0,0.0,1.95,1.76,0.0,0.0,0.0,0.0,0.0,0.0
+Serbia SuperLiga,2023-05-09,13:15:00,4,Napredak,Radnički Niš,1.91,3.3,4.0,1.07,9.2,1.36,2.92,2.33,1.54,3.7,1.24,6.85,1.07,1.91,1.85
+Sweden Allsvenskan,2023-05-09,14:00:00,7,Hammarby,Mjällby,1.61,3.75,4.7,1.05,12.0,1.28,3.75,1.79,2.02,3.0,1.38,6.0,1.13,1.88,1.96
+Sweden Allsvenskan,2023-05-09,14:00:00,7,Värnamo,Varberg,1.87,3.35,3.75,1.07,9.5,1.36,3.2,1.94,1.77,3.75,1.28,7.5,1.09,1.95,1.85
+Egypt Egyptian Premier League,2023-05-09,15:30:00,16,Haras El Hodood,Al Ahly,9.7,4.94,1.33,1.01,8.8,1.3,3.3,1.89,1.91,3.2,1.3,5.7,1.1,2.2,1.6
+Chile Segunda División,2023-05-09,16:00:00,9,Provincial Osorno,General Velásquez,2.1,3.6,2.75,0.0,0.0,1.26,3.34,1.89,1.89,3.08,1.3,0.0,0.0,1.67,2.02
+Chile Segunda División,2023-05-09,16:00:00,9,Deportes Rengo,Iberia,2.1,3.6,2.75,0.0,0.0,1.38,2.71,2.25,1.62,4.0,1.19,0.0,0.0,1.88,1.78
+Chile Primera División,2023-05-09,16:30:00,13,Magallanes,Curicó Unido,2.05,3.25,3.3,1.05,11.0,1.3,3.4,1.83,1.93,3.5,1.3,6.5,1.1,1.8,1.95
+Chile Segunda División,2023-05-09,17:00:00,9,San Antonio Unido,Deportes Linares,2.2,3.6,2.6,0.0,0.0,0.0,0.0,2.3,1.6,0.0,0.0,0.0,0.0,0.0,0.0
+Chile Primera División,2023-05-09,19:00:00,13,Ñublense,Copiapó,1.94,3.5,3.65,1.05,10.0,1.29,3.4,1.79,1.98,3.0,1.33,5.5,1.11,1.73,1.95
+Chile Primera División,2023-05-09,19:00:00,13,Unión Española,Unión La Calera,2.06,3.15,3.35,1.05,8.0,1.33,3.0,1.98,1.79,3.3,1.29,6.0,1.09,1.79,1.96
+Chile Segunda División,2023-05-09,19:00:00,9,Concepción,Fernández Vial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mexico Liga MX,2023-05-09,19:00:00,0,Santos Laguna,Monterrey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mexico Liga MX,2023-05-09,19:00:00,0,Atlas,Guadalajara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mexico Liga MX,2023-05-09,19:00:00,0,Tigres UANL,Toluca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chile Primera División,2023-05-09,21:30:00,13,Colo-Colo,Audax Italiano,1.66,3.75,4.4,1.02,15.0,1.22,4.2,1.7,2.1,2.8,1.44,5.0,1.16,1.73,2.0
