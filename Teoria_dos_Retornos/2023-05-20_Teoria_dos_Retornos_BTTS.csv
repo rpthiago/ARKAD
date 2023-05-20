@@ -1,0 +1,72 @@
+League,N1,N2,N3
+Argentina Prim B Nacional,BTTS_Sim,BTTS_Sim,BTTS_Não
+Argentina Primera División,BTTS_Não,BTTS_Não,BTTS_Não
+Australia A-League,BTTS_Não,BTTS_Sim,BTTS_Não
+Austria Bundesliga,BTTS_Não,BTTS_Não,BTTS_Não
+Belgium Pro League,BTTS_Sim,BTTS_Não,BTTS_Não
+Bolivia LFPB,BTTS_Não,BTTS_Sim,BTTS_Sim
+Brazil Serie A,BTTS_Sim,BTTS_Não,BTTS_Sim
+Brazil Serie B,BTTS_Sim,BTTS_Não,BTTS_Sim
+Brazil Serie C,BTTS_Não,BTTS_Não,BTTS_Não
+Brazil Serie D,BTTS_Sim,BTTS_Não,BTTS_Não
+Bulgaria First League,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Canada Canadian Premier League,BTTS_Sim,BTTS_Sim,BTTS_Não
+Chile Primera B,BTTS_Não,BTTS_Sim,BTTS_Sim
+Chile Primera División,BTTS_Sim,BTTS_Não,BTTS_Sim
+Chile Segunda División,BTTS_Não,BTTS_Sim,BTTS_Não
+China Chinese Super League,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Colombia Categoria Primera A,BTTS_Não,BTTS_Não,BTTS_Não
+Colombia Categoria Primera B,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Croatia Prva HNL,BTTS_Não,BTTS_Não,BTTS_Não
+Czech Republic First League,BTTS_Sim,BTTS_Não,BTTS_Sim
+Denmark 1st Division,BTTS_Sim,BTTS_Não,BTTS_Não
+Denmark Superliga,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Ecuador Primera Categoría Serie A,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Egypt Egyptian Premier League,BTTS_Sim,BTTS_Sim,BTTS_Não
+England Championship,BTTS_Sim,BTTS_Sim,BTTS_Não
+England EFL League One,BTTS_Não,BTTS_Sim,BTTS_Não
+England EFL League Two,BTTS_Não,BTTS_Sim,BTTS_Sim
+England National League,BTTS_Sim,BTTS_Não,BTTS_Sim
+England Premier League,BTTS_Não,BTTS_Não,BTTS_Sim
+Finland Veikkausliiga,BTTS_Não,BTTS_Não,BTTS_Sim
+France Ligue 1,BTTS_Sim,BTTS_Sim,BTTS_Sim
+France Ligue 2,BTTS_Sim,BTTS_Não,BTTS_Não
+Germany 2. Bundesliga,BTTS_Não,BTTS_Não,BTTS_Não
+Germany Bundesliga,BTTS_Não,BTTS_Sim,BTTS_Sim
+Greece Super League,BTTS_Não,BTTS_Sim,BTTS_Sim
+Hungary NB I,BTTS_Não,BTTS_Não,BTTS_Não
+Italy Serie A,BTTS_Não,BTTS_Não,BTTS_Sim
+Italy Serie B,BTTS_Sim,BTTS_Não,BTTS_Não
+Japan J1 League,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Japan J2 League,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Mexico Ascenso MX,BTTS_Sim,BTTS_Não,BTTS_Não
+Mexico Liga MX,BTTS_Sim,BTTS_Sim,BTTS_Não
+Netherlands Eerste Divisie,BTTS_Não,BTTS_Não,BTTS_Não
+Netherlands Eredivisie,BTTS_Sim,BTTS_Não,BTTS_Não
+Netherlands Tweede Divisie,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Norway Eliteserien,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Paraguay Division Profesional,BTTS_Não,BTTS_Não,BTTS_Não
+Peru Primera División,BTTS_Não,BTTS_Não,BTTS_Não
+Poland Ekstraklasa,BTTS_Não,BTTS_Não,BTTS_Não
+Portugal Liga NOS,BTTS_Não,BTTS_Sim,BTTS_Sim
+Portugal LigaPro,BTTS_Não,BTTS_Sim,BTTS_Sim
+Republic of Ireland Premier Division,BTTS_Sim,BTTS_Sim,BTTS_Não
+Romania Liga I,BTTS_Sim,BTTS_Sim,BTTS_Sim
+Scotland Premiership,BTTS_Sim,BTTS_Não,BTTS_Sim
+Serbia SuperLiga,BTTS_Sim,BTTS_Sim,BTTS_Não
+Slovakia Super Liga,BTTS_Não,BTTS_Sim,BTTS_Sim
+Slovenia PrvaLiga,BTTS_Não,BTTS_Sim,BTTS_Não
+South Korea K League 1,BTTS_Não,BTTS_Sim,BTTS_Não
+South Korea K League 2,BTTS_Não,BTTS_Sim,BTTS_Não
+Spain La Liga,BTTS_Não,BTTS_Sim,BTTS_Não
+Spain Segunda División,BTTS_Não,BTTS_Sim,BTTS_Sim
+Sweden Allsvenskan,BTTS_Sim,BTTS_Sim,BTTS_Não
+Switzerland Super League,BTTS_Sim,BTTS_Não,BTTS_Não
+Tunisia Ligue 1,BTTS_Não,BTTS_Sim,BTTS_Não
+Turkey Süper Lig,BTTS_Não,BTTS_Não,BTTS_Sim
+USA MLS,BTTS_Não,BTTS_Sim,BTTS_Não
+USA USL Championship,BTTS_Não,BTTS_Não,BTTS_Não
+Ukraine Ukrainian Premier League,BTTS_Não,BTTS_Sim,BTTS_Sim
+Uruguay Primera División,BTTS_Não,BTTS_Sim,BTTS_Sim
+Uruguay Segunda División,BTTS_Não,BTTS_Não,BTTS_Não
+Venezuela Primera División,BTTS_Não,BTTS_Sim,BTTS_Sim
