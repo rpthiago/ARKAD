@@ -119,8 +119,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 3216118,Australia A-League,2022/2023,2023-03-12 01:00:00,20,Melbourne City FC,Brisbane Roar,2,1,1.41,4.49,5.99,1.03,12.0,1.2,4.1,1.66,2.23,2.55,1.44,4.5,1.17,1.8,1.95
 3216119,Australia A-League,2022/2023,2023-03-13 04:00:00,20,Melbourne Victory FC,Western United,1,2,1.96,3.45,3.3,1.03,13.0,1.22,4.0,1.73,2.1,2.95,1.4,5.5,1.15,1.62,2.2
 3216120,Australia A-League,2022/2023,2023-03-17 05:45:00,21,Adelaide United,Wellington Phoenix,5,1,2.02,3.75,3.45,1.02,18.5,1.16,5.0,1.55,2.45,2.38,1.58,4.0,1.22,1.47,2.6
-3216121,Australia A-League,2022/2023,2023-03-18 03:00:00,21,Newcastle Jets FC,Perth Glory FC,2,2,2.25,3.4,3.0,1.03,13.0,1.22,4.0,1.67,2.06,2.22,1.59,5.0,1.16,1.61,2.36
 3216122,Australia A-League,2022/2023,2023-03-18 03:00:00,21,Brisbane Roar,Western United,1,0,2.2,3.4,3.1,1.02,9.5,1.2,3.9,1.76,1.94,2.75,1.4,5.0,1.13,1.57,2.25
+3216121,Australia A-League,2022/2023,2023-03-18 03:00:00,21,Newcastle Jets FC,Perth Glory FC,2,2,2.25,3.4,3.0,1.03,13.0,1.22,4.0,1.67,2.06,2.22,1.59,5.0,1.16,1.61,2.36
 3216123,Australia A-League,2022/2023,2023-03-18 05:45:00,21,Sydney FC,Western Sydney Wanderers,0,4,2.23,3.3,3.05,1.05,12.25,1.25,3.6,1.82,1.87,2.9,1.36,5.25,1.13,1.68,2.15
 3216125,Australia A-League,2022/2023,2023-03-19 03:00:00,21,Melbourne Victory FC,Central Coast Mariners,2,0,2.25,3.6,2.6,1.03,16.75,1.18,4.33,1.58,2.22,2.4,1.5,4.33,1.18,1.53,2.38
 3216124,Australia A-League,2022/2023,2023-03-19 05:00:00,21,Macarthur,Melbourne City FC,1,1,4.15,4.3,1.58,1.02,21.5,1.15,5.5,1.49,2.33,2.15,1.62,3.75,1.25,1.53,2.38
@@ -159,4 +159,4 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 6062620,Australia A-League,2022/2023,2023-05-06 06:45:00,0,Western Sydney Wanderers,Sydney FC,1,2,2.12,3.16,2.92,1.03,15.0,1.22,4.25,1.66,2.2,2.75,1.42,5.0,1.16,1.57,2.25
 6070702,Australia A-League,2022/2023,2023-05-12 06:45:00,0,Sydney FC,Melbourne City FC,1,1,2.65,3.65,2.55,1.03,17.0,1.13,4.9,1.61,2.15,2.25,1.57,3.72,1.22,1.44,2.63
 6060803,Australia A-League,2022/2023,2023-05-13 06:45:00,0,Adelaide United,Central Coast Mariners,1,2,2.3,3.5,2.45,1.02,19.0,1.1,5.4,1.57,2.4,1.81,1.84,3.32,1.27,1.4,2.75
-6070703,Australia A-League,2022/2023,2023-05-19 06:45:00,0,Melbourne City FC,Sydney FC,4,0,1.85,3.5,3.65,1.02,12.0,1.18,4.75,1.53,2.35,2.15,1.61,4.2,1.22,1.53,2.38
+6060804,Australia A-League,2022/2023,2023-05-20 06:45:00,0,Central Coast Mariners,Adelaide United,2,0,1.85,4.0,3.4,1.02,15.0,1.1,6.5,1.36,2.9,1.75,1.87,3.0,1.38,1.36,3.0
