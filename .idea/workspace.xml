@@ -20,21 +20,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/PycharmProjects/jogos_de_hoje/executa_arquivo.bat&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WebScraping_FlashScore_Full.py",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Batch.jogos_jason">
-    <configuration name="executa_arquivo1" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+}]]></component>
+  <component name="RunManager" selected="Batch.jogos_jason (1)">
+    <configuration name="jogos_jason (1)" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PycharmProjects/machile_pycaret" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MODELOS LEANDRO" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="executa_arquivo1.bat" />
+      <option name="SCRIPT_NAME" value="jogos_jason.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
@@ -68,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PYCARET_BACKHOME_LIGAS_SEPARADAS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WebScraping_FlashScore_Full" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\envs\pycaret\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PycharmProjects/machile_pycaret" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PycharmProjects/machile_pycaret/PYCARET_BACKHOME_LIGAS_SEPARADAS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WebScraping_FlashScore_Full.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.jogos_jason (1)" />
+        <item itemvalue="Python.WebScraping_FlashScore_Full" />
         <item itemvalue="Batch.jogos_jason" />
         <item itemvalue="Python.WebScraping_FlashScore_Full_2023" />
         <item itemvalue="Python.PYCARET_BACKAWAY_LIGAS_SEPARADAS" />
-        <item itemvalue="Python.PYCARET_BACKHOME_LIGAS_SEPARADAS" />
-        <item itemvalue="Batch.executa_arquivo1" />
       </list>
     </recent_temporary>
   </component>
