@@ -16,9 +16,9 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094035,USA USL Championship,2023,2023-03-18 20:00:00,0,Miami FC,New Mexico United,0,1,2.15,3.25,3.2,0.0,0.0,0.0,0.0,1.85,1.87,0.0,0.0,0.0,0.0,0.0,0.0
 5071891,USA USL Championship,2023,2023-03-18 21:00:00,0,Colorado Springs,Hartford Athletic,1,1,1.62,3.8,4.33,1.03,11.0,1.2,4.33,1.57,2.25,2.38,1.53,4.0,1.22,1.6,2.25
 5094033,USA USL Championship,2023,2023-03-18 22:30:00,0,El Paso Locomotive,Detroit City FC,1,3,1.85,3.25,3.9,1.05,9.0,1.25,3.75,1.67,1.86,2.75,1.4,5.0,1.14,1.7,2.05
+5071892,USA USL Championship,2023,2023-03-18 23:00:00,0,Sacramento Republic,Charleston Battery,1,1,1.6,3.75,4.75,1.05,9.0,1.25,3.75,1.71,2.02,2.75,1.4,4.75,1.15,1.73,2.0
 5094037,USA USL Championship,2023,2023-03-18 23:00:00,0,Orange County SC,Tampa Bay Rowdies,1,1,2.6,3.2,2.55,1.05,9.0,1.25,3.75,1.75,2.0,2.75,1.4,5.0,1.14,1.67,2.1
 5094036,USA USL Championship,2023,2023-03-18 23:00:00,0,Monterey Bay,Louisville City,0,1,3.97,3.36,1.56,1.04,10.0,1.2,4.33,1.53,2.07,2.5,1.5,4.33,1.2,1.62,2.2
-5071892,USA USL Championship,2023,2023-03-18 23:00:00,0,Sacramento Republic,Charleston Battery,1,1,1.6,3.75,4.75,1.05,9.0,1.25,3.75,1.71,2.02,2.75,1.4,4.75,1.15,1.73,2.0
 5071893,USA USL Championship,2023,2023-03-19 17:00:00,0,Loudoun United,San Antonio,1,1,3.9,3.5,1.73,1.04,10.0,1.22,4.0,1.63,1.92,2.62,1.44,4.5,1.17,1.67,2.1
 5094039,USA USL Championship,2023,2023-03-19 19:00:00,0,San Diego Loyal,Phoenix Rising,3,0,1.93,3.3,3.3,1.05,9.0,1.25,3.75,1.68,1.85,2.75,1.4,5.0,1.14,1.67,2.1
 5094038,USA USL Championship,2023,2023-03-19 21:00:00,0,Rio Grande Valley,Oakland Roots,1,1,2.0,3.3,3.1,1.05,9.0,1.25,3.74,1.86,2.0,2.75,1.4,5.0,1.14,1.68,2.1
@@ -30,15 +30,15 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094041,USA USL Championship,2023,2023-03-25 20:30:00,0,Charleston Battery,Tampa Bay Rowdies,3,0,3.9,3.5,1.75,1.04,10.0,1.22,4.0,1.7,1.95,2.62,1.44,4.5,1.17,1.6,2.27
 5094044,USA USL Championship,2023,2023-03-25 21:30:00,0,San Antonio,Colorado Springs,1,0,1.65,3.6,4.33,0.0,0.0,0.0,0.0,1.61,2.1,2.55,1.44,0.0,0.0,1.8,1.91
 5071896,USA USL Championship,2023,2023-03-25 21:30:00,0,Tulsa Roughnecks,Loudoun United,3,0,1.7,3.6,4.2,0.0,0.0,0.0,0.0,1.57,2.15,2.4,1.52,0.0,0.0,1.73,2.0
-5094043,USA USL Championship,2023,2023-03-25 23:00:00,0,Sacramento Republic,San Diego Loyal,1,0,2.0,3.4,3.2,1.03,14.25,1.22,4.0,1.8,2.0,2.7,1.42,4.6,1.16,1.62,2.2
 5094042,USA USL Championship,2023,2023-03-25 23:00:00,0,Orange County SC,Las Vegas Lights,2,2,1.75,3.5,3.9,1.03,14.25,1.2,4.05,1.61,2.05,2.59,1.44,4.57,1.16,1.67,2.15
+5094043,USA USL Championship,2023,2023-03-25 23:00:00,0,Sacramento Republic,San Diego Loyal,1,0,2.0,3.4,3.2,1.03,14.25,1.22,4.0,1.8,2.0,2.7,1.42,4.6,1.16,1.62,2.2
 5094045,USA USL Championship,2023,2023-03-28 21:00:00,0,Tulsa Roughnecks,Pittsburgh Riverhounds,0,0,2.3,3.3,2.6,1.01,10.0,1.22,3.8,1.84,2.02,2.63,1.43,4.75,1.15,1.57,2.25
 5094046,USA USL Championship,2023,2023-03-31 22:00:00,0,Tulsa Roughnecks,El Paso Locomotive,2,2,2.35,3.54,2.64,1.04,10.0,1.22,4.0,1.7,2.1,2.75,1.42,4.5,1.17,1.57,2.3
 5094048,USA USL Championship,2023,2023-04-01 15:00:00,0,Hartford Athletic,Orange County SC,1,1,2.04,3.55,3.25,1.03,14.75,1.21,3.92,1.72,2.1,2.67,1.42,4.7,1.15,1.6,2.2
 5094049,USA USL Championship,2023,2023-04-01 17:00:00,0,Loudoun United,Colorado Springs,0,1,3.3,3.6,1.95,1.03,14.75,1.21,3.92,1.61,1.95,2.67,1.42,4.7,1.15,1.58,2.25
+5071900,USA USL Championship,2023,2023-04-01 20:00:00,0,Indy Eleven,Las Vegas Lights,0,0,1.98,3.35,3.6,1.01,14.5,1.22,4.0,1.68,2.06,2.65,1.44,4.62,1.13,1.57,2.3
 5094047,USA USL Championship,2023,2023-04-01 20:00:00,0,Detroit City FC,Rio Grande Valley,0,1,2.0,3.4,3.2,1.03,14.25,1.22,4.0,1.88,1.9,2.75,1.42,4.68,1.15,1.6,2.25
 5094050,USA USL Championship,2023,2023-04-01 20:00:00,0,Miami FC,Memphis 901,1,1,2.0,3.4,3.2,0.0,0.0,0.0,0.0,1.67,2.1,0.0,0.0,0.0,0.0,0.0,0.0
-5071900,USA USL Championship,2023,2023-04-01 20:00:00,0,Indy Eleven,Las Vegas Lights,0,0,1.98,3.35,3.6,1.01,14.5,1.22,4.0,1.68,2.06,2.65,1.44,4.62,1.13,1.57,2.3
 5094054,USA USL Championship,2023,2023-04-01 20:30:00,0,Tampa Bay Rowdies,Birmingham Legion,0,2,2.23,3.3,3.05,1.0,13.75,1.22,4.0,1.72,2.0,2.8,1.4,4.78,1.15,1.57,2.3
 5094052,USA USL Championship,2023,2023-04-01 23:00:00,0,Oakland Roots,New Mexico United,1,0,2.41,3.3,2.75,1.04,14.25,1.22,3.97,1.7,2.03,2.64,1.42,4.68,1.15,1.57,2.3
 5094051,USA USL Championship,2023,2023-04-01 23:00:00,0,Monterey Bay,San Antonio,1,2,3.3,3.45,2.06,1.03,14.0,1.22,4.0,1.81,1.89,2.8,1.4,4.73,1.15,1.6,2.25
@@ -72,8 +72,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094083,USA USL Championship,2023,2023-04-22 21:30:00,0,San Antonio,Phoenix Rising,1,1,1.84,3.5,3.45,1.05,9.0,1.25,3.75,1.7,1.95,2.75,1.4,5.0,1.14,1.67,2.1
 5094081,USA USL Championship,2023,2023-04-22 22:19:00,0,Rio Grande Valley,Memphis 901,0,3,1.97,3.45,3.1,1.04,10.0,1.22,4.0,1.61,2.05,2.62,1.44,4.5,1.17,1.67,2.1
 5094078,USA USL Championship,2023,2023-04-22 22:30:00,0,El Paso Locomotive,Pittsburgh Riverhounds,2,0,2.01,3.4,3.1,1.04,10.0,1.22,4.0,1.61,2.05,2.62,1.44,4.5,1.17,1.62,2.2
-5094082,USA USL Championship,2023,2023-04-22 23:00:00,0,Sacramento Republic,Detroit City FC,1,0,1.67,3.5,4.4,1.02,11.0,1.25,3.5,1.7,1.95,3.0,1.33,6.0,1.11,1.73,2.06
 5094080,USA USL Championship,2023,2023-04-22 23:00:00,0,Orange County SC,Birmingham Legion,1,2,2.31,3.3,2.6,1.04,10.0,1.22,4.0,1.6,2.1,2.62,1.44,4.5,1.17,1.6,2.25
+5094082,USA USL Championship,2023,2023-04-22 23:00:00,0,Sacramento Republic,Detroit City FC,1,0,1.67,3.5,4.4,1.02,11.0,1.25,3.5,1.7,1.95,3.0,1.33,6.0,1.11,1.73,2.06
 5094084,USA USL Championship,2023,2023-04-23 17:00:00,0,Loudoun United,Oakland Roots,2,0,2.5,3.3,2.45,1.04,10.0,1.22,4.0,1.67,2.1,2.62,1.44,4.5,1.17,1.6,2.25
 5094085,USA USL Championship,2023,2023-04-23 17:00:00,0,Miami FC,Las Vegas Lights,4,1,2.0,3.3,3.25,0.0,0.0,0.0,0.0,1.73,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 5094086,USA USL Championship,2023,2023-04-23 19:00:00,0,San Diego Loyal,Tampa Bay Rowdies,1,0,1.65,3.6,4.5,1.04,10.0,1.22,4.0,2.04,1.81,2.62,1.44,4.5,1.17,1.73,2.0
@@ -84,9 +84,9 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094092,USA USL Championship,2023,2023-04-29 21:00:00,0,Memphis 901,Louisville City,1,1,2.3,3.45,2.66,1.04,10.0,1.22,4.0,1.85,1.85,2.62,1.44,4.5,1.17,1.6,2.25
 5094097,USA USL Championship,2023,2023-04-29 21:30:00,0,San Antonio,Las Vegas Lights,1,1,1.31,4.7,8.07,1.02,12.0,1.17,4.5,1.7,2.03,2.3,1.53,4.0,1.22,1.91,1.8
 5094094,USA USL Championship,2023,2023-04-29 22:00:00,0,New Mexico United,Orange County SC,3,1,1.95,3.5,3.32,1.05,9.0,1.25,3.75,1.78,1.93,3.0,1.36,5.0,1.14,1.66,2.15
-5094098,USA USL Championship,2023,2023-04-29 23:00:00,0,San Diego Loyal,El Paso Locomotive,1,2,1.75,3.6,4.2,1.0,11.0,1.22,4.0,1.75,2.0,2.85,1.4,4.83,1.15,1.64,2.07
 5094093,USA USL Championship,2023,2023-04-29 23:00:00,0,Monterey Bay,Rio Grande Valley,0,0,2.15,3.5,2.86,1.01,9.7,1.24,3.48,1.65,2.11,2.93,1.33,5.5,1.1,1.64,2.07
 5094095,USA USL Championship,2023,2023-04-29 23:00:00,0,Oakland Roots,Miami FC,0,0,2.1,3.5,2.96,0.0,0.0,0.0,0.0,1.78,1.93,0.0,0.0,0.0,0.0,0.0,0.0
+5094098,USA USL Championship,2023,2023-04-29 23:00:00,0,San Diego Loyal,El Paso Locomotive,1,2,1.75,3.6,4.2,1.0,11.0,1.22,4.0,1.75,2.0,2.85,1.4,4.83,1.15,1.64,2.07
 5094096,USA USL Championship,2023,2023-04-29 23:30:00,0,Phoenix Rising,Loudoun United,3,1,1.65,3.8,4.33,1.01,14.25,1.22,4.0,1.7,2.03,2.9,1.38,5.0,1.12,1.64,2.2
 5094087,USA USL Championship,2023,2023-04-30 18:00:00,0,Birmingham Legion,Hartford Athletic,3,2,1.61,3.65,4.15,1.03,15.0,1.21,3.97,1.59,1.97,2.64,1.43,4.63,1.16,1.62,2.24
 5094099,USA USL Championship,2023,2023-05-03 20:00:00,0,Miami FC,Birmingham Legion,3,1,2.35,3.1,2.65,0.0,0.0,0.0,0.0,1.98,1.81,0.0,0.0,0.0,0.0,0.0,0.0
@@ -94,11 +94,11 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094100,USA USL Championship,2023,2023-05-05 22:00:00,0,Colorado Springs,El Paso Locomotive,2,3,1.75,3.65,3.9,1.05,9.0,1.25,3.75,1.82,1.96,2.75,1.4,5.0,1.14,1.7,2.05
 5094101,USA USL Championship,2023,2023-05-05 23:00:00,0,Monterey Bay,Pittsburgh Riverhounds,2,2,2.8,3.2,2.35,1.04,12.25,1.26,3.47,1.95,1.85,3.02,1.33,5.5,1.11,1.65,2.18
 5071903,USA USL Championship,2023,2023-05-05 23:30:00,0,Las Vegas Lights,Charleston Battery,0,1,2.35,3.25,2.75,1.05,9.0,1.25,3.75,1.78,2.01,2.75,1.4,5.0,1.14,1.62,2.2
-5094106,USA USL Championship,2023,2023-05-06 20:00:00,0,Loudoun United,Indy Eleven,1,2,2.35,3.25,2.7,1.05,9.0,1.29,3.5,1.89,1.89,3.0,1.36,5.5,1.12,1.68,2.13
 5094105,USA USL Championship,2023,2023-05-06 20:00:00,0,Hartford Athletic,Memphis 901,0,2,3.05,3.55,2.1,1.05,9.0,1.25,3.75,1.84,1.94,2.75,1.4,5.0,1.14,1.67,2.1
-5094108,USA USL Championship,2023,2023-05-06 20:30:00,0,Tampa Bay Rowdies,Phoenix Rising,2,0,2.0,3.55,3.3,1.05,9.0,1.25,3.75,1.82,1.96,3.0,1.36,5.0,1.14,1.6,2.27
+5094106,USA USL Championship,2023,2023-05-06 20:00:00,0,Loudoun United,Indy Eleven,1,2,2.35,3.25,2.7,1.05,9.0,1.29,3.5,1.89,1.89,3.0,1.36,5.5,1.12,1.68,2.13
 5094103,USA USL Championship,2023,2023-05-06 20:30:00,0,Birmingham Legion,Oakland Roots,1,4,1.7,3.75,4.3,1.04,10.0,1.25,3.75,1.75,2.05,2.75,1.4,4.75,1.15,1.7,2.05
 5094104,USA USL Championship,2023,2023-05-06 20:30:00,0,Detroit City FC,Tulsa Roughnecks,1,1,1.97,3.35,3.55,1.05,9.0,1.29,3.5,1.88,1.9,3.0,1.36,5.5,1.12,1.7,2.05
+5094108,USA USL Championship,2023,2023-05-06 20:30:00,0,Tampa Bay Rowdies,Phoenix Rising,2,0,2.0,3.55,3.3,1.05,9.0,1.25,3.75,1.82,1.96,3.0,1.36,5.0,1.14,1.6,2.27
 5094107,USA USL Championship,2023,2023-05-06 23:00:00,0,Orange County SC,San Diego Loyal,1,2,2.65,3.4,2.35,1.01,9.7,1.25,3.75,1.84,1.94,3.0,1.36,5.5,1.1,1.64,2.2
 5094109,USA USL Championship,2023,2023-05-07 19:00:00,0,Las Vegas Lights,San Antonio,1,2,3.2,3.25,2.0,1.03,9.5,1.25,3.5,1.73,2.0,3.1,1.32,5.7,1.1,1.67,2.05
 5094113,USA USL Championship,2023,2023-05-13 20:00:00,0,Louisville City,Miami FC,3,1,1.73,3.3,3.85,0.0,0.0,0.0,0.0,1.77,1.74,0.0,0.0,0.0,0.0,0.0,0.0
@@ -108,10 +108,10 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094114,USA USL Championship,2023,2023-05-13 21:00:00,0,Memphis 901,Colorado Springs,2,1,2.3,3.3,2.63,1.05,9.0,1.29,3.5,1.73,1.78,3.0,1.36,5.5,1.12,1.7,2.05
 5094115,USA USL Championship,2023,2023-05-13 22:00:00,0,New Mexico United,Monterey Bay,2,1,1.83,3.5,3.6,1.05,9.0,1.25,3.75,1.68,1.84,2.75,1.4,5.0,1.14,1.67,2.1
 5094111,USA USL Championship,2023,2023-05-13 22:30:00,0,El Paso Locomotive,Loudoun United,1,0,1.62,3.8,4.33,1.05,9.0,1.25,3.75,1.68,1.84,2.75,1.4,5.0,1.14,1.73,2.0
-5094120,USA USL Championship,2023,2023-05-13 23:00:00,0,San Diego Loyal,Rio Grande Valley,2,3,1.65,3.35,3.78,1.04,10.0,1.22,4.0,1.9,1.9,2.62,1.44,4.5,1.17,1.67,2.1
 5094119,USA USL Championship,2023,2023-05-13 23:00:00,0,Sacramento Republic,Indy Eleven,3,1,1.45,3.88,4.55,1.03,11.0,1.2,4.32,1.75,2.05,2.5,1.5,4.32,1.2,1.73,2.0
-5094117,USA USL Championship,2023,2023-05-13 23:30:00,0,Phoenix Rising,Hartford Athletic,3,1,1.62,3.9,4.5,1.03,11.0,1.2,4.32,1.62,2.2,2.3,1.55,4.32,1.2,1.57,2.33
+5094120,USA USL Championship,2023,2023-05-13 23:00:00,0,San Diego Loyal,Rio Grande Valley,2,3,1.65,3.35,3.78,1.04,10.0,1.22,4.0,1.9,1.9,2.62,1.44,4.5,1.17,1.67,2.1
 5094112,USA USL Championship,2023,2023-05-13 23:30:00,0,Las Vegas Lights,Tulsa Roughnecks,1,1,2.14,3.2,2.79,1.05,9.0,1.25,3.75,1.86,1.94,2.75,1.4,5.0,1.14,1.67,2.1
+5094117,USA USL Championship,2023,2023-05-13 23:30:00,0,Phoenix Rising,Hartford Athletic,3,1,1.62,3.9,4.5,1.03,11.0,1.2,4.32,1.62,2.2,2.3,1.55,4.32,1.2,1.57,2.33
 5094116,USA USL Championship,2023,2023-05-14 00:00:00,0,Oakland Roots,Orange County SC,3,0,2.0,3.5,3.1,1.04,10.0,1.22,4.0,1.7,2.1,2.63,1.45,4.5,1.17,1.55,2.38
 5094122,USA USL Championship,2023,2023-05-17 20:00:00,0,Loudoun United,New Mexico United,1,3,2.55,3.4,2.55,1.05,9.0,1.29,3.5,1.87,1.87,3.0,1.36,5.5,1.12,1.7,2.05
 5094123,USA USL Championship,2023,2023-05-17 23:00:00,0,Orange County SC,Sacramento Republic,1,0,2.95,3.5,2.2,1.05,9.0,1.25,3.75,1.8,1.95,3.0,1.36,5.0,1.14,1.65,2.15
@@ -124,6 +124,7 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094127,USA USL Championship,2023,2023-05-20 20:30:00,0,Detroit City FC,San Antonio,1,0,3.7,3.35,1.82,1.05,9.0,1.29,3.3,2.01,1.79,3.0,1.33,5.5,1.11,1.73,2.0
 5094125,USA USL Championship,2023,2023-05-20 20:30:00,0,Birmingham Legion,El Paso Locomotive,1,2,2.06,3.5,2.87,1.01,9.9,1.23,3.56,1.83,1.87,2.91,1.33,5.35,1.1,1.65,2.05
 5094133,USA USL Championship,2023,2023-05-20 21:30:00,0,Rio Grande Valley,Tampa Bay Rowdies,0,3,2.45,3.3,2.45,1.03,8.4,1.3,3.2,2.01,1.79,3.3,1.29,5.75,1.1,1.73,2.0
-5094134,USA USL Championship,2023,2023-05-20 23:00:00,0,Sacramento Republic,Oakland Roots,3,1,1.61,3.7,4.35,1.02,12.0,1.29,3.48,1.89,1.91,3.0,1.34,5.45,1.11,1.75,1.95
 5094131,USA USL Championship,2023,2023-05-20 23:00:00,0,Orange County SC,Phoenix Rising,0,1,2.13,3.45,2.77,1.05,9.0,1.25,3.6,1.75,1.96,2.8,1.38,5.0,1.13,1.62,2.2
+5094134,USA USL Championship,2023,2023-05-20 23:00:00,0,Sacramento Republic,Oakland Roots,3,1,1.61,3.7,4.35,1.02,12.0,1.29,3.48,1.89,1.91,3.0,1.34,5.45,1.11,1.75,1.95
 5094135,USA USL Championship,2023,2023-05-24 20:30:00,0,Louisville City,Tulsa Roughnecks,1,2,1.5,4.36,5.09,1.04,12.5,1.28,3.5,1.74,1.86,3.3,1.3,5.55,1.11,2.0,1.75
+5094136,USA USL Championship,2023,2023-05-26 20:30:00,0,Hartford Athletic,Sacramento Republic,1,4,3.7,3.6,1.76,1.04,12.75,1.25,3.55,1.61,2.18,2.95,1.35,5.3,1.12,1.72,2.0
