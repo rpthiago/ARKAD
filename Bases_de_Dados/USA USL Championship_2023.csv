@@ -133,3 +133,7 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5094139,USA USL Championship,2023,2023-05-27 20:00:00,0,Indy Eleven,Louisville City,0,1,4.2,3.45,1.8,1.04,12.75,1.25,3.6,1.75,1.95,2.91,1.36,5.25,1.12,1.75,2.0
 5094140,USA USL Championship,2023,2023-05-27 20:00:00,0,Miami FC,Orange County SC,0,0,1.77,3.45,4.2,0.0,0.0,0.0,0.0,1.75,1.95,0.0,0.0,0.0,0.0,0.0,0.0
 5094144,USA USL Championship,2023,2023-05-27 20:30:00,0,Tampa Bay Rowdies,Colorado Springs,2,1,1.77,3.55,4.1,1.04,13.0,1.25,3.57,1.75,1.95,2.33,1.56,5.25,1.12,1.71,2.08
+5094142,USA USL Championship,2023,2023-05-27 21:00:00,0,Rio Grande Valley,Charleston Battery,0,2,1.95,3.45,3.5,1.04,12.75,1.25,3.57,1.75,1.95,2.93,1.35,5.3,1.12,1.64,2.2
+5094143,USA USL Championship,2023,2023-05-27 21:30:00,0,San Antonio,New Mexico United,2,1,1.65,3.65,4.8,1.04,12.75,1.25,3.57,1.75,1.95,2.93,1.35,5.25,1.12,1.82,1.94
+5094141,USA USL Championship,2023,2023-05-27 23:00:00,0,Oakland Roots,San Diego Loyal,2,0,2.3,3.4,2.6,1.04,12.75,1.25,3.55,1.75,1.95,2.95,1.35,5.3,1.12,1.64,2.2
+5094145,USA USL Championship,2023,2023-05-28 19:00:00,0,Loudoun United,Pittsburgh Riverhounds,0,1,2.54,3.34,2.54,1.01,9.6,1.25,3.42,1.89,1.89,2.98,1.32,5.6,1.09,1.66,2.16
