@@ -1,0 +1,27 @@
+League,Date,Time,Rodada,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+Japan J1 League,2023-05-31,07:30:00,11,Urawa Reds,Sanfrecce Hiroshima,2.65,3.1,2.6,1.03,7.9,1.34,2.95,1.98,1.73,3.72,1.22,7.2,1.05,1.86,1.9
+Tunisia Ligue 1,2023-05-31,12:00:00,8,Olympique Béja,Club Africain,3.2,3.1,2.25,1.06,6.55,1.53,2.35,2.35,1.5,4.6,1.14,9.2,1.02,2.02,1.67
+Bulgaria First League,2023-05-31,13:00:00,4,Spartak Varna,Septemvri Sofia,2.0,3.3,3.3,1.02,11.0,1.26,3.69,1.69,1.98,3.12,1.35,5.9,1.12,1.74,2.04
+Bulgaria First League,2023-05-31,13:00:00,4,Botev Vratsa,Hebar 1918,2.55,3.25,2.5,1.07,7.5,1.36,3.0,2.16,1.57,3.5,1.29,7.0,1.08,1.8,1.91
+Bulgaria First League,2023-05-31,13:00:00,4,Beroe,OFK Pirin,1.77,3.4,4.2,1.05,7.4,1.4,2.86,1.93,1.73,4.18,1.22,7.9,1.04,2.06,1.73
+Egypt Egyptian Premier League,2023-05-31,13:00:00,30,National Bank of Egypt,El Daklyeh FC,1.8,3.2,4.0,1.1,6.57,1.48,2.63,2.4,1.51,4.71,1.18,9.1,1.02,2.16,1.66
+Egypt Egyptian Premier League,2023-05-31,15:30:00,30,Al Mokawloon,Ismaily SC,2.35,2.79,3.48,1.11,5.81,1.5,2.4,2.52,1.46,4.96,1.15,9.5,1.01,2.11,1.69
+Bolivia LFPB,2023-05-31,16:00:00,10,Municipal Vinto,Club Always Ready,1.86,3.37,3.27,1.03,15.75,1.18,4.55,1.6,2.3,2.41,1.53,4.18,1.2,1.53,2.43
+USA MLS,2023-05-31,20:00:00,0,Atlanta United FC,New England Revolution,1.8,3.8,3.8,1.05,9.0,1.29,3.5,1.76,1.92,3.0,1.36,5.5,1.12,1.73,2.0
+Canada Canadian Premier League,2023-05-31,20:00:00,8,Forge FC,York9 FC,1.63,3.65,4.7,1.04,11.0,1.27,3.4,1.88,1.83,3.2,1.29,6.25,1.11,1.86,1.83
+Colombia Categoria Primera A,2023-05-31,20:15:00,23,Boyacá Chicó,Independiente Medellín,2.57,3.19,3.03,1.07,8.5,1.37,3.05,2.11,1.65,4.1,1.24,9.0,1.08,1.85,1.91
+USA MLS,2023-05-31,20:30:00,0,Columbus Crew,Colorado Rapids,1.8,3.9,3.75,1.04,10.0,1.22,4.0,1.66,2.05,2.62,1.44,4.5,1.17,1.67,2.1
+USA MLS,2023-05-31,20:30:00,0,DC United,Montreal Impact,1.7,3.9,4.4,1.05,9.0,1.3,3.4,1.84,1.83,3.25,1.33,5.5,1.12,1.85,1.85
+USA MLS,2023-05-31,20:30:00,0,Inter Miami,New York RB,2.15,3.6,3.0,1.07,7.5,1.33,3.25,1.83,1.83,3.4,1.3,6.5,1.1,1.8,1.91
+USA MLS,2023-05-31,20:30:00,0,New York City,FC Cincinnati,2.37,3.6,2.65,1.06,8.0,1.33,3.25,1.74,1.94,3.4,1.3,6.0,1.11,1.8,1.91
+USA MLS,2023-05-31,20:30:00,0,Philadelphia Union,Charlotte,1.71,4.2,4.0,1.03,13.0,1.2,4.0,1.52,2.31,2.3,1.55,5.5,1.14,1.75,2.0
+USA MLS,2023-05-31,20:30:00,0,Toronto,Chicago Fire,2.05,3.6,3.2,1.04,10.0,1.25,3.75,1.83,1.83,2.75,1.4,4.75,1.15,1.67,2.1
+Peru Primera División,2023-05-31,21:00:00,8,Melgar,César Vallejo,1.39,4.8,8.0,1.05,11.0,1.33,3.3,1.85,1.96,3.6,1.3,7.0,1.09,1.87,1.87
+Peru Primera División,2023-05-31,21:00:00,8,Melgar,César Vallejo,1.39,4.8,8.0,1.05,11.0,1.33,3.3,1.85,1.96,3.6,1.3,7.0,1.09,1.87,1.87
+USA MLS,2023-05-31,21:30:00,0,Austin,Minnesota United,2.37,3.6,2.65,1.03,13.0,1.25,3.75,1.74,1.94,3.1,1.38,5.5,1.14,1.65,2.2
+USA MLS,2023-05-31,21:30:00,0,Sporting KC,FC Dallas,2.15,3.7,2.95,1.04,12.0,1.28,3.6,1.74,1.94,3.1,1.36,6.0,1.12,1.7,2.1
+USA MLS,2023-05-31,22:30:00,0,Real Salt Lake,LA Galaxy,1.9,3.8,3.5,1.03,13.0,1.22,3.8,1.74,1.94,2.63,1.43,4.5,1.17,1.57,2.25
+Colombia Categoria Primera A,2023-05-31,22:30:00,23,América de Cali,Millonarios,1.93,3.25,3.7,1.07,7.0,1.3,3.2,1.92,1.69,3.4,1.27,6.0,1.1,1.8,1.96
+USA USL Championship,2023-05-31,23:00:00,0,Monterey Bay,Tulsa Roughnecks,1.94,3.55,3.55,1.04,13.25,1.25,3.6,1.69,1.84,2.9,1.36,5.25,1.13,1.7,2.05
+USA MLS,2023-05-31,23:30:00,0,Seattle Sounders,SJ Earthquakes,1.63,4.1,4.5,1.02,17.0,1.22,4.2,1.66,2.05,2.95,1.42,5.0,1.16,1.72,2.1
+USA MLS,2023-05-31,23:30:00,0,Vancouver Whitecaps,Houston Dynamo,1.7,4.0,4.33,1.02,13.0,1.22,3.8,1.73,1.95,2.7,1.4,4.75,1.15,1.73,2.0

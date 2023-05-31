@@ -13,7 +13,7 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5409776,Chile Segunda División,2023,2023-03-05 18:00:00,2,Deportes Rengo,Deportes Limache,0,2,3.4,3.38,2.04,1.04,9.0,1.27,3.55,1.92,1.82,3.45,1.28,7.0,1.09,1.76,1.98
 5409789,Chile Segunda División,2023,2023-03-10 20:00:00,3,Deportes Limache,Provincial Osorno,1,0,2.12,3.1,3.5,1.08,7.0,1.35,2.95,2.11,1.71,3.6,1.25,7.0,1.08,1.85,1.83
 5409784,Chile Segunda División,2023,2023-03-11 12:00:00,3,Deportes Valdivia,Melipilla,0,0,3.0,3.1,2.2,0.0,0.0,1.33,2.93,2.3,1.6,3.65,1.22,0.0,0.0,1.8,1.86
-5409783,Chile Segunda División,2023,2023-03-11 18:00:00,3,General Velásquez,San Antonio Unido,2,0,2.22,3.14,3.22,0.0,0.0,1.4,2.7,2.28,1.57,4.0,1.21,0.0,0.0,1.95,1.75
+5409783,Chile Segunda División,2023,2023-03-11 18:00:00,3,General Velásquez,San Antonio Unido,0,3,2.22,3.14,3.22,0.0,0.0,1.4,2.7,2.28,1.57,4.0,1.21,0.0,0.0,1.95,1.75
 5409785,Chile Segunda División,2023,2023-03-11 18:00:00,3,Real San Joaquín,Deportes Rengo,2,1,1.66,3.8,4.68,0.0,0.0,1.27,3.4,1.82,1.96,3.0,1.34,0.0,0.0,1.81,1.85
 5409786,Chile Segunda División,2023,2023-03-11 18:00:00,3,Fernández Vial,Deportes Linares,2,1,1.99,3.24,3.72,1.07,7.0,1.39,2.75,2.25,1.58,4.1,1.2,7.0,1.07,1.95,1.7
 5409787,Chile Segunda División,2023,2023-03-12 18:00:00,3,Lautaro de Buin ,Concepción,1,0,2.19,3.39,2.74,1.04,11.5,1.24,3.48,1.8,1.89,2.98,1.32,6.25,1.11,1.67,2.15
