@@ -96,10 +96,10 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 3045612,Austria Bundesliga,2022/2023,2022-11-13 10:30:00,16,Austria Klagenfurt,Salzburg,0,1,5.25,4.75,1.53,0,0,0,0,1.43,2.51,2.2,1.67,0,0,0,0
 3045610,Austria Bundesliga,2022/2023,2022-11-13 13:00:00,16,LASK Linz,Sturm Graz,1,1,2.34,3.66,2.8,0,0,0,0,1.59,2.13,0.0,0.0,0,0,0,0
 3045619,Austria Bundesliga,2022/2023,2023-02-10 16:30:00,17,Sturm Graz,Rapid Wien,1,0,1.74,3.4,3.9,0,0,0,0,1.7,2.05,0.0,0.0,0,0,0,0
-3045616,Austria Bundesliga,2022/2023,2023-02-11 13:00:00,17,Salzburg,Austria Lustenau,4,0,1.14,7.5,15.0,0,0,0,0,1.34,2.83,1.75,2.0,0,0,0,0
 3045617,Austria Bundesliga,2022/2023,2023-02-11 13:00:00,17,Wolfsberger AC,Wattens,1,2,1.91,3.8,3.5,0,0,0,0,1.57,2.3,2.3,1.57,0,0,0,0
-3045621,Austria Bundesliga,2022/2023,2023-02-12 10:30:00,17,Rheindorf Altach,LASK Linz,0,1,4.54,3.95,1.72,0,0,0,0,1.61,2.23,0.0,0.0,0,0,0,0
+3045616,Austria Bundesliga,2022/2023,2023-02-11 13:00:00,17,Salzburg,Austria Lustenau,4,0,1.14,7.5,15.0,0,0,0,0,1.34,2.83,1.75,2.0,0,0,0,0
 3045620,Austria Bundesliga,2022/2023,2023-02-12 10:30:00,17,Ried,Hartberg,0,1,2.1,3.5,3.41,0,0,0,0,1.89,1.85,0.0,0.0,0,0,0,0
+3045621,Austria Bundesliga,2022/2023,2023-02-12 10:30:00,17,Rheindorf Altach,LASK Linz,0,1,4.54,3.95,1.72,0,0,0,0,1.61,2.23,0.0,0.0,0,0,0,0
 3045618,Austria Bundesliga,2022/2023,2023-02-12 13:00:00,17,Austria Wien,Austria Klagenfurt,3,1,1.84,3.86,3.92,0,0,0,0,1.62,2.25,2.38,1.53,0,0,0,0
 3045622,Austria Bundesliga,2022/2023,2023-02-18 13:00:00,18,Austria Klagenfurt,Wolfsberger AC,0,3,2.2,3.5,3.0,0,0,0,0,1.57,2.33,2.2,1.6,0,0,0,0
 3045624,Austria Bundesliga,2022/2023,2023-02-18 13:00:00,18,Ried,LASK Linz,1,1,4.1,3.7,1.75,0,0,0,0,1.68,2.1,0.0,0.0,0,0,0,0
@@ -123,8 +123,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 3045644,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,Rapid Wien,Wattens,2,0,1.65,3.85,4.3,0,0,0,0,1.51,2.28,2.31,1.54,0,0,0,0
 3045643,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,Austria Klagenfurt,Hartberg,1,0,1.85,4.0,3.75,0,0,0,0,1.8,2.0,2.22,1.59,0,0,0,0
 3045641,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,Wolfsberger AC,Austria Lustenau,0,1,1.81,3.65,3.65,0,0,0,0,1.48,2.35,2.25,1.57,0,0,0,0
-3045642,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,Sturm Graz,Austria Wien,3,1,1.78,3.8,3.65,0,0,0,0,1.47,2.39,2.22,1.59,0,0,0,0
 3045640,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,LASK Linz,Salzburg,0,2,3.75,4.0,1.83,0,0,0,0,1.68,2.15,0.0,0.0,0,0,0,0
+3045642,Austria Bundesliga,2022/2023,2023-03-12 13:00:00,21,Sturm Graz,Austria Wien,3,1,1.78,3.8,3.65,0,0,0,0,1.47,2.39,2.22,1.59,0,0,0,0
 3045646,Austria Bundesliga,2022/2023,2023-03-19 13:00:00,22,Salzburg,Rheindorf Altach,1,1,1.15,7.0,21.0,0,0,0,0,1.32,3.21,2.15,1.62,0,0,0,0
 3045647,Austria Bundesliga,2022/2023,2023-03-19 13:00:00,22,Austria Wien,Rapid Wien,2,0,2.36,3.62,2.78,0,0,0,0,1.63,2.15,0.0,0.0,0,0,0,0
 3045648,Austria Bundesliga,2022/2023,2023-03-19 13:00:00,22,Ried,Wolfsberger AC,0,0,3.25,3.47,2.15,0,0,0,0,1.66,2.09,0.0,0.0,0,0,0,0
@@ -158,8 +158,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5690860,Austria Bundesliga,2022/2023,2023-04-26 13:30:00,5,Sturm Graz,Austria Wien,3,2,1.57,4.3,5.4,0,0,0,0,1.73,1.99,0.0,0.0,0,0,0,0
 5690858,Austria Bundesliga,2022/2023,2023-04-26 15:30:00,5,Rapid Wien,Salzburg,1,1,4.0,3.98,1.81,0,0,0,0,1.78,1.93,0.0,0.0,0,0,0,0
 5690855,Austria Bundesliga,2022/2023,2023-04-28 14:30:00,5,Rheindorf Altach,Wolfsberger AC,0,2,2.77,3.52,2.43,0,0,0,0,1.74,1.91,0.0,0.0,0,0,0,0
-5690857,Austria Bundesliga,2022/2023,2023-04-29 12:00:00,5,Wattens,Hartberg,1,1,2.05,3.5,3.5,0,0,0,0,1.78,2.1,0.0,0.0,0,0,0,0
 5690856,Austria Bundesliga,2022/2023,2023-04-29 12:00:00,5,Ried,Austria Lustenau,4,4,2.05,3.5,3.3,0,0,0,0,1.98,1.9,0.0,0.0,0,0,0,0
+5690857,Austria Bundesliga,2022/2023,2023-04-29 12:00:00,5,Wattens,Hartberg,1,1,2.05,3.5,3.5,0,0,0,0,1.78,2.1,0.0,0.0,0,0,0,0
 5690859,Austria Bundesliga,2022/2023,2023-04-30 12:00:00,5,LASK Linz,Austria Klagenfurt,4,0,1.45,4.6,6.2,0,0,0,0,1.56,2.35,2.25,1.61,0,0,0,0
 5690861,Austria Bundesliga,2022/2023,2023-05-05 14:30:00,6,Wolfsberger AC,Rheindorf Altach,0,0,1.9,3.7,3.75,0,0,0,0,1.7,2.05,0.0,0.0,0,0,0,0
 5690862,Austria Bundesliga,2022/2023,2023-05-06 12:00:00,6,Hartberg,Wattens,5,0,2.26,3.7,2.72,0,0,0,0,1.67,2.1,0.0,0.0,0,0,0,0
@@ -180,14 +180,14 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5690877,Austria Bundesliga,2022/2023,2023-05-21 09:30:00,8,Austria Klagenfurt,Austria Wien,1,1,3.75,3.75,1.9,0,0,0,0,1.65,2.15,0.0,0.0,0,0,0,0
 5690878,Austria Bundesliga,2022/2023,2023-05-21 12:00:00,8,Salzburg,Sturm Graz,2,1,1.91,3.65,3.7,0,0,0,0,1.8,2.05,0.0,0.0,0,0,0,0
 5690881,Austria Bundesliga,2022/2023,2023-05-27 12:00:00,9,Rheindorf Altach,Austria Lustenau,1,1,2.15,3.05,3.05,0,0,0,0,1.95,1.75,0.0,0.0,0,0,0,0
-5690880,Austria Bundesliga,2022/2023,2023-05-27 12:00:00,9,Hartberg,Ried,2,0,2.1,3.35,2.95,0,0,0,0,1.75,1.95,2.31,1.56,0,0,0,0
 5690879,Austria Bundesliga,2022/2023,2023-05-27 12:00:00,9,Wolfsberger AC,Wattens,2,0,1.91,3.6,3.1,0,0,0,0,1.6,2.2,0.0,0.0,0,0,0,0
+5690880,Austria Bundesliga,2022/2023,2023-05-27 12:00:00,9,Hartberg,Ried,2,0,2.1,3.35,2.95,0,0,0,0,1.75,1.95,2.31,1.56,0,0,0,0
 5690882,Austria Bundesliga,2022/2023,2023-05-28 12:00:00,9,Rapid Wien,Sturm Graz,3,2,2.9,3.4,2.2,0,0,0,0,1.67,2.1,0.0,0.0,0,0,0,0
 5690883,Austria Bundesliga,2022/2023,2023-05-28 12:00:00,9,Salzburg,Austria Klagenfurt,3,2,1.18,6.5,15.0,0,0,0,0,1.4,2.75,2.0,1.75,0,0,0,0
 5690884,Austria Bundesliga,2022/2023,2023-05-28 12:00:00,9,LASK Linz,Austria Wien,3,1,1.95,3.5,3.4,0,0,0,0,1.6,2.2,2.23,1.59,0,0,0,0
-5690885,Austria Bundesliga,2022/2023,2023-06-02 14:30:00,10,Austria Lustenau,Hartberg,5,1,3.06,3.65,2.2,0,0,0,0,1.65,2.16,0.0,0.0,0,0,0,0
 5690886,Austria Bundesliga,2022/2023,2023-06-02 14:30:00,10,Ried,Wolfsberger AC,1,2,2.74,3.55,2.45,0,0,0,0,1.69,2.09,0.0,0.0,0,0,0,0
+5690885,Austria Bundesliga,2022/2023,2023-06-02 14:30:00,10,Austria Lustenau,Hartberg,5,1,3.06,3.65,2.2,0,0,0,0,1.65,2.16,0.0,0.0,0,0,0,0
 5690887,Austria Bundesliga,2022/2023,2023-06-02 14:30:00,10,Wattens,Rheindorf Altach,1,1,1.8,3.85,4.17,0,0,0,0,1.6,2.25,2.23,1.59,0,0,0,0
-5690888,Austria Bundesliga,2022/2023,2023-06-03 12:00:00,10,Austria Wien,Salzburg,1,1,4.33,4.1,1.7,0,0,0,0,1.6,2.3,2.3,1.57,0,0,0,0
 5690889,Austria Bundesliga,2022/2023,2023-06-03 12:00:00,10,Sturm Graz,LASK Linz,2,0,1.75,4.0,4.2,0,0,0,0,1.6,2.2,2.25,1.61,0,0,0,0
+5690888,Austria Bundesliga,2022/2023,2023-06-03 12:00:00,10,Austria Wien,Salzburg,1,1,4.33,4.1,1.7,0,0,0,0,1.6,2.3,2.3,1.57,0,0,0,0
 5690890,Austria Bundesliga,2022/2023,2023-06-03 12:00:00,10,Austria Klagenfurt,Rapid Wien,2,1,4.33,3.9,1.75,0,0,0,0,1.53,2.38,2.08,1.69,0,0,0,0
