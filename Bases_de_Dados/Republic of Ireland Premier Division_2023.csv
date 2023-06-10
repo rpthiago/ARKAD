@@ -96,3 +96,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5019364,Republic of Ireland Premier Division,2023,2023-06-05 14:00:00,19,Sligo Rovers,Shamrock Rovers,0,3,3.4,3.32,1.98,1.06,8.0,1.33,3.1,1.96,1.76,3.6,1.25,6.5,1.1,1.78,1.9
 5019365,Republic of Ireland Premier Division,2023,2023-06-05 14:45:00,19,St Patrick's Athl.,Derry City,4,1,2.61,3.2,2.47,1.06,8.0,1.33,3.1,1.92,1.79,3.75,1.25,6.5,1.1,1.75,1.93
 5019363,Republic of Ireland Premier Division,2023,2023-06-05 15:45:00,19,Shelbourne,Drogheda United,3,2,2.0,3.05,3.65,1.07,7.5,1.33,3.1,2.3,1.55,3.75,1.25,6.5,1.1,1.87,1.82
+5019368,Republic of Ireland Premier Division,2023,2023-06-09 15:45:00,20,Drogheda United,St Patrick's Athl.,2,1,2.7,3.25,2.38,1.05,9.0,1.22,4.0,1.78,2.05,2.75,1.42,5.0,1.14,1.6,2.25
+5019369,Republic of Ireland Premier Division,2023,2023-06-09 15:45:00,20,Shelbourne,Sligo Rovers,1,1,1.8,3.1,4.5,1.08,7.0,1.44,2.65,2.3,1.62,4.5,1.18,7.5,1.07,2.0,1.75
+5019366,Republic of Ireland Premier Division,2023,2023-06-09 15:45:00,20,Cork City,Dundalk,1,2,2.45,3.1,2.7,1.06,8.0,1.33,3.1,2.05,1.78,3.6,1.25,6.5,1.1,1.78,1.95
+5019367,Republic of Ireland Premier Division,2023,2023-06-09 15:45:00,20,Derry City,Bohemians,0,0,1.7,3.2,5.0,1.08,7.0,1.36,2.95,2.15,1.7,4.0,1.22,7.5,1.07,2.0,1.75
+5019370,Republic of Ireland Premier Division,2023,2023-06-09 16:00:00,20,Shamrock Rovers,UCD,4,0,1.06,9.5,21.0,1.02,15.0,1.1,6.5,1.32,2.9,1.67,2.2,2.65,1.44,2.3,1.57
