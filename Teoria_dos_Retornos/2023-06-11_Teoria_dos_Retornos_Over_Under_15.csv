@@ -5,7 +5,7 @@ Australia A-League,Under15,Over15,Over15
 Austria Bundesliga,Under15,Under15,Under15
 Belgium Pro League,Over15,Over15,Over15
 Bolivia LFPB,Under15,Over15,Over15
-Brazil Serie A,Over15,Over15,Over15
+Brazil Serie A,Over15,Under15,Over15
 Brazil Serie B,Over15,Over15,Over15
 Brazil Serie C,Over15,Over15,Under15
 Brazil Serie D,Under15,Over15,Over15
@@ -46,7 +46,7 @@ Netherlands Eredivisie,Under15,Over15,Under15
 Netherlands Tweede Divisie,Over15,Over15,Over15
 Norway Eliteserien,Over15,Under15,Over15
 Paraguay Division Profesional,Under15,Under15,Under15
-Peru Primera División,Over15,Under15,Over15
+Peru Primera División,Over15,Over15,Under15
 Poland Ekstraklasa,Under15,Over15,Under15
 Portugal Liga NOS,Under15,Over15,Over15
 Portugal LigaPro,Over15,Over15,Over15
@@ -64,8 +64,8 @@ Sweden Allsvenskan,Under15,Under15,Over15
 Switzerland Super League,Over15,Under15,Under15
 Tunisia Ligue 1,Over15,Under15,Under15
 Turkey Süper Lig,Over15,Over15,Over15
-USA MLS,Under15,Over15,Over15
-USA USL Championship,Over15,Over15,Over15
+USA MLS,Over15,Under15,Under15
+USA USL Championship,Over15,Over15,Under15
 Ukraine Ukrainian Premier League,Over15,Under15,Under15
 Uruguay Primera División,Under15,Under15,Over15
 Uruguay Segunda División,Under15,Over15,Under15

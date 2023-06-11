@@ -5,7 +5,7 @@ Australia A-League,Over35,Over35,Over35
 Austria Bundesliga,Under35,Over35,Under35
 Belgium Pro League,Under35,Over35,Over35
 Bolivia LFPB,Over35,Under35,Under35
-Brazil Serie A,Over35,Over35,Under35
+Brazil Serie A,Under35,Over35,Under35
 Brazil Serie B,Under35,Under35,Under35
 Brazil Serie C,Under35,Over35,Over35
 Brazil Serie D,Over35,Over35,Under35
@@ -46,7 +46,7 @@ Netherlands Eredivisie,Under35,Under35,Under35
 Netherlands Tweede Divisie,Over35,Over35,Under35
 Norway Eliteserien,Over35,Under35,Over35
 Paraguay Division Profesional,Under35,Under35,Under35
-Peru Primera División,Under35,Under35,Over35
+Peru Primera División,Over35,Under35,Under35
 Poland Ekstraklasa,Over35,Under35,Under35
 Portugal Liga NOS,Under35,Under35,Under35
 Portugal LigaPro,Over35,Under35,Under35
@@ -64,7 +64,7 @@ Sweden Allsvenskan,Under35,Under35,Over35
 Switzerland Super League,Over35,Over35,Over35
 Tunisia Ligue 1,Under35,Under35,Over35
 Turkey Süper Lig,Over35,Under35,Over35
-USA MLS,Under35,Over35,Under35
+USA MLS,Over35,Under35,Under35
 USA USL Championship,Over35,Under35,Over35
 Ukraine Ukrainian Premier League,Under35,Over35,Under35
 Uruguay Primera División,Over35,Over35,Under35

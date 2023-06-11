@@ -5,7 +5,7 @@ Australia A-League,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Austria Bundesliga,BTTS_Não,BTTS_Não,BTTS_Não
 Belgium Pro League,BTTS_Não,BTTS_Não,BTTS_Não
 Bolivia LFPB,BTTS_Não,BTTS_Sim,BTTS_Não
-Brazil Serie A,BTTS_Sim,BTTS_Não,BTTS_Sim
+Brazil Serie A,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Brazil Serie B,BTTS_Sim,BTTS_Não,BTTS_Sim
 Brazil Serie C,BTTS_Não,BTTS_Sim,BTTS_Sim
 Brazil Serie D,BTTS_Sim,BTTS_Não,BTTS_Sim
@@ -64,7 +64,7 @@ Sweden Allsvenskan,BTTS_Sim,BTTS_Não,BTTS_Não
 Switzerland Super League,BTTS_Sim,BTTS_Sim,BTTS_Sim
 Tunisia Ligue 1,BTTS_Sim,BTTS_Não,BTTS_Sim
 Turkey Süper Lig,BTTS_Não,BTTS_Não,BTTS_Sim
-USA MLS,BTTS_Não,BTTS_Sim,BTTS_Sim
+USA MLS,BTTS_Sim,BTTS_Sim,BTTS_Sim
 USA USL Championship,BTTS_Não,BTTS_Sim,BTTS_Sim
 Ukraine Ukrainian Premier League,BTTS_Não,BTTS_Sim,BTTS_Não
 Uruguay Primera División,BTTS_Não,BTTS_Não,BTTS_Sim

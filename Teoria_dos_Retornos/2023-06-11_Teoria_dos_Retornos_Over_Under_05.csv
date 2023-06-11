@@ -5,7 +5,7 @@ Australia A-League,Over05,Over05,Over05
 Austria Bundesliga,Under05,Under05,Under05
 Belgium Pro League,Over05,Over05,Over05
 Bolivia LFPB,Over05,Under05,Over05
-Brazil Serie A,Over05,Over05,Under05
+Brazil Serie A,Over05,Under05,Over05
 Brazil Serie B,Over05,Over05,Over05
 Brazil Serie C,Under05,Over05,Over05
 Brazil Serie D,Over05,Over05,Under05
@@ -64,7 +64,7 @@ Sweden Allsvenskan,Over05,Over05,Over05
 Switzerland Super League,Over05,Over05,Over05
 Tunisia Ligue 1,Under05,Under05,Over05
 Turkey Süper Lig,Over05,Over05,Over05
-USA MLS,Over05,Over05,Under05
+USA MLS,Under05,Over05,Over05
 USA USL Championship,Over05,Over05,Over05
 Ukraine Ukrainian Premier League,Over05,Over05,Over05
 Uruguay Primera División,Over05,Over05,Over05
