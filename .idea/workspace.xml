@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/MODELO_BETFAIR/01_WebScraping_BetExplorer_Base_de_Dados.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WebScraping_FlashScore_Full.py&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
@@ -131,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Batch.jogos_jason (1)" />
         <item itemvalue="Python.WebScraping_FlashScore_Full" />
+        <item itemvalue="Batch.jogos_jason (1)" />
         <item itemvalue="Batch.jogos_jason" />
         <item itemvalue="Python.WebScraping_FlashScore_Full_2023" />
         <item itemvalue="Python.PYCARET_BACKAWAY_LIGAS_SEPARADAS" />
