@@ -1,8 +1,8 @@
 Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
 5052964,Peru Primera División,2023,2023-02-03 17:30:00,3,Real Garcilaso,Sport Huancayo,0,3,2.12,3.04,3.14,0.0,0.0,0.0,0.0,1.86,1.86,0.0,0.0,0.0,0.0,1.73,2.0
 5052968,Peru Primera División,2023,2023-02-04 15:00:00,3,Atlético Grau,Melgar,3,0,3.6,3.1,2.0,1.04,12.0,1.28,3.6,1.81,2.01,3.1,1.36,6.0,1.12,1.7,2.1
-5052969,Peru Primera División,2023,2023-02-04 17:30:00,3,Universitario,Academia Cantolao,4,0,1.43,4.47,7.11,1.03,13.0,1.25,3.75,1.77,1.97,3.1,1.38,5.5,1.14,1.93,1.77
 5052965,Peru Primera División,2023,2023-02-04 17:30:00,3,UTC Cajamarca,Cienciano,3,0,2.36,3.14,2.87,1.04,11.0,1.22,4.2,1.85,1.96,2.75,1.42,4.75,1.16,1.6,2.15
+5052969,Peru Primera División,2023,2023-02-04 17:30:00,3,Universitario,Academia Cantolao,4,0,1.43,4.47,7.11,1.03,13.0,1.25,3.75,1.77,1.97,3.1,1.38,5.5,1.14,1.93,1.77
 5052966,Peru Primera División,2023,2023-02-04 21:30:00,3,Deportivo Garcilaso,Deportivo Binacional,3,0,2.06,3.25,3.2,1.04,12.0,1.3,3.5,1.91,1.91,3.3,1.33,6.5,1.11,1.75,2.05
 5052972,Peru Primera División,2023,2023-02-05 12:00:00,3,Sporting Cristal,Alianza Lima,3,0,2.37,3.1,2.65,1.05,11.0,1.33,3.3,1.91,1.8,3.6,1.3,6.5,1.1,1.78,2.0
 5052971,Peru Primera División,2023,2023-02-06 15:00:00,3,Sport Boys,Unión Comercio,2,1,1.94,3.2,3.49,1.05,10.0,1.3,3.5,1.86,1.86,3.3,1.33,6.0,1.12,1.75,2.05
@@ -36,8 +36,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5053005,Peru Primera División,2023,2023-03-04 15:00:00,7,Sport Huancayo,Academia Cantolao,4,0,1.36,4.33,7.0,1.03,13.5,1.24,3.63,1.73,1.91,2.88,1.37,5.15,1.13,2.1,1.7
 5053008,Peru Primera División,2023,2023-03-04 18:00:00,7,Sporting Cristal,ADT,0,0,1.4,4.1,6.5,1.02,16.25,1.21,3.87,1.6,2.1,2.62,1.49,4.73,1.19,2.0,1.72
 5053002,Peru Primera División,2023,2023-03-04 21:00:00,7,César Vallejo,Carlos Manucci,2,0,1.8,3.5,3.6,1.04,10.0,1.25,3.65,1.85,1.89,3.3,1.3,6.5,1.1,1.7,2.06
-5053003,Peru Primera División,2023,2023-03-05 17:30:00,7,Universitario,Melgar,1,0,2.36,3.35,3.05,1.04,10.0,1.25,3.65,1.91,1.9,3.25,1.3,6.5,1.1,1.65,2.14
 5053001,Peru Primera División,2023,2023-03-05 17:30:00,7,UTC Cajamarca,Alianza Lima,0,1,3.0,3.45,2.34,1.04,10.0,1.25,3.65,1.9,1.91,3.3,1.3,6.5,1.1,1.67,2.1
+5053003,Peru Primera División,2023,2023-03-05 17:30:00,7,Universitario,Melgar,1,0,2.36,3.35,3.05,1.04,10.0,1.25,3.65,1.91,1.9,3.25,1.3,6.5,1.1,1.65,2.14
 5053004,Peru Primera División,2023,2023-03-06 17:00:00,7,Deportivo Municipal,Deportivo Garcilaso,0,3,2.21,2.97,3.07,1.05,11.0,1.3,3.5,1.86,1.86,3.3,1.33,6.5,1.11,1.73,2.0
 5053000,Peru Primera División,2023,2023-03-06 17:30:00,7,Real Garcilaso,Unión Comercio,2,1,1.43,4.13,5.95,1.03,15.0,1.22,4.0,1.73,1.99,3.0,1.38,5.5,1.14,1.91,1.8
 5053015,Peru Primera División,2023,2023-03-10 17:30:00,8,ADT,Sport Boys,1,0,1.53,4.06,5.19,1.02,15.0,1.2,4.33,1.91,1.97,2.75,1.45,5.0,1.16,1.87,1.89
@@ -161,7 +161,6 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 5053101,Peru Primera División,2023,2023-06-04 15:00:00,18,Atlético Grau,Academia Cantolao,3,0,1.25,4.8,11.0,1.04,11.0,1.28,3.37,1.86,1.86,2.15,1.57,5.75,1.1,2.37,1.5
 5053105,Peru Primera División,2023,2023-06-04 17:30:00,18,Sport Boys,Sport Huancayo,1,0,2.8,3.52,2.34,1.04,13.0,1.22,4.0,1.74,2.02,2.9,1.42,5.0,1.16,1.6,2.25
 5053100,Peru Primera División,2023,2023-06-04 20:00:00,18,César Vallejo,UTC Cajamarca,3,1,1.43,4.28,7.4,1.04,11.0,1.33,3.4,1.97,1.78,3.6,1.28,7.0,1.09,2.25,1.61
-5053116,Peru Primera División,2023,2023-06-09 21:00:00,19,Cienciano,Sport Boys,0,1,1.25,5.5,9.0,1.02,17.0,1.18,5.0,1.57,2.38,2.5,1.53,4.33,1.2,1.9,1.83
 5053114,Peru Primera División,2023,2023-06-10 15:00:00,19,Unión Comercio,Atlético Grau,2,2,2.25,3.3,2.8,1.06,10.5,1.3,3.35,1.61,2.2,3.65,1.29,7.0,1.08,1.78,2.0
 5053110,Peru Primera División,2023,2023-06-10 17:30:00,19,Academia Cantolao,Deportivo Municipal,0,1,3.2,3.5,2.0,1.04,12.0,1.28,3.6,1.74,2.0,3.3,1.33,6.0,1.12,1.72,2.1
 5053113,Peru Primera División,2023,2023-06-10 20:00:00,19,Melgar,Deportivo Binacional,2,1,1.4,4.4,6.5,1.03,13.0,1.2,4.5,1.55,2.3,2.55,1.52,4.33,1.2,1.78,2.0
