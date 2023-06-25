@@ -218,22 +218,22 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 4554621,Argentina Primera División,2023,2023-05-14 16:30:00,16,Platense,Racing Club,3,0,3.2,2.9,2.2,1.08,8.5,1.44,2.75,2.3,1.57,4.5,1.2,9.0,1.05,1.95,1.73
 4554623,Argentina Primera División,2023,2023-05-14 19:00:00,16,Boca Juniors,Belgrano,2,0,2.0,2.9,3.6,1.07,6.5,1.46,2.48,2.4,1.5,4.4,1.17,7.0,1.06,2.16,1.65
 4554622,Argentina Primera División,2023,2023-05-14 21:30:00,16,Talleres Córdoba,River Plate,2,1,3.28,3.34,2.22,1.06,7.5,1.33,3.0,2.1,1.65,4.3,1.22,6.5,1.08,1.85,1.85
-4554617,Argentina Primera División,2023,2023-05-15 15:30:00,16,Barracas Central,Central Córdoba SdE,2,2,2.63,3.19,2.85,1.07,7.0,1.4,2.7,2.25,1.62,3.8,1.22,7.5,1.06,1.95,1.8
 5019514,Argentina Primera División,2023,2023-05-15 15:30:00,16,Unión Santa Fe,Sarmiento,0,2,2.13,3.26,3.73,1.1,6.5,1.44,2.62,2.3,1.6,4.33,1.2,8.0,1.06,2.0,1.75
+4554617,Argentina Primera División,2023,2023-05-15 15:30:00,16,Barracas Central,Central Córdoba SdE,2,2,2.63,3.19,2.85,1.07,7.0,1.4,2.7,2.25,1.62,3.8,1.22,7.5,1.06,1.95,1.8
 4554627,Argentina Primera División,2023,2023-05-15 18:00:00,16,Gimnasia La Plata,Lanús,1,0,2.89,3.0,2.43,1.1,6.5,1.5,2.5,2.35,1.52,4.4,1.18,9.25,1.05,2.05,1.7
 4554620,Argentina Primera División,2023,2023-05-15 20:30:00,16,Vélez Sarsfield,Rosario Central,0,0,2.16,3.1,3.3,1.09,6.75,1.46,2.5,2.35,1.52,4.5,1.18,9.25,1.05,2.1,1.67
 4554632,Argentina Primera División,2023,2023-05-18 21:00:00,17,Arsenal de Sarandí,Independiente,2,1,3.2,3.1,2.3,1.1,7.5,1.5,2.6,2.3,1.55,5.0,1.18,10.0,1.04,2.05,1.72
 4554630,Argentina Primera División,2023,2023-05-19 15:30:00,17,Godoy Cruz,Gimnasia La Plata,2,0,1.96,3.42,3.96,1.08,8.75,1.44,2.75,2.19,1.58,4.5,1.2,9.0,1.05,2.05,1.72
-4554638,Argentina Primera División,2023,2023-05-19 19:00:00,17,Rosario Central,Defensa y Justicia,2,1,2.36,3.14,3.22,1.09,7.5,1.45,2.55,2.39,1.49,4.4,1.17,8.25,1.04,2.08,1.71
 4554639,Argentina Primera División,2023,2023-05-19 19:00:00,17,Estudiantes,Banfield,1,0,1.81,3.25,4.37,1.09,7.25,1.48,2.45,2.45,1.48,4.6,1.16,8.5,1.04,2.27,1.6
 4554629,Argentina Primera División,2023,2023-05-19 19:00:00,17,Central Córdoba SdE,Unión Santa Fe,0,1,2.51,3.14,2.96,1.1,6.5,1.44,2.62,2.3,1.52,4.33,1.2,9.0,1.05,2.02,1.76
+4554638,Argentina Primera División,2023,2023-05-19 19:00:00,17,Rosario Central,Defensa y Justicia,2,1,2.36,3.14,3.22,1.09,7.5,1.45,2.55,2.39,1.49,4.4,1.17,8.25,1.04,2.08,1.71
 4554634,Argentina Primera División,2023,2023-05-19 21:30:00,17,Argentinos Juniors,Boca Juniors,0,1,2.05,3.25,3.75,1.09,8.0,1.47,2.7,2.4,1.55,4.75,1.18,9.5,1.05,2.05,1.72
 5019516,Argentina Primera División,2023,2023-05-20 14:00:00,17,San Lorenzo,Instituto,2,0,1.95,3.0,4.2,1.12,6.0,1.62,2.3,2.9,1.4,6.0,1.12,13.0,1.02,2.4,1.5
 4554631,Argentina Primera División,2023,2023-05-20 21:30:00,17,Lanús,Newell's Old Boys,1,0,2.26,3.1,3.44,1.09,7.25,1.5,2.45,2.45,1.48,4.6,1.16,8.5,1.04,2.2,1.62
 4554633,Argentina Primera División,2023,2023-05-20 21:30:00,17,Tigre,Atlético Tucumán,0,0,2.08,3.25,3.63,1.07,7.0,1.36,2.9,2.15,1.65,3.6,1.25,6.5,1.08,1.95,1.8
 4554635,Argentina Primera División,2023,2023-05-21 15:30:00,17,Belgrano,Talleres Córdoba,1,1,2.9,2.8,2.35,1.1,5.8,1.42,2.6,2.45,1.5,4.7,1.15,7.0,1.06,2.05,1.7
-5019515,Argentina Primera División,2023,2023-05-21 18:00:00,17,Sarmiento,Huracán,0,0,2.55,2.8,2.7,1.1,5.8,1.42,2.6,2.45,1.5,4.3,1.17,7.5,1.05,2.05,1.7
 4554640,Argentina Primera División,2023,2023-05-21 18:00:00,17,Colón,Barracas Central,1,1,1.75,3.1,4.4,1.08,9.0,1.41,2.88,2.25,1.57,4.4,1.21,10.0,1.05,2.1,1.67
+5019515,Argentina Primera División,2023,2023-05-21 18:00:00,17,Sarmiento,Huracán,0,0,2.55,2.8,2.7,1.1,5.8,1.42,2.6,2.45,1.5,4.3,1.17,7.5,1.05,2.05,1.7
 4554636,Argentina Primera División,2023,2023-05-21 20:30:00,17,River Plate,Platense,2,1,1.29,5.14,10.05,1.04,12.0,1.28,3.6,1.87,1.89,3.4,1.33,6.5,1.1,2.25,1.57
 4554649,Argentina Primera División,2023,2023-05-26 21:30:00,18,Atlético Tucumán,Arsenal de Sarandí,1,0,1.65,3.78,5.45,1.05,8.0,1.33,3.0,2.05,1.7,3.6,1.25,6.5,1.08,2.09,1.69
 5019518,Argentina Primera División,2023,2023-05-27 11:00:00,18,Gimnasia La Plata,Sarmiento,0,0,2.4,3.16,3.12,1.08,8.5,1.42,2.8,2.35,1.52,4.5,1.2,9.0,1.05,1.95,1.8
@@ -255,8 +255,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 4554658,Argentina Primera División,2023,2023-06-02 21:30:00,19,Tigre,Talleres Córdoba,1,3,2.83,3.22,2.54,1.08,7.0,1.4,2.75,2.25,1.6,4.0,1.22,7.5,1.07,1.91,1.8
 4554659,Argentina Primera División,2023,2023-06-02 21:30:00,19,Argentinos Juniors,Platense,1,0,1.58,3.58,5.65,1.08,7.0,1.4,2.75,2.2,1.62,3.75,1.25,7.5,1.07,2.16,1.66
 4554660,Argentina Primera División,2023,2023-06-03 14:00:00,19,Belgrano,Vélez Sarsfield,2,0,2.4,3.1,3.1,1.1,7.5,1.53,2.5,2.6,1.47,5.0,1.16,11.0,1.03,2.15,1.68
-4554653,Argentina Primera División,2023,2023-06-03 19:00:00,19,Central Córdoba SdE,Huracán,2,0,2.75,3.0,2.75,1.11,7.0,1.5,2.45,2.5,1.45,5.5,1.16,11.0,1.03,2.15,1.68
 5019520,Argentina Primera División,2023,2023-06-03 19:00:00,19,Rosario Central,Instituto,4,1,2.15,3.0,3.75,1.09,8.0,1.47,2.7,2.37,1.5,4.75,1.18,10.0,1.04,2.05,1.63
+4554653,Argentina Primera División,2023,2023-06-03 19:00:00,19,Central Córdoba SdE,Huracán,2,0,2.75,3.0,2.75,1.11,7.0,1.5,2.45,2.5,1.45,5.5,1.16,11.0,1.03,2.15,1.68
 4554662,Argentina Primera División,2023,2023-06-03 21:30:00,19,Racing Club,Banfield,2,0,1.91,3.3,4.2,1.07,8.5,1.42,2.85,2.2,1.6,4.33,1.22,8.5,1.06,2.0,1.75
 4554654,Argentina Primera División,2023,2023-06-04 11:00:00,19,Unión Santa Fe,Gimnasia La Plata,2,0,2.08,3.17,3.42,1.07,8.5,1.4,2.75,2.2,1.58,4.0,1.2,7.5,1.06,1.95,1.83
 4554664,Argentina Primera División,2023,2023-06-04 14:00:00,19,San Lorenzo,Colón,0,0,1.88,3.2,4.2,1.11,5.5,1.55,2.3,2.63,1.43,5.0,1.13,12.0,1.02,2.38,1.55
@@ -270,8 +270,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 4554675,Argentina Primera División,2023,2023-06-12 14:00:00,20,Newell's Old Boys,Unión Santa Fe,1,1,1.91,3.1,3.8,1.12,6.25,1.58,2.25,2.88,1.4,6.5,1.13,15.0,1.01,2.38,1.53
 4554665,Argentina Primera División,2023,2023-06-12 17:00:00,20,San Lorenzo,Central Córdoba SdE,0,0,1.8,3.1,4.75,1.11,5.5,1.57,2.25,2.63,1.43,5.25,1.13,8.0,1.05,2.4,1.5
 4554668,Argentina Primera División,2023,2023-06-12 19:15:00,20,Banfield,River Plate,1,4,4.2,3.5,1.7,1.05,10.0,1.33,3.35,2.1,1.7,3.85,1.28,8.0,1.1,2.0,1.75
-5019521,Argentina Primera División,2023,2023-06-12 21:45:00,20,Instituto,Racing Club,1,1,2.45,3.25,2.75,1.08,7.5,1.41,2.65,2.2,1.57,4.1,1.2,8.5,1.06,1.98,1.72
 4554670,Argentina Primera División,2023,2023-06-12 21:45:00,20,Vélez Sarsfield,Argentinos Juniors,0,1,2.9,3.0,2.5,1.11,6.0,1.51,2.37,2.5,1.46,5.0,1.15,10.5,1.04,2.15,1.62
+5019521,Argentina Primera División,2023,2023-06-12 21:45:00,20,Instituto,Racing Club,1,1,2.45,3.25,2.75,1.08,7.5,1.41,2.65,2.2,1.57,4.1,1.2,8.5,1.06,1.98,1.72
 4554669,Argentina Primera División,2023,2023-06-13 18:00:00,20,Defensa y Justicia,Belgrano,2,0,1.87,3.4,4.1,1.08,7.25,1.4,2.7,2.2,1.58,4.0,1.21,8.25,1.06,2.05,1.68
 4554666,Argentina Primera División,2023,2023-06-13 18:00:00,20,Colón,Estudiantes,1,0,3.2,3.0,2.3,1.1,6.25,1.49,2.4,2.45,1.47,4.75,1.16,10.0,1.05,2.1,1.63
 4554676,Argentina Primera División,2023,2023-06-13 20:30:00,20,Gimnasia La Plata,Huracán,1,0,2.75,3.1,2.6,1.1,6.5,1.47,2.5,2.4,1.5,4.6,1.17,9.75,1.05,2.05,1.66
@@ -287,3 +287,5 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 4554680,Argentina Primera División,2023,2023-06-22 21:45:00,21,Godoy Cruz,Boca Juniors,4,0,2.7,3.0,2.8,1.11,6.0,1.5,2.5,2.5,1.5,4.5,1.17,9.0,1.05,2.1,1.68
 4554678,Argentina Primera División,2023,2023-06-23 19:00:00,21,Huracán,Newell's Old Boys,1,1,2.65,2.85,3.0,1.14,6.0,1.68,2.2,3.0,1.38,6.5,1.11,13.0,1.02,2.4,1.55
 4554684,Argentina Primera División,2023,2023-06-23 21:30:00,21,Argentinos Juniors,Defensa y Justicia,3,1,1.87,3.1,3.9,1.07,8.5,1.42,2.85,2.25,1.57,4.33,1.22,8.5,1.06,2.0,1.75
+4554679,Argentina Primera División,2023,2023-06-24 17:00:00,21,Unión Santa Fe,Independiente,3,0,2.3,2.87,3.0,1.09,7.5,1.5,2.65,2.4,1.5,5.0,1.18,10.0,1.04,2.05,1.7
+4554681,Argentina Primera División,2023,2023-06-24 20:00:00,21,Lanús,Talleres Córdoba,2,1,2.65,2.8,2.6,1.1,7.0,1.52,2.55,2.45,1.5,5.0,1.16,10.0,1.04,2.05,1.7
