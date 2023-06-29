@@ -329,6 +329,46 @@ def pagina_08():
         mime='application/vnd.ms-excel')
 
 def pagina_09():
+    st.subheader("OVER2_5")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_over2_5.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data
+
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'OVER2_5_{dia}.xlsx',
+        mime='application/vnd.ms-excel')    
+    
+    
+def pagina_10():
     st.subheader("LAY 0X1")
 
     dia = st.date_input(
@@ -367,7 +407,7 @@ def pagina_09():
         file_name=f'Lay_0x1_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
-def pagina_10():
+def pagina_11():
     st.subheader("LAY 1X0")
 
     dia = st.date_input(
@@ -415,6 +455,7 @@ paginas = ['Jogos do Dia',
            'LAY GOLEADA',
            'BTTS_YES',
            'OVER05HT',
+           'OVER2_5',
            'LAY_0X1',
            'LAY_1X0']
 escolha = st.sidebar.radio('',paginas)
@@ -435,7 +476,9 @@ if escolha == 'BTTS YES':
     pagina_07()
 if escolha == 'OVER05HT':
     pagina_08()
-if escolha == 'LAY_0X1':
+if escolha == 'OVER2_5':
     pagina_09()
 if escolha == 'LAY_1X0':
     pagina_10()
+if escolha == 'LAY_1X0':
+    pagina_11()
