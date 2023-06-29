@@ -293,9 +293,6 @@ def pagina_07():
         mime='application/vnd.ms-excel')
     
 
-
-    
-
 def pagina_08():
     st.subheader("OVER 0,5 HT")
 
@@ -347,7 +344,7 @@ def pagina_09():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_0X1.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0X1.csv")
 
         return data_jogos
 
@@ -386,7 +383,7 @@ def pagina_10():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_1X0.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1X0.csv")
 
         return data_jogos
 
@@ -422,8 +419,8 @@ paginas = ['Jogos do Dia',
            'TR - BTTS',
            'LAY AWAY NEW',
            'LAY GOLEADA',
-           'BTTS_YES',
            'OVER05HT',
+           'BTTS_YES',
            'LAY_0X1',
            'LAY_1X0']
 escolha = st.sidebar.radio('',paginas)
@@ -440,9 +437,9 @@ if escolha == 'LAY AWAY NEW':
     pagina_05()
 if escolha == 'LAY GOLEADA':
     pagina_06()
-if escolha == 'BTTS YES ':
-    pagina_07()
 if escolha == 'OVER05HT':
+    pagina_07()
+if escolha == 'BTTS YES':
     pagina_08()
 if escolha == 'LAY_0X1':
     pagina_09()
