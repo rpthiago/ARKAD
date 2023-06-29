@@ -249,9 +249,8 @@ def pagina_06():
         file_name=f'lay_goleada_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-    
 def pagina_07():
-    st.subheader("BTTS YES")
+    st.subheader("BTTS_YES")
 
     dia = st.date_input(
         "Data de Análise",
@@ -286,8 +285,8 @@ def pagina_07():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'BTTS_YES_{dia}.xlsx',
-        mime='application/vnd.ms-excel')
+        file_name=f'BTTS-yes_{dia}.xlsx',
+        mime='application/vnd.ms-excel')          
     
 
 def pagina_08():
