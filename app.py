@@ -5,7 +5,7 @@ from io import BytesIO
 import xlsxwriter
 
 st.set_page_config(
-    page_title='Teoria do Retornos - Grupo Arkad',
+    page_title='Teoria do Retornos - Grupo Arkad - FLASHSCORE',
 )
 
 def pagina_01():
@@ -19,7 +19,7 @@ def pagina_01():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Jogos_do_Dia.csv")
+        data_jogos = pd.read_csv(f"./Jogos_do_Dia/{dia}_Jogos_do_Dia.csv")
         
         return data_jogos
 
@@ -58,7 +58,7 @@ def pagina_02():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Match_Odds.csv")
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Match_Odds_arkad.csv")
         
         return data_jogos
 
@@ -83,13 +83,13 @@ def pagina_02():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'Teoria_dos_Retornos_Match_Odds_{dia}.xlsx',
+        file_name=f'Teoria_dos_Retornos_Match_Odds_arkad_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
 
 
 def pagina_03():
-    st.subheader("Teoria dos Retornos - Over/Under 0.5 FT")
+    st.subheader("Teoria dos Retornos - Over/Under 2.5 FT")
 
     dia = st.date_input(
         "Data de Análise",
@@ -99,7 +99,7 @@ def pagina_03():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_05.csv")
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_25_ARKAD.csv")
         
         return data_jogos
 
@@ -124,7 +124,7 @@ def pagina_03():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'Teoria_dos_Retornos_Over_Under_05_{dia}.xlsx',
+        file_name=f'Teoria_dos_Retornos_Over_Under_25_ARKAD_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
 
@@ -307,7 +307,7 @@ def pagina_08():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_BTTS.csv")
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_BTTS_ARKAD.csv")
         
         return data_jogos
 
@@ -332,7 +332,7 @@ def pagina_08():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'Teoria_dos_Retornos_BTTS_{dia}.xlsx',
+        file_name=f'Teoria_dos_Retornos_BTTS_ARKAD_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
 
@@ -432,7 +432,7 @@ if escolha == 'Jogos do Dia':
     pagina_01()
 if escolha == 'TR - Match Odds':
     pagina_02()
-if escolha == 'TR - Over/Under 0.5FT':
+if escolha == 'TR - Over/Under 2.5FT':
     pagina_03()
 if escolha == 'TR - Over/Under 1.5FT':
     pagina_04()
