@@ -249,9 +249,6 @@ def pagina_06():
         file_name=f'lay_goleada_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-
-
-
     
 def pagina_07():
     st.subheader("BTTS YES")
@@ -332,9 +329,8 @@ def pagina_08():
         file_name=f'OVER05HT_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
-
 def pagina_09():
-    st.subheader("LAY 0 X 1 ")
+    st.subheader("LAY 0X1")
 
     dia = st.date_input(
         "Data de Análise",
@@ -344,8 +340,8 @@ def pagina_09():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0X1.csv")
-
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x1.csv")
+        
         return data_jogos
 
     df_jogos = load_data_jogos()
@@ -369,11 +365,11 @@ def pagina_09():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'LAY_0X1_{dia}.xlsx',
+        file_name=f'Lay_0x1_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
 def pagina_10():
-    st.subheader("LAY_1X0")
+    st.subheader("LAY 1X0")
 
     dia = st.date_input(
         "Data de Análise",
@@ -383,8 +379,8 @@ def pagina_10():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1X0.csv")
-
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1x0.csv")
+        
         return data_jogos
 
     df_jogos = load_data_jogos()
@@ -408,9 +404,8 @@ def pagina_10():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'LAY_1X0_{dia}.xlsx',
+        file_name=f'Lay_1x0_{dia}.xlsx',
         mime='application/vnd.ms-excel')
-
 
 
 paginas = ['Jogos do Dia',
@@ -419,8 +414,8 @@ paginas = ['Jogos do Dia',
            'TR - BTTS',
            'LAY AWAY NEW',
            'LAY GOLEADA',
-           'OVER05HT',
            'BTTS_YES',
+           'OVER05HT',
            'LAY_0X1',
            'LAY_1X0']
 escolha = st.sidebar.radio('',paginas)
@@ -437,9 +432,9 @@ if escolha == 'LAY AWAY NEW':
     pagina_05()
 if escolha == 'LAY GOLEADA':
     pagina_06()
-if escolha == 'OVER05HT':
-    pagina_07()
 if escolha == 'BTTS YES':
+    pagina_07()
+if escolha == 'OVER05HT':
     pagina_08()
 if escolha == 'LAY_0X1':
     pagina_09()
