@@ -458,6 +458,7 @@ paginas = ['Jogos do Dia',
            'OVER2_5',
            'LAY_0X1',
            'LAY_1X0']
+
 escolha = st.sidebar.radio('',paginas)
 
 if escolha == 'Jogos do Dia':
