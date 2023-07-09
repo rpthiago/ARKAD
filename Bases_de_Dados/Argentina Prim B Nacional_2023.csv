@@ -328,8 +328,8 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 6161887,Argentina Prim B Nacional,2023,2023-06-10 14:45:00,20,San Telmo,Almirante Brown,3,1,2.75,3.2,2.3,1.06,7.0,1.46,2.5,2.37,1.52,4.6,1.15,9.1,1.02,2.05,1.72
 6161884,Argentina Prim B Nacional,2023,2023-06-10 15:00:00,20,Guillermo Brown,Patronato,0,0,2.5,3.05,2.57,1.05,7.1,1.41,2.64,2.39,1.51,4.25,1.17,8.3,1.03,1.97,1.78
 6161885,Argentina Prim B Nacional,2023,2023-06-10 15:30:00,20,Agropecuario,Club Atlético Güemes,1,0,1.67,3.4,5.0,1.05,7.0,1.5,2.5,2.45,1.5,4.3,1.17,8.4,1.03,2.13,1.67
-6161883,Argentina Prim B Nacional,2023,2023-06-10 15:30:00,20,Defensores Unidos,Gimnasia Mendoza,1,0,2.63,2.8,2.73,1.07,6.4,1.56,2.27,2.5,1.47,4.85,1.13,9.7,1.01,2.13,1.67
 6161886,Argentina Prim B Nacional,2023,2023-06-10 15:30:00,20,Almagro,Deportivo Morón,0,1,2.2,2.7,3.7,1.08,6.2,1.73,2.01,3.04,1.33,5.0,1.12,10.0,1.01,2.16,1.65
+6161883,Argentina Prim B Nacional,2023,2023-06-10 15:30:00,20,Defensores Unidos,Gimnasia Mendoza,1,0,2.63,2.8,2.73,1.07,6.4,1.56,2.27,2.5,1.47,4.85,1.13,9.7,1.01,2.13,1.67
 6161888,Argentina Prim B Nacional,2023,2023-06-10 16:35:00,20,Temperley,Defensores de Belgrano,1,1,2.27,2.8,3.3,1.06,6.45,1.56,2.27,2.45,1.5,4.74,1.14,9.4,1.01,2.16,1.65
 5067916,Argentina Prim B Nacional,2023,2023-06-14 17:10:00,10,Patronato,Almirante Brown,0,1,2.08,3.1,3.7,1.09,6.0,1.48,2.5,2.48,1.5,4.33,1.18,9.0,1.05,2.1,1.65
 6161901,Argentina Prim B Nacional,2023,2023-06-16 20:05:00,21,Estudiantes Río Cuarto,Temperley,1,0,2.38,3.0,2.8,1.1,6.25,1.5,2.48,2.65,1.44,5.0,1.15,10.5,1.04,2.15,1.61
@@ -345,15 +345,15 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 6161866,Argentina Prim B Nacional,2023,2023-06-18 15:30:00,18,Club Atlético Mitre,Villa Dálmine,3,1,1.83,3.25,4.1,1.08,7.25,1.42,2.6,2.35,1.56,4.2,1.19,8.75,1.06,2.4,1.54
 6161872,Argentina Prim B Nacional,2023,2023-06-18 17:10:00,18,Ferro Carril Oeste,Gimnasia Jujuy,3,0,2.2,3.0,3.2,1.1,6.25,1.49,2.45,2.5,1.5,4.6,1.16,10.0,1.05,2.09,1.71
 6161900,Argentina Prim B Nacional,2023,2023-06-18 19:10:00,21,All Boys,San Martín Tucumán,0,1,3.1,2.65,2.5,1.12,5.5,1.53,2.4,2.55,1.48,4.6,1.17,9.75,1.05,2.05,1.68
-6161903,Argentina Prim B Nacional,2023,2023-06-19 15:00:00,21,Almirante Brown,Almagro,1,0,2.12,3.05,3.35,1.11,6.0,1.57,2.26,2.48,1.42,5.25,1.14,11.5,1.04,2.36,1.56
-6161871,Argentina Prim B Nacional,2023,2023-06-19 15:00:00,18,Deportivo Riestra,Quilmes,1,1,2.4,3.25,2.65,1.07,6.35,1.5,2.48,2.39,1.51,4.85,1.14,9.6,1.01,2.11,1.69
 6161869,Argentina Prim B Nacional,2023,2023-06-19 15:00:00,18,Atlanta,Estudiantes Caseros,3,2,2.32,2.95,3.05,1.09,5.85,1.56,2.27,2.52,1.4,5.4,1.1,9.6,1.02,2.27,1.6
+6161871,Argentina Prim B Nacional,2023,2023-06-19 15:00:00,18,Deportivo Riestra,Quilmes,1,1,2.4,3.25,2.65,1.07,6.35,1.5,2.48,2.39,1.51,4.85,1.14,9.6,1.01,2.11,1.69
+6161903,Argentina Prim B Nacional,2023,2023-06-19 15:00:00,21,Almirante Brown,Almagro,1,0,2.12,3.05,3.35,1.11,6.0,1.57,2.26,2.48,1.42,5.25,1.14,11.5,1.04,2.36,1.56
 6161865,Argentina Prim B Nacional,2023,2023-06-19 16:30:00,18,Chaco For Ever,Deportivo Maipú,0,1,3.25,3.15,2.12,1.09,5.8,1.56,2.27,2.35,1.53,5.4,1.11,11.0,1.01,2.23,1.62
 6161870,Argentina Prim B Nacional,2023,2023-06-19 19:00:00,18,Racing Córdoba,Brown de Adrogué,1,2,2.5,2.9,2.75,1.08,6.15,1.53,2.38,2.55,1.45,5.05,1.12,10.2,1.01,2.19,1.64
 6161920,Argentina Prim B Nacional,2023,2023-06-23 15:30:00,22,Defensores Unidos,Club Atlético Güemes,1,0,2.5,2.7,3.3,1.13,6.02,1.54,2.38,2.65,1.44,5.71,1.14,10.2,1.01,2.23,1.65
 6161879,Argentina Prim B Nacional,2023,2023-06-24 12:05:00,19,Villa Dálmine,Chacarita Juniors,0,1,4.4,3.2,1.84,1.1,7.55,1.47,2.52,2.35,1.53,4.5,1.17,8.25,1.04,2.19,1.64
-6161878,Argentina Prim B Nacional,2023,2023-06-24 15:00:00,19,Deportivo Madryn,Tristán Suárez,1,0,1.97,3.05,3.6,1.1,6.25,1.46,2.5,2.1,1.67,4.4,1.18,9.25,1.05,2.11,1.69
 6161923,Argentina Prim B Nacional,2023,2023-06-24 15:00:00,22,Almagro,Defensores de Belgrano,2,1,2.27,2.7,3.3,1.14,5.6,1.65,2.12,2.9,1.38,5.75,1.1,10.0,1.03,2.45,1.52
+6161878,Argentina Prim B Nacional,2023,2023-06-24 15:00:00,19,Deportivo Madryn,Tristán Suárez,1,0,1.97,3.05,3.6,1.1,6.25,1.46,2.5,2.1,1.67,4.4,1.18,9.25,1.05,2.11,1.69
 6161922,Argentina Prim B Nacional,2023,2023-06-24 15:10:00,22,Agropecuario,Almirante Brown,4,0,1.93,3.0,3.7,1.1,7.15,1.5,2.5,2.45,1.48,4.6,1.16,8.5,1.05,2.25,1.61
 6161924,Argentina Prim B Nacional,2023,2023-06-24 15:30:00,22,San Telmo,Estudiantes Río Cuarto,0,1,2.61,2.9,2.55,1.1,6.5,1.53,2.38,2.4,1.53,4.33,1.19,9.0,1.06,2.01,1.76
 6161881,Argentina Prim B Nacional,2023,2023-06-24 16:10:00,19,Independiente Rivadavia,Chaco For Ever,1,0,1.54,3.6,5.2,1.07,7.5,1.38,2.8,2.31,1.56,3.9,1.22,7.2,1.06,2.14,1.67
@@ -379,10 +379,21 @@ Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_Odd_H,FT_Od
 6161893,Argentina Prim B Nacional,2023,2023-07-02 15:10:00,20,Chacarita Juniors,Deportivo Maipú,2,1,2.29,2.92,3.0,0.0,0.0,1.47,2.55,2.62,1.37,0.0,0.0,0.0,0.0,2.2,1.62
 6161944,Argentina Prim B Nacional,2023,2023-07-02 15:30:00,23,Gimnasia Mendoza,Alvarado,3,1,1.91,2.92,4.1,0.0,0.0,1.52,2.45,2.57,1.39,0.0,0.0,0.0,0.0,2.38,1.53
 6161891,Argentina Prim B Nacional,2023,2023-07-02 15:30:00,20,Chaco For Ever,Aldosivi,3,0,2.73,2.93,2.49,0.0,0.0,1.52,2.45,2.31,1.48,0.0,0.0,0.0,0.0,2.0,1.73
-6161938,Argentina Prim B Nacional,2023,2023-07-02 17:00:00,23,Estudiantes Río Cuarto,Almagro,1,0,2.19,2.72,3.5,0.0,0.0,1.63,2.18,2.95,1.3,0.0,0.0,0.0,0.0,2.5,1.5
 6161943,Argentina Prim B Nacional,2023,2023-07-02 17:00:00,23,Patronato,Flandria,3,1,1.99,3.1,3.5,0.0,0.0,1.61,2.18,2.74,1.34,0.0,0.0,0.0,0.0,2.5,1.5
+6161938,Argentina Prim B Nacional,2023,2023-07-02 17:00:00,23,Estudiantes Río Cuarto,Almagro,1,0,2.19,2.72,3.5,0.0,0.0,1.63,2.18,2.95,1.3,0.0,0.0,0.0,0.0,2.5,1.5
 6161939,Argentina Prim B Nacional,2023,2023-07-02 17:10:00,23,Defensores de Belgrano,Agropecuario,1,0,3.0,2.92,2.29,0.0,0.0,1.51,2.38,2.52,1.4,0.0,0.0,0.0,0.0,2.2,1.62
 6161892,Argentina Prim B Nacional,2023,2023-07-02 19:10:00,20,Club Atlético Mitre,Independiente Rivadavia,2,1,2.77,3.2,2.29,0.0,0.0,1.5,2.45,2.18,1.54,0.0,0.0,0.0,0.0,2.0,1.73
 6161897,Argentina Prim B Nacional,2023,2023-07-03 15:00:00,20,Deportivo Riestra,Estudiantes Caseros,2,1,2.05,3.0,3.35,0.0,0.0,1.48,2.45,2.17,1.69,0.0,0.0,0.0,0.0,2.0,1.73
 6161895,Argentina Prim B Nacional,2023,2023-07-03 20:00:00,20,Atlanta,Deportivo Madryn,1,1,2.25,2.9,3.0,0.0,0.0,1.47,2.55,2.37,1.44,0.0,0.0,0.0,0.0,2.1,1.67
 6161937,Argentina Prim B Nacional,2023,2023-07-03 21:10:00,23,All Boys,San Telmo,1,0,2.39,2.79,2.92,0.0,0.0,1.5,2.35,2.45,1.52,0.0,0.0,0.0,0.0,2.1,1.67
+6161910,Argentina Prim B Nacional,2023,2023-07-08 12:10:00,21,Brown de Adrogué,Gimnasia Jujuy,1,0,2.0,2.83,3.9,1.09,7.25,1.53,2.4,2.4,1.44,4.9,1.16,12.0,1.04,2.2,1.62
+6161913,Argentina Prim B Nacional,2023,2023-07-08 15:00:00,21,Deportivo Madryn,Racing Córdoba,1,0,2.24,3.0,3.0,1.07,6.45,1.5,2.5,2.37,1.45,4.94,1.17,9.4,1.01,2.1,1.67
+6161960,Argentina Prim B Nacional,2023,2023-07-08 15:00:00,24,Almagro,All Boys,0,0,1.6,3.2,5.75,1.12,6.03,1.6,2.3,2.6,1.38,5.59,1.14,12.5,1.03,2.75,1.4
+6161959,Argentina Prim B Nacional,2023,2023-07-08 15:00:00,24,Agropecuario,Estudiantes Río Cuarto,0,0,1.89,2.75,4.05,1.12,5.75,1.58,2.24,2.75,1.4,5.25,1.13,11.5,1.03,2.35,1.55
+6161962,Argentina Prim B Nacional,2023,2023-07-08 15:00:00,24,Temperley,San Martín Tucumán,1,0,2.22,2.6,3.29,1.14,5.42,1.59,2.22,2.85,1.37,6.41,1.11,13.5,1.03,2.38,1.53
+6161912,Argentina Prim B Nacional,2023,2023-07-08 15:30:00,21,Atlético Rafaela,Deportivo Riestra,0,1,2.11,2.75,3.31,1.06,6.8,1.46,2.7,2.4,1.51,4.62,1.18,8.8,1.02,2.0,1.73
+6161961,Argentina Prim B Nacional,2023,2023-07-08 15:30:00,24,San Telmo,Nueva Chicago,0,2,2.29,2.61,3.12,1.11,6.35,1.5,2.45,2.44,1.49,5.13,1.16,10.0,1.05,2.1,1.67
+6161914,Argentina Prim B Nacional,2023,2023-07-08 15:30:00,21,Villa Dálmine,Atlanta,0,2,2.85,2.76,2.34,1.11,6.27,1.48,2.47,2.41,1.5,5.21,1.15,9.6,1.01,2.1,1.67
+6161954,Argentina Prim B Nacional,2023,2023-07-08 16:00:00,24,Alvarado,Patronato,2,0,2.69,2.65,2.56,1.11,6.0,1.49,2.44,2.7,1.41,5.0,1.12,10.0,1.01,2.2,1.62
+6161917,Argentina Prim B Nacional,2023,2023-07-08 16:30:00,21,Chaco For Ever,Club Atlético Mitre,1,0,2.2,2.61,3.31,1.12,5.5,1.55,2.3,2.94,1.35,5.55,1.1,12.0,1.03,2.25,1.57
+6161956,Argentina Prim B Nacional,2023,2023-07-08 17:30:00,24,San Martín San Juan,Deportivo Morón,4,0,1.91,2.82,3.82,1.11,6.0,1.55,2.31,2.65,1.42,5.25,1.11,11.5,1.04,2.5,1.5
