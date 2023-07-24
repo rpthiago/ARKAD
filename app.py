@@ -290,7 +290,7 @@ def pagina_09():
 
 
 def pagina_08():
-    st.subheader("OVER 0,5 HT")
+    st.subheader("LAY 0 X 1 ")
 
     dia = st.date_input(
         "Data de Análise",
@@ -300,7 +300,7 @@ def pagina_08():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_over05ht.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x1.csv")
         
         return data_jogos
 
@@ -325,7 +325,7 @@ def pagina_08():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'OVER05HT_{dia}.xlsx',
+        file_name=f'lay0x1_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
 def pagina_09():
