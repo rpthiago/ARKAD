@@ -249,7 +249,7 @@ def pagina_06():
         file_name=f'lay_goleada_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-def pagina_09():
+def pagina_07():
     st.subheader("BTTS_YES")
 
     dia = st.date_input(
