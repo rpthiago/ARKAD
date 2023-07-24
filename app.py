@@ -249,7 +249,7 @@ def pagina_06():
         file_name=f'lay_goleada_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-def pagina_07():
+def pagina_09():
     st.subheader("BTTS_YES")
 
     dia = st.date_input(
@@ -286,8 +286,8 @@ def pagina_07():
         label='Download',
         data=download_excel(),
         file_name=f'btts_yes_{dia}.xlsx',
-        mime='application/vnd.ms-excel')          
-    
+        mime='application/vnd.ms-excel')
+
 
 def pagina_08():
     st.subheader("OVER 0,5 HT")
@@ -369,17 +369,17 @@ def pagina_09():
     
     
 def pagina_10():
-    st.subheader("LAY 0X1")
+    st.subheader("LAY 0 X 1")
 
     dia = st.date_input(
         "Data de Análise",
         date.today())
 
-    ######### Importando os Jogos do Dia ##########
+    ########## Importando os Jogos do Dia ##########
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x1.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_btts_yes.csv")
         
         return data_jogos
 
@@ -404,48 +404,8 @@ def pagina_10():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'Lay_0x1_{dia}.xlsx',
+        file_name=f'btts_yes_{dia}.xlsx',
         mime='application/vnd.ms-excel')
-
-# def pagina_11():
-#     st.subheader("LAY 1X0")
-
-#     dia = st.date_input(
-#         "Data de Análise",
-#         date.today())
-
-#     ########## Importando os Jogos do Dia ##########
-
-#     @st.cache
-#     def load_data_jogos():
-#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1x0.csv")
-        
-#         return data_jogos
-
-#     df_jogos = load_data_jogos()
-
-#     df_jogos.dropna(inplace=True)
-#     df_jogos = df_jogos.reset_index(drop=True)
-#     df_jogos.index += 1
-
-#     st.table(df_jogos)
-
-#     Define a função que retorna a planilha em formato XLSX
-#     def download_excel():
-#         output = BytesIO()
-#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
-#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-#         writer.save()
-#         processed_data = output.getvalue()
-#         return processed_data
-
-#     # Cria o botão de download
-#     button = st.download_button(
-#         label='Download',
-#         data=download_excel(),
-#         file_name=f'Lay_1x0_{dia}.xlsx',
-#         mime='application/vnd.ms-excel')
-
 
 paginas = ['Jogos do Dia',
            'TR - Match Odds', 
