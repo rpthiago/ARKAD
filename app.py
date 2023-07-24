@@ -414,9 +414,8 @@ paginas = ['Jogos do Dia',
            'LAY AWAY NEW',
            'LAY GOLEADA',
            'BTTS_YES',
-           'OVER05HT',
-           'OVER2_5',
-           'LAY_0X1']
+           'LAY_0X1',
+           'OVER2_5']
 
 escolha = st.sidebar.radio('',paginas)
 
@@ -438,5 +437,3 @@ if escolha == 'OVER05HT':
     pagina_08()
 if escolha == 'OVER2_5':
     pagina_09()
-if escolha == 'LAY_1X0':
-    pagina_10()
