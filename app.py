@@ -445,7 +445,7 @@ def pagina_11():
         file_name=f'lay_home_new_{dia}.xlsx',
         mime='application/vnd.ms-excel')       
 
-def pagina_13():
+def pagina_12():
     st.subheader("over05ht")
 
     dia = st.date_input(
@@ -485,7 +485,7 @@ def pagina_13():
         mime='application/vnd.ms-excel') 
     
     
-def pagina_12():
+def pagina_13():
     st.subheader("under4_5")
 
     dia = st.date_input(
