@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Teoria_dos_Retornos_Arkad.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_Back_Draw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_Jogos_do_Dia_arkad_transform(last).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_Lay_0x1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_Lay_1x0.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_Over25_15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_btts_no.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_btts_yes.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_lay_away.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_lay_away_new.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_lay_goleada.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_lay_home.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_lay_home_new.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_over05ht.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_over1_5_ft_futpython.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_over2_5.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_over2_5_ft_futpython.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023-07-24_under4_5.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_Back_Draw.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_Back_Draw.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_Lay_0x1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_Lay_0x1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_Lay_1x0.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_Lay_1x0.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_Over25_15.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_Over25_15.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_btts_no.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_btts_no.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_btts_yes.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_btts_yes.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_away.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_away.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_away_new.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_away_new.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_goleada.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_goleada.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_home.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_home.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_home_new.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_lay_home_new.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_over05ht.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_over05ht.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_over1_5_ft_futpython.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_over1_5_ft_futpython.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_over2_5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_over2_5.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_over2_5_ft_futpython.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_over2_5_ft_futpython.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2023-07-29_under4_5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2023-07-29_under4_5.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,15 +18,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/jogos_do_dia_transform.bat&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/jogos_do_dia_transform.bat",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Python.jogos_dia_transform(last)_amanha_atualizado_07_23">
+}]]></component>
+  <component name="RunManager" selected="Batch.Teoria_dos_Retornos_Arkad">
     <configuration name="Teoria_dos_Retornos_Arkad" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jogos_dia_transform(last)_amanha_atualizado_07_23" />
         <item itemvalue="Batch.Teoria_dos_Retornos_Arkad" />
+        <item itemvalue="Python.jogos_dia_transform(last)_amanha_atualizado_07_23" />
         <item itemvalue="Batch.jogos_do_dia_transform" />
         <item itemvalue="Batch.webscraping_dia" />
         <item itemvalue="Python.WebScraping_FlashScore_Jogos_do_Dia_Amanha" />
