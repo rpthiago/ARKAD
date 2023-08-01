@@ -516,12 +516,53 @@ def pagina_13():
         writer.save()
         processed_data = output.getvalue()
         return processed_data
-
-    # Cria o botão de download
+ # Cria o botão de download
     button = st.download_button(
         label='Download',
         data=download_excel(),
         file_name=f'under4_5_{dia}.xlsx',
+        mime='application/vnd.ms-excel')
+    
+    
+def pagina_14():
+    st.subheader("lay_away")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_lay_away.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data    
+    
+    
+    
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'lay_away_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
     
@@ -537,7 +578,8 @@ paginas = ['Jogos do Dia',
            'Lay_1x0',
            'lay_home_new',
            'over05ht',
-           'under4_5']
+           'under4_5',
+           'lay_away']
 
 escolha = st.sidebar.radio('',paginas)
 
@@ -567,3 +609,7 @@ if escolha == 'over05ht':
     pagina_12()
 if escolha == 'under4_5':
     pagina_13()
+if escolha == 'lay_away':
+    pagina_14()    
+    
+    
