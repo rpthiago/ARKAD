@@ -645,8 +645,8 @@ def pagina_16():
 paginas = ['Jogos do Dia',
            'TR - Match Odds', 
            'TR - Over/Under 2.5FT',
-           'TR - Over/Under 0.5FT'
-           'TR - Over/Under 4.5FT'
+           'TR - Over/Under 0.5FT',
+           'TR - Over/Under 4.5FT',
            'TR - BTTS',
            'LAY AWAY NEW',
            'LAY GOLEADA',
