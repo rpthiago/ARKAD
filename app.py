@@ -177,7 +177,7 @@ def pagina_05():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_45ft_ARKAD.csv")
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_45_ARKAD.csv")
         
         return data_jogos
 
