@@ -1,2 +1,2 @@
-Nº,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No
-1,07/08/2023,12:30,ROMANIA - LIGA 1,Sepsi Sf. Gheorghe,Otelul,1.53,4.0,5.75,2.15,2.15,2.25,1.57
+Nº,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,FT_Odd_Over05,HT_Odd_Over05,FT_Odd_Over15,FT_Odd_Over45,FT_Odd_Under45
+1,07/08/2023,12:30,ROMANIA - LIGA 1,Sepsi Sf. Gheorghe,Otelul,1.53,4.0,5.75,2.15,2.25,1.57,1.06,1.44,1.36,9.0,1.07

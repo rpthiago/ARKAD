@@ -127,9 +127,85 @@ def pagina_03():
         file_name=f'Teoria_dos_Retornos_Over_Under_25_ARKAD_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-
-
 def pagina_04():
+    st.subheader("Teoria dos Retornos - Over/Under 0.5 FT")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_05ft_ARKAD.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data
+
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'Teoria_dos_Retornos_Over_Under_05ft_ARKAD_{dia}.xlsx',
+        mime='application/vnd.ms-excel')
+    
+def pagina_05():
+    st.subheader("Teoria dos Retornos - Over/Under 4.5 FT")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./Teoria_dos_Retornos/{dia}_Teoria_dos_Retornos_Over_Under_45ft_ARKAD.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data
+
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'Teoria_dos_Retornos_Over_Under_45ft_ARKAD_{dia}.xlsx',
+        mime='application/vnd.ms-excel')    
+
+def pagina_06():
     st.subheader("Teoria dos Retornos - Ambas Marcam")
 
     dia = st.date_input(
@@ -169,7 +245,7 @@ def pagina_04():
         mime='application/vnd.ms-excel')
     
 
-def pagina_05():
+def pagina_07():
     st.subheader("LAY AWAY NEW")
 
     dia = st.date_input(
@@ -210,7 +286,7 @@ def pagina_05():
     
 
     
-def pagina_06():
+def pagina_08():
     st.subheader("Lay Goleada")
 
     dia = st.date_input(
@@ -249,7 +325,7 @@ def pagina_06():
         file_name=f'lay_goleada_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
-def pagina_07():
+def pagina_09():
     st.subheader("BTTS_YES")
 
     dia = st.date_input(
@@ -289,7 +365,7 @@ def pagina_07():
         mime='application/vnd.ms-excel')
 
 
-def pagina_08():
+def pagina_10():
     st.subheader("LAY 0 X 1")
 
     dia = st.date_input(
@@ -328,7 +404,7 @@ def pagina_08():
         file_name=f'lay0x1_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
-def pagina_09():
+def pagina_11():
     st.subheader("OVER2_5")
 
     dia = st.date_input(
@@ -367,7 +443,7 @@ def pagina_09():
         file_name=f'OVER2_5_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
-def pagina_10():
+def pagina_12():
     st.subheader("Lay_1x0")
 
     dia = st.date_input(
@@ -406,7 +482,7 @@ def pagina_10():
         file_name=f'Lay_1x0_{dia}.xlsx',
         mime='application/vnd.ms-excel')    
 
-def pagina_11():
+def pagina_13():
     st.subheader("lay_home_new")
 
     dia = st.date_input(
@@ -445,7 +521,7 @@ def pagina_11():
         file_name=f'lay_home_new_{dia}.xlsx',
         mime='application/vnd.ms-excel')       
 
-def pagina_12():
+def pagina_14():
     st.subheader("over05ht")
 
     dia = st.date_input(
@@ -485,7 +561,7 @@ def pagina_12():
         mime='application/vnd.ms-excel') 
     
     
-def pagina_13():
+def pagina_15():
     st.subheader("under4_5")
 
     dia = st.date_input(
@@ -524,7 +600,7 @@ def pagina_13():
         mime='application/vnd.ms-excel')
     
     
-def pagina_14():
+def pagina_16():
     st.subheader("lay_away")
 
     dia = st.date_input(
@@ -568,7 +644,9 @@ def pagina_14():
     
 paginas = ['Jogos do Dia',
            'TR - Match Odds', 
-           'TR - Over/Under 2.5FT', 
+           'TR - Over/Under 2.5FT',
+           'TR - Over/Under 0.5FT'
+           'TR - Over/Under 4.5FT'
            'TR - BTTS',
            'LAY AWAY NEW',
            'LAY GOLEADA',
@@ -589,27 +667,31 @@ if escolha == 'TR - Match Odds':
     pagina_02()
 if escolha == 'TR - Over/Under 2.5FT':
     pagina_03()
+if escolha == 'TR - Over/Under 0.5FT':
+    pagina_04()    
+if escolha == 'TR - Over/Under 4.5FT':
+    pagina_05()          
 if escolha == 'TR - BTTS':
-    pagina_04()
-if escolha == 'LAY AWAY NEW':
-    pagina_05()
-if escolha == 'LAY GOLEADA':
     pagina_06()
-if escolha == 'BTTS_YES':
+if escolha == 'LAY AWAY NEW':
     pagina_07()
-if escolha == 'LAY 0 X 1':
+if escolha == 'LAY GOLEADA':
     pagina_08()
-if escolha == 'OVER2_5':
+if escolha == 'BTTS_YES':
     pagina_09()
-if escolha == 'Lay_1x0':
+if escolha == 'LAY 0 X 1':
     pagina_10()
-if escolha == 'lay_home_new':
+if escolha == 'OVER2_5':
     pagina_11()
-if escolha == 'over05ht':
+if escolha == 'Lay_1x0':
     pagina_12()
-if escolha == 'under4_5':
+if escolha == 'lay_home_new':
     pagina_13()
+if escolha == 'over05ht':
+    pagina_14()
+if escolha == 'under4_5':
+    pagina_15()
 if escolha == 'lay_away':
-    pagina_14()    
+    pagina_16()    
     
     
