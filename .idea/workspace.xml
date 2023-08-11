@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/TEORIA_DOS_RETORNOS_FLASHCORE-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base_FlahScore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Base_FlahScore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEORIA_DOS_RETORNOS_FLASHCORE.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +29,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/jogos_do_dia_transform.bat",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/WebScraping_FlashScore_Atualizacao_2023_2024.py",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Batch.Teoria_dos_Retornos_Arkad">
+  <component name="RunManager" selected="Batch.web_2023_2024">
     <configuration name="Teoria_dos_Retornos_Arkad" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -37,21 +43,21 @@
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jogos_do_dia_transform" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="ARKAD" />
+    <configuration name="web_2023" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MODELOS LEANDRO\WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="jogos_do_dia_transform.bat" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="web_2023.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webscraping_dia" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+    <configuration name="web_2023_2024" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/modelo_leandro_2/flashscore" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MODELOS LEANDRO\WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="webscraping_dia.bat" />
+      <option name="SCRIPT_NAME" value="web_2023_2024.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
@@ -76,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WebScraping_FlashScore_Jogos_do_Dia_Amanha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WebScraping_FlashScore_Atualizacao_2023_2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/modelo_leandro_2/flashscore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/modelo_leandro_2/flashscore/WebScraping_FlashScore_Jogos_do_Dia_Amanha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/WebScraping_FlashScore_Atualizacao_2023_2024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jogos_dia_transform(last)_amanha_atualizado_07_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WebScraping_FlashScore_Atualização_2023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/modelo_leandro_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/modelo_leandro_2/jogos_dia_transform(last)_amanha_atualizado_07_23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/WebScraping_FlashScore_Atualização_2023.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.web_2023_2024" />
+        <item itemvalue="Python.WebScraping_FlashScore_Atualizacao_2023_2024" />
+        <item itemvalue="Batch.web_2023" />
         <item itemvalue="Batch.Teoria_dos_Retornos_Arkad" />
-        <item itemvalue="Python.jogos_dia_transform(last)_amanha_atualizado_07_23" />
-        <item itemvalue="Batch.jogos_do_dia_transform" />
-        <item itemvalue="Batch.webscraping_dia" />
-        <item itemvalue="Python.WebScraping_FlashScore_Jogos_do_Dia_Amanha" />
+        <item itemvalue="Python.WebScraping_FlashScore_Atualização_2023" />
       </list>
     </recent_temporary>
   </component>

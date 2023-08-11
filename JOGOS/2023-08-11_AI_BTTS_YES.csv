@@ -1,0 +1,2 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
+1,BELGIUM - CHALLENGER PRO LEAGUE,11/08/2023,15:00,Seraing,St. Liege U23,1.65,4.0,4.0,1.7,2.1,1.73,1.17,2.0,0.6,1.8,0.7,2.0,0.606,0.25,0.25,0.588,0.855,0.455,-0.1,-0.2,1,0.6483
