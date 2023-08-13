@@ -1,0 +1,5 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_Under,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
+1,SOUTH KOREA - K LEAGUE 2,14/08/2023,07:30,Cheonan City,Gimpo FC,3.6,3.0,2.1,2.35,1.57,1.91,1.06,1.8,0.8,2.2,1.1,0.5,0.2777778,0.33333334,0.47619048,0.42553192,0.6369427,0.943,0.23059225,-0.3,1.7,0,0.8419
+2,SWEDEN - ALLSVENSKAN,14/08/2023,14:00,Varnamo,Degerfors,1.8,3.8,4.33,1.73,2.08,1.7,1.14,2.05,0.9,1.7,1.0,2.9,0.5555556,0.2631579,0.23094688,0.5780347,0.48076922,0.877,0.41734388,-0.1,-1.2,0,0.6251
+3,SWEDEN - ALLSVENSKAN,14/08/2023,14:00,Mjallby,Malmo FF,4.75,3.8,1.73,2.0,1.85,1.91,1.1,1.91,1.4,1.1,2.0,1.3,0.21052632,0.2631579,0.5780347,0.5,0.5405405,0.909,0.4628668,-0.6,-0.2,0,0.8103
+4,SPAIN - LALIGA2,14/08/2023,16:30,Tenerife,R. Oviedo,2.0,3.25,4.2,2.7,1.44,2.25,1.04,1.57,1.4,0.4,0.9,1.0,0.5,0.30769232,0.23809524,0.37037036,0.6944444,0.962,0.31774637,0.5,-0.6,0,0.5973
