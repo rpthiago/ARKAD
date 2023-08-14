@@ -862,7 +862,7 @@ if escolha == 'AI_LAY_AWAY':
     pagina_17()    
 if escolha == 'AI_LAY_HOME':
     pagina_18()     
-if escolha == 'LAY_GOLEADA_H_EVENTOS_RAROS'':
+if escolha == 'LAY_GOLEADA_H_EVENTOS_RAROS':
     pagina_19()     
 if escolha == 'LAY_GOLEADA_A_EVENTOS_RAROS':
     pagina_20()     
