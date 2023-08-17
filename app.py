@@ -683,7 +683,7 @@ def pagina_17():
         mime='application/vnd.ms-excel')
 
 def pagina_18():
-    st.subheader("AI_LAY_HOME")
+    st.subheader("'Lay_0x2_EVENTOS_RAROS'")
 
     dia = st.date_input(
         "Data de Análise",
@@ -693,7 +693,7 @@ def pagina_18():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_AI_LAY_HOME.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_'Lay_0x2_EVENTOS_RAROS'.csv")
         
         return data_jogos
 
@@ -718,10 +718,10 @@ def pagina_18():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'AI_LAY_HOME_{dia}.xlsx',
+        file_name=f'Lay_0x2_EVENTOS_RAROS_{dia}.xlsx',
         mime='application/vnd.ms-excel')
 
-    
+   
     
 def pagina_19():
     st.subheader("LAY_GOLEADA_H_EVENTOS_RAROS")
@@ -1014,7 +1014,7 @@ paginas = ['Jogos do Dia',
            'under4_5',
            'lay_away',
            'AI_LAY_AWAY',
-           'AI_LAY_HOME',
+           'Lay_0x2_EVENTOS_RAROS',
            'LAY_GOLEADA_H_EVENTOS_RAROS',
            'LAY_GOLEADA_A_EVENTOS_RAROS',
            'Lay_0x2_EVENTOS_RAROS',
@@ -1059,7 +1059,7 @@ if escolha == 'lay_away':
     pagina_16()
 if escolha == 'AI_LAY_AWAY':
     pagina_17()    
-if escolha == 'AI_LAY_HOME':
+if escolha == 'Lay_0x2_EVENTOS_RAROS':
     pagina_18()     
 if escolha == 'LAY_GOLEADA_H_EVENTOS_RAROS':
     pagina_19()     
