@@ -683,7 +683,7 @@ def pagina_17():
         mime='application/vnd.ms-excel')
 
 def pagina_18():
-    st.subheader("'Lay_0x2_EVENTOS_RAROS'")
+    st.subheader("Lay_0x2_EVENTOS_RAROS")
 
     dia = st.date_input(
         "Data de Análise",
@@ -693,7 +693,7 @@ def pagina_18():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_'Lay_0x2_EVENTOS_RAROS'.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x2_EVENTOS_RAROS.csv")
         
         return data_jogos
 
