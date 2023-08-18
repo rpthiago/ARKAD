@@ -2,7 +2,7 @@ streamlit_authenticator==0.2.2
 streamlit==1.15.2
 openpyxl==3.1.2
 plotly==5.16.1
-pandas==2.0.3
+pandas
 scipy
 xlsxwriter==3.1.2
-altair==5.0.1
+altair<5
