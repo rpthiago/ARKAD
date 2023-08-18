@@ -851,7 +851,7 @@ def pagina_22():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1x3_EVENTOS_RAROS.csv")
+        data_jogos = pd.read_excel(f"./JOGOS/{dia}_Lay_1x3_EVENTOS_RAROS.xlsx")
         
         return data_jogos
 
