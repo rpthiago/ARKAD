@@ -849,7 +849,7 @@ def pagina_22():
 
     ########## Importando os Jogos do Dia ##########
 
-    @st.cache
+    @st.cache(allow_output_mutation=True)
     def load_data_jogos():
         data_jogos = pd.read_excel(f"./JOGOS/{dia}_Lay_1x3_EVENTOS_RAROS.xlsx")
         
