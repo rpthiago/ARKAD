@@ -1,0 +1,2 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_Under,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
+1,SOUTH KOREA - K LEAGUE 2,30/08/2023,07:30,Seongnam,Gimpo FC,2.3,3.2,3.0,2.5,1.5,2.1,1.05,1.67,1.3,1.4,1.1,0.5,0.4347826,0.3125,0.33333334,0.4,0.6666667,0.952,0.14829205,0.2,0.9,0,0.7418
