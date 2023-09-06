@@ -24,6 +24,7 @@ pyautogui.press('enter')
 pyautogui.click(157,795, duration=2)
 pyautogui.press('enter')
 
+
 pyautogui.write('Update')
 
 pyautogui.click(208,990, duration=2)
