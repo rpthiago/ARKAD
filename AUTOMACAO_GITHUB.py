@@ -18,20 +18,20 @@ from time import sleep
 pyautogui.PAUSE = 1
 
 
-pyautogui.click(1857,56, duration=2)
+pyautogui.click(1857,56, duration=10)
 pyautogui.press('enter')
 
-pyautogui.click(157,795, duration=2)
+pyautogui.click(157,795, duration=5)
 pyautogui.press('enter')
 
 
 pyautogui.write('Update')
 
-pyautogui.click(208,990, duration=2)
+pyautogui.click(208,990, duration=5)
 pyautogui.press('enter')
 
 
-pyautogui.click(1409,358, duration=2)
+pyautogui.click(1409,358, duration=5)
 pyautogui.press('enter')
 
 pyautogui.click(1886,23, duration=10)
@@ -42,7 +42,7 @@ pyautogui.press('enter')
 
 
 
-pyautogui.click(1857,56, duration=2)
+pyautogui.click(1857,56, duration=10)
 pyautogui.press('enter')
 
 pyautogui.click(75,745, duration=2)
