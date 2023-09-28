@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base_FlahScore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Base_FlahScore.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +26,14 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/03_Jogos_do_Dia_FlashScore.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/RESULTADO_FLASHSCORE_ODD_CORRETA.py",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RunManager" selected="Python.03_Jogos_do_Dia_FlashScore">
     <configuration name="JOGOS_DO_DIA" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MODELOS LEANDRO\WEBCRAPING_JOGOS_FLASHSCORE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="JOGOS_DO_DIA.bat" />
