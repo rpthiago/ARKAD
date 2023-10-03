@@ -1,0 +1,2 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_Under,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
+1,SPAIN - LALIGA2,04/10/2023,14:00,R. Oviedo,Huesca,1.91,3.1,4.5,2.7,1.44,2.38,1.04,1.53,1.1,0.8,0.7,1.0,0.5235602,0.32258064,0.22222222,0.37037036,0.6944444,0.962,0.3518073,0.4,-0.2,0,0.5262
