@@ -1,7 +1,0 @@
-,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
-1,SWEDEN - ALLSVENSKAN,28/08/2023,14:00,Elfsborg,Norrkoping,1.53,4.33,5.75,1.6,2.3,1.7,1.2,2.05,2.4,0.5,1.8,1.5,0.654,0.231,0.174,0.625,0.833,0.607,0.6,-1.0,1,0.7071
-2,SWEDEN - SUPERETTAN,28/08/2023,14:00,AFC Eskilstuna,Gefle,1.85,3.75,3.6,1.9,1.95,1.8,1.11,1.95,1.1,0.7,0.625,1.375,0.541,0.267,0.278,0.526,0.901,0.35,0.475,-0.675,1,0.7193
-3,SWEDEN - SUPERETTAN,28/08/2023,14:00,Sundsvall,Jonkoping,2.25,3.6,2.75,1.67,2.15,1.57,1.17,2.25,1.3,2.0,1.5,2.2,0.444,0.278,0.364,0.599,0.855,0.187,-0.2,-0.2,1,0.7377
-4,SPAIN - LALIGA2,28/08/2023,16:30,Racing Santander,Huesca,2.1,3.25,3.75,2.5,1.5,2.2,1.04,1.62,1.6,0.7,0.7,0.9,0.476,0.308,0.267,0.4,0.962,0.258,0.9,-0.2,1,0.5433
-5,ARGENTINA - PRIMERA NACIONAL,28/08/2023,21:10,All Boys,Gimnasia Mendoza,2.8,2.9,2.8,2.7,1.44,2.2,1.04,1.62,1.0,0.8,0.9,1.1,0.357,0.345,0.357,0.37,0.962,0.016,0.1,-0.3,1,0.5405
-6,ARGENTINA - COPA DE LA LIGA PROFESIONAL,28/08/2023,21:30,Atl. Tucuman,Instituto,2.2,3.1,3.6,2.7,1.44,2.2,1.04,1.62,1.3,1.0,0.9,2.0,0.455,0.323,0.278,0.37,0.962,0.213,0.4,-1.0,1,0.5606

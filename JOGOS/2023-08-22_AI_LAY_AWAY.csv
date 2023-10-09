@@ -1,3 +1,0 @@
-,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,Media_Ptos_H,DesvPad_Ptos_H,CV_VG_H,Media_Ptos_A,DesvPad_Ptos_A,CV_VG_A,p_H,p_D,p_A,p_Over,p_Under,CV_HDA,coeficiente_pontos,cv_pontos,prediction_label,prediction_score
-1,MEXICO - LIGA MX,22/08/2023,22:00,Mazatlan FC,Puebla,2.38,3.25,3.0,1.8,2.0,1.62,2.2,0.4,0.9165151,0.747,0.9,1.1357816,1.047,0.42016807,0.30769232,0.33333334,0.5555556,0.5,0.13606395,-0.5,2.052,1,0.8107
-2,MEXICO - LIGA MX,22/08/2023,22:00,Guadalajara Chivas,Club Tijuana,1.83,3.6,4.0,1.9,1.95,1.8,1.95,2.1,1.3747727,0.509,0.5,0.92195445,0.624,0.5464481,0.2777778,0.25,0.5263158,0.51282054,0.37333363,1.6,2.297,1,0.8428

@@ -1,2 +1,0 @@
-,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
-1,SOUTH KOREA - K LEAGUE 2,15/08/2023,07:00,Gimcheon Sangmu,Seoul E-Land,1.53,4.0,5.25,1.73,2.08,1.8,1.14,1.91,1.8,1.2,1.1,1.0,0.654,0.25,0.19,0.578,0.877,0.565,0.7,0.2,1,0.7694
