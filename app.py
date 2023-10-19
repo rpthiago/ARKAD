@@ -523,7 +523,7 @@ def pagina_13():
     
     
 def pagina_14():
-    st.subheader("under4_5")
+    st.subheader("LAY_AWAY_NEW_retorno")
 
     dia = st.date_input(
         "Data de Análise",
@@ -533,7 +533,7 @@ def pagina_14():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_under4_5.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_AWAY_NEW_retorno.csv")
         
         return data_jogos
 
@@ -557,12 +557,12 @@ def pagina_14():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'under4_5_{dia}.xlsx',
+        file_name=f'LAY_AWAY_NEW_retorno_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
     
 def pagina_15():
-    st.subheader("lay_away")
+    st.subheader("AI_LAY_AWAY_retorno")
 
     dia = st.date_input(
         "Data de Análise",
@@ -572,7 +572,7 @@ def pagina_15():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_lay_away.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_AI_LAY_AWAY_retorno.csv")
         
         return data_jogos
 
@@ -599,7 +599,7 @@ def pagina_15():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'lay_away_{dia}.xlsx',
+        file_name=f'AI_LAY_AWAY_retorno_{dia}.xlsx',
         mime='application/vnd.ms-excel')
     
 def pagina_16():
@@ -917,6 +917,89 @@ def pagina_23():
         data=download_excel(),
         file_name=f'Lay_3x1_EVENTOS_RAROS_{dia}.xlsx',
         mime='application/vnd.ms-excel')     
+
+
+    
+def pagina_24():
+    st.subheader("LAY_0X1_RETORNOS")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_0X1_RETORNOS.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data    
+    
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'LAY_0X1_RETORNOS_{dia}.xlsx',
+        mime='application/vnd.ms-excel')    
+    
+
+def pagina_25():
+    st.subheader("LAY_1X0_RETORNOS")
+
+    dia = st.date_input(
+        "Data de Análise",
+        date.today())
+
+    ########## Importando os Jogos do Dia ##########
+
+    @st.cache
+    def load_data_jogos():
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_1X0_RETORNOS.csv")
+        
+        return data_jogos
+
+    df_jogos = load_data_jogos()
+
+    df_jogos.dropna(inplace=True)
+    df_jogos = df_jogos.reset_index(drop=True)
+    df_jogos.index += 1
+
+    st.table(df_jogos)
+
+    # Define a função que retorna a planilha em formato XLSX
+    def download_excel():
+        output = BytesIO()
+        writer = pd.ExcelWriter(output, engine='xlsxwriter')
+        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+        writer.save()
+        processed_data = output.getvalue()
+        return processed_data    
+    
+    # Cria o botão de download
+    button = st.download_button(
+        label='Download',
+        data=download_excel(),
+        file_name=f'LAY_1X0_RETORNOS_{dia}.xlsx',
+        mime='application/vnd.ms-excel')     
+    
+    
     
 paginas = ['TR - Match Odds', 
            'TR - Over/Under 2.5FT',
@@ -931,8 +1014,8 @@ paginas = ['TR - Match Odds',
            'Lay_1x0',
            'lay_home_new',
            'over05ht',
-           'under4_5',
-           'lay_away',
+           'LAY_AWAY_NEW_retorno',
+           'AI_LAY_AWAY_retorno',
            'AI_LAY_AWAY',
            'LAY_GOLEADA_H_EVENTOS_RAROS',
            'LAY_GOLEADA_A_EVENTOS_RAROS',
@@ -940,7 +1023,9 @@ paginas = ['TR - Match Odds',
            'Lay_2x0_EVENTOS_RAROS',
            'Lay_2x2_EVENTOS_RAROS',
            'Lay_1x3_EVENTOS_RAROS',
-           'Lay_3x1_EVENTOS_RAROS']
+           'Lay_3x1_EVENTOS_RAROS',
+           'LAY_0X1_RETORNOS',
+           'LAY_1X0_RETORNOS']
 
 escolha = st.sidebar.radio('',paginas)
 
@@ -970,9 +1055,9 @@ if escolha == 'lay_home_new':
     pagina_12()
 if escolha == 'over05ht':
     pagina_13()
-if escolha == 'under4_5':
+if escolha == 'LAY_AWAY_NEW_retorno':
     pagina_14()
-if escolha == 'lay_away':
+if escolha == 'AI_LAY_AWAY_retorno':
     pagina_15()
 if escolha == 'AI_LAY_AWAY':
     pagina_16()    
@@ -990,3 +1075,9 @@ if escolha == 'Lay_1x3_EVENTOS_RAROS':
     pagina_22()     
 if escolha == 'Lay_3x1_EVENTOS_RAROS':
     pagina_23()           
+if escolha == 'LAY_0X1_RETORNOS':
+    pagina_24()    
+if escolha == 'LAY_0X1_RETORNOS':
+    pagina_25()
+
+    
