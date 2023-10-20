@@ -1077,7 +1077,7 @@ if escolha == 'Lay_3x1_EVENTOS_RAROS':
     pagina_23()           
 if escolha == 'LAY_0X1_RETORNOS':
     pagina_24()    
-if escolha == 'LAY_0X1_RETORNOS':
+if escolha == 'LAY_1X0_RETORNOS':
     pagina_25()
 
     
