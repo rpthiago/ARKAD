@@ -1,21 +1,29 @@
 ,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
-1,Lay Away New,22/10/2023,04:40,SOUTH KOREA - K LEAGUE 1,Daejeon Citizen,Suwon FC,1.75,3.8,3.8,1.6,2.3,1.57,2.25,H,H,H
-2,Lay Away New,22/10/2023,07:00,SPAIN - PRIMERA RFEF,Osasuna B,Celta Vigo B,2.45,3.0,3.0,2.38,1.53,2.0,1.73,D,H,D
-3,Lay Away New,22/10/2023,08:00,BULGARIA - PARVA LIGA,Hebar,Slavia Sofia,2.25,3.1,3.5,2.4,1.53,2.1,1.67,H,D,D
-4,Lay Away New,22/10/2023,08:00,SWEDEN - SUPERETTAN,Landskrona,Vasteras SK,4.0,3.8,1.8,1.67,2.15,1.62,2.2,D,H,D
-5,Lay Away New,22/10/2023,08:30,BELGIUM - JUPILER PRO LEAGUE,Genk,KV Mechelen,1.5,4.33,6.0,1.53,2.4,1.67,2.1,A,H,H
-6,Lay Away New,22/10/2023,09:30,ROMANIA - LIGA 1,Poli Iasi,FC U Craiova 1948,2.3,3.0,3.1,2.08,1.73,1.83,1.83,D,A,H
-7,Lay Away New,22/10/2023,10:00,SWEDEN - SUPERETTAN,IK Brage,AFC Eskilstuna,1.73,3.6,4.5,1.7,2.1,1.7,2.05,D,H,D
-8,Lay Away New,22/10/2023,10:00,NORWAY - OBOS-LIGAEN,KFUM Oslo,Raufoss,1.67,4.0,4.75,1.57,2.35,1.62,2.2,A,H,H
-9,Lay Away New,22/10/2023,12:30,SWEDEN - ALLSVENSKAN,Hacken,Norrkoping,1.45,4.5,6.5,1.44,2.7,1.57,2.25,H,H,A
-10,Lay Away New,22/10/2023,12:30,ENGLAND - PREMIER LEAGUE,Aston Villa,West Ham,1.85,3.6,4.0,1.57,2.35,1.53,2.38,D,H,H
-11,Lay Away New,22/10/2023,13:00,BULGARIA - PARVA LIGA,Arda,Ludogorets,4.75,3.8,1.73,1.9,1.95,1.8,1.91,H,D,D
-12,Lay Away New,22/10/2023,13:00,SPAIN - PRIMERA RFEF,Sestao,Barcelona B,2.55,2.88,2.88,2.63,1.44,2.2,1.62,D,H,D
-13,Lay Away New,22/10/2023,14:15,BELGIUM - CHALLENGER PRO LEAGUE,Francs Borains,Patro Eisden,3.1,3.4,2.1,1.7,2.1,1.57,2.25,H,H,D
-14,Lay Away New,22/10/2023,15:00,SPAIN - PRIMERA RFEF,Sanluqueno,Cordoba,2.55,3.0,2.6,2.25,1.62,1.91,1.8,D,H,D
-15,Lay Away New,22/10/2023,16:00,IRELAND - PREMIER DIVISION,Shamrock Rovers,Drogheda,1.25,6.0,10.0,1.53,2.4,2.0,1.75,A,H,H
-16,Lay Away New,22/10/2023,16:00,BRAZIL - SERIE A,Internacional,Santos,1.67,3.6,5.75,2.2,1.65,2.1,1.67,A,H,A
-17,Lay Away New,22/10/2023,18:30,BRAZIL - SERIE A,Bragantino SP,Fluminense,1.75,3.75,4.75,1.95,1.9,1.91,1.91,A,H,A
-18,Lay Away New,22/10/2023,19:00,COSTA RICA - PRIMERA DIVISION,AD Santos,Zeledon,1.85,3.4,3.6,1.78,2.03,1.67,2.1,D,D,H
-19,Lay Away New,22/10/2023,20:10,COLOMBIA - PRIMERA A,Ind Medellin,Deportivo Pereira,1.57,3.75,6.5,1.98,1.88,1.91,1.8,H,D,D
-20,Lay Away New,22/10/2023,22:20,COLOMBIA - PRIMERA A,Alianza Petrolera,Tolima,3.3,3.25,2.25,2.25,1.62,1.91,1.8,H,D,D
+1,Lay Away New,22/10/2023,00:10,MEXICO - LIGA MX,Tigres,Cruz Azul,1.7,4.0,4.75,1.62,2.25,1.62,2.2,H,D,A
+2,Lay Away New,22/10/2023,04:40,SOUTH KOREA - K LEAGUE 1,Daejeon Citizen,Suwon FC,1.75,3.8,3.8,1.6,2.3,1.57,2.25,H,H,H
+3,Lay Away New,22/10/2023,07:00,SPAIN - PRIMERA RFEF,CF Intercity,Baleares,1.67,3.2,5.0,2.35,1.57,2.25,1.57,A,H,H
+4,Lay Away New,22/10/2023,07:00,SPAIN - PRIMERA RFEF,Osasuna B,Celta Vigo B,2.45,3.0,3.0,2.38,1.53,2.0,1.73,A,H,H
+5,Lay Away New,22/10/2023,08:00,BULGARIA - PARVA LIGA,Hebar,Slavia Sofia,2.25,3.1,3.5,2.4,1.53,2.1,1.67,H,D,A
+6,Lay Away New,22/10/2023,08:30,BELGIUM - CHALLENGER PRO LEAGUE,Dender,Oostende,2.05,3.4,3.25,1.7,2.1,1.57,2.25,D,D,H
+7,Lay Away New,22/10/2023,08:30,BELGIUM - JUPILER PRO LEAGUE,Genk,KV Mechelen,1.5,4.33,6.0,1.53,2.4,1.67,2.1,H,A,H
+8,Lay Away New,22/10/2023,09:00,SPAIN - LALIGA2,Ferrol,Eldense,2.0,3.2,4.2,2.35,1.57,2.1,1.67,A,A,H
+9,Lay Away New,22/10/2023,10:00,SWEDEN - SUPERETTAN,IK Brage,AFC Eskilstuna,1.73,3.6,4.5,1.7,2.1,1.7,2.05,D,H,A
+10,Lay Away New,22/10/2023,10:00,NORWAY - OBOS-LIGAEN,KFUM Oslo,Raufoss,1.67,4.0,4.75,1.57,2.35,1.62,2.2,H,A,H
+11,Lay Away New,22/10/2023,11:00,SPAIN - PRIMERA RFEF,Linares,San Fernando,2.25,3.0,3.0,2.35,1.57,2.0,1.73,A,H,H
+12,Lay Away New,22/10/2023,11:45,NETHERLANDS - EREDIVISIE,Go Ahead Eagles,Sparta Rotterdam,2.15,3.8,3.1,1.65,2.2,1.57,2.25,D,H,H
+13,Lay Away New,22/10/2023,12:30,SWEDEN - ALLSVENSKAN,Hacken,Norrkoping,1.45,4.5,6.5,1.44,2.7,1.57,2.25,D,A,H
+14,Lay Away New,22/10/2023,12:30,ENGLAND - PREMIER LEAGUE,Aston Villa,West Ham,1.85,3.6,4.0,1.57,2.35,1.53,2.38,H,H,D
+15,Lay Away New,22/10/2023,13:00,SPAIN - PRIMERA RFEF,Sestao,Barcelona B,2.55,2.88,2.88,2.63,1.44,2.2,1.62,A,H,H
+16,Lay Away New,22/10/2023,13:30,SPAIN - LALIGA2,Racing Santander,Burgos,2.25,3.1,3.5,2.2,1.65,1.91,1.8,A,A,H
+17,Lay Away New,22/10/2023,13:30,SPAIN - LALIGA2,Albacete,Sporting Gijon,2.2,3.1,3.6,2.15,1.67,1.83,1.83,A,A,H
+18,Lay Away New,22/10/2023,14:15,BELGIUM - JUPILER PRO LEAGUE,Leuven,St. Truiden,2.2,3.6,2.9,1.65,2.2,1.57,2.25,H,A,H
+19,Lay Away New,22/10/2023,15:00,ROMANIA - LIGA 1,FCSB,FC Voluntari,1.36,4.5,7.0,1.67,2.15,1.91,1.8,D,A,H
+20,Lay Away New,22/10/2023,15:00,SPAIN - PRIMERA RFEF,Sanluqueno,Cordoba,2.55,3.0,2.6,2.25,1.62,1.91,1.8,A,H,H
+21,Lay Away New,22/10/2023,15:00,SPAIN - PRIMERA RFEF,Castellon,Atl. Madrid B,1.53,3.6,5.75,1.78,2.03,1.83,1.83,A,H,H
+22,Lay Away New,22/10/2023,16:00,IRELAND - PREMIER DIVISION,Shamrock Rovers,Drogheda,1.25,6.0,10.0,1.53,2.4,2.0,1.75,A,H,D
+23,Lay Away New,22/10/2023,16:00,SPAIN - LALIGA2,Valladolid,Andorra CF,1.75,3.4,5.5,2.08,1.73,1.91,1.8,A,A,H
+24,Lay Away New,22/10/2023,17:00,PERU - LIGA 1,Carlos Mannucci,Binacional,2.0,3.2,3.6,1.93,1.93,1.73,2.0,H,D,D
+25,Lay Away New,22/10/2023,17:00,PERU - LIGA 1,Sport Huancayo,Sport Boys (Per),1.45,4.2,6.0,1.62,2.25,1.73,2.0,H,D,D
+26,Lay Away New,22/10/2023,18:00,COLOMBIA - PRIMERA A,Boyaca Chico,Atletico Nacional Medellin,2.88,3.1,2.63,2.3,1.6,1.91,1.8,H,D,A
+27,Lay Away New,22/10/2023,20:10,COLOMBIA - PRIMERA A,Ind Medellin,Deportivo Pereira,1.57,3.75,6.5,1.98,1.88,1.91,1.8,H,D,A
+28,Lay Away New,22/10/2023,21:00,MEXICO - LIGA MX,Atletico San Luis,Necaxa,1.73,3.8,4.75,1.67,2.15,1.62,2.2,H,D,A
