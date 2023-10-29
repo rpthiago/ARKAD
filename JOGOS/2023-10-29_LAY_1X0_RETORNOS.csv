@@ -1,0 +1,5 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,OVER2_5,29/10/2023,10:30,AUSTRIA - BUNDESLIGA,SC Austria Lustenau,Hartberg,4.5,3.75,1.8,1.62,2.25,1.62,2.2,A,H,A
+2,BTTS Sim,29/10/2023,11:00,POLAND - DIVISION 1,R. Rzeszow,Arka Gdynia,4.0,3.4,1.83,1.7,2.1,1.62,2.2,H,A,H
+3,BTTS Sim,29/10/2023,12:30,ENGLAND - PREMIER LEAGUE,Man Utd,Man City,5.25,4.0,1.62,1.73,2.08,1.75,2.0,A,H,H
+4,OVER2_5,29/10/2023,17:00,PERU - LIGA 1,Atletico Grau,Union Comercio,2.9,3.3,2.1,1.6,2.3,1.5,2.42,A,H,D
