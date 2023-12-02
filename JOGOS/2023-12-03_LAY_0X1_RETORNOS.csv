@@ -1,0 +1,5 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,BTTS Sim,03/12/2023,00:10,MEXICO - LIGA MX,Monterrey,Atletico San Luis,1.5,4.5,6.5,1.62,2.25,1.75,2.0,H,D,D
+2,OVER2_5,03/12/2023,10:00,NORWAY - OBOS-LIGAEN,Kongsvinger,Kristiansund,2.0,3.5,3.3,1.7,2.1,1.62,2.2,D,H,D
+3,OVER2_5,03/12/2023,12:00,SCOTLAND - PREMIERSHIP,Hibernian,Aberdeen,1.95,3.6,3.75,1.93,1.93,1.75,2.0,H,D,A
+4,BTTS Sim,03/12/2023,18:00,CHILE - PRIMERA DIVISION,Cobresal,Universidad de Chile,1.95,3.5,4.0,1.7,2.1,1.62,2.2,A,D,H
