@@ -14,6 +14,7 @@ from futpythontrader import *
 # In[2]:
 
 
+
 #base = pd.read_csv("https://github.com/rpthiago/ARKAD/blob/main/BASE_DE_DAD0S_FLASHSCORE/Base_FlahScore.csv?raw=true")
 base = pd.read_csv("C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/Base_FlahScore_odds.csv")
 base["Date"] = pd.to_datetime(base["Date"])
