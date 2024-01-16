@@ -1,0 +1,3 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,Media_Ptos_H,DesvPad_Ptos_H,CV_VG_H,Media_Ptos_A,DesvPad_Ptos_A,CV_VG_A,p_H,p_D,p_A,p_Over,p_Under,CV_HDA,coeficiente_pontos,cv_pontos,prediction_label,prediction_score
+1,ENGLAND - FA CUP,16/01/2024,16:30,Wolves,Brentford,1.91,3.6,4.0,2.03,1.87,1.8,1.95,1.8,1.2489996,0.516,1.3,1.4177446,0.918,0.5235602,0.2777778,0.25,0.49261084,0.53475934,0.35079414,0.5,2.667,1,0.5063
+2,ENGLAND - FA CUP,16/01/2024,16:45,Birmingham,Hull,2.2,3.75,3.1,1.7,2.1,1.62,2.2,1.5,1.2845232,0.812,1.4,1.356466,0.627,0.45454547,0.26666668,0.32258064,0.5882353,0.47619048,0.22638965,0.1,2.641,1,0.5065
