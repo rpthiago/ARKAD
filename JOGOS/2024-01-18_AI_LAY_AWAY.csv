@@ -1,0 +1,2 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,Media_Ptos_H,DesvPad_Ptos_H,CV_VG_H,Media_Ptos_A,DesvPad_Ptos_A,CV_VG_A,p_H,p_D,p_A,p_Over,p_Under,CV_HDA,coeficiente_pontos,cv_pontos,prediction_label,prediction_score
+1,AUSTRALIA - A-LEAGUE,18/01/2024,05:45,Brisbane Roar,Macarthur FC,2.05,4.2,3.1,1.4,2.88,1.4,2.75,1.6,1.4282857,0.698,0.7,1.1874342,0.627,0.4878049,0.23809524,0.32258064,0.71428573,0.3472222,0.2967281,0.9,2.616,1,1.0
