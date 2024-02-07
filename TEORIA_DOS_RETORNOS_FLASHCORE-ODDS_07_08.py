@@ -2994,7 +2994,7 @@ def TR():
 lista = [ ]
 TR()
 df00 = pd.DataFrame(lista)
-Jogos_do_Dia = jogos_do_dia.merge(df00, on=['League'])
+#Jogos_do_Dia = jogos_do_dia.merge(df00, on=['League'])
 Jogos_do_Dia.reset_index(inplace=True, drop=True)
 Jogos_do_Dia.index = Jogos_do_Dia.index.set_names(['Nº'])
 Jogos_do_Dia = Jogos_do_Dia.rename(index=lambda x: x + 1)
