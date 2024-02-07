@@ -5,7 +5,7 @@
 
 
 from datetime import date, datetime, timedelta
-data = date.today() + timedelta(1)
+data = date.today() + timedelta(0)
 print("Data de Análise:")
 
 from futpythontrader import *
@@ -25,8 +25,11 @@ base["Date"] = pd.to_datetime(base["Date"])
 
 #jogos_do_dia = pd.read_csv('https://github.com/futpythontrader/YouTube/blob/main/Jogos_do_Dia_FlashScore/'+str(data)+'_Jogos_do_Dia_FlashScore.csv?raw=true')
 # jogos_do_dia = pd.read_csv('https://github.com/rpthiago/ARKAD/blob/main/Jogos_do_Dia/'+str(data)+'_Jogos_do_Dia.csv?raw=true')
-jogos_do_dia = pd.read_csv('C:/Users/thiag/OneDrive/curso python/modelo_leandro_2/flashscore/Jogos_do_Dia/'+str(data)+'_Jogos_do_Dia.csv')
-jogos_do_dia = jogos_do_dia[['League','Round','Date','Time','Home','Away','FT_Odd_H','FT_Odd_D','FT_Odd_A','FT_Odd_Over25','FT_Odd_Under25','FT_Odd_BTTS_Yes','FT_Odd_BTTS_No']] 
+#jogos_do_dia = pd.read_csv('C:/Users/thiag/OneDrive/curso python/modelo_leandro_2/flashscore/Jogos_do_Dia/'+str(data)+'_Jogos_do_Dia.csv')
+
+jogos_do_dia = pd.read_csv('C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/Jogos_do_Dia/'+str(data)+'_Jogos_do_Dia.csv')
+
+jogos_do_dia = jogos_do_dia[['League','Round','Date','Time','Home','Away','FT_Odd_H','FT_Odd_D','FT_Odd_A','FT_Odd_Over25','FT_Odd_Under25','FT_Odd_BTTS_Yes','FT_Odd_BTTS_No']]
 jogos_do_dia.dropna(inplace=True)
 jogos_do_dia.reset_index(inplace=True, drop=True)
 jogos_do_dia.index = jogos_do_dia.index.set_names(['Nº'])
