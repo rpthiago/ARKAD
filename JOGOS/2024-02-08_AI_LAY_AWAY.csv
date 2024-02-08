@@ -1,0 +1,3 @@
+,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,Media_Ptos_H,DesvPad_Ptos_H,CV_VG_H,Media_Ptos_A,DesvPad_Ptos_A,CV_VG_A,p_H,p_D,p_A,p_Over,p_Under,CV_HDA,coeficiente_pontos,cv_pontos,prediction_label,prediction_score
+1,COLOMBIA - PRIMERA A,08/02/2024,18:00,Pereira,Fortaleza,1.8,3.5,4.75,2.15,1.67,2.0,1.73,1.4,1.356466,0.741,1.0,1.3416408,0.964,0.5555556,0.2857143,0.21052632,0.4651163,0.5988024,0.42253816,0.4,2.698,1,0.8
+2,ARGENTINA - COPA DE LA LIGA PROFESIONAL,08/02/2024,19:30,Rosario Central,Ind. Rivadavia,2.1,3.2,3.8,2.4,1.53,2.1,1.67,2.2,0.9797959,0.715,1.8,1.2489996,0.813,0.47619048,0.3125,0.2631579,0.41666666,0.6535948,0.25968775,0.4,2.229,1,1.0
