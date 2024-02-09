@@ -695,7 +695,7 @@ def pagina_18():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/Entradas_Betfair_Back_Lay_Home_{dia}.csv.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/Entradas_Betfair_Back_Lay_Home_{dia}.csv")
         
         return data_jogos
 
