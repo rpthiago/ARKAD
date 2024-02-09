@@ -21,19 +21,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/AI_LAY_HOME_BETFAIR.py",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/AI_LAY_AWAY_BETFAIR.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Batch.AI_LAY_AWAY">
+}</component>
+  <component name="RunManager" selected="Python.AI_LAY_HOME_BETFAIR">
     <configuration name="AI_LAY_AWAY" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="AI_LAY_AWAY.bat" />
@@ -42,7 +42,7 @@
     </configuration>
     <configuration name="AI_LAY_HOME" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="AI_LAY_HOME.bat" />
@@ -156,9 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AI_LAY_HOME_BETFAIR" />
         <item itemvalue="Batch.AI_LAY_AWAY" />
         <item itemvalue="Batch.AI_LAY_HOME" />
-        <item itemvalue="Python.AI_LAY_HOME_BETFAIR" />
         <item itemvalue="Python.AI_LAY_AWAY_BETFAIR" />
         <item itemvalue="Python.TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08" />
       </list>

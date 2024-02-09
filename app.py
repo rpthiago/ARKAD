@@ -645,7 +645,7 @@ def pagina_16():
 
 
 def pagina_17():
-    st.subheader("LAY_GOLEADA_H_EVENTOS_RAROS")
+    st.subheader("AI_LAY_AWAY_ODDS_BETFAIR")
 
     dia = st.date_input(
         "Data de Análise",
@@ -655,7 +655,7 @@ def pagina_17():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_GOLEADA_H_EVENTOS_RAROS.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/Entradas_Betfair_Back_Lay_AWAY_{dia}.csv")
         
         return data_jogos
 
@@ -680,12 +680,12 @@ def pagina_17():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'LAY_GOLEADA_H_EVENTOS_RAROS_{dia}.xlsx',
+        file_name=f'AI_LAY_AWAY_ODDS_BETFAIR_{dia}.xlsx',
         mime='application/vnd.ms-excel') 
     
     
 def pagina_18():
-    st.subheader("LAY_GOLEADA_A_EVENTOS_RAROS")
+    st.subheader("AI_LAY_HOME_ODDS_BETFAIR")
 
     dia = st.date_input(
         "Data de Análise",
@@ -695,7 +695,7 @@ def pagina_18():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_LAY_GOLEADA_A_EVENTOS_RAROS.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/Entradas_Betfair_Back_Lay_Home_{dia}.csv.csv")
         
         return data_jogos
 
@@ -720,207 +720,207 @@ def pagina_18():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'LAY_GOLEADA_A_EVENTOS_RAROS_{dia}.xlsx',
+        file_name=f'AI_LAY_HOME_ODDS_BETFAIR_{dia}.xlsx',
         mime='application/vnd.ms-excel')    
 
+# def pagina_19():
+#     st.subheader("Lay_0x2_EVENTOS_RAROS")
+
+#     dia = st.date_input(
+#         "Data de Análise",
+#         date.today())
+
+#     ########## Importando os Jogos do Dia ##########
+
+#     @st.cache
+#     def load_data_jogos():
+#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x2_EVENTOS_RAROS.csv")
+        
+#         return data_jogos
+
+#     df_jogos = load_data_jogos()
+
+#     df_jogos.dropna(inplace=True)
+#     df_jogos = df_jogos.reset_index(drop=True)
+#     df_jogos.index += 1
+
+#     st.table(df_jogos)
+
+#     # Define a função que retorna a planilha em formato XLSX
+#     def download_excel():
+#         output = BytesIO()
+#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
+#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+#         writer.save()
+#         processed_data = output.getvalue()
+#         return processed_data    
+    
+#     # Cria o botão de download
+#     button = st.download_button(
+#         label='Download',
+#         data=download_excel(),
+#         file_name=f'Lay_0x2_EVENTOS_RAROS_{dia}.xlsx',
+#         mime='application/vnd.ms-excel')    
+
+# def pagina_20():
+#     st.subheader("Lay_2x0_EVENTOS_RAROS")
+
+#     dia = st.date_input(
+#         "Data de Análise",
+#         date.today())
+
+#     ########## Importando os Jogos do Dia ##########
+
+#     @st.cache
+#     def load_data_jogos():
+#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_2x0_EVENTOS_RAROS.csv")
+        
+#         return data_jogos
+
+#     df_jogos = load_data_jogos()
+
+#     df_jogos.dropna(inplace=True)
+#     df_jogos = df_jogos.reset_index(drop=True)
+#     df_jogos.index += 1
+
+#     st.table(df_jogos)
+
+#     # Define a função que retorna a planilha em formato XLSX
+#     def download_excel():
+#         output = BytesIO()
+#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
+#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+#         writer.save()
+#         processed_data = output.getvalue()
+#         return processed_data    
+    
+#     # Cria o botão de download
+#     button = st.download_button(
+#         label='Download',
+#         data=download_excel(),
+#         file_name=f'Lay_2x0_EVENTOS_RAROS_{dia}.xlsx',
+#         mime='application/vnd.ms-excel')    
+
+# def pagina_21():
+#     st.subheader("Lay_2x2_EVENTOS_RAROS")
+
+#     dia = st.date_input(
+#         "Data de Análise",
+#         date.today())
+
+#     ########## Importando os Jogos do Dia ##########
+
+#     @st.cache
+#     def load_data_jogos():
+#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_2x2_EVENTOS_RAROS.csv")
+        
+#         return data_jogos
+
+#     df_jogos = load_data_jogos()
+
+#     df_jogos.dropna(inplace=True)
+#     df_jogos = df_jogos.reset_index(drop=True)
+#     df_jogos.index += 1
+
+#     st.table(df_jogos)
+
+#     # Define a função que retorna a planilha em formato XLSX
+#     def download_excel():
+#         output = BytesIO()
+#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
+#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+#         writer.save()
+#         processed_data = output.getvalue()
+#         return processed_data    
+    
+#     # Cria o botão de download
+#     button = st.download_button(
+#         label='Download',
+#         data=download_excel(),
+#         file_name=f'Lay_2x2_EVENTOS_RAROS_{dia}.xlsx',
+#         mime='application/vnd.ms-excel')    
+
+# def pagina_22():
+#     st.subheader("Lay_1x3_EVENTOS_RAROS")
+
+#     dia = st.date_input(
+#         "Data de Análise",
+#         date.today())
+
+#     ########## Importando os Jogos do Dia ##########
+
+#     @st.cache(allow_output_mutation=False)
+#     def load_data_jogos():
+#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1x3_EVENTOS_RAROS.csv")
+        
+#         return data_jogos
+
+#     df_jogos = load_data_jogos()
+
+#     df_jogos.dropna(inplace=True)
+#     df_jogos = df_jogos.reset_index(drop=True)
+#     df_jogos.index += 1
+
+#     st.table(df_jogos)
+
+#     # Define a função que retorna a planilha em formato XLSX
+#     def download_excel():
+#         output = BytesIO()
+#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
+#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+#         writer.save()
+#         processed_data = output.getvalue()
+#         return processed_data    
+    
+#     # Cria o botão de download
+#     button = st.download_button(
+#         label='Download',
+#         data=download_excel(),
+#         file_name=f'Lay_1x3_EVENTOS_RAROS_{dia}.xlsx',
+#         mime='application/vnd.ms-excel')    
+
+# def pagina_23():
+#     st.subheader("Lay_3x1_EVENTOS_RAROS")
+
+#     dia = st.date_input(
+#         "Data de Análise",
+#         date.today())
+
+#     ########## Importando os Jogos do Dia ##########
+
+#     @st.cache
+#     def load_data_jogos():
+#         data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_3x1_EVENTOS_RAROS.csv")
+        
+#         return data_jogos
+
+#     df_jogos = load_data_jogos()
+
+#     df_jogos.dropna(inplace=True)
+#     df_jogos = df_jogos.reset_index(drop=True)
+#     df_jogos.index += 1
+
+#     st.table(df_jogos)
+
+#     # Define a função que retorna a planilha em formato XLSX
+#     def download_excel():
+#         output = BytesIO()
+#         writer = pd.ExcelWriter(output, engine='xlsxwriter')
+#         df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
+#         writer.save()
+#         processed_data = output.getvalue()
+#         return processed_data    
+    
+#     # Cria o botão de download
+#     button = st.download_button(
+#         label='Download',
+#         data=download_excel(),
+#         file_name=f'Lay_3x1_EVENTOS_RAROS_{dia}.xlsx',
+#         mime='application/vnd.ms-excel')     
+
+
+    
 def pagina_19():
-    st.subheader("Lay_0x2_EVENTOS_RAROS")
-
-    dia = st.date_input(
-        "Data de Análise",
-        date.today())
-
-    ########## Importando os Jogos do Dia ##########
-
-    @st.cache
-    def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_0x2_EVENTOS_RAROS.csv")
-        
-        return data_jogos
-
-    df_jogos = load_data_jogos()
-
-    df_jogos.dropna(inplace=True)
-    df_jogos = df_jogos.reset_index(drop=True)
-    df_jogos.index += 1
-
-    st.table(df_jogos)
-
-    # Define a função que retorna a planilha em formato XLSX
-    def download_excel():
-        output = BytesIO()
-        writer = pd.ExcelWriter(output, engine='xlsxwriter')
-        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-        writer.save()
-        processed_data = output.getvalue()
-        return processed_data    
-    
-    # Cria o botão de download
-    button = st.download_button(
-        label='Download',
-        data=download_excel(),
-        file_name=f'Lay_0x2_EVENTOS_RAROS_{dia}.xlsx',
-        mime='application/vnd.ms-excel')    
-
-def pagina_20():
-    st.subheader("Lay_2x0_EVENTOS_RAROS")
-
-    dia = st.date_input(
-        "Data de Análise",
-        date.today())
-
-    ########## Importando os Jogos do Dia ##########
-
-    @st.cache
-    def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_2x0_EVENTOS_RAROS.csv")
-        
-        return data_jogos
-
-    df_jogos = load_data_jogos()
-
-    df_jogos.dropna(inplace=True)
-    df_jogos = df_jogos.reset_index(drop=True)
-    df_jogos.index += 1
-
-    st.table(df_jogos)
-
-    # Define a função que retorna a planilha em formato XLSX
-    def download_excel():
-        output = BytesIO()
-        writer = pd.ExcelWriter(output, engine='xlsxwriter')
-        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-        writer.save()
-        processed_data = output.getvalue()
-        return processed_data    
-    
-    # Cria o botão de download
-    button = st.download_button(
-        label='Download',
-        data=download_excel(),
-        file_name=f'Lay_2x0_EVENTOS_RAROS_{dia}.xlsx',
-        mime='application/vnd.ms-excel')    
-
-def pagina_21():
-    st.subheader("Lay_2x2_EVENTOS_RAROS")
-
-    dia = st.date_input(
-        "Data de Análise",
-        date.today())
-
-    ########## Importando os Jogos do Dia ##########
-
-    @st.cache
-    def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_2x2_EVENTOS_RAROS.csv")
-        
-        return data_jogos
-
-    df_jogos = load_data_jogos()
-
-    df_jogos.dropna(inplace=True)
-    df_jogos = df_jogos.reset_index(drop=True)
-    df_jogos.index += 1
-
-    st.table(df_jogos)
-
-    # Define a função que retorna a planilha em formato XLSX
-    def download_excel():
-        output = BytesIO()
-        writer = pd.ExcelWriter(output, engine='xlsxwriter')
-        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-        writer.save()
-        processed_data = output.getvalue()
-        return processed_data    
-    
-    # Cria o botão de download
-    button = st.download_button(
-        label='Download',
-        data=download_excel(),
-        file_name=f'Lay_2x2_EVENTOS_RAROS_{dia}.xlsx',
-        mime='application/vnd.ms-excel')    
-
-def pagina_22():
-    st.subheader("Lay_1x3_EVENTOS_RAROS")
-
-    dia = st.date_input(
-        "Data de Análise",
-        date.today())
-
-    ########## Importando os Jogos do Dia ##########
-
-    @st.cache(allow_output_mutation=False)
-    def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_1x3_EVENTOS_RAROS.csv")
-        
-        return data_jogos
-
-    df_jogos = load_data_jogos()
-
-    df_jogos.dropna(inplace=True)
-    df_jogos = df_jogos.reset_index(drop=True)
-    df_jogos.index += 1
-
-    st.table(df_jogos)
-
-    # Define a função que retorna a planilha em formato XLSX
-    def download_excel():
-        output = BytesIO()
-        writer = pd.ExcelWriter(output, engine='xlsxwriter')
-        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-        writer.save()
-        processed_data = output.getvalue()
-        return processed_data    
-    
-    # Cria o botão de download
-    button = st.download_button(
-        label='Download',
-        data=download_excel(),
-        file_name=f'Lay_1x3_EVENTOS_RAROS_{dia}.xlsx',
-        mime='application/vnd.ms-excel')    
-
-def pagina_23():
-    st.subheader("Lay_3x1_EVENTOS_RAROS")
-
-    dia = st.date_input(
-        "Data de Análise",
-        date.today())
-
-    ########## Importando os Jogos do Dia ##########
-
-    @st.cache
-    def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_Lay_3x1_EVENTOS_RAROS.csv")
-        
-        return data_jogos
-
-    df_jogos = load_data_jogos()
-
-    df_jogos.dropna(inplace=True)
-    df_jogos = df_jogos.reset_index(drop=True)
-    df_jogos.index += 1
-
-    st.table(df_jogos)
-
-    # Define a função que retorna a planilha em formato XLSX
-    def download_excel():
-        output = BytesIO()
-        writer = pd.ExcelWriter(output, engine='xlsxwriter')
-        df_jogos.to_excel(writer, index=False, sheet_name='Sheet1')
-        writer.save()
-        processed_data = output.getvalue()
-        return processed_data    
-    
-    # Cria o botão de download
-    button = st.download_button(
-        label='Download',
-        data=download_excel(),
-        file_name=f'Lay_3x1_EVENTOS_RAROS_{dia}.xlsx',
-        mime='application/vnd.ms-excel')     
-
-
-    
-def pagina_24():
     st.subheader("LAY_0X1_RETORNOS")
 
     dia = st.date_input(
@@ -960,7 +960,7 @@ def pagina_24():
         mime='application/vnd.ms-excel')    
     
 
-def pagina_25():
+def pagina_20():
     st.subheader("LAY_1X0_RETORNOS")
 
     dia = st.date_input(
@@ -1000,7 +1000,7 @@ def pagina_25():
         mime='application/vnd.ms-excel')     
     
  
-def pagina_26():
+def pagina_21():
     st.subheader("lay_away")
 
     dia = st.date_input(
@@ -1056,13 +1056,8 @@ paginas = ['TR - Match Odds',
            'LAY_AWAY_NEW_retorno',
            'AI_LAY_AWAY_retorno',
            'AI_LAY_AWAY',
-           'LAY_GOLEADA_H_EVENTOS_RAROS',
-           'LAY_GOLEADA_A_EVENTOS_RAROS',
-           'Lay_0x2_EVENTOS_RAROS',
-           'Lay_2x0_EVENTOS_RAROS',
-           'Lay_2x2_EVENTOS_RAROS',
-           'Lay_1x3_EVENTOS_RAROS',
-           'Lay_3x1_EVENTOS_RAROS',
+           'AI_LAY_AWAY_ODDS_BETFAIR',
+           'AI_LAY_HOME_ODDS_BETFAIR',
            'LAY_0X1_RETORNOS',
            'LAY_1X0_RETORNOS',
            'lay_away']
@@ -1101,23 +1096,13 @@ if escolha == 'AI_LAY_AWAY_retorno':
     pagina_15()
 if escolha == 'AI_LAY_AWAY':
     pagina_16()    
-if escolha == 'LAY_GOLEADA_H_EVENTOS_RAROS':
+if escolha == 'AI_LAY_AWAY_ODDS_BETFAIR':
     pagina_17()     
-if escolha == 'LAY_GOLEADA_A_EVENTOS_RAROS':
+if escolha == 'AI_LAY_HOME_ODDS_BETFAIR':
     pagina_18()
-if escolha == 'Lay_0x2_EVENTOS_RAROS':
-    pagina_19()    
-if escolha == 'Lay_2x0_EVENTOS_RAROS':
-    pagina_20()    
-if escolha == 'Lay_2x2_EVENTOS_RAROS':
-    pagina_21()    
-if escolha == 'Lay_1x3_EVENTOS_RAROS':
-    pagina_22()     
-if escolha == 'Lay_3x1_EVENTOS_RAROS':
-    pagina_23()           
 if escolha == 'LAY_0X1_RETORNOS':
-    pagina_24()    
+    pagina_19()    
 if escolha == 'LAY_1X0_RETORNOS':
-    pagina_25()
+    pagina_20()
 if escolha == 'lay_away':
-    pagina_26()   
+    pagina_21()   
