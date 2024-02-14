@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Base_de_Dados_Grupo_Arkad.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Base_de_Dados_Grupo_Arkad.bat" afterDir="false" />
-    </list>
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +27,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.AI_LAY_AWAY_BETFAIR">
+  <component name="RunManager" selected="Batch.web_2023">
     <configuration name="AI_LAY_AWAY" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO" />
@@ -45,6 +43,15 @@
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="AI_LAY_HOME.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_2023" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MODELOS LEANDRO\WEBCRAPING_JOGOS_FLASHSCORE" />
+      <option name="PARENT_ENVS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="web_2023.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
@@ -111,27 +118,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ARKAD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="futpythontrader" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.web_2023" />
         <item itemvalue="Python.AI_LAY_AWAY_BETFAIR" />
         <item itemvalue="Python.AI_LAY_HOME_BETFAIR" />
         <item itemvalue="Batch.AI_LAY_AWAY" />
         <item itemvalue="Batch.AI_LAY_HOME" />
-        <item itemvalue="Python.TEORIA_DOS_RETORNOS_FLASHCORE-ODDS_07_08" />
       </list>
     </recent_temporary>
   </component>
