@@ -5,7 +5,7 @@
 
 
 from datetime import date, datetime, timedelta
-data = date.today() + timedelta(0)
+data = date.today() + timedelta(1)
 print("Data de Análise:Retornos")
 
 from futpythontrader import *

@@ -1,0 +1,4 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,BTTS Sim,20/02/2024,16:45,ENGLAND - CHAMPIONSHIP,Southampton,Hull,1.53,4.33,6.0,1.57,2.35,1.67,2.1,A,A,H
+2,OVER2_5,20/02/2024,16:45,SCOTLAND - LEAGUE TWO,Peterhead,Bonnyrigg Rose,1.8,3.4,4.0,1.95,1.9,1.83,1.83,A,H,D
+3,BTTS Sim,20/02/2024,17:00,ENGLAND - LEAGUE ONE,Reading,Port Vale,1.91,3.6,4.0,1.9,1.95,1.75,2.0,A,H,D
