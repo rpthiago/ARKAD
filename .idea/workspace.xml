@@ -30,7 +30,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.03_Jogos_do_Dia_FlashScore (1)">
+  <component name="RunManager" selected="Python.03_Jogos_do_Dia_FlashScore">
     <configuration name="AI_LAY_AWAY" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO" />
