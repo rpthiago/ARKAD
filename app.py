@@ -999,9 +999,8 @@ def pagina_20():
         file_name=f'LAY_1X0_RETORNOS_{dia}.xlsx',
         mime='application/vnd.ms-excel')     
     
- 
 def pagina_21():
-    st.subheader("lay_away")
+    st.subheader("lAI_LAY_AWAY_MODELOGERADO")
 
     dia = st.date_input(
         "Data de Análise",
