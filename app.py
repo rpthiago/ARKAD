@@ -1011,7 +1011,7 @@ def pagina_21():
 
     @st.cache
     def load_data_jogos():
-        data_jogos = pd.read_csv(f"./JOGOS/{dia}_lay_away.csv")
+        data_jogos = pd.read_csv(f"./JOGOS/{dia}_AI_LAY_AWAY_MODELOGERADO.csv")
         
         return data_jogos
 
@@ -1036,7 +1036,7 @@ def pagina_21():
     button = st.download_button(
         label='Download',
         data=download_excel(),
-        file_name=f'lay_away_{dia}.xlsx',
+        file_name=f'AI_LAY_AWAY_MODELOGERADO_{dia}.xlsx',
         mime='application/vnd.ms-excel')  
 
     
@@ -1060,7 +1060,7 @@ paginas = ['TR - Match Odds',
            'AI_LAY_HOME_ODDS_BETFAIR',
            'LAY_0X1_RETORNOS',
            'LAY_1X0_RETORNOS',
-           'lay_away']
+           'AI_LAY_AWAY_MODELOGERADO']
 
 escolha = st.sidebar.radio('',paginas)
 
@@ -1104,5 +1104,5 @@ if escolha == 'LAY_0X1_RETORNOS':
     pagina_19()    
 if escolha == 'LAY_1X0_RETORNOS':
     pagina_20()
-if escolha == 'lay_away':
+if escolha == 'AI_LAY_AWAY_MODELOGERADO':
     pagina_21()   
