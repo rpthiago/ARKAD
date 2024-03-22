@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base_FlahScore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Base_FlahScore.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +26,14 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/PrimeirometodoAI/MODELO_3.bat",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/PrimeirometodoAI/MODELO_2_AI.py",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Batch.MODELO_3">
+  <component name="RunManager" selected="Python.MODELO_2_AI">
     <configuration name="MODELO_2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO\PrimeirometodoAI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="MODELO_2.bat" />
@@ -41,7 +42,7 @@
     </configuration>
     <configuration name="MODELO_3" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO\PrimeirometodoAI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="MODELO_3.bat" />
@@ -118,7 +119,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\envs\pycaret\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -197,10 +198,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MODELO_2_AI" />
+        <item itemvalue="Batch.MODELO_2" />
         <item itemvalue="Batch.MODELO_3" />
         <item itemvalue="Python.MODELO_3_AI" />
-        <item itemvalue="Batch.MODELO_2" />
-        <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Python.02_Gera_Base_FlashScore" />
       </list>
     </recent_temporary>
