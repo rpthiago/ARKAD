@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS/2024-03-23_AI_LAY_AWAY_MODELOGERADO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2024-03-23_AI_LAY_AWAY_MODELOGERADO.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +25,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/PrimeirometodoAI/MODELO_2_AI.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/NBA/NBA/NBA_BASE.bat",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.MODELO_3_AI">
+  <component name="RunManager" selected="Batch.NBA_BASE">
     <configuration name="MODELO_2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
@@ -40,12 +39,12 @@
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MODELO_3" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+    <configuration name="NBA_BASE" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\NBA\NBA" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="MODELO_3.bat" />
+      <option name="SCRIPT_NAME" value="NBA_BASE.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
@@ -62,27 +61,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELO_BETFAIR/01_WebScraping_BetExplorer_Base_de_Dados.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_Gera_Base_FlashScore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ARKAD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\thiag\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/02_Gera_Base_FlashScore.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,6 +132,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="NBA_BASE_2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ARKAD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/NBA/NBA" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/NBA/NBA/NBA_BASE_2024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="futpythontrader" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.NBA_BASE" />
+        <item itemvalue="Python.NBA_BASE_2024" />
         <item itemvalue="Python.MODELO_3_AI" />
         <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Batch.MODELO_2" />
-        <item itemvalue="Batch.MODELO_3" />
-        <item itemvalue="Python.02_Gera_Base_FlashScore" />
       </list>
     </recent_temporary>
   </component>

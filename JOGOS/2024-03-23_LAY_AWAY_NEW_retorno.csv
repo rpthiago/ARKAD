@@ -1,15 +1,13 @@
 ,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
-1,Lay Away New,23/03/2024,09:30,ENGLAND - LEAGUE TWO,Mansfield,Colchester,1.45,4.75,7.0,1.48,2.6,1.62,2.2,A,A,H
-2,Lay Away New,23/03/2024,12:00,SPAIN - PRIMERA RFEF,Cordoba,San Fernando,1.4,4.5,5.75,2.0,1.8,2.5,1.5,D,H,D
-3,Lay Away New,23/03/2024,12:00,SCOTLAND - LEAGUE TWO,Dumbarton,Bonnyrigg Rose,1.62,3.6,5.0,1.78,2.1,1.8,1.91,D,A,H
-4,Lay Away New,23/03/2024,12:00,SCOTLAND - CHAMPIONSHIP,Dundee Utd,Inverness,1.4,4.33,5.25,1.93,1.93,2.2,1.62,A,H,H
-5,Lay Away New,23/03/2024,16:00,SPAIN - PRIMERA RFEF,Sabadell,Arenteiro,2.1,2.9,3.6,2.5,1.5,2.2,1.62,D,H,D
-6,Lay Away New,23/03/2024,17:00,SPAIN - LALIGA2,Espanyol,Tenerife,2.0,3.0,4.5,2.7,1.44,2.25,1.57,A,H,D
-7,Lay Away New,23/03/2024,17:30,ECUADOR - LIGA PRO,Imbabura,Cumbaya FC,1.73,3.75,4.2,1.8,2.0,1.73,2.0,D,H,H
-8,Lay Away New,23/03/2024,20:20,COLOMBIA - PRIMERA A,Jaguares de Cordoba,Fortaleza EC,2.25,3.0,3.6,2.6,1.48,2.2,1.62,D,H,D
-9,Lay Away New,23/03/2024,20:30,USA - MLS,Charlotte FC,Columbus,2.88,3.5,2.38,1.98,1.88,1.75,2.0,A,D,H
-10,Lay Away New,23/03/2024,20:30,USA - MLS,FC Cincinnati,New York City,1.85,3.6,4.0,1.98,1.88,1.8,1.95,A,D,H
-11,Lay Away New,23/03/2024,20:30,USA - MLS,Vancouver Whitecaps,Real Salt Lake,1.83,3.6,4.33,1.7,2.1,1.67,2.1,A,D,H
-12,Lay Away New,23/03/2024,21:30,USA - MLS,St Louis City SC,DC Utd,2.0,3.6,3.75,1.7,2.1,1.62,2.2,A,D,H
-13,Lay Away New,23/03/2024,21:30,USA - MLS,Kansas City,LA Galaxy,1.95,3.75,3.6,1.5,2.5,1.44,2.63,A,D,H
-14,Lay Away New,23/03/2024,22:30,USA - MLS,Colorado,Houston Dynamo,2.15,3.4,3.4,2.08,1.73,1.91,1.91,A,D,H
+1,Lay Away New,23/03/2024,12:00,ENGLAND - LEAGUE TWO,Crewe,AFC Wimbledon,2.55,3.25,2.88,2.05,1.75,1.8,1.91,H,H,H
+2,Lay Away New,23/03/2024,12:00,SPAIN - PRIMERA RFEF,Cordoba,San Fernando,1.4,4.5,5.75,2.0,1.8,2.5,1.5,A,H,D
+3,Lay Away New,23/03/2024,12:00,SPAIN - PRIMERA RFEF,Sanluqueno,Murcia,2.25,2.88,3.1,2.5,1.5,2.1,1.67,A,H,D
+4,Lay Away New,23/03/2024,12:00,SPAIN - PRIMERA RFEF,R. Sociedad B,Teruel,1.7,3.2,4.75,2.38,1.53,2.25,1.57,A,H,D
+5,Lay Away New,23/03/2024,12:00,SCOTLAND - LEAGUE ONE,Stirling,Montrose,2.4,3.5,2.45,1.75,2.05,1.62,2.2,D,H,H
+6,Lay Away New,23/03/2024,12:00,SCOTLAND - CHAMPIONSHIP,Dundee Utd,Inverness,1.4,4.33,5.25,1.93,1.93,2.2,1.62,A,A,H
+7,Lay Away New,23/03/2024,14:00,SPAIN - PRIMERA RFEF,Real Madrid B,Castellon,2.63,3.3,2.25,1.95,1.85,1.73,2.0,A,H,D
+8,Lay Away New,23/03/2024,15:00,USA - MLS,New England,Chicago Fire,1.85,3.75,4.0,1.67,2.15,1.62,2.2,A,H,H
+9,Lay Away New,23/03/2024,16:00,NETHERLANDS - EERSTE DIVISIE,MVV Maastricht,Den Bosch,1.95,3.8,3.5,1.6,2.3,1.57,2.25,H,A,A
+10,Lay Away New,23/03/2024,20:30,USA - MLS,Orlando City,Austin FC,1.57,4.0,6.0,1.67,2.15,1.75,2.0,A,H,H
+11,Lay Away New,23/03/2024,21:30,USA - MLS,Kansas City,LA Galaxy,1.95,3.75,3.6,1.5,2.5,1.44,2.63,A,H,H
+12,Lay Away New,23/03/2024,22:30,USA - MLS,Colorado,Houston Dynamo,2.15,3.4,3.4,2.08,1.73,1.91,1.91,A,H,H
