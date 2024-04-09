@@ -4,6 +4,7 @@
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Base_FlahScore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Base_FlahScore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JOGOS/2024-04-08_AI_LAY_AWAY_MODELOGERADO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS/2024-04-08_AI_LAY_AWAY_MODELOGERADO.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +22,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/02_Gera_Base_FlashScore.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/PrimeirometodoAI/MODELO_3_AI.py",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Batch.MODELO_3">
+}]]></component>
+  <component name="RunManager" selected="Python.MODELO_3_AI">
     <configuration name="MODELO_2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO\PrimeirometodoAI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="MODELO_2.bat" />
@@ -42,7 +43,7 @@
     </configuration>
     <configuration name="MODELO_3" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\MENTORIA LEANDRO\PrimeirometodoAI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="MODELO_3.bat" />
@@ -198,10 +199,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MODELO_3_AI" />
         <item itemvalue="Batch.MODELO_3" />
         <item itemvalue="Batch.MODELO_2" />
         <item itemvalue="Python.MODELO_2_AI" />
-        <item itemvalue="Python.MODELO_3_AI" />
         <item itemvalue="Python.02_Gera_Base_FlashScore" />
       </list>
     </recent_temporary>
