@@ -1,0 +1,15 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,Lay Away New,05/05/2024,09:30,NETHERLANDS - EREDIVISIE,FC Utrecht,Vitesse Arnhem,1.33,5.5,8.0,1.44,2.7,1.75,2.0,H,A,D
+2,Lay Away New,05/05/2024,09:30,AUSTRIA - BUNDESLIGA,Sturm Graz,Hartberg,1.4,4.5,8.5,1.65,2.2,1.91,1.91,H,D,D
+3,Lay Away New,05/05/2024,10:00,POLAND - DIVISION 1,Wisla Plock,Motor Lublin,2.05,3.25,3.1,1.88,1.98,1.67,2.1,A,D,H
+4,Lay Away New,05/05/2024,10:00,FINLAND - VEIKKAUSLIIGA,Gnistan,Haka,2.5,3.4,2.7,1.9,1.95,1.7,2.05,D,H,D
+5,Lay Away New,05/05/2024,10:00,ENGLAND - PREMIER LEAGUE,Chelsea,West Ham,1.6,4.5,4.75,1.36,3.2,1.44,2.63,H,D,D
+6,Lay Away New,05/05/2024,11:00,BELGIUM - JUPILER PRO LEAGUE,Leuven,St. Liege,2.3,3.5,2.88,1.7,2.1,1.57,2.25,A,D,H
+7,Lay Away New,05/05/2024,11:30,SWEDEN - ALLSVENSKAN,Hammarby,Varnamo,1.5,4.2,6.5,1.67,2.15,1.8,1.95,H,A,H
+8,Lay Away New,05/05/2024,12:30,ENGLAND - PREMIER LEAGUE,Liverpool,Tottenham,1.44,5.75,5.5,1.25,4.0,1.4,2.75,H,D,D
+9,Lay Away New,05/05/2024,15:00,ECUADOR - LIGA PRO,Aucas,Libertad FC,1.4,4.5,6.5,1.88,1.93,2.1,1.67,A,H,D
+10,Lay Away New,05/05/2024,15:30,ARGENTINA - COPA DE LA LIGA PROFESIONAL,Estudiantes,Velez Sarsfield,2.4,3.2,3.1,2.4,1.53,2.0,1.73,H,A,D
+11,Lay Away New,05/05/2024,16:00,BOLIVIA - DIVISION PROFESIONAL,SA Bulo Bulo,Universitario de Vinto,1.55,3.8,5.0,1.85,1.95,1.91,1.8,A,H,A
+12,Lay Away New,05/05/2024,17:00,ARGENTINA - PRIMERA NACIONAL,Ferro Carril Oeste,Gimnasia Jujuy,1.91,3.3,4.2,2.25,1.62,1.91,1.8,D,H,D
+13,Lay Away New,05/05/2024,17:00,USA - MLS,New York City,Colorado,1.75,3.6,4.75,2.0,1.85,1.91,1.91,A,D,H
+14,Lay Away New,05/05/2024,17:30,ECUADOR - LIGA PRO,Independiente (Ecu),Deportivo Cuenca,1.33,5.0,7.5,1.44,2.7,1.73,2.0,A,H,D
