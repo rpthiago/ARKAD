@@ -1,0 +1,7 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,BTTS Sim,15/05/2024,07:00,SOUTH KOREA - K LEAGUE 2,FC Anyang,Gyeongnam,2.05,3.1,3.3,1.88,1.93,1.67,2.1,A,H,D
+2,OVER2_5,15/05/2024,15:45,SCOTLAND - PREMIERSHIP,Hibernian,Motherwell,1.9,3.7,3.9,1.73,2.1,1.62,2.2,A,H,D
+3,OVER2_5,15/05/2024,21:30,USA - MLS,Nashville SC,Toronto FC,1.57,4.33,5.25,1.83,2.03,1.91,1.91,A,H,D
+4,OVER2_5,15/05/2024,21:30,USA - MLS,Chicago Fire,Charlotte FC,2.15,3.4,3.3,1.85,2.0,1.7,2.05,A,H,D
+5,OVER2_5,15/05/2024,22:30,USA - MLS,Colorado,Vancouver Whitecaps,2.1,3.8,3.25,1.67,2.15,1.62,2.2,A,H,D
+6,BTTS Sim,15/05/2024,23:30,USA - MLS,Portland Timbers,San Jose Earthquakes,1.85,4.0,3.8,1.53,2.4,1.5,2.5,A,H,D
