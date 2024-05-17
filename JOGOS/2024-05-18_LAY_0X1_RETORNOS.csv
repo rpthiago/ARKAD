@@ -1,0 +1,8 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,OVER2_5,18/05/2024,07:00,PORTUGAL - LIGA PORTUGAL 2,Feirense,Vilaverdense,1.83,3.6,3.5,1.75,2.05,1.67,2.1,D,H,D
+2,BTTS Sim,18/05/2024,12:15,ENGLAND - LEAGUE ONE,Bolton,Oxford Utd,1.85,3.5,4.1,1.93,1.93,1.8,1.95,D,A,H
+3,OVER2_5,18/05/2024,15:00,ROMANIA - LIGA 1,Universitatea Craiova,ACS Sepsi OSK,1.53,4.2,5.25,1.62,2.25,1.73,2.0,H,A,D
+4,OVER2_5,18/05/2024,20:30,USA - MLS,Toronto FC,CF Montreal,1.91,3.6,4.0,1.75,2.05,1.67,2.1,A,H,A
+5,BTTS Sim,18/05/2024,20:30,USA - MLS,FC Cincinnati,St Louis City SC,1.8,3.8,4.1,1.67,2.15,1.67,2.1,A,H,A
+6,BTTS Sim,18/05/2024,21:30,USA - MLS,Minnesota Utd,Portland Timbers,1.75,4.0,4.1,1.5,2.5,1.5,2.5,A,H,A
+7,BTTS Sim,18/05/2024,22:30,USA - MLS,Real Salt Lake,Colorado,1.73,3.8,4.5,1.62,2.25,1.62,2.2,A,H,A
