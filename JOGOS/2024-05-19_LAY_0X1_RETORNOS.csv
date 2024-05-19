@@ -1,0 +1,5 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,OVER2_5,19/05/2024,08:00,SWEDEN - SUPERETTAN,Landskrona,Orebro,1.8,3.9,4.0,1.88,1.98,1.8,1.95,D,H,D
+2,OVER2_5,19/05/2024,09:00,SWEDEN - ALLSVENSKAN,Brommapojkarna,Norrkoping,1.9,3.6,3.75,1.65,2.2,1.57,2.25,D,H,H
+3,BTTS Sim,19/05/2024,15:30,POLAND - DIVISION 1,Lechia Gdansk,Arka Gdynia,2.2,3.1,2.9,1.85,2.0,1.67,2.1,H,D,A
+4,OVER2_5,19/05/2024,16:00,BRAZIL - SERIE A,Atletico MG,Bahia,1.73,3.75,4.5,2.0,1.8,1.95,1.8,H,A,A
