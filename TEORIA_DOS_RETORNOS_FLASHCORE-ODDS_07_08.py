@@ -3008,6 +3008,18 @@ df00.to_csv(f'./Teoria_dos_Retornos/{data}_{nome}', index = False)
 df00
 
 
+
+import os
+import subprocess
+
+os.chdir('C:/Users/thiag/OneDrive/Documentos/GitHub/ARKAD/')
+
+subprocess.run(["git", "add", "."], check=True)
+subprocess.run(["git", "commit", "-m", "Update"], check=True)
+subprocess.run(["git", "push"], check=True)
+
+
+print('encerrado')
 # In[ ]:
 
 
