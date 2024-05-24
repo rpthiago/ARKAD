@@ -29,7 +29,7 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Teoria_dos_Retornos_MO,_OU,_BTTS">
+  <component name="RunManager" selected="Batch.Teoria_dos_retornos_jogos_do_dia">
     <configuration name="MODELO_2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
@@ -197,8 +197,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Batch.Teoria_dos_retornos_jogos_do_dia" />
+        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Python.MODELO_3_AI" />
         <item itemvalue="Python.tela3" />
         <item itemvalue="Batch.MODELO_2" />
