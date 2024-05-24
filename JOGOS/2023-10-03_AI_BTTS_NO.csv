@@ -1,4 +1,0 @@
-,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_Under,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
-1,SPAIN - LALIGA2,03/10/2023,14:00,Levante,Villarreal B,1.65,3.75,5.5,1.88,1.98,1.83,1.13,1.83,1.4,1.2,0.7,1.5,0.6060606,0.26666668,0.18181819,0.5319149,0.5050505,0.885,0.5214389,0.7,-0.3,0,0.5132
-2,SPAIN - LALIGA2,03/10/2023,14:00,Alcorcon,Albacete,2.9,3.2,2.55,2.25,1.62,1.83,1.07,1.83,0.9,0.8,1.1,1.5,0.3448276,0.3125,0.39215687,0.44444445,0.61728394,0.935,0.09350719,-0.2,-0.7,0,0.5236
-3,SPAIN - LALIGA2,03/10/2023,16:30,Tenerife,Racing Santander,1.85,3.3,4.75,2.35,1.57,2.2,1.05,1.62,1.6,0.5,0.8,1.5,0.5405405,0.3030303,0.21052632,0.42553192,0.6369427,0.952,0.3955861,0.8,-1.0,0,0.6406

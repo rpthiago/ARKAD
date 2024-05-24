@@ -1,3 +1,0 @@
-,League,Date,Time,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_Under45,FT_Odd_BTTS_No,mean10_gols_feitos_home_ft,mean10_gols_sofridos_home_ft,mean10_gols_feitos_away_ft,mean10_gols_sofridos_away_ft,p_H,p_D,p_A,p_Over,p_under45,CV_HDA,coeficiente10_gols_feitos,coeficiente10_gols_sofridos,prediction_label,prediction_score
-1,ARGENTINA - PRIMERA NACIONAL,05/09/2023,15:30,Dep. Riestra,Chacarita Juniors,2.63,3.0,2.9,2.6,1.48,2.1,1.04,1.67,1.5,0.9,1.1,0.8,0.38,0.333,0.345,0.385,0.962,0.057,0.4,0.1,1,0.5493
-2,ARGENTINA - PRIMERA NACIONAL,05/09/2023,21:10,Atletico Atlanta,Aldosivi,2.05,3.2,3.8,2.5,1.5,2.2,1.05,1.62,1.7,1.6,1.0,1.6,0.488,0.312,0.263,0.4,0.952,0.273,0.7,0.0,1,0.6743
