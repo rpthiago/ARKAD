@@ -1,0 +1,7 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,OVER2_5,25/05/2024,12:30,AUSTRIA - 2. LIGA,Stripfing,Floridsdorfer AC,2.1,3.7,3.0,1.6,2.22,1.53,2.35,A,D,H
+2,OVER2_5,25/05/2024,12:30,POLAND - EKSTRAKLASA,Pogon Szczecin,Gornik Zabrze,1.85,3.7,3.4,1.53,2.4,1.5,2.5,H,D,D
+3,BTTS Sim,25/05/2024,15:30,BELGIUM - JUPILER PRO LEAGUE,KV Mechelen,St. Liege,1.85,3.75,3.75,1.53,2.4,1.53,2.38,H,A,H
+4,OVER2_5,25/05/2024,18:30,CHILE - PRIMERA DIVISION,Univ Catolica (Chile),Cobreloa,1.6,3.9,5.5,1.8,2.0,1.8,1.91,A,H,D
+5,OVER2_5,25/05/2024,22:00,ECUADOR - LIGA PRO,LDU,Univ Catolica (Chile),2.0,3.4,3.4,1.83,1.98,1.67,2.1,H,H,H
+6,OVER2_5,25/05/2024,23:30,USA - MLS,Vancouver Whitecaps,Inter Miami CF,1.8,4.1,3.8,1.57,2.35,1.57,2.25,A,H,A
