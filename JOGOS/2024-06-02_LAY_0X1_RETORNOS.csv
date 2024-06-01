@@ -1,0 +1,4 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,OVER2_5,02/06/2024,11:30,SWEDEN - ALLSVENSKAN,Hacken,AIK,2.0,3.6,3.5,1.57,2.35,1.53,2.38,H,H,A
+2,OVER2_5,02/06/2024,16:00,BRAZIL - SERIE A,Atletico MG,Bahia,1.73,3.8,4.75,1.98,1.92,1.91,1.91,H,A,A
+3,BTTS Sim,02/06/2024,17:45,USA - MLS,Atlanta Utd,Charlotte FC,1.8,3.6,4.5,1.7,2.1,1.62,2.2,H,A,A
