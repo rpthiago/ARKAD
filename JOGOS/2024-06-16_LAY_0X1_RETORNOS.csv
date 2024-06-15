@@ -1,0 +1,4 @@
+,Entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No,N1,N2,N3
+1,BTTS Sim,16/06/2024,08:35,CHINA - SUPER LEAGUE,Shanghai Shenhua,Chengdu Rongcheng,1.9,3.5,4.0,1.8,2.05,1.67,2.1,H,D,H
+2,BTTS Sim,16/06/2024,10:00,NORWAY - OBOS-LIGAEN,Lyn,Sogndal,1.91,3.7,3.4,1.57,2.35,1.53,2.38,H,H,H
+3,OVER2_5,16/06/2024,10:00,NORWAY - OBOS-LIGAEN,Levanger,Aalesunds,1.8,3.8,3.7,1.57,2.35,1.53,2.38,H,H,H
