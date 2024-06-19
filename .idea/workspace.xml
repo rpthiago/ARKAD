@@ -25,11 +25,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/web_2023.bat",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MENTORIA LEANDRO/PrimeirometodoAI/MODELO_2_AI.py",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Batch.MODELO_2">
+  <component name="RunManager" selected="Python.MODELO_2_AI">
     <configuration name="MODELO_2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MENTORIA LEANDRO/PrimeirometodoAI" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Teoria_dos_Retornos_MO,_OU,_BTTS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WebScraping_FlashScore_Atualizacao_2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/Teoria_dos_Retornos_MO,_OU,_BTTS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/WebScraping_FlashScore_Atualizacao_2024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Batch.MODELO_2" />
         <item itemvalue="Python.MODELO_2_AI" />
+        <item itemvalue="Python.WebScraping_FlashScore_Atualizacao_2024" />
+        <item itemvalue="Batch.MODELO_2" />
         <item itemvalue="Python.generate_keys" />
         <item itemvalue="Batch.Teoria_dos_retornos_jogos_do_dia" />
-        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
       </list>
     </recent_temporary>
   </component>
