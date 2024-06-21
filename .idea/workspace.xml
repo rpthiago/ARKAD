@@ -23,7 +23,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/JOGOS_DO_DIA.bat",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/jogos_dia_transform(last)_flashscore_31_07.py",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
@@ -35,7 +35,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03_Jogos_do_Dia_FlashScore">
+  <component name="RunManager" selected="Python.MODELO_2_AI">
     <configuration name="JOGOS_DO_DIA_BETFAIR" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS" />
