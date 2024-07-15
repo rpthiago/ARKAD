@@ -25,7 +25,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/WebScraping_FlashScore_Atualizacao_2024_2025.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/web_2024_2025.bat",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
@@ -42,13 +42,13 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_Gera_Base_FlashScore">
-    <configuration name="Teoria_dos_retornos_jogos_do_dia" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+  <component name="RunManager" selected="Batch.web_2024_2025">
+    <configuration name="web_2024_2025" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="Teoria_dos_retornos_jogos_do_dia.bat" />
+      <option name="SCRIPT_NAME" value="web_2024_2025.bat" />
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
@@ -222,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_Gera_Base_FlashScore" />
+        <item itemvalue="Batch.web_2024_2025" />
         <item itemvalue="Python.WebScraping_FlashScore_Atualizacao_2024_2025" />
+        <item itemvalue="Python.02_Gera_Base_FlashScore" />
         <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Python.generate_keys" />
-        <item itemvalue="Batch.Teoria_dos_retornos_jogos_do_dia" />
       </list>
     </recent_temporary>
   </component>
