@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base_de_Dados_Grupo_Arkad.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Base_de_Dados_Grupo_Arkad.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/jogos_dia_transform(last)_flashscore_31_07.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/webscraping.py",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
@@ -43,7 +42,7 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jogos_dia_transform(last)_flashscore_31_07">
+  <component name="RunManager" selected="Python.WebScraping_FlashScore_Atualizacao_2024">
     <configuration name="web_2023" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE" />
@@ -199,8 +198,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Python.WebScraping_FlashScore_Atualizacao_2024" />
+        <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Batch.web_2023" />
         <item itemvalue="Batch.web_2024_2025" />
         <item itemvalue="Batch.web_2023_2024" />
