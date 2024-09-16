@@ -42,7 +42,7 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jogos_dia_transform(last)_flashscore_31_07">
+  <component name="RunManager" selected="Python.MODELO_2_AI">
     <configuration name="01_Jogos_do_Dia_Betfair" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Python.02_Gera_Base_FlashScore" />
         <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Python.WebScraping_FlashScore_Atualizacao_2024" />
         <item itemvalue="Python.webscraping" />
-        <item itemvalue="Python.MODELO_2_AI" />
       </list>
     </recent_temporary>
   </component>
