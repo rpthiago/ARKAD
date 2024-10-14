@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,16 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Teoria_dos_Retornos_MO,_OU,_BTTS">
+  <component name="RunManager" selected="Python.02_Atualizacao_Bases_FlashScore_ATUALIZADO_08_09_2024">
+    <configuration name="02_ATUALIZACAO_BASES_FLASHSCORE" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS" />
+      <option name="PARENT_ENVS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="02_ATUALIZACAO_BASES_FLASHSCORE.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="GERAR_BASE_BETFAIR" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/base_flash_betfair" />
@@ -105,27 +116,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/MODELOS LEANDRO/WEBCRAPING_JOGOS_FLASHSCORE/03_Jogos_do_Dia_FlashScore.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GERAR_BASE_BETFAIR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ARKAD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/base_flash_betfair" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/base_flash_betfair/GERAR_BASE_BETFAIR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Python.02_Atualizacao_Bases_FlashScore_ATUALIZADO_08_09_2024" />
+        <item itemvalue="Batch.02_ATUALIZACAO_BASES_FLASHSCORE" />
+        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Python.MODELO_2_AI" />
         <item itemvalue="Batch.GERAR_BASE_BETFAIR" />
-        <item itemvalue="Python.GERAR_BASE_BETFAIR" />
       </list>
     </recent_temporary>
   </component>
