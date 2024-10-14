@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base_flash_betfair_2024-09-16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base_flash_betfair_2024-09-19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base_flash_betfair_2024-09-21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base_flash_betfair_2024-09-23.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +23,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/02_Atualizacao_Bases_FlashScore_ATUALIZADO_08_09_2024.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/rename.py",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
