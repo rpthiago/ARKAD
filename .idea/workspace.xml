@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Batch.JOGOS_DO_DIA_BETFAIR">
+  <component name="RunManager" selected="Python.LAY0X1_PYCARET_BETFAIR">
     <configuration name="02_ATUALIZACAO_BASES_FLASHSCORE" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS" />
@@ -208,8 +210,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Batch.JOGOS_DO_DIA_BETFAIR" />
         <item itemvalue="Python.LAY0X1_PYCARET_BETFAIR" />
+        <item itemvalue="Batch.JOGOS_DO_DIA_BETFAIR" />
         <item itemvalue="Python.02_Atualizacao_Bases_FlashScore_ATUALIZADO_08_09_2024" />
         <item itemvalue="Python.GERAR_BASE_BETFAIR" />
         <item itemvalue="Batch.02_ATUALIZACAO_BASES_FLASHSCORE" />
