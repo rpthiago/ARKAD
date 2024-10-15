@@ -1,10 +1,10 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,USA - MLS,2024-04-06,Austin FC,San Jose Earthquakes,4.0,3.0,2.02,3.4,4.2,13.0,1,1,0.94,0.94
-2,USA - MLS,2024-04-06,Nashville SC,Philadelphia Union,1.0,2.0,2.78,3.2,2.92,9.4,1,1,0.94,1.88
-3,USA - MLS,2024-04-06,St. Louis City,FC Dallas,0.0,0.0,1.7,4.0,5.6,18.0,1,1,0.94,2.82
-4,VENEZUELA - LIGA FUTVE,2024-04-06,La Guaira,Portuguesa,0.0,2.0,2.22,2.82,4.5,10.5,1,1,0.94,3.76
-5,PERU - LIGA 1,2024-04-06,Cienciano,Cajamarca,1.0,1.0,1.47,4.1,7.0,27.0,1,1,0.94,4.699999999999999
-6,MEXICO - LIGA MX,2024-04-06,U.A.N.L.- Tigres,Pachuca,0.0,3.0,2.66,3.75,2.7,14.5,1,1,0.94,5.639999999999999
-7,MEXICO - LIGA MX,2024-04-06,Guadalajara Chivas,Puebla,3.0,2.0,1.36,5.9,9.6,40.0,1,1,0.94,6.579999999999998
-8,COLOMBIA - PRIMERA A,2024-04-06,America De Cali,Junior,4.0,1.0,1.52,4.6,7.4,21.0,1,1,0.94,7.519999999999998
-9,USA - MLS,2024-04-06,Seattle Sounders,CF Montreal,5.0,0.0,1.67,4.1,5.9,21.0,1,1,0.94,8.459999999999997
+,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
+1,USA - MLS,2024-04-06,21:30:00,Austin FC,San Jose Earthquakes,4.0,3.0,2.02,3.4,4.2,13.0,1,1,0.94,0.94
+2,USA - MLS,2024-04-06,21:30:00,Nashville SC,Philadelphia Union,1.0,2.0,2.78,3.2,2.92,9.4,1,1,0.94,1.88
+3,USA - MLS,2024-04-06,21:30:00,St. Louis City,FC Dallas,0.0,0.0,1.7,4.0,5.6,18.0,1,1,0.94,2.82
+4,VENEZUELA - LIGA FUTVE,2024-04-06,21:30:00,La Guaira,Portuguesa,0.0,2.0,2.22,2.82,4.5,10.5,1,1,0.94,3.76
+5,PERU - LIGA 1,2024-04-06,21:30:00,Cienciano,Cajamarca,1.0,1.0,1.47,4.1,7.0,27.0,1,1,0.94,4.699999999999999
+6,MEXICO - LIGA MX,2024-04-06,22:00:00,U.A.N.L.- Tigres,Pachuca,0.0,3.0,2.66,3.75,2.7,14.5,1,1,0.94,5.639999999999999
+7,MEXICO - LIGA MX,2024-04-06,22:05:00,Guadalajara Chivas,Puebla,3.0,2.0,1.36,5.9,9.6,40.0,1,1,0.94,6.579999999999998
+8,COLOMBIA - PRIMERA A,2024-04-06,22:20:00,America De Cali,Junior,4.0,1.0,1.52,4.6,7.4,21.0,1,1,0.94,7.519999999999998
+9,USA - MLS,2024-04-06,23:30:00,Seattle Sounders,CF Montreal,5.0,0.0,1.67,4.1,5.9,21.0,1,1,0.94,8.459999999999997
