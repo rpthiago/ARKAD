@@ -1,6 +1,6 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,ROMANIA - LIGA 2,2024-08-06,Steaua Bucuresti,FC Arges,0.0,0.0,2.16,3.25,3.5,980.0,1,1,0.94,0.94
-2,VENEZUELA - LIGA FUTVE,2024-08-06,Universidad Central,Inter de Barinas,4.0,0.0,1.86,3.4,4.9,980.0,1,1,0.94,1.88
-3,VENEZUELA - LIGA FUTVE,2024-08-06,Universidad Central,Inter de Barinas,0.0,0.0,1.86,3.4,4.9,980.0,1,1,0.94,2.82
-4,BRAZIL - SERIE B,2024-08-06,Ceara,Guarani,3.0,1.0,1.6,3.9,7.2,19.5,1,1,0.94,3.76
-5,COLOMBIA - PRIMERA A,2024-08-06,Pereira,Chico,1.0,0.0,2.0,3.3,4.6,13.5,1,1,0.94,4.699999999999999
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-08-06,11:00:00,ROMANIA - LIGA 2,CSM Resita,FC Botosani,2.6,2.86,3.15,980.0,1.2312518
+2,2024-08-06,13:00:00,ROMANIA - LIGA 2,Steaua Bucuresti,FC Arges,2.16,3.5,3.25,980.0,1.2312521
+3,2024-08-06,18:45:00,VENEZUELA - LIGA FUTVE,Universidad Central,Inter de Barinas,1.86,4.9,3.4,980.0,1.2314963
+4,2024-08-06,21:00:00,BRAZIL - SERIE B,Ceara,Guarani,1.6,7.2,3.9,19.5,1.2312043
+5,2024-08-06,22:00:00,COLOMBIA - PRIMERA A,Pereira,Chico,2.0,4.6,3.3,13.5,1.2312671

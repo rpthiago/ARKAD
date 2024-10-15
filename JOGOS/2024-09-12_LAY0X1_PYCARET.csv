@@ -1,4 +1,5 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,ENGLAND - LEAGUE TWO,2024-09-12,Harrogate,Doncaster,2.0,0.0,4.8,4.1,1.8,10.5,1,1,0.94,0.94
-2,BOLIVIA - DIVISION PROFESIONAL,2024-09-12,Royal Pari,Guabira,3.0,3.0,1.96,3.65,4.3,17.5,1,1,0.94,1.88
-3,COLOMBIA - PRIMERA A,2024-09-12,Pereira,Alianza,1.0,0.0,1.85,3.15,5.3,15.0,1,1,0.94,2.82
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-09-12,14:00:00,ROMANIA - LIGA 2,FC Botosani,ASA Unirea Ungheni,1.48,2.66,3.7,980.0,1.2328705
+2,2024-09-12,16:00:00,ENGLAND - LEAGUE TWO,Harrogate,Doncaster,4.8,1.8,4.1,10.5,1.2327515
+3,2024-09-12,20:00:00,BOLIVIA - DIVISION PROFESIONAL,Royal Pari,Guabira,1.96,4.3,3.65,17.5,1.2329018
+4,2024-09-12,21:30:00,COLOMBIA - PRIMERA A,Pereira,Alianza,1.85,5.3,3.15,15.0,1.2328126

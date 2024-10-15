@@ -1,3 +1,7 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,BRAZIL - SERIE B,2024-07-02,Goias,America MG,2.0,1.0,2.38,3.2,3.6,11.5,1,1,0.94,0.94
-2,BRAZIL - SERIE B,2024-07-02,Novorizontino,Mirassol,1.0,1.0,2.56,3.0,3.5,9.6,1,1,0.94,1.88
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-07-02,10:00:00,EGYPT - PREMIER LEAGUE,National Bank Egypt,Smouha,1.04,2.58,1.01,1000.0,1.230255
+2,2024-07-02,13:00:00,EGYPT - PREMIER LEAGUE,Enppi,Arab Contractors,1.84,5.5,3.35,15.5,1.2302793
+3,2024-07-02,13:00:00,EGYPT - PREMIER LEAGUE,Pyramids,ZED,1.04,1.04,1.01,1000.0,1.2302549
+4,2024-07-02,18:30:00,BRAZIL - SERIE B,Goias,America MG,2.38,3.6,3.2,11.5,1.2301499
+5,2024-07-02,19:00:00,BRAZIL - SERIE D,Iguatu,Treze PB,1.55,1.97,1.93,1000.0,1.23033
+6,2024-07-02,20:00:00,BRAZIL - SERIE B,Novorizontino,Mirassol,2.56,3.5,3.0,9.6,1.2301506

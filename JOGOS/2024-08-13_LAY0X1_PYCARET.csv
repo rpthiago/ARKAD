@@ -1,4 +1,9 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,SWEDEN - SUPERETTAN,2024-08-13,Helsingborg,Degerfors,1.0,1.0,2.6,3.35,3.05,11.5,1,1,0.94,0.94
-2,VENEZUELA - LIGA FUTVE,2024-08-13,Dep. Tachira,Portuguesa,2.0,0.0,1.98,3.0,5.1,980.0,1,1,0.94,1.88
-3,VENEZUELA - LIGA FUTVE,2024-08-13,Inter de Barinas,Metropolitanos,2.0,2.0,3.1,2.7,2.42,980.0,1,1,0.94,2.82
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-08-13,14:00:00,SWEDEN - SUPERETTAN,Helsingborg,Degerfors,2.6,3.05,3.35,11.5,1.2315552
+2,2024-08-13,15:00:00,EGYPT - PREMIER LEAGUE,El Ismaily,Arab Contractors,2.26,4.0,3.05,12.5,1.2315238
+3,2024-08-13,15:00:00,EGYPT - PREMIER LEAGUE,El Gouna,Baladiyat El Mahalla,2.28,3.6,3.2,12.5,1.2315224
+4,2024-08-13,15:00:00,EGYPT - PREMIER LEAGUE,National Bank Egypt,Future FC,2.6,3.0,3.25,11.5,1.2315172
+5,2024-08-13,16:00:00,VENEZUELA - LIGA FUTVE,Rayo Zuliano,Zamora,2.76,2.98,2.88,10.5,1.231693
+6,2024-08-13,18:45:00,VENEZUELA - LIGA FUTVE,Dep. Tachira,Portuguesa,1.98,5.1,3.0,980.0,1.2316449
+7,2024-08-13,21:30:00,VENEZUELA - LIGA FUTVE,Inter de Barinas,Metropolitanos,3.1,2.42,2.7,980.0,1.2317555
+8,2024-08-13,21:30:00,COLOMBIA - PRIMERA A,Aguilas FC,Jaguares de Cordoba,1.79,5.1,3.75,980.0,1.2315314

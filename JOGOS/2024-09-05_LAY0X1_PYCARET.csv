@@ -1,4 +1,3 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,IRELAND - PREMIER DIVISION,2024-09-05,Dundalk,St. Patricks,0.0,0.0,3.95,3.4,2.14,8.2,1,1,0.94,0.94
-2,IRELAND - PREMIER DIVISION,2024-09-05,Dundalk,St. Patricks,1.0,2.0,3.95,3.4,2.14,8.2,1,1,0.94,1.88
-3,BRAZIL - SERIE A,2024-09-05,Cuiaba,Juventude,0.0,0.0,2.04,3.6,4.2,13.0,1,1,0.94,2.82
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-09-05,15:45:00,IRELAND - PREMIER DIVISION,Dundalk,St. Patricks,3.95,2.14,3.4,8.2,1.2325393
+2,2024-09-05,20:00:00,BRAZIL - SERIE A,Cuiaba,Juventude,2.04,4.2,3.6,13.0,1.2324432

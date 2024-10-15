@@ -1,2 +1,2 @@
-,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,Odd_CS_0x0_Lay,Odd_CS_0x1_Lay,Odd_CS_1x0_Lay,IDMercado_Correct_Score,VAR62,VAR63,VAR64,VAR65,VAR43,VAR44,VAR45,prediction_label,prediction_score
-2,2024-04-23,21:00:00,BRAZIL - SERIE B,Brusque,Mirassol,2.96,2.86,3.0,1.54,2.74,2.1,1.8,8.2,8.6,9.0,1.2266968,1.4445409,1.4139146,1.0216607,0.97879857,1.3631638,1.3867888,0.9829642,1,1.0
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-04-23,21:00:00,BRAZIL - SERIE B,Brusque,Mirassol,2.96,2.86,3.0,8.6,1.2266968

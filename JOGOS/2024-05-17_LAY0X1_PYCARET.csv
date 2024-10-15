@@ -1,3 +1,4 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,BOLIVIA - DIVISION PROFESIONAL,2024-05-17,21:00:00,Blooming,SA Bulo Bulo,1.0,0.0,2.2,3.8,3.35,16.0,1.229026,1,1,0.94,0.94
-2,ECUADOR - LIGA PRO,2024-05-17,21:00:00,Dep. Cuenca,Imbabura,5.0,2.0,1.72,4.0,5.7,21.0,1.2288997,1,1,0.94,1.88
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-05-17,21:00:00,BOLIVIA - DIVISION PROFESIONAL,Blooming,SA Bulo Bulo,2.2,3.35,3.8,16.0,1.229026
+2,2024-05-17,21:00:00,ECUADOR - LIGA PRO,Dep. Cuenca,Imbabura,1.72,5.7,4.0,21.0,1.2288997
+3,2024-05-17,21:30:00,BRAZIL - SERIE B,Novorizontino,Coritiba,2.36,3.8,3.1,11.0,1.228973

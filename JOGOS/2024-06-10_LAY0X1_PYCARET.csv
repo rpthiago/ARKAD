@@ -1,3 +1,5 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,BRAZIL - SERIE B,2024-06-10,19:00:00,Vila Nova FC,Ceara,3.0,2.0,2.64,3.15,3.15,10.5,1.2296265,1,1,0.94,0.94
-2,BRAZIL - SERIE B,2024-06-10,21:30:00,Sport Recife,Paysandu PA,1.0,0.0,1.79,3.75,5.5,17.5,1.2296267,1,1,0.94,1.88
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-06-10,19:00:00,BRAZIL - SERIE B,Vila Nova FC,Ceara,2.64,3.15,3.15,10.5,1.2296265
+2,2024-06-10,20:00:00,CHILE - PRIMERA DIVISION,Nublense,Huachipato,1.84,1.04,1.92,980.0,1.2295672
+3,2024-06-10,20:00:00,BRAZIL - SERIE C,Floresta EC,Confianca,2.66,2.94,2.92,9.8,1.2296977
+4,2024-06-10,21:30:00,BRAZIL - SERIE B,Sport Recife,Paysandu PA,1.79,5.5,3.75,17.5,1.2296267

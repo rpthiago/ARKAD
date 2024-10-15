@@ -1,3 +1,3 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,COLOMBIA - PRIMERA A,2024-05-12,21:30:00,Deportes Tolima,Once Caldas,1.0,1.0,1.74,3.75,5.9,15.5,1.2285764,1,1,0.94,0.94
-2,MEXICO - LIGA MX,2024-05-12,22:00:00,Cruz Azul,U.N.A.M.- Pumas,2.0,2.0,2.02,4.1,3.65,20.0,1.22876,1,1,0.94,1.88
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-05-12,21:30:00,COLOMBIA - PRIMERA A,Deportes Tolima,Once Caldas,1.74,5.9,3.75,15.5,1.2285764
+2,2024-05-12,22:00:00,MEXICO - LIGA MX,Cruz Azul,U.N.A.M.- Pumas,2.02,3.65,4.1,20.0,1.22876

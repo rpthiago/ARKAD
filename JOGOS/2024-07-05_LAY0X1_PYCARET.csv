@@ -1,6 +1,7 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,JAPAN - J1 LEAGUE,2024-07-05,Sanfrecce Hiroshima,Vissel Kobe,1.0,3.0,2.42,3.45,3.2,13.0,1,1,0.94,0.94
-2,SOUTH KOREA - K LEAGUE 1,2024-07-05,Suwon FC,Ulsan HD,1.0,1.0,3.35,3.75,2.24,12.5,1,1,0.94,1.88
-3,SOUTH KOREA - K LEAGUE 1,2024-07-05,Incheon,Gimcheon Sangmu,1.0,1.0,2.86,3.25,2.82,10.5,1,1,0.94,2.82
-4,MEXICO - LIGA MX,2024-07-05,Puebla,Santos Laguna,1.0,0.0,2.28,3.75,3.25,17.5,1,1,0.94,3.76
-5,MEXICO - LIGA MX,2024-07-05,Queretaro,Club Tijuana,1.0,2.0,2.52,3.55,2.88,13.0,1,1,0.94,4.699999999999999
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-07-05,07:00:00,JAPAN - J1 LEAGUE,Sanfrecce Hiroshima,Vissel Kobe,2.42,3.2,3.45,13.0,1.2302958
+2,2024-07-05,07:30:00,SOUTH KOREA - K LEAGUE 1,Suwon FC,Ulsan HD,3.35,2.24,3.75,12.5,1.2302943
+3,2024-07-05,07:30:00,SOUTH KOREA - K LEAGUE 1,Incheon,Gimcheon Sangmu,2.86,2.82,3.25,10.5,1.2302965
+4,2024-07-05,19:45:00,MEXICO - LIGA MX,Puebla,Santos Laguna,2.28,3.25,3.75,17.5,1.2301321
+5,2024-07-05,21:00:00,BRAZIL - SERIE B,Brusque,Ponte Preta,2.4,3.8,2.96,10.5,1.2303145
+6,2024-07-05,22:00:00,MEXICO - LIGA MX,Queretaro,Club Tijuana,2.52,2.88,3.55,13.0,1.2301322

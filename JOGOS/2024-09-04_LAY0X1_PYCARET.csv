@@ -1,5 +1,5 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,VENEZUELA - LIGA FUTVE,2024-09-04,Rayo Zuliano,Monagas,1.0,2.0,2.72,3.15,2.58,14.0,1,1,0.94,0.94
-2,VENEZUELA - LIGA FUTVE,2024-09-04,Caracas,Puerto Cabello,0.0,0.0,2.4,2.9,3.15,980.0,1,1,0.94,1.88
-3,BRAZIL - SERIE B,2024-09-04,Vila Nova FC,CRB,1.0,0.0,1.83,3.35,6.2,15.0,1,1,0.94,2.82
-4,VENEZUELA - LIGA FUTVE,2024-09-04,Portuguesa,Inter de Barinas,2.0,1.0,2.04,3.65,3.45,980.0,1,1,0.94,3.76
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-09-04,16:00:00,VENEZUELA - LIGA FUTVE,Rayo Zuliano,Monagas,2.72,2.58,3.15,14.0,1.2326069
+2,2024-09-04,18:45:00,VENEZUELA - LIGA FUTVE,Caracas,Puerto Cabello,2.4,3.15,2.9,980.0,1.2326068
+3,2024-09-04,20:00:00,BRAZIL - SERIE B,Vila Nova FC,CRB,1.83,6.2,3.35,15.0,1.2325144
+4,2024-09-04,21:30:00,VENEZUELA - LIGA FUTVE,Portuguesa,Inter de Barinas,2.04,3.45,3.65,980.0,1.2326087

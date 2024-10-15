@@ -1,5 +1,9 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,SWEDEN - SUPERETTAN,2024-06-24,Orebro,Trelleborg,1.0,1.0,2.24,3.65,3.35,14.5,1,1,0.94,0.94
-2,SWEDEN - SUPERETTAN,2024-06-24,Landskrona,Orgryte,4.0,3.0,1.79,3.95,5.0,20.0,1,1,0.94,1.88
-3,SWEDEN - SUPERETTAN,2024-06-24,Oster,Helsingborg,4.0,0.0,1.77,4.1,4.8,22.0,1,1,0.94,2.82
-4,BRAZIL - SERIE B,2024-06-24,Sport Recife,Novorizontino,1.0,2.0,1.79,3.6,5.8,16.5,1,1,0.94,3.76
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-06-24,10:00:00,EGYPT - PREMIER LEAGUE,National Bank Egypt,Baladiyat El Mahalla,1.67,6.0,3.95,25.0,1.2300041
+2,2024-06-24,13:00:00,EGYPT - PREMIER LEAGUE,Future FC,Al Ittihad,3.1,2.76,2.96,9.6,1.230045
+3,2024-06-24,14:00:00,SWEDEN - SUPERETTAN,Orebro,Trelleborg,2.24,3.35,3.65,14.5,1.2299541
+4,2024-06-24,14:00:00,SWEDEN - SUPERETTAN,Landskrona,Orgryte,1.79,5.0,3.95,20.0,1.2299538
+5,2024-06-24,14:00:00,SWEDEN - SUPERETTAN,Oster,Helsingborg,1.77,4.8,4.1,22.0,1.2299539
+6,2024-06-24,19:00:00,BRAZIL - SERIE B,Sport Recife,Novorizontino,1.79,5.8,3.6,16.5,1.2300133
+7,2024-06-24,20:00:00,BRAZIL - SERIE C,Aparecidense,Nautico,1.04,1.04,1.21,1000.0,1.2299861
+8,2024-06-24,20:00:00,BRAZIL - SERIE C,ABC,Remo,2.22,3.85,3.2,980.0,1.2299861

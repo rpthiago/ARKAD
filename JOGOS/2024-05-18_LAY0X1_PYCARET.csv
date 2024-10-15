@@ -1,8 +1,8 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,COLOMBIA - PRIMERA A,2024-05-18,21:30:00,Once Caldas,Santa Fe,0.0,0.0,3.3,2.84,2.8,8.0,1.2288806,1,1,0.94,0.94
-2,USA - MLS,2024-05-18,21:30:00,Houston Dynamo,FC Dallas,1.0,1.0,1.95,3.25,4.5,11.5,1.2288555,1,1,0.94,1.88
-3,USA - MLS,2024-05-18,21:30:00,Chicago Fire,Columbus Crew,1.0,3.0,2.9,3.0,3.0,8.0,1.2288556,1,1,0.94,2.82
-4,USA - MLS,2024-05-18,22:30:00,Real Salt Lake,Colorado Rapids,5.0,3.0,1.74,4.2,5.1,25.0,1.2288557,1,1,0.94,3.76
-5,USA - MLS,2024-05-18,23:30:00,Seattle Sounders,Vancouver Whitecaps,0.0,2.0,2.06,3.65,4.0,16.5,1.2288587,1,1,0.94,4.699999999999999
-6,USA - MLS,2024-05-18,23:30:00,Seattle Sounders,Vancouver Whitecaps,1.0,1.0,2.06,3.65,4.0,16.5,1.2288587,1,1,0.94,5.639999999999999
-7,USA - MLS,2024-05-18,23:30:00,San Jose Earthquakes,Orlando City,0.0,1.0,2.16,3.75,3.5,17.5,1.2288586,0,1,-16.5,-10.860000000000001
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-05-18,21:30:00,COLOMBIA - PRIMERA A,Once Caldas,Santa Fe,3.3,2.8,2.84,8.0,1.2288806
+2,2024-05-18,21:30:00,USA - MLS,Houston Dynamo,FC Dallas,1.95,4.5,3.25,11.5,1.2288555
+3,2024-05-18,21:30:00,USA - MLS,Chicago Fire,Columbus Crew,2.9,3.0,3.0,8.0,1.2288556
+4,2024-05-18,22:30:00,USA - MLS,Real Salt Lake,Colorado Rapids,1.74,5.1,4.2,25.0,1.2288557
+5,2024-05-18,23:00:00,MEXICO - LIGA MX,Club America,Guadalajara Chivas,1.83,5.0,3.7,16.0,1.2290099
+6,2024-05-18,23:30:00,USA - MLS,Seattle Sounders,Vancouver Whitecaps,2.06,4.0,3.65,16.5,1.2288587
+7,2024-05-18,23:30:00,USA - MLS,San Jose Earthquakes,Orlando City,2.16,3.5,3.75,17.5,1.2288586

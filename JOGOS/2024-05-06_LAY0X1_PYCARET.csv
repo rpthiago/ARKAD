@@ -1,3 +1,5 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,BRAZIL - SERIE B,2024-05-06,20:00:00,Ponte Preta,Amazonas,3.0,0.0,2.18,3.2,4.2,11.5,1.2282594,1,1,0.94,0.94
-2,BRAZIL - SERIE B,2024-05-06,21:00:00,Santos,Guarani,4.0,1.0,1.56,3.95,9.0,27.0,1.2282593,1,1,0.94,1.88
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-05-06,20:00:00,BRAZIL - SERIE B,Ponte Preta,Amazonas,2.18,4.2,3.2,11.5,1.2282594
+2,2024-05-06,20:00:00,BRAZIL - SERIE C,Sao Bernardo,Ferroviario,1.67,6.6,3.65,18.5,1.2284064
+3,2024-05-06,20:00:00,BRAZIL - SERIE D,Aguia De Maraba,Fluminense-PI,1.64,6.6,3.5,21.0,1.2286135
+4,2024-05-06,21:00:00,BRAZIL - SERIE B,Santos,Guarani,1.56,9.0,3.95,27.0,1.2282593

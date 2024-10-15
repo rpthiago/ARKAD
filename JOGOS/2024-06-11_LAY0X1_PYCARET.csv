@@ -1,5 +1,8 @@
-,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
-1,BRAZIL - SERIE A,2024-06-11,19:00:00,Juventude,Vitoria,1.0,1.0,2.26,3.2,4.0,11.0,1.229387,1,1,0.94,0.94
-2,BRAZIL - SERIE B,2024-06-11,19:00:00,Mirassol,Goias,1.0,0.0,2.2,3.15,4.1,11.5,1.2296268,1,1,0.94,1.88
-3,BRAZIL - SERIE A,2024-06-11,20:00:00,Botafogo RJ,Fluminense,1.0,0.0,2.02,3.5,4.5,14.0,1.2293863,1,1,0.94,2.82
-4,BRAZIL - SERIE A,2024-06-11,21:30:00,Bragantino,Atletico-MG,1.0,2.0,2.54,3.3,3.2,11.0,1.2293862,1,1,0.94,3.76
+,Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_CS_0x1_Lay,IDMercado_Correct_Score
+1,2024-06-11,19:00:00,BRAZIL - SERIE A,Atletico GO,Corinthians,2.78,3.0,3.15,8.8,1.2293861
+2,2024-06-11,19:00:00,BRAZIL - SERIE A,Juventude,Vitoria,2.26,4.0,3.2,11.0,1.229387
+3,2024-06-11,19:00:00,BRAZIL - SERIE B,Mirassol,Goias,2.2,4.1,3.15,11.5,1.2296268
+4,2024-06-11,19:30:00,BRAZIL - SERIE D,Maranhao,AE Altos,1.9,4.3,3.45,980.0,1.229805
+5,2024-06-11,19:30:00,BRAZIL - SERIE D,Pouso Alegre,Santo Andre,2.1,3.55,3.35,980.0,1.229805
+6,2024-06-11,20:00:00,BRAZIL - SERIE A,Botafogo RJ,Fluminense,2.02,4.5,3.5,14.0,1.2293863
+7,2024-06-11,21:30:00,BRAZIL - SERIE A,Bragantino,Atletico-MG,2.54,3.2,3.3,11.0,1.2293862
