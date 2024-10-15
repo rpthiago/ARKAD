@@ -1,9 +1,9 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,USA - MLS,2024-05-15,Minnesota United,Los Angeles Galaxy,2.0,2.0,2.04,3.95,3.7,18.0,1,1,0.94,0.94
-2,USA - MLS,2024-05-15,Austin FC,Houston Dynamo,1.0,0.0,2.76,1.02,1.04,10.5,1,1,0.94,1.88
-3,USA - MLS,2024-05-15,Austin FC,Houston Dynamo,0.0,1.0,2.76,1.02,1.04,10.5,0,1,-9.5,-7.62
-4,USA - MLS,2024-05-15,Chicago Fire,Charlotte,0.0,1.0,2.04,3.45,4.3,13.5,0,1,-12.5,-20.12
-5,BRAZIL - SERIE B,2024-05-15,Ponte Preta,Santos,1.0,2.0,5.0,3.15,2.0,6.4,1,1,0.94,-19.18
-6,USA - MLS,2024-05-15,Real Salt Lake,Seattle Sounders,2.0,0.0,1.76,4.1,5.2,19.0,1,1,0.94,-18.24
-7,MEXICO - LIGA MX,2024-05-15,Guadalajara Chivas,Club America,0.0,0.0,3.45,3.25,2.42,8.8,1,1,0.94,-17.299999999999997
-8,USA - MLS,2024-05-15,Portland Timbers,San Jose Earthquakes,4.0,2.0,2.0,4.0,3.8,22.0,1,1,0.94,-16.359999999999996
+,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
+1,USA - MLS,2024-05-15,21:30:00,Minnesota United,Los Angeles Galaxy,2.0,2.0,2.04,3.95,3.7,18.0,1.2285491,1,1,0.94,0.94
+2,USA - MLS,2024-05-15,21:30:00,Austin FC,Houston Dynamo,1.0,0.0,2.76,1.02,1.04,10.5,1.228549,1,1,0.94,1.88
+3,USA - MLS,2024-05-15,21:30:00,Austin FC,Houston Dynamo,0.0,1.0,2.76,1.02,1.04,10.5,1.228549,0,1,-9.5,-7.62
+4,USA - MLS,2024-05-15,21:30:00,Chicago Fire,Charlotte,0.0,1.0,2.04,3.45,4.3,13.5,1.228549,0,1,-12.5,-20.12
+5,BRAZIL - SERIE B,2024-05-15,21:30:00,Ponte Preta,Santos,1.0,2.0,5.0,3.15,2.0,6.4,1.2288486,1,1,0.94,-19.18
+6,USA - MLS,2024-05-15,22:30:00,Real Salt Lake,Seattle Sounders,2.0,0.0,1.76,4.1,5.2,19.0,1.2285484,1,1,0.94,-18.24
+7,MEXICO - LIGA MX,2024-05-15,23:05:00,Guadalajara Chivas,Club America,0.0,0.0,3.45,3.25,2.42,8.8,1.2289101,1,1,0.94,-17.299999999999997
+8,USA - MLS,2024-05-15,23:30:00,Portland Timbers,San Jose Earthquakes,4.0,2.0,2.0,4.0,3.8,22.0,1.2285485,1,1,0.94,-16.359999999999996

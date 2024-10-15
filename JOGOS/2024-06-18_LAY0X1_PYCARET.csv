@@ -1,4 +1,4 @@
-,League,Date,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,Lay_0x1,Predictions,Profit,Profit_acu
-1,BRAZIL - SERIE B,2024-06-18,Guarani,Ituano,3.0,3.0,1.82,3.35,5.5,17.5,1,1,0.94,0.94
-2,BRAZIL - SERIE B,2024-06-18,Novorizontino,Amazonas,1.0,1.0,1.75,3.35,6.2,16.5,1,1,0.94,1.88
-3,BRAZIL - SERIE B,2024-06-18,Paysandu PA,CRB,1.0,1.0,2.18,3.1,4.0,11.5,1,1,0.94,2.82
+,League,Date,Time,Home,Away,Goals_H,Goals_A,Odd_H,Odd_D,Odd_A,Odd_CS_0x1_Lay_x,IDMercado_Correct_Score,Lay_0x1,Predictions,Profit,Profit_acu
+1,BRAZIL - SERIE B,2024-06-18,19:00:00,Guarani,Ituano,3.0,3.0,1.82,3.35,5.5,17.5,1.2299244,1,1,0.94,0.94
+2,BRAZIL - SERIE B,2024-06-18,21:00:00,Novorizontino,Amazonas,1.0,1.0,1.75,3.35,6.2,16.5,1.2299348,1,1,0.94,1.88
+3,BRAZIL - SERIE B,2024-06-18,21:30:00,Paysandu PA,CRB,1.0,1.0,2.18,3.1,4.0,11.5,1.2299347,1,1,0.94,2.82
