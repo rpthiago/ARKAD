@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Betfair_Back_Lay.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Betfair_Back_Lay.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-10-30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-10-30.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-10-31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-10-31.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-11-01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/JOGOS_DO_DIA_BETFAIR/Jogos_do_Dia_Betfair_Back_Lay_2024-11-01.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/BASE_FLASHSCORE_OUTUBRO_2024V0/02_Atualização_Bases_FlashScore_v0_Betfair_Exchange.py",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
@@ -43,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS" />
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
