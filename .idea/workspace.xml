@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE_LUKE/WebScraping_FlashScore_2021.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BASE_LUKE/WebScraping_FlashScore_2021.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE_LUKE/WebScraping_FlashScore_2021_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BASE_LUKE/WebScraping_FlashScore_2021_2022.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BASE_LUKE/base_flashscore_2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/BASE_LUKE/base_flashscore_2021.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BASE_LUKE/base_flashscore_2021_2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/BASE_LUKE/base_flashscore_2021_2022.json" afterDir="false" />
     </list>
