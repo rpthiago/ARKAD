@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_Jogos_do_Dia_Betfair">
+  <component name="RunManager" selected="Python.Teoria_dos_Retornos_MO,_OU,_BTTS">
     <configuration name="01_Jogos_do_Dia_Betfair" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD.PY" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LAY0X1_PYCARET_BETFAIR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Teoria_dos_Retornos_MO,_OU,_BTTS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ARKAD.PY" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/LAY0X1_PYCARET_BETFAIR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/Teoria_dos_Retornos_MO,_OU,_BTTS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange (1)" />
         <item itemvalue="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange" />
         <item itemvalue="Python.GERAR_BASE_BETFAIR" />
-        <item itemvalue="Python.LAY0X1_PYCARET_BETFAIR" />
       </list>
     </recent_temporary>
   </component>
