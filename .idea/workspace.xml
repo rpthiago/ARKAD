@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="" />
+    <list default="true" id="351fa7ae-af84-4da6-98a1-deeaa122f5af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +20,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/base_flash_betfair/GERAR_BASE_BETFAIR.py",
-    "settings.editor.selected.configurable": "configurable.group.build"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/base_flash_betfair/GERAR_BASE_BETFAIR.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="ARKAD" is-module-sdk="true">
@@ -41,10 +43,10 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_Jogos_do_Dia_Betfair">
+  <component name="RunManager" selected="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange (1)">
     <configuration name="GERAR_BASE_BETFAIR" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS\base_flash_betfair" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/base_flash_betfair" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="GERAR_BASE_BETFAIR.bat" />
@@ -221,8 +223,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange (1)" />
+        <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Batch.GERAR_BASE_BETFAIR" />
         <item itemvalue="Python.Teoria_dos_Retornos_MO,_OU,_BTTS" />
         <item itemvalue="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange" />
