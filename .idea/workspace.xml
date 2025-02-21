@@ -41,7 +41,7 @@
       <recent name="C:\Users\thiag\OneDrive\curso python\Dashboard_Arkad" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.webscraping_vps_2020_2021">
+  <component name="RunManager" selected="Python.01_Jogos_do_Dia_Betfair">
     <configuration name="GERAR_BASE_BETFAIR" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS/base_flash_betfair" />
@@ -221,9 +221,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Python.webscraping_vps_2020_2021" />
         <item itemvalue="Python.02_Atualização_Bases_FlashScore_v0_Betfair_Exchange (1)" />
-        <item itemvalue="Python.01_Jogos_do_Dia_Betfair" />
         <item itemvalue="Python.generate_keys" />
         <item itemvalue="Batch.GERAR_BASE_BETFAIR" />
       </list>
