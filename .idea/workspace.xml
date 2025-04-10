@@ -18,15 +18,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/JOGOS_DO_DIA_BETFAIR.bat",
-    "settings.editor.selected.configurable": "configurable.group.build"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiag/OneDrive/curso python/AUTOMATIZADOS/JOGOS_DO_DIA_BETFAIR.bat&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="ARKAD" is-module-sdk="true">
@@ -44,7 +44,7 @@
   <component name="RunManager" selected="Batch.JOGOS_DO_DIA_BETFAIR">
     <configuration name="JOGOS_DO_DIA_BETFAIR" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\thiag\OneDrive\curso python\AUTOMATIZADOS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../curso python/AUTOMATIZADOS" />
       <option name="PARENT_ENVS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="JOGOS_DO_DIA_BETFAIR.bat" />
