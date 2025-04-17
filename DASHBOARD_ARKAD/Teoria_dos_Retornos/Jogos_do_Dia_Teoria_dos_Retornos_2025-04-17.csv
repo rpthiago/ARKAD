@@ -1,0 +1,134 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-04-17,00:00,MEXICO 1,Mazatlan FC,Club Tijuana,2.15,3.3,3.5,2.05,1.75,1.62,2.2,A,D,D,O,O,O,N,N,Y
+2025-04-17,00:05,MEXICO 1,UNAM Pumas,Santos Laguna,1.48,6.5,4.33,2.2,1.65,1.8,1.95,A,D,D,O,O,O,N,N,Y
+2025-04-17,06:35,AUSTRALIA 1,Brisbane Roar,Western United,3.7,1.9,4.0,2.65,1.47,1.44,2.63,H,A,A,U,U,O,Y,Y,N
+2025-04-17,08:00,DENMARK 2,Odense,Kolding IF,1.8,4.33,3.5,1.78,2.0,1.83,1.83,A,A,D,U,O,U,N,N,N
+2025-04-17,09:00,DENMARK 2,Roskilde,Koge,2.3,2.9,3.4,1.85,1.95,1.73,2.0,A,A,D,U,O,U,N,N,N
+2025-04-17,09:00,DENMARK 1,Vejle,Viborg,3.2,2.05,3.75,2.14,1.71,1.62,2.2,H,H,D,O,O,U,N,Y,N
+2025-04-17,09:00,DENMARK 1,Lyngby,Sonderjyske,2.1,3.25,3.6,1.88,1.92,1.75,2.0,H,H,D,O,O,U,N,Y,N
+2025-04-17,10:00,ITALY 4,Castrumfavara,USD Ragusa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Locri 1909,Reggina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Nissa,Enna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sambiase,Licata,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sancataldese,S. Agata,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Scafatese,Igea Virtus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Siracusa,Paterno,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Ospitaletto,Club Milano,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fanfulla,Pro Palazzolo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Ostiamare,San Donato,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,S. N. Notaresco,Vigor Senigallia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Virtus Francavilla,Nocerina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sangiovannese,Livorno,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Trestina,Ghiviborgo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Atletico Ascoli,Teramo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Avezzano,Castelfidardo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fermana,Civitanovese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fossombrone,Ancona,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sangiuliano City,Arconatese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Palmese 1914,Manfredonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Martina Calcio,Francavilla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Pro Sesto,Crema,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Chieri,Sanremese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Folgore Caratese,Ciliverghe Mazzano,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Brindisi,A.C.D. Nardo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Desenzano,Vigasio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Bra,Citta di Varese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Cairese,Imperia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Chievo,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Chisola,Borgaro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Matera,Angri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,NovaRomentin,Fossano,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Derthona FbC,Saluzzo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Gozzano,Ligorna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Lavagnese,Asti,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Oltrepo,Vado,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Casarano,Fidelis Andria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Citta di Fasano,ASD Ugento,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Costa Amalfi,Gravina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,L Aquila,Calcio Chieti,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Breno,Sondrio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Recanatese,Sora,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Pompei,AS Acireale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sambenedettese,Termoli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Dolomiti Bellunesi,Treviso,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Este,Lavis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Montecchio Maggiore,Calvi Noale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Villa Valle,Luparense,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Cittadella Vis Modena,Ravenna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Cjarlins Muzane,Portogruaro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Forli,Pistoiese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,San Marino Calcio,Imolese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,SCD Progresso,Sammaurese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Tau,Tuttocuoio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,United Riccione,Piacenza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Zenith Prato,Sasso Marconi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Follonica Gavorrano,Orvietana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fezzanese,Siena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Figline,Poggibonsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Flaminia,Terranuova Traiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Roma City,Isernia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Ciserano-Bergamo,Adriese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Chions,Brian Lignano,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,DENMARK 2,B.93,Hillerod,4.5,1.7,3.8,2.01,1.81,1.8,1.91,A,A,D,U,O,U,N,N,N
+2025-04-17,10:00,ITALY 4,Campodarsego,Real Calepina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fulgens Foligno,Seravezza Pozzi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Caravaggio,Brusaporto,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Atl. Lodigiani,Gelbison,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Cassino,Anzio Calcio 1924,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Olbia,Sarnese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Puteolana,Guidonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Real Monterotondo,Ilvamaddalena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sarrabus Ogliastra,Cynthialbalonga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Savoia,Terracina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Paganese,Atletico Uri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Acerrana,Ischia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Sant'Angelo,Castellanzese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Grosseto,Montevarchi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Corticella,Prato,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Fiorenzuola,Lentigione,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Varesina,USD Casatese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Trastevere Calcio,Latte Dolce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:00,ITALY 4,Bassano,Mestre,3.25,2.25,2.82,1.48,2.49,2.13,1.64,A,H,A,U,U,U,Y,N,N
+2025-04-17,10:50,CROATIA 2,Sesvete,Cibalia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,A,U,O,U,N,Y,N
+2025-04-17,11:00,BULGARIA 2,Nesebar,Minyor Pernik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,O,U,U,Y,N,N
+2025-04-17,11:00,DENMARK 1,Randers FC,Aarhus,3.2,2.25,3.3,1.74,2.09,1.91,1.91,H,H,D,O,O,U,N,Y,N
+2025-04-17,11:30,ROMANIA 2,CSM Resita,Steaua Bucuresti,2.52,2.9,3.05,1.59,2.21,1.87,1.83,H,D,A,U,U,U,N,Y,Y
+2025-04-17,12:30,ISRAEL 2,H. Akko,Maccabi Jaffa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,U,U,U,Y,Y,N
+2025-04-17,12:30,ISRAEL 2,Hapoel Umm al-Fahm,Nof Hagalil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,U,U,U,Y,Y,N
+2025-04-17,12:30,ISRAEL 2,Hapoel Kfar Shalem,Hapoel Tel Aviv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,U,U,U,Y,Y,N
+2025-04-17,12:30,ISRAEL 2,Ramat Hasharon,Hapoel Afula,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,U,U,U,Y,Y,N
+2025-04-17,12:40,SAUDI ARABIA 1,Al Ettifaq,Al Riyadh,2.0,3.3,3.4,1.94,1.8,1.73,2.0,H,H,H,O,U,O,Y,N,N
+2025-04-17,12:50,SAUDI ARABIA 1,Al Shabab,Al Okhdood,1.53,5.5,4.0,2.17,1.64,1.73,2.0,H,H,H,O,U,O,Y,N,N
+2025-04-17,12:50,SAUDI ARABIA 1,Al Hilal,Al Khaleej,1.18,12.0,7.0,3.4,1.29,1.8,1.91,H,H,H,O,U,O,Y,N,N
+2025-04-17,13:00,DENMARK 1,Midtjylland,FC Copenhagen,2.55,2.7,3.3,1.88,1.92,1.7,2.05,H,H,D,O,O,U,N,Y,N
+2025-04-17,13:00,CROATIA 1,Sibenik,D. Zagreb,8.0,1.3,4.75,2.07,1.7,2.1,1.67,D,A,H,U,U,O,N,N,N
+2025-04-17,13:00,ESTONIA 2,Elva,Nomme Utd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,D,U,U,O,Y,N,Y
+2025-04-17,13:00,ESTONIA 2,Viimsi JK,Flora U21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,D,U,U,O,Y,N,Y
+2025-04-17,13:00,BULGARIA 2,Pirin Blagoevgrad,Montana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,O,U,U,Y,N,N
+2025-04-17,13:45,BOSNIA 1,Posusje,Velez Mostar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,H,O,U,U,Y,Y,N
+2025-04-17,13:45,EUROPA CONFERENCE LEAGUE,Jagiellonia,Betis,3.9,1.8,4.0,2.25,1.66,1.62,2.2,A,D,H,U,O,O,N,N,N
+2025-04-17,13:45,EUROPA CONFERENCE LEAGUE,Fiorentina,Celje,1.38,7.0,5.0,2.5,1.53,1.73,2.0,A,D,H,U,O,O,N,N,N
+2025-04-17,15:00,SAUDI ARABIA 1,Al Fateh,Al Ittihad,4.33,1.62,4.33,3.1,1.33,1.4,2.75,H,H,H,O,U,O,Y,N,N
+2025-04-17,16:00,ENGLAND 4,Bradford City,Notts Co,1.91,4.0,3.3,1.78,2.0,1.8,1.91,D,A,A,O,O,U,Y,N,Y
+2025-04-17,16:00,EUROPA LEAGUE,Manchester Utd,Lyon,1.7,4.5,4.1,2.31,1.65,1.62,2.2,D,H,D,U,U,U,Y,N,Y
+2025-04-17,16:00,EUROPA LEAGUE,Lazio,Bodo/Glimt,1.4,6.5,5.25,2.46,1.58,1.8,1.95,D,H,D,U,U,U,Y,N,Y
+2025-04-17,16:00,COLOMBIA 2,Real Cundinamarca,Barranquilla,1.5,5.8,4.05,1.77,1.98,1.98,1.65,H,D,D,U,U,O,N,N,N
+2025-04-17,16:00,EUROPA LEAGUE,Ath Bilbao,Rangers,1.4,7.5,4.75,2.25,1.68,1.91,1.91,D,H,D,U,U,U,Y,N,Y
+2025-04-17,16:00,EUROPA CONFERENCE LEAGUE,SK Rapid,Djurgarden,1.85,4.0,3.7,1.83,2.0,1.83,1.83,A,D,H,U,O,O,N,N,N
+2025-04-17,16:00,EUROPA CONFERENCE LEAGUE,Chelsea,Legia,1.2,10.0,7.5,3.1,1.38,1.83,1.83,A,D,H,U,O,O,N,N,N
+2025-04-17,16:00,EUROPA LEAGUE,Eintracht Frankfurt,Tottenham,2.35,2.8,3.7,2.32,1.64,1.53,2.38,D,H,D,U,U,U,Y,N,Y
+2025-04-17,17:00,ARGENTINA COPA,Barracas Central,Def. de Belgrano,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,H,U,O,O,Y,N,Y
+2025-04-17,17:30,ECUADOR 2,Guayaquil City,Atletico Vinotinto,2.07,3.35,3.25,1.57,2.25,1.93,1.7,D,A,D,U,U,O,Y,N,N
+2025-04-17,18:00,COLOMBIA 1,Bucaramanga,Envigado,1.48,8.5,3.7,1.57,2.37,2.63,1.44,H,A,A,O,O,O,Y,N,N
+2025-04-17,19:00,BRAZIL 2,Goias,Vila Nova FC,1.75,4.75,3.5,1.64,2.18,2.1,1.67,H,A,H,U,O,U,N,Y,N
+2025-04-17,19:00,VENEZUELA 1,La Guaira,Carabobo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,H,U,U,O,Y,Y,Y
+2025-04-17,20:00,BRAZIL 2,Botafogo SP,Remo,2.3,3.4,3.0,1.55,2.36,2.0,1.73,H,A,H,U,O,U,N,Y,N
+2025-04-17,20:00,BRAZIL 2,CRB,Volta Redonda,1.73,5.0,3.5,1.65,2.15,2.0,1.73,H,A,H,U,O,U,N,Y,N
+2025-04-17,20:00,BRAZIL 2,Criciuma,Athletic Club,1.73,5.0,3.5,1.66,2.13,2.0,1.73,H,A,H,U,O,U,N,Y,N
+2025-04-17,21:00,ECUADOR 2,Gualaceo,Nueve de Octubre,2.05,3.6,3.1,1.43,2.65,2.18,1.53,D,A,D,U,U,O,Y,N,N
+2025-04-17,21:00,BRAZIL 2,Ferroviaria,Atletico GO,2.63,2.75,3.1,1.54,2.37,2.0,1.73,H,A,H,U,O,U,N,Y,N
+2025-04-17,21:00,CHILE 1,U. De Chile,La Serena,1.3,9.0,5.0,2.13,1.69,2.1,1.67,H,A,A,O,U,O,N,N,Y
+2025-04-17,21:00,COLOMBIA 1,Fortaleza,Llaneros,1.7,5.0,3.6,1.67,2.17,2.1,1.67,H,A,A,O,O,O,Y,N,N
+2025-04-17,21:30,BRAZIL 1,Cruzeiro,Bahia,2.3,3.1,3.25,1.62,2.25,1.95,1.8,D,H,A,O,O,U,Y,Y,Y
+2025-04-17,21:35,BRAZIL 2,America MG,Amazonas,1.65,6.0,3.4,1.7,2.08,2.0,1.73,H,A,H,U,O,U,N,Y,N
+2025-04-17,22:00,PERU 1,Alianza Huanuco,Grau,2.3,3.2,3.1,1.81,2.01,1.8,1.91,A,D,A,U,U,O,N,N,Y
