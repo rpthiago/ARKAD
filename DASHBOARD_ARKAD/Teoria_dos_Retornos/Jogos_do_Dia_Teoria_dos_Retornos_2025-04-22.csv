@@ -1,0 +1,61 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-04-22,04:00,CHINA 2,Yanbian Longding,Dalian K'un City,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,U,O,U,N,Y,Y
+2025-04-22,04:30,CHINA 2,Shaanxi Union,Nanjing City,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,U,O,U,N,Y,Y
+2025-04-22,06:00,AUSTRALIA 1,Brisbane Roar,Adelaide United,3.2,2.15,3.7,3.1,1.35,1.33,3.25,D,H,A,O,O,O,Y,N,Y
+2025-04-22,08:00,CHINA 2,Shanghai Jiading Huilong,Qingdao Red Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,U,O,U,N,Y,Y
+2025-04-22,08:00,CHINA 2,Liaoning Tieren,Shenzhen Juniors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,U,O,U,N,Y,Y
+2025-04-22,08:30,CHINA 2,Nantong Zhiyun,Chongqing Tonglianglong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,U,O,U,N,Y,Y
+2025-04-22,12:00,ESTONIA 1,Tammeka,Kuressaare,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,U,O,N,Y,N
+2025-04-22,12:00,ESTONIA 1,Kalju,Tallinna Kalev,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,U,O,N,Y,N
+2025-04-22,12:00,CROATIA 1,Slaven Belupo,Varazdin,2.2,3.5,3.1,1.57,2.32,2.0,1.73,A,H,H,O,U,U,N,Y,N
+2025-04-22,12:00,SERBIA 1,Radnicki Nis,IMT Novi Beograd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,O,U,O,Y,Y,N
+2025-04-22,12:30,FINLAND 2,SJK Akatemia,TPS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,N
+2025-04-22,13:00,ESTONIA 1,Flora,Harju JK Laagri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,U,O,N,Y,N
+2025-04-22,13:00,FINLAND 1,HJK,Gnistan,1.45,7.5,4.33,2.3,1.62,1.75,2.0,D,D,H,O,O,U,N,N,Y
+2025-04-22,13:00,CYPRUS 1,APOEL,Aris,3.0,2.25,3.4,1.71,2.05,1.85,1.87,D,A,D,U,O,O,Y,N,N
+2025-04-22,13:00,CYPRUS 1,Pafos,Apollon,1.45,7.5,4.05,1.79,1.95,2.1,1.65,D,A,D,U,O,O,Y,N,N
+2025-04-22,13:00,CYPRUS 1,AEK Larnaca,Omonia,1.72,4.5,3.8,1.97,1.78,1.75,1.98,D,A,D,U,O,O,Y,N,N
+2025-04-22,13:00,BOSNIA 1,Radnik Bijeljina,Posusje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,N
+2025-04-22,13:05,SAUDI ARABIA 1,Damac,Al Nassr,5.25,1.4,6.25,2.49,1.5,1.8,1.91,H,A,A,O,O,O,N,Y,Y
+2025-04-22,13:05,SAUDI ARABIA 2,Al-Faisaly,Jeddah,2.22,3.0,3.3,1.75,1.97,1.72,1.88,A,A,D,U,O,U,Y,N,Y
+2025-04-22,13:20,SAUDI ARABIA 1,Al Wehda,Al Ahli SC,5.75,1.36,6.25,2.7,1.42,1.73,2.0,H,A,A,O,O,O,N,Y,Y
+2025-04-22,13:25,SAUDI ARABIA 2,Ohod,Al Batin,3.35,1.95,3.55,2.03,1.7,1.6,2.07,A,A,D,U,O,U,Y,N,Y
+2025-04-22,13:30,AUSTRIA 1,Tirol,Altach,2.8,2.6,3.2,1.72,2.1,1.91,1.91,A,D,D,U,O,O,N,Y,N
+2025-04-22,13:30,AUSTRIA 1,Grazer AK,Hartberg,2.8,2.4,3.5,1.9,1.87,1.7,2.05,A,D,D,U,O,O,N,Y,N
+2025-04-22,13:30,DENMARK 2,Esbjerg,Fredericia,3.0,2.15,3.7,2.35,1.6,1.5,2.5,H,H,A,U,U,U,N,N,Y
+2025-04-22,13:30,SERBIA 1,Tekstilac Odzaci,Zeleznicar Pancevo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,O,U,O,Y,Y,N
+2025-04-22,14:00,POLAND 1,Stal Mielec,Gornik Zabrze,2.63,2.55,3.4,1.9,1.84,1.7,2.05,A,D,H,U,O,U,N,N,Y
+2025-04-22,14:00,DENMARK 1,Nordsjaelland,Midtjylland,2.45,2.5,3.9,2.39,1.58,1.53,2.38,D,H,H,U,O,O,N,N,N
+2025-04-22,14:00,SPAIN 1,Valencia,Espanyol,1.7,5.25,3.5,1.78,2.05,1.95,1.8,D,H,H,O,U,U,Y,Y,N
+2025-04-22,14:00,POLAND 2,Kotwica Kolobrzeg,Ruch Chorzow,5.25,1.6,3.7,1.79,1.96,2.0,1.73,D,D,A,U,O,U,N,N,Y
+2025-04-22,14:00,SWEDEN 2,Helsingborg,Vasteras SK,2.6,2.5,3.4,1.9,1.87,1.75,1.98,D,A,A,O,U,O,N,Y,Y
+2025-04-22,14:15,CROATIA 1,Lok. Zagreb,Sibenik,1.67,4.75,3.75,1.75,2.01,2.0,1.73,A,H,H,O,U,U,N,Y,N
+2025-04-22,14:30,SAUDI ARABIA 2,Al Arabi,Neom SC,4.35,1.65,4.0,2.34,1.53,1.55,2.15,A,A,D,U,O,U,Y,N,Y
+2025-04-22,15:30,AUSTRIA 1,A. Klagenfurt,LASK,4.1,1.8,3.7,2.0,1.8,1.75,2.0,A,D,D,U,O,O,N,Y,N
+2025-04-22,15:30,BELGIUM 1,St. Liege,Leuven,2.3,3.2,3.25,1.72,2.07,1.8,1.95,D,H,H,U,U,O,Y,Y,Y
+2025-04-22,15:30,BELGIUM 1,KV Mechelen,Westerlo,1.91,3.6,3.9,2.45,1.53,1.5,2.5,D,H,H,U,U,O,Y,Y,Y
+2025-04-22,15:30,BELGIUM 1,Dender,Charleroi,3.1,2.35,3.3,1.86,1.9,1.7,2.05,D,H,H,U,U,O,Y,Y,Y
+2025-04-22,15:45,IRELAND 1,Derry City,Sligo Rovers,1.48,7.0,3.5,1.89,1.84,2.0,1.75,H,A,A,O,O,U,N,Y,Y
+2025-04-22,15:45,FRANCE 1,Nantes,PSG,7.0,1.36,5.25,2.95,1.4,1.67,2.1,D,A,H,O,U,O,Y,Y,Y
+2025-04-22,16:00,BOSNIA 1,Velez Mostar,Igman K.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,N
+2025-04-22,16:00,BOSNIA 1,FK Sarajevo,Sloboda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,N
+2025-04-22,16:00,ENGLAND 1,Manchester City,Aston Villa,1.82,3.8,4.2,2.62,1.52,1.5,2.5,D,H,A,U,O,U,Y,N,Y
+2025-04-22,16:30,SPAIN 1,Barcelona,Mallorca,1.2,13.0,6.5,2.8,1.45,1.95,1.8,D,H,H,O,U,U,Y,Y,N
+2025-04-22,17:30,ECUADOR 2,22 de Julio,Ind. Juniors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,O,O,Y,Y,N
+2025-04-22,18:00,PARAGUAY 2,River Plate,Rubio Nu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,D,O,O,O,Y,Y,N
+2025-04-22,19:00,COPA SUDAMERICANA,Guarani (Par),Independiente (Arg),4.75,1.75,3.4,1.5,2.5,2.38,1.53,H,D,H,O,U,O,N,N,Y
+2025-04-22,19:00,COPA SUDAMERICANA,Boston River (Uru),Nacional Potosi (Bol),1.45,8.5,3.9,1.78,1.95,2.2,1.62,H,D,H,O,U,O,N,N,Y
+2025-04-22,19:00,COPA LIBERTADORES,Carabobo (Ven),U. De Chile (Chi),3.3,2.3,3.2,1.53,2.45,2.05,1.7,A,D,D,U,O,O,N,Y,Y
+2025-04-22,19:00,COPA LIBERTADORES,LDU Quito (Ecu),Flamengo RJ (Bra),3.3,2.3,3.2,1.55,2.4,2.05,1.7,A,D,D,U,O,O,N,Y,Y
+2025-04-22,19:00,COPA LIBERTADORES,Alianza Lima (Per),Talleres Cordoba (Arg),2.7,2.75,3.1,1.46,2.63,2.1,1.67,A,D,D,U,O,O,N,Y,Y
+2025-04-22,19:30,BRAZIL 2,Atletico GO,Cuiaba,1.95,4.33,3.1,1.58,2.28,2.0,1.73,D,H,A,O,O,U,N,Y,Y
+2025-04-22,20:00,BRAZIL 2,Volta Redonda,Ferroviaria,2.15,3.6,2.9,1.57,2.31,2.0,1.73,D,H,A,O,O,U,N,Y,Y
+2025-04-22,20:30,PARAGUAY 2,Encarnacion FC,Resistencia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,D,O,O,O,Y,Y,N
+2025-04-22,21:00,COLOMBIA 2,Boca Juniors,Orsomarso,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,O,O,Y,N,Y
+2025-04-22,21:00,ECUADOR 2,Imbabura,Vargas Torres,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,O,O,Y,Y,N
+2025-04-22,21:30,COPA SUDAMERICANA,GV San Jose (Bol),Once Caldas (Col),3.1,2.25,3.4,1.8,1.95,1.73,2.0,H,D,H,O,U,O,N,N,Y
+2025-04-22,21:30,COPA LIBERTADORES,Internacional (Bra),Nacional (Uru),1.4,10.0,4.1,1.71,2.09,2.5,1.5,A,D,D,U,O,O,N,Y,Y
+2025-04-22,21:30,COPA LIBERTADORES,Colo Colo (Chi),Racing Club (Arg),2.9,2.45,3.25,1.67,2.14,1.91,1.91,A,D,D,U,O,O,N,Y,Y
+2025-04-22,21:30,COPA SUDAMERICANA,Vasco (Bra),Lanus (Arg),1.95,4.1,3.25,1.57,2.3,2.0,1.73,H,D,H,O,U,O,N,N,Y
+2025-04-22,23:00,COPA LIBERTADORES,Barcelona SC (Ecu),U. de Deportes (Per),1.7,5.5,3.4,1.57,2.35,2.2,1.62,A,D,D,U,O,O,N,Y,Y
+2025-04-22,23:00,COPA SUDAMERICANA,FBC Melgar (Per),Puerto Cabello (Ven),1.29,12.0,4.75,2.1,1.7,2.25,1.57,H,D,H,O,U,O,N,N,Y
