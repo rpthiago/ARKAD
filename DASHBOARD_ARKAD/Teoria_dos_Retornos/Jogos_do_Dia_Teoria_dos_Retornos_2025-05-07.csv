@@ -1,0 +1,59 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-05-07,07:00,UKRAINE 1,Kryvbas,Livyi Bereg,1.62,5.4,3.45,1.47,2.32,2.27,1.5,D,H,D,U,U,U,N,N,N
+2025-05-07,07:00,JAPAN 1,Shonan Bellmare,Sanfrecce Hiroshima,4.0,1.95,3.3,1.65,2.27,2.05,1.67,H,A,D,U,U,O,Y,N,N
+2025-05-07,07:00,JAPAN 1,Machida,Kyoto,1.95,3.8,3.4,1.62,2.32,2.05,1.7,H,A,D,U,U,O,Y,N,N
+2025-05-07,10:00,ITALY 3,Renate,Giana Erminio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:00,ITALY 3,Pescara,Pianese,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:00,ITALY 3,AlbinoLeffe,Atalanta U23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:00,ITALY 3,Arezzo,Vis Pesaro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:00,ITALY 3,Catania,Potenza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:00,ITALY 3,Crotone,Juventus U23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-07,10:30,SAUDI ARABIA 2,Abha,Al Najma,2.3,2.72,3.45,2.02,1.62,1.53,2.2,H,A,A,O,U,U,Y,Y,Y
+2025-05-07,11:00,EGYPT 1,El Gouna,Modern Sport,3.3,2.6,2.55,1.34,3.0,2.25,1.57,H,A,D,U,O,U,N,N,Y
+2025-05-07,11:00,BULGARIA 1,CSKA 1948 Sofia,Hebar,1.3,10.0,5.0,2.13,1.67,2.1,1.67,D,D,H,U,O,U,N,Y,N
+2025-05-07,11:30,BOSNIA 2,Kozara,Novi Grad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Prijedor,Slavija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Laktasi,Zeljeznicar Banja Luka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Mrkonjic Grad,Zvijezda 09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Ljubic Prnjavor,Leotar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Nevesinje,Kozarska Dubica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Drina Zvornik,Sutjeska Foca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,Drina Visegrad,Romanija Pale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,11:30,BOSNIA 2,BSK Banja Luka,Famos Vojkovici,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,A,O,O,O,Y,Y,N
+2025-05-07,12:00,CZECH 2,Brno,Zizkov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:00,CZECH 2,Ostrava B,Slavia Prague B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:00,CZECH 2,Sparta Prague B,Sigma Olomouc B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:00,BULGARIA 2,Marek,CSKA Sofia II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,U,U,Y,N,N
+2025-05-07,12:00,BULGARIA 2,Strumska Slava,Ludogorets II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,U,U,Y,N,N
+2025-05-07,12:00,BULGARIA 2,Lok. Gorna,Fratria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,U,U,Y,N,N
+2025-05-07,12:30,CZECH 2,Vyskov,Lisen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:30,CZECH 2,Opava,Zlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:30,CZECH 2,Taborsko,Vlasim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:30,CZECH 2,Chrudim,Prostejov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,12:30,CZECH 2,Varnsdorf,Jihlava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,N,Y,N
+2025-05-07,13:20,SAUDI ARABIA 2,Al Bukiryah,Al Hazem,2.22,2.95,3.35,1.75,1.87,1.72,1.9,H,A,A,O,U,U,Y,Y,Y
+2025-05-07,13:25,SAUDI ARABIA 1,Al Ahli SC,Al Taawon,1.3,8.0,4.75,2.57,1.52,1.83,1.83,H,A,A,O,U,O,N,N,N
+2025-05-07,13:30,BULGARIA 1,Lok. Sofia,Botev Vratsa,1.73,5.25,3.5,1.67,2.12,2.0,1.73,D,D,H,U,O,U,N,Y,N
+2025-05-07,13:30,SAUDI ARABIA 2,Ohod,Al Jubail,2.62,2.52,3.2,1.65,1.98,1.75,1.85,H,A,A,O,U,U,Y,Y,Y
+2025-05-07,14:00,EGYPT 1,El Ismaily,Enppi,2.8,2.95,2.6,1.3,3.2,2.42,1.5,H,A,D,U,O,U,N,N,Y
+2025-05-07,15:00,SAUDI ARABIA 1,Al Nassr,Al Ittihad,1.9,3.7,3.6,2.95,1.4,1.4,2.75,H,A,A,O,U,O,N,N,N
+2025-05-07,15:45,NORTHERN IRELAND 2,Glentoran,Cliftonville,2.12,3.1,3.5,1.85,1.85,1.72,2.0,H,A,H,U,U,O,N,Y,Y
+2025-05-07,15:45,NORTHERN IRELAND 2,Coleraine,Crusaders,1.78,3.9,3.85,2.1,1.65,1.65,2.1,H,A,H,U,U,O,N,Y,Y
+2025-05-07,17:00,MEXICO 1,Club Leon,Cruz Azul,3.3,2.2,3.4,1.98,1.83,1.62,2.2,H,D,A,U,U,O,N,Y,Y
+2025-05-07,17:00,MEXICO 1,Monterrey,Toluca,2.38,2.7,3.4,2.5,1.53,1.5,2.5,H,D,A,U,U,O,N,Y,Y
+2025-05-07,17:00,MEXICO 1,Necaxa,Tigres UANL,2.88,2.55,3.2,1.83,1.98,1.7,2.05,H,D,A,U,U,O,N,Y,Y
+2025-05-07,17:30,ECUADOR 2,Nueve de Octubre,Ind. Juniors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,U,U,U,Y,Y,Y
+2025-05-07,19:00,COPA SUDAMERICANA,Puerto Cabello (Ven),Vasco (Bra),4.75,1.65,4.0,1.7,2.15,2.2,1.62,D,D,A,O,U,O,N,N,N
+2025-05-07,19:00,COPA LIBERTADORES,Dep. Tachira (Ven),LDU Quito (Ecu),3.2,2.3,3.25,1.55,2.4,2.05,1.67,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,19:00,COPA LIBERTADORES,Bahia (Bra),Nacional (Uru),1.55,6.0,4.1,1.82,1.94,2.05,1.7,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,19:00,COPA SUDAMERICANA,Union de Santa Fe (Arg),Palestino (Chi),1.62,5.75,3.5,1.72,2.15,2.1,1.67,D,D,A,O,U,O,N,N,N
+2025-05-07,19:00,COPA SUDAMERICANA,Cerro Largo (Uru),U. Catolica (Ecu),2.25,3.1,3.25,1.7,2.18,2.0,1.73,D,D,A,O,U,O,N,N,N
+2025-05-07,20:00,MEXICO 1,Pachuca,Club America,2.8,2.45,3.5,2.02,1.8,1.62,2.2,H,D,A,U,U,O,N,Y,Y
+2025-05-07,21:00,ECUADOR 2,Gualaceo,Vargas Torres,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,U,U,U,Y,Y,Y
+2025-05-07,21:00,COPA LIBERTADORES,U. De Chile (Chi),Estudiantes L.P. (Arg),2.3,3.1,3.2,1.52,2.47,2.1,1.63,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,21:30,COPA SUDAMERICANA,Grau (Per),Gremio (Bra),4.33,1.8,3.5,1.62,2.3,2.1,1.67,D,D,A,O,U,O,N,N,N
+2025-05-07,21:30,COPA SUDAMERICANA,Mushuc Runa (Ecu),Cruzeiro (Bra),2.1,3.4,3.3,1.72,2.15,1.91,1.8,D,D,A,O,U,O,N,N,N
+2025-05-07,21:30,COPA LIBERTADORES,Central Cordoba (Arg),Flamengo RJ (Bra),5.0,1.73,3.5,1.65,2.19,2.05,1.7,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,21:30,COPA LIBERTADORES,Cerro Porteno (Par),Palmeiras (Bra),4.33,1.85,3.4,1.62,2.25,2.0,1.75,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,23:00,COPA LIBERTADORES,Sporting Cristal (Per),Bolivar (Bol),2.0,3.5,3.4,2.35,1.57,1.5,2.5,D,H,A,U,O,U,Y,Y,Y
+2025-05-07,23:00,COPA SUDAMERICANA,Once Caldas (Col),U. Espanola (Chi),1.6,6.0,3.6,1.9,1.91,1.91,1.8,D,D,A,O,U,O,N,N,N
