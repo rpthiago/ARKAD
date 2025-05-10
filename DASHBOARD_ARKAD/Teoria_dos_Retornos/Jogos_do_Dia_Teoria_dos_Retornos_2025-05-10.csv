@@ -1,0 +1,312 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-05-10,02:00,JAPAN 1,Yokohama FC,Avispa Fukuoka,2.55,3.1,2.9,1.4,2.95,2.25,1.57,A,A,A,O,U,O,N,Y,N
+2025-05-10,02:00,JAPAN 2,Omiya Ardija,Vegalta Sendai,2.45,2.7,3.4,1.7,2.07,1.8,1.8,D,D,A,U,U,O,N,N,Y
+2025-05-10,03:00,JAPAN 1,FC Tokyo,Vissel Kobe,4.1,1.9,3.4,1.7,2.15,1.95,1.8,A,A,A,O,U,O,N,Y,N
+2025-05-10,04:00,JAPAN 1,Kashiwa Reysol,Okayama,1.95,4.1,3.2,1.53,2.52,2.2,1.62,A,A,A,O,U,O,N,Y,N
+2025-05-10,04:00,CHINA 2,Dingnan Ganlian,Shanghai Jiading Huilong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,Y
+2025-05-10,04:30,SOUTH KOREA 2,Gyeongnam,Bucheon FC 1995,2.88,2.2,3.25,1.83,1.91,1.73,2.0,H,H,A,U,O,O,Y,N,Y
+2025-05-10,04:30,SOUTH KOREA 2,Gimpo FC,Hwaseong,1.85,3.4,3.6,1.65,2.15,2.0,1.73,H,H,A,U,O,O,Y,N,Y
+2025-05-10,04:30,SOUTH KOREA 1,Pohang,Suwon FC,2.1,3.4,3.4,1.8,1.95,1.8,1.91,A,A,D,U,O,U,N,Y,Y
+2025-05-10,05:00,ROMANIA 2,Campulung,Ceahlaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,D,U,U,U,N,N,Y
+2025-05-10,05:00,ROMANIA 2,Chindia Targoviste,CSM Slatina,1.75,4.4,3.4,1.6,2.07,1.98,1.65,H,D,D,U,U,U,N,N,Y
+2025-05-10,05:00,ROMANIA 2,CSC Dumbravita,U Craiova 1948,1.9,3.8,3.35,1.72,1.88,1.75,1.85,H,D,D,U,U,U,N,N,Y
+2025-05-10,05:00,ROMANIA 2,Selimbar,Afumati,1.5,6.0,3.9,1.75,1.85,1.98,1.65,H,D,D,U,U,U,N,N,Y
+2025-05-10,05:00,ROMANIA 2,FC Bihor,Unirea Ungheni,1.93,3.8,3.25,1.72,1.9,1.75,1.87,H,D,D,U,U,U,N,N,Y
+2025-05-10,05:00,ROMANIA 2,CSM Focsani,Corvinul,3.65,1.93,3.35,1.72,1.9,1.75,1.85,H,D,D,U,U,U,N,N,Y
+2025-05-10,06:00,UKRAINE 2,Epitsentr,SC Poltava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,A,U,U,O,N,N,Y
+2025-05-10,06:00,UKRAINE 2,MFC Metalurh,Minaj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,A,U,U,O,N,N,Y
+2025-05-10,06:30,ROMANIA 2,CSM Resita,Csikszereda M. Ciuc,2.12,3.65,3.0,1.65,2.1,1.8,1.9,H,D,D,U,U,U,N,N,Y
+2025-05-10,06:35,AUSTRALIA 1,WS Wanderers,Melbourne Victory,2.3,3.0,3.5,2.35,1.6,1.5,2.5,D,H,H,U,O,O,N,N,N
+2025-05-10,07:00,PORTUGAL 2,Pacos Ferreira,Felgueiras,2.15,3.1,3.25,1.75,2.02,1.83,1.83,A,H,A,O,O,U,Y,Y,N
+2025-05-10,07:00,PORTUGAL 3,1º Dezembro,Varzim,3.4,2.02,3.35,1.65,1.98,1.8,1.8,H,H,D,O,U,O,N,N,Y
+2025-05-10,07:00,UKRAINE 2,Viktoria,Podillya Khmelnytskyi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,A,U,U,O,N,N,Y
+2025-05-10,07:00,UKRAINE 1,Vorskla Poltava,Ch. Odesa,1.52,6.4,3.65,1.55,2.15,2.25,1.5,D,D,D,U,U,O,Y,N,N
+2025-05-10,07:00,SOUTH KOREA 1,Anyang,Daegu,2.2,3.2,3.4,1.82,1.93,1.73,2.0,A,A,D,U,O,U,N,Y,Y
+2025-05-10,07:00,SOUTH KOREA 2,Seoul E-Land,Ansan Greeners,1.4,5.5,4.5,2.02,1.75,2.0,1.73,H,H,A,U,O,O,Y,N,Y
+2025-05-10,07:00,SOUTH KOREA 2,Asan,Incheon,3.5,1.95,3.2,1.72,2.05,1.83,1.83,H,H,A,U,O,O,Y,N,Y
+2025-05-10,07:00,SOUTH KOREA 1,Daejeon,Seoul,2.9,2.4,3.3,1.65,2.15,1.91,1.8,A,A,D,U,O,U,N,Y,Y
+2025-05-10,08:00,SWEDEN 2,Sandviken,Umea FC,1.6,4.75,4.5,2.1,1.65,1.8,1.95,D,A,H,O,O,U,Y,N,Y
+2025-05-10,08:00,GERMANY 2,Elversberg,Braunschweig,1.5,5.25,4.75,2.47,1.55,1.67,2.1,D,D,D,O,U,U,N,N,Y
+2025-05-10,08:00,GERMANY 2,Dusseldorf,Schalke,1.8,3.6,4.33,2.77,1.45,1.44,2.63,D,D,D,O,U,U,N,N,Y
+2025-05-10,08:00,GERMANY 2,Paderborn,Magdeburg,2.05,3.2,3.8,2.6,1.5,1.44,2.63,D,D,D,O,U,U,N,N,Y
+2025-05-10,08:00,CHINA 1,Shanghai Shenhua,Qingdao West Coast,1.33,7.5,5.5,2.67,1.42,1.7,2.05,H,D,D,U,O,O,Y,Y,Y
+2025-05-10,08:00,UKRAINE 2,Ahrobiznes Volochysk,UCSA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,A,U,U,O,N,N,Y
+2025-05-10,08:30,CHINA 2,Nantong Zhiyun,Shenzhen Juniors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,Y
+2025-05-10,08:30,ESTONIA 1,Kuressaare,Tallinna Kalev,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,A,O,O,U,N,Y,N
+2025-05-10,08:30,ENGLAND 3,Leyton Orient,Stockport County,2.7,2.75,2.9,1.5,2.45,2.05,1.7,A,A,D,O,U,O,Y,Y,Y
+2025-05-10,08:30,CHINA 2,Guangdong GZ-Power,Chongqing Tonglianglong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,Y
+2025-05-10,08:30,CHINA 2,Guangxi Pingguo Haliao,Shijiazhuang Gongfu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,O,U,O,Y,N,Y
+2025-05-10,08:30,CZECH 1,FK Pardubice,Ceske Budejovice,1.62,5.25,4.0,1.95,1.85,1.8,1.95,A,H,H,U,O,U,Y,Y,N
+2025-05-10,08:35,CHINA 1,Shandong Taishan,Zhejiang Professional,1.65,4.33,4.33,2.85,1.37,1.44,2.63,H,D,D,U,O,O,Y,Y,Y
+2025-05-10,08:35,CHINA 1,Meizhou Hakka,Chengdu Rongcheng,7.0,1.4,4.75,2.42,1.5,1.7,2.05,H,D,D,U,O,O,Y,Y,Y
+2025-05-10,09:00,FINLAND 1,KuPS,KTP,1.3,8.5,5.75,2.27,1.6,2.0,1.75,D,H,H,U,U,U,N,N,N
+2025-05-10,09:00,ROMANIA 1,Farul Constanta,UTA Arad,1.85,3.6,3.6,2.18,1.7,1.67,2.1,A,H,D,O,U,O,Y,Y,Y
+2025-05-10,09:00,CHINA 1,Beijing Guoan,Shenzhen Xinpengcheng,1.2,12.0,6.5,2.55,1.45,2.05,1.7,H,D,D,U,O,O,Y,Y,Y
+2025-05-10,09:00,DENMARK 2,Vendsyssel,Koge,1.76,4.1,3.6,1.87,1.87,1.8,1.91,D,A,H,U,U,U,N,N,N
+2025-05-10,09:00,SPAIN 1,Valencia,Getafe,2.0,4.33,3.0,1.52,2.55,2.2,1.62,H,H,D,U,U,O,Y,N,Y
+2025-05-10,09:00,BULGARIA 1,Slavia Sofia,Lok. Sofia,3.25,2.2,3.2,1.78,1.95,1.72,2.0,D,A,A,U,U,U,N,N,N
+2025-05-10,09:30,AUSTRIA 2,Lafnitz,Amstetten,3.65,1.8,4.0,2.65,1.42,1.42,2.65,H,A,H,U,O,O,Y,N,Y
+2025-05-10,09:30,AUSTRIA 2,Kapfenberg,Stripfing,2.37,2.62,3.6,2.05,1.7,1.6,2.18,H,A,H,U,O,O,Y,N,Y
+2025-05-10,09:30,UKRAINE 1,Obolon,LNZ Cherkasy,2.6,2.77,2.9,1.42,2.47,2.07,1.6,D,D,D,U,U,O,Y,N,N
+2025-05-10,09:30,POLAND 2,S. Rzeszow,Polonia Warszawa,3.0,2.1,3.6,2.25,1.57,1.5,2.5,H,D,H,U,U,U,N,Y,N
+2025-05-10,09:45,POLAND 1,Radomiak Radom,Pogon Szczecin,2.88,2.3,3.6,1.93,1.8,1.67,2.1,H,H,D,U,U,U,Y,N,Y
+2025-05-10,09:50,CROATIA 2,Orijent,Vukovar 1991,3.25,2.0,3.25,1.62,2.25,2.0,1.73,A,A,H,O,O,U,N,Y,Y
+2025-05-10,10:00,FINLAND 2,Jazz Pori,OLS Oulu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,O,U,O,N,Y,N
+2025-05-10,10:00,PARAGUAY 2,Tacuary,Sol de America,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,U,U,O,N,Y,Y
+2025-05-10,10:00,PARAGUAY 2,Resistencia,Independiente FBC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,D,U,U,O,N,Y,Y
+2025-05-10,10:00,FINLAND 2,Rovaniemi,Tampere Utd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,O,U,O,N,Y,N
+2025-05-10,10:00,TURKEY 1,Eyupspor,Kasimpasa,2.3,2.75,3.5,2.35,1.6,1.5,2.5,A,H,A,U,U,O,Y,N,Y
+2025-05-10,10:00,TURKEY 2,Adanaspor AS,Boluspor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,TURKEY 2,Istanbulspor AS,Corum,1.31,10.5,4.6,2.4,1.5,1.78,1.93,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,FINLAND 2,SalPa,JaPS,2.95,2.05,3.8,2.42,1.44,1.42,2.47,D,H,H,O,U,O,N,Y,N
+2025-05-10,10:00,ITALY 1,Como,Cagliari,1.73,4.75,3.8,1.88,1.93,1.91,1.91,H,A,A,U,O,O,N,Y,N
+2025-05-10,10:00,TURKEY 2,Yeni Malatyaspor,Genclerbirligi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,TURKEY 1,Konyaspor,Rizespor,2.0,3.7,3.4,1.9,1.91,1.73,2.0,A,H,A,U,U,O,Y,N,Y
+2025-05-10,10:00,TURKEY 2,Bandirmaspor,Pendikspor,1.47,6.0,4.25,2.05,1.7,1.83,1.87,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,TURKEY 2,Umraniyespor,Manisa FK,5.3,1.52,4.3,2.12,1.65,1.75,1.95,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,TURKEY 2,Sanliurfaspor,Erzurumspor,9.75,1.27,5.2,2.12,1.65,2.15,1.62,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,TURKEY 2,Sakaryaspor,Erokspor,2.45,3.6,2.52,1.75,1.95,1.62,2.15,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,SWEDEN 1,Brommapojkarna,Halmstad,1.6,5.0,4.2,1.98,1.78,1.77,1.92,A,D,D,U,U,O,N,Y,Y
+2025-05-10,10:00,TURKEY 2,Karagumruk,Igdir FK,3.05,2.22,3.35,1.7,2.05,1.85,1.85,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,FINLAND 2,Ekenas,Klubi 04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,H,H,O,U,O,N,Y,N
+2025-05-10,10:00,TURKEY 2,Ankaragucu,Amedspor,1.7,4.25,3.9,2.0,1.72,1.75,1.98,H,D,H,O,U,U,N,N,N
+2025-05-10,10:00,ITALY 3,ACR Messina,Foggia,1.75,4.2,3.45,1.7,2.05,1.95,1.75,A,A,H,O,O,U,N,Y,Y
+2025-05-10,10:00,PORTUGAL 2,Oliveirense,Maritimo,2.5,2.6,3.2,2.05,1.72,1.57,2.25,A,H,A,O,O,U,Y,Y,N
+2025-05-10,10:00,SWEDEN 2,Utsikten,Falkenberg,2.7,2.6,3.25,1.83,1.88,1.7,2.05,D,A,H,O,O,U,Y,N,Y
+2025-05-10,10:00,DENMARK 2,Kolding IF,Esbjerg,1.75,3.8,4.2,2.2,1.62,1.67,2.1,D,A,H,U,U,U,N,N,N
+2025-05-10,10:00,SWEDEN 2,Sundsvall,Vasteras SK,3.5,2.05,3.6,1.8,1.9,1.8,1.95,D,A,H,O,O,U,Y,N,Y
+2025-05-10,10:00,SWEDEN 2,Oddevold,Orebro,2.0,3.4,3.6,1.72,2.0,1.91,1.91,D,A,H,O,O,U,Y,N,Y
+2025-05-10,10:00,UKRAINE 2,Bukovyna,Metalist 1925,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,A,U,U,O,N,N,Y
+2025-05-10,10:30,GERMANY 1,Bochum,Mainz,2.9,2.3,3.6,2.27,1.65,1.53,2.38,D,D,H,O,U,U,Y,N,N
+2025-05-10,10:30,GERMANY 1,Holstein Kiel,Freiburg,3.1,2.15,3.75,2.5,1.53,1.5,2.5,D,D,H,O,U,U,Y,N,N
+2025-05-10,10:30,GERMANY 1,Union Berlin,Heidenheim,2.25,3.3,3.3,1.91,1.9,1.7,2.05,D,D,H,O,U,U,Y,N,N
+2025-05-10,10:30,PORTUGAL 3,Lusitania FC,Atletico CP,1.9,3.8,3.35,1.7,1.91,1.78,1.82,H,H,D,O,U,O,N,N,Y
+2025-05-10,10:30,GERMANY 1,Werder Bremen,RB Leipzig,2.35,2.8,3.7,2.5,1.53,1.44,2.63,D,D,H,O,U,U,Y,N,N
+2025-05-10,11:00,EGYPT 2,Aswan SC,Wadi Degla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,D,O,U,U,N,N,N
+2025-05-10,11:00,ENGLAND 1,Ipswich,Brentford,5.0,1.65,4.0,2.5,1.55,1.57,2.25,D,D,H,U,O,U,Y,N,N
+2025-05-10,11:00,ENGLAND 1,Southampton,Manchester City,12.0,1.2,7.0,3.1,1.37,1.8,1.95,D,D,H,U,O,U,Y,N,N
+2025-05-10,11:00,ENGLAND 1,Fulham,Everton,1.85,4.5,3.4,1.8,2.02,1.91,1.91,D,D,H,U,O,U,Y,N,N
+2025-05-10,11:00,EGYPT 2,Alexandria SC,Al Qanah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,D,O,U,U,N,N,N
+2025-05-10,11:00,ENGLAND 1,Wolves,Brighton,2.7,2.5,3.5,2.1,1.75,1.54,2.25,D,D,H,U,O,U,Y,N,N
+2025-05-10,11:00,SCOTLAND 1,Dundee Utd,St. Mirren,2.25,2.9,3.6,1.98,1.85,1.72,2.0,A,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,ESTONIA 2,Nomme Utd,FC Tallinn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,H,O,U,U,N,N,Y
+2025-05-10,11:00,SCOTLAND 1,Kilmarnock,Dundee FC,1.83,4.5,3.4,1.98,1.83,1.75,2.0,A,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,SCOTLAND 1,St Johnstone,Ross County,2.2,3.4,3.2,1.72,2.12,1.91,1.91,A,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,SCOTLAND 1,Celtic,Hibernian,1.24,9.0,6.0,2.6,1.5,1.91,1.91,A,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,FINLAND 1,Mariehamn,Inter Turku,8.0,1.4,4.5,2.07,1.7,1.95,1.8,D,H,H,U,U,U,N,N,N
+2025-05-10,11:00,SCOTLAND 1,Hearts,Motherwell,1.46,6.25,4.2,2.02,1.8,1.95,1.8,A,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,SCOTLAND 2,Airdrieonians,Stenhousemuir,1.53,5.5,4.33,2.07,1.7,1.8,1.8,D,H,A,O,O,U,N,N,N
+2025-05-10,11:00,SCOTLAND 2,Cove Rangers,Queen of South,2.5,2.8,3.25,1.93,1.82,1.67,2.1,D,H,A,O,O,U,N,N,N
+2025-05-10,11:00,SPAIN 3,Barcelona B,Andorra,3.0,2.15,3.25,1.78,1.93,1.73,2.0,H,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,SPAIN 3,Merida AD,Real Madrid B,2.05,3.1,3.25,1.72,2.0,1.83,1.83,H,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,SPAIN 3,UD Ibiza,Alcorcon,1.63,4.33,3.5,1.72,2.0,2.1,1.67,H,H,D,U,U,U,Y,N,Y
+2025-05-10,11:00,GREECE 1,Lamia,Panserraikos,5.5,1.57,4.0,1.7,2.05,2.15,1.62,A,H,D,U,U,O,Y,Y,N
+2025-05-10,11:00,GREECE 1,Levadiakos,Athens Kallithea,2.25,3.2,3.3,1.65,2.1,1.88,1.82,A,H,D,U,U,O,Y,Y,N
+2025-05-10,11:00,EGYPT 2,WE SC,Tersana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,D,O,U,U,N,N,N
+2025-05-10,11:00,EGYPT 2,Baladiyat El Mahalla,Al-Sekka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,D,O,U,U,N,N,N
+2025-05-10,11:00,CZECH 2,Sigma Olomouc B,Taborsko,3.2,2.05,3.4,1.9,1.9,1.73,2.0,D,A,H,U,U,U,Y,N,Y
+2025-05-10,11:00,BOSNIA 1,Zrinjski,Radnik Bijeljina,1.2,13.5,5.5,1.9,1.72,2.65,1.37,H,A,H,O,U,O,Y,Y,Y
+2025-05-10,11:00,ESTONIA 1,Tammeka,Kalju,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,A,O,O,U,N,Y,N
+2025-05-10,11:00,CZECH 1,Karvina,Hradec Kralove,2.25,3.1,3.5,1.91,1.9,1.7,2.05,A,H,H,U,O,U,Y,Y,N
+2025-05-10,11:00,BELGIUM 1,Beerschot VA,Cercle Brugge KSV,5.0,1.57,4.5,2.25,1.65,1.7,2.05,A,A,D,O,U,U,N,N,Y
+2025-05-10,11:00,BELGIUM 1,Kortrijk,St. Truiden,3.1,2.2,3.6,2.07,1.75,1.62,2.2,A,A,D,O,U,U,N,N,Y
+2025-05-10,11:00,ICELAND 1,Vestri,Afturelding,2.45,2.52,3.65,2.18,1.62,1.53,2.32,D,H,H,U,U,U,N,Y,Y
+2025-05-10,11:00,CZECH 1,Jablonec,Sigma Olomouc,1.45,7.5,4.2,1.85,1.95,2.05,1.7,A,H,H,U,O,U,Y,Y,N
+2025-05-10,11:15,SPAIN 2,Gijon,Dep. La Coruna,2.05,3.6,3.3,1.65,2.25,1.91,1.8,H,H,D,O,O,U,Y,N,N
+2025-05-10,11:15,SPAIN 2,Mirandes,Castellon,1.95,3.75,3.5,1.93,1.87,1.8,1.91,H,H,D,O,O,U,Y,N,N
+2025-05-10,11:15,SPAIN 1,Celta Vigo,Sevilla,1.8,4.5,3.6,1.82,2.0,1.91,1.91,H,H,D,U,U,O,Y,N,Y
+2025-05-10,11:30,PORTUGAL 1,Santa Clara,Famalicao,2.15,3.6,3.1,1.55,2.5,2.1,1.67,A,A,A,O,O,O,N,N,N
+2025-05-10,11:30,PORTUGAL 1,Nacional,Rio Ave,1.95,3.75,3.5,1.9,1.91,1.75,2.0,A,A,A,O,O,O,N,N,N
+2025-05-10,11:30,ROMANIA 1,FC Hermannstadt,Poli Iasi,1.85,3.7,3.5,1.78,2.05,1.91,1.8,A,H,D,O,U,O,Y,Y,Y
+2025-05-10,11:30,NETHERLANDS 1,Waalwijk,Heerenveen,3.4,2.0,3.8,2.45,1.55,1.5,2.5,D,D,H,O,U,O,N,Y,Y
+2025-05-10,11:30,BULGARIA 1,Spartak Varna,Beroe,1.95,3.75,3.4,1.65,2.15,2.0,1.73,D,A,A,U,U,U,N,N,N
+2025-05-10,12:00,AUSTRIA 1,A. Klagenfurt,Tirol,2.5,2.88,3.25,1.85,1.9,1.7,2.05,A,D,H,U,U,O,N,Y,Y
+2025-05-10,12:00,AUSTRIA 1,LASK,Hartberg,1.73,4.33,3.8,2.05,1.72,1.7,2.05,A,D,H,U,U,O,N,Y,Y
+2025-05-10,12:00,FRANCE 2,Annecy,Grenoble,1.9,4.2,3.4,2.07,1.75,1.67,2.1,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Sutjeska Foca,BSK Banja Luka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,FRANCE 2,Bastia,Caen,1.48,5.75,4.33,2.37,1.6,1.73,2.0,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Leotar,Nevesinje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,SERBIA 2,FK Indjija,Sloboda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,A,O,U,U,N,Y,N
+2025-05-10,12:00,AUSTRIA 1,Altach,Grazer AK,1.95,4.0,3.3,1.72,2.05,1.91,1.91,A,D,H,U,U,O,N,Y,Y
+2025-05-10,12:00,BOSNIA 2,Tomislav,Travnik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Banovici,Gorazde,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,FRANCE 2,Laval,Metz,2.1,3.0,3.8,2.4,1.57,1.53,2.38,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Radnicki Lukavac,Hadzici,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Bratstvo Gracanica,Celik Zenica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Kozarska Dubica,Drina Zvornik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Famos Vojkovici,Kozara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Tuzla City,Jedinstvo Bihac,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Slavija,Mrkonjic Grad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Romanija Pale,Laktasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Novi Grad,Drina Visegrad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Zeljeznicar Banja Luka,Prijedor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,FRANCE 2,Paris FC,AC Ajaccio,1.48,6.5,4.1,1.85,1.98,2.1,1.67,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,CROATIA 1,Sibenik,Rijeka,5.25,1.65,3.6,1.6,2.27,2.25,1.57,D,D,D,O,U,U,N,N,N
+2025-05-10,12:00,FRANCE 2,Red Star,Dunkerque,4.0,2.0,3.2,2.15,1.72,1.57,2.25,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,FRANCE 2,Lorient,Martigues,1.53,5.75,4.1,2.47,1.55,1.62,2.2,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,FRANCE 2,Troyes,Amiens,1.53,5.75,4.2,2.05,1.78,1.83,1.83,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,UKRAINE 1,Rukh Lviv,Veres-Rivne,1.98,3.75,3.15,1.57,2.12,1.91,1.7,D,D,D,U,U,O,Y,N,N
+2025-05-10,12:00,PORTUGAL 3,AD Fafe,Sporting CP B,1.83,3.9,3.45,1.65,1.98,1.85,1.75,H,H,D,O,U,O,N,N,Y
+2025-05-10,12:00,FRANCE 2,Rodez,Clermont,2.75,2.4,3.5,2.32,1.62,1.53,2.38,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:00,BOSNIA 2,Zvijezda 09,Ljubic Prnjavor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,U,O,O,N,N,Y
+2025-05-10,12:00,FRANCE 2,Pau FC,Guingamp,3.4,1.91,3.75,2.75,1.45,1.44,2.63,D,H,A,O,O,U,N,N,Y
+2025-05-10,12:30,CROATIA 2,Zrinski Osjecko,Bijelo Brdo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,A,H,O,O,U,N,Y,Y
+2025-05-10,12:30,POLAND 2,Pogon Siedlce,Legnica,3.7,1.85,3.5,1.88,1.82,1.73,2.0,H,D,H,U,U,U,N,Y,N
+2025-05-10,12:30,PORTUGAL 3,Amarante,Os Belenenses,3.1,2.12,3.35,1.65,1.98,1.82,1.78,H,H,D,O,U,O,N,N,Y
+2025-05-10,12:30,GREECE 1,Aris,Asteras Tripolis,1.67,5.25,3.6,1.65,2.1,2.0,1.75,A,H,D,U,U,O,Y,Y,N
+2025-05-10,12:30,CROATIA 2,Dugopolje,Jarun,2.38,2.63,3.2,1.62,2.2,1.91,1.8,A,A,H,O,O,U,N,Y,Y
+2025-05-10,12:30,ITALY 3,Pro Patria,Pro Vercelli,2.4,3.15,2.75,1.5,2.42,2.0,1.72,A,A,H,O,O,U,N,Y,Y
+2025-05-10,12:30,SWEDEN 1,GAIS,Varnamo,1.7,4.75,3.75,1.75,2.0,2.0,1.75,A,D,D,U,U,O,N,Y,Y
+2025-05-10,12:30,SWEDEN 1,Sirius,Hacken,2.88,2.25,3.7,2.3,1.57,1.53,2.38,A,D,D,U,U,O,N,Y,Y
+2025-05-10,12:30,POLAND 1,Zaglebie,Widzew Lodz,2.25,3.1,3.4,1.95,1.78,1.67,2.1,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SLOVAKIA 1,Ruzomberok,Trencin,1.65,4.75,3.9,1.98,1.78,1.78,1.93,D,A,A,U,O,U,N,Y,Y
+2025-05-10,13:00,SWITZERLAND 1,Yverdon,Sion,2.7,2.45,3.3,1.93,1.82,1.67,2.1,A,D,D,O,U,O,Y,Y,Y
+2025-05-10,13:00,SLOVAKIA 1,Skalica,Banska Bystrica,1.88,4.15,3.35,1.65,2.15,1.95,1.75,D,A,A,U,O,U,N,Y,Y
+2025-05-10,13:00,SWITZERLAND 1,St. Gallen,Winterthur,1.45,5.75,4.5,2.62,1.45,1.57,2.25,A,D,D,O,U,O,Y,Y,Y
+2025-05-10,13:00,ICELAND 2,Grindavik,Fjolnir,2.07,2.95,3.75,2.37,1.45,1.42,2.45,H,H,D,U,O,O,Y,N,Y
+2025-05-10,13:00,SERBIA 1,Tekstilac Odzaci,Jedinstvo U.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,H,U,O,U,N,Y,N
+2025-05-10,13:00,SWITZERLAND 1,Zurich,Grasshoppers,1.95,3.5,3.8,2.02,1.75,1.63,2.1,A,D,D,O,U,O,Y,Y,Y
+2025-05-10,13:00,ICELAND 2,Njardvik,Volsungur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,D,U,O,O,Y,N,Y
+2025-05-10,13:00,ITALY 1,Lazio,Juventus,2.45,3.0,3.2,1.65,2.25,1.91,1.91,H,A,A,U,O,O,N,Y,N
+2025-05-10,13:00,TURKEY 1,Trabzonspor,Galatasaray,3.5,1.67,4.33,2.9,1.42,1.44,2.63,A,H,A,U,U,O,Y,N,Y
+2025-05-10,13:00,EGYPT 2,Arab Contractors,Abu Qir Semad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,D,O,U,U,N,N,N
+2025-05-10,13:00,SPAIN 3,Tarazona,Ourense CF,1.91,3.3,3.5,1.47,2.5,2.38,1.53,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SPAIN 3,Alcoyano,CF Intercity,1.41,6.5,3.8,1.78,1.93,2.2,1.62,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SPAIN 3,Ath Bilbao B,Unionistas,1.65,4.5,3.6,1.65,2.12,2.2,1.62,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SPAIN 3,Yeclano,Villarreal B,2.15,3.0,3.1,1.52,2.37,2.1,1.67,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SPAIN 3,Gimnastic,Lugo,1.65,4.75,3.4,1.7,2.02,2.0,1.73,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:00,SLOVAKIA 1,Podbrezova,Slovan Bratislava,4.05,1.72,4.15,2.75,1.42,1.44,2.6,D,A,A,U,O,U,N,Y,Y
+2025-05-10,13:00,FINLAND 1,AC Oulu,Gnistan,2.62,2.6,3.4,1.91,1.83,1.67,2.1,D,H,H,U,U,U,N,N,N
+2025-05-10,13:15,BELGIUM 1,KV Mechelen,St. Liege,1.75,4.2,3.8,2.1,1.75,1.75,2.0,A,A,D,O,U,U,N,N,Y
+2025-05-10,13:15,GREECE 1,Atromitos,OFI Crete,1.9,4.2,3.4,1.72,2.0,1.95,1.8,A,H,D,U,U,O,Y,Y,N
+2025-05-10,13:20,SAUDI ARABIA 1,Al Kholood,Al Ettifaq,2.4,2.5,3.7,2.12,1.72,1.67,2.1,H,D,A,O,O,O,N,N,Y
+2025-05-10,13:25,SAUDI ARABIA 1,Al Wehda,Al Fateh,3.4,1.85,3.9,2.35,1.6,1.57,2.25,H,D,A,O,O,O,N,N,Y
+2025-05-10,13:30,ENGLAND 1,Bournemouth,Aston Villa,2.4,2.75,3.6,2.32,1.62,1.47,2.5,D,D,H,U,O,U,Y,N,N
+2025-05-10,13:30,SPAIN 1,Girona,Villarreal,3.1,2.1,3.8,2.3,1.62,1.53,2.38,H,H,D,U,U,O,Y,N,Y
+2025-05-10,13:30,SPAIN 1,Mallorca,Valladolid,1.33,9.0,5.25,1.9,1.91,2.5,1.5,H,H,D,U,U,O,Y,N,Y
+2025-05-10,13:30,GERMANY 1,Bayern Munich,B. Monchengladbach,1.17,11.0,9.5,4.75,1.19,1.57,2.25,D,D,H,O,U,U,Y,N,N
+2025-05-10,13:30,SPAIN 3,Betis B,Sanluqueno,2.1,3.3,3.0,1.7,2.05,1.83,1.83,H,H,D,U,U,U,Y,N,Y
+2025-05-10,13:30,SPAIN 2,Elche,Levante,2.0,3.9,3.25,1.72,2.12,1.83,1.83,H,H,D,O,O,U,Y,N,N
+2025-05-10,13:30,SPAIN 2,Burgos CF,Cordoba,2.5,2.88,3.1,1.62,2.3,1.91,1.8,H,H,D,O,O,U,Y,N,N
+2025-05-10,13:30,BOSNIA 1,FK Sarajevo,Siroki Brijeg,1.55,5.1,3.95,1.85,1.75,1.83,1.78,H,A,H,O,U,O,Y,Y,Y
+2025-05-10,13:45,NETHERLANDS 1,Sittard,NAC Breda,1.95,4.0,3.4,1.88,1.93,1.75,2.0,D,D,H,O,U,O,N,Y,Y
+2025-05-10,14:00,CZECH 1,Slavia Prague,Sparta Prague,1.65,4.5,4.33,2.0,1.82,1.95,1.8,A,H,H,U,O,U,Y,Y,N
+2025-05-10,14:00,PORTUGAL 2,Chaves,Leiria,2.25,3.2,3.0,1.6,2.25,1.83,1.83,A,H,A,O,O,U,Y,Y,N
+2025-05-10,14:00,ICELAND 1,KR Reykjavik,Vestmannaeyjar,1.72,3.8,4.2,3.35,1.28,1.32,3.1,D,H,H,U,U,U,N,Y,Y
+2025-05-10,14:00,ARGENTINA 1,San Lorenzo,Tigre,2.45,3.4,2.8,1.39,3.0,2.38,1.53,A,H,D,U,U,U,N,N,N
+2025-05-10,14:00,EGYPT 1,Al Ittihad,Ghazl El Mahallah,2.57,3.5,2.47,1.27,3.45,2.55,1.45,H,D,A,U,O,U,Y,Y,Y
+2025-05-10,14:00,SERBIA 2,Javor,Graficar Beograd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,D,A,O,U,U,N,Y,N
+2025-05-10,14:00,GREECE 1,Panetolikos,Volos,4.75,1.85,3.2,1.47,2.5,2.25,1.57,A,H,D,U,U,O,Y,Y,N
+2025-05-10,14:00,SPAIN 4,Real Avila,Cacereno,3.05,2.42,2.9,1.5,2.27,1.93,1.7,H,D,A,O,O,U,N,Y,Y
+2025-05-10,14:00,SPAIN 4,Torrent,La Union,2.65,2.82,2.77,1.45,2.37,1.98,1.65,H,D,A,O,O,U,N,Y,Y
+2025-05-10,14:00,PERU 1,Ayacucho,Sporting Cristal,3.75,1.9,3.5,1.93,1.78,1.67,2.1,H,H,A,U,O,U,Y,Y,Y
+2025-05-10,14:00,PORTUGAL 1,Benfica,Sporting CP,2.1,3.3,3.5,2.18,1.7,1.57,2.25,A,A,A,O,O,O,N,N,N
+2025-05-10,14:00,BULGARIA 1,Levski Sofia,Cherno More,1.62,5.25,3.8,1.7,2.07,2.1,1.67,D,A,A,U,U,U,N,N,N
+2025-05-10,14:30,ISRAEL 1,Sakhnin,Maccabi Bnei Raina,2.35,3.2,3.0,1.52,2.37,2.0,1.73,D,A,D,U,O,O,N,N,Y
+2025-05-10,14:30,ISRAEL 1,SC Ashdod,Kiryat Shmona,1.42,7.0,4.5,1.87,1.85,2.1,1.67,D,A,D,U,O,O,N,N,Y
+2025-05-10,14:30,ISRAEL 1,Ironi Tiberias,Maccabi Petah Tikva,3.7,2.05,3.1,1.55,2.3,2.0,1.73,D,A,D,U,O,O,N,N,Y
+2025-05-10,14:30,ROMANIA 1,Univ. Craiova,CFR Cluj,2.4,2.75,3.3,1.7,2.18,1.83,1.83,A,H,D,O,U,O,Y,Y,Y
+2025-05-10,14:30,POLAND 2,Ruch Chorzow,LKS Lodz,2.1,3.2,3.3,1.82,1.88,1.73,2.0,H,D,H,U,U,U,N,Y,N
+2025-05-10,14:30,ISRAEL 1,Hapoel Hadera,Hapoel Jerusalem,3.5,2.05,3.4,1.7,2.05,1.83,1.83,D,A,D,U,O,O,N,N,Y
+2025-05-10,14:45,CROATIA 1,D. Zagreb,Slaven Belupo,1.27,9.5,5.5,2.42,1.53,1.91,1.8,D,D,D,O,U,U,N,N,N
+2025-05-10,15:00,ITALY 3,Caldiero Terme,Triestina,3.25,2.18,3.2,1.65,2.1,1.85,1.85,A,A,H,O,O,U,N,Y,Y
+2025-05-10,15:00,ITALY 3,AC Milan U23,Spal,2.95,2.27,3.1,1.65,2.1,1.85,1.85,A,A,H,O,O,U,N,Y,Y
+2025-05-10,15:00,ITALY 3,Sestri Levante,Lucchese,3.15,2.12,3.25,1.72,2.02,1.82,1.88,A,A,H,O,O,U,N,Y,Y
+2025-05-10,15:00,PERU 2,Deportivo Coopsol,Moquegua,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,A,U,O,O,N,N,N
+2025-05-10,15:00,ECUADOR 1,Manta,Mushuc Runa,2.15,3.5,3.0,1.78,1.98,1.67,2.1,H,H,D,O,O,O,Y,Y,Y
+2025-05-10,15:00,SPAIN 3,Murcia,Antequera,1.8,4.2,3.1,1.62,2.18,2.0,1.73,H,H,D,U,U,U,Y,N,Y
+2025-05-10,15:00,SERBIA 1,Radnicki 1923,Novi Pazar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,A,H,U,O,U,N,Y,N
+2025-05-10,15:00,SPAIN 3,Cultural Leonesa,Barakaldo,1.67,4.75,3.3,1.7,2.05,2.0,1.73,H,H,D,U,U,U,Y,N,Y
+2025-05-10,15:00,SAUDI ARABIA 1,Al Khaleej,Al Riyadh,2.15,3.0,3.5,1.98,1.83,1.73,2.0,H,D,A,O,O,O,N,N,Y
+2025-05-10,15:00,SPAIN 4,Antoniano,Real Aviles,2.3,3.2,2.92,1.5,2.25,1.91,1.7,H,D,A,O,O,U,N,Y,Y
+2025-05-10,15:15,POLAND 1,Rakow,Jagiellonia,1.85,4.2,3.5,1.88,1.87,1.8,1.95,H,H,D,U,U,U,Y,N,Y
+2025-05-10,15:30,USA 1,Chicago Fire,Atlanta Utd,2.1,3.2,3.7,2.55,1.53,1.44,2.63,H,A,A,O,U,U,Y,N,N
+2025-05-10,15:30,ARGENTINA 2,Almagro,Los Andes,2.35,3.6,2.8,1.32,3.1,2.5,1.5,A,H,D,U,U,O,Y,Y,N
+2025-05-10,15:30,ARGENTINA 2,San Miguel,Ferro,2.0,4.1,3.1,1.37,2.85,2.63,1.44,A,H,D,U,U,O,Y,Y,N
+2025-05-10,15:30,SWITZERLAND 1,Lugano,Basel,2.6,2.45,3.6,2.35,1.55,1.47,2.5,A,D,D,O,U,O,Y,Y,Y
+2025-05-10,15:30,SLOVAKIA 1,Kosice,Zilina,2.65,2.35,3.75,2.22,1.62,1.53,2.32,D,A,A,U,O,U,N,Y,Y
+2025-05-10,15:30,GERMANY 2,Hamburger SV,Ulm,1.42,6.25,5.0,2.55,1.52,1.67,2.1,D,D,D,O,U,U,N,N,Y
+2025-05-10,15:45,IRELAND 1,Sligo Rovers,Bohemians,3.5,2.0,3.3,2.02,1.72,1.62,2.2,A,D,D,U,U,U,N,Y,N
+2025-05-10,15:45,ITALY 1,Empoli,Parma,2.1,3.6,3.3,1.85,1.95,1.75,2.0,H,A,A,U,O,O,N,Y,N
+2025-05-10,15:45,BELGIUM 1,Anderlecht,Royale Union SG,3.25,2.2,3.3,1.8,2.02,1.75,2.0,A,A,D,O,U,U,N,N,Y
+2025-05-10,15:45,BOSNIA 1,Borac Banja Luka,Velez Mostar,1.18,17.0,5.4,1.82,1.8,2.92,1.3,H,A,H,O,U,O,Y,Y,Y
+2025-05-10,16:00,SPAIN 4,CD Estepona,SD Logrones,2.6,2.8,2.87,1.5,2.27,1.91,1.7,H,D,A,O,O,U,N,Y,Y
+2025-05-10,16:00,ARGENTINA 2,Gimnasia Jujuy,Nueva Chicago,1.7,6.0,3.25,1.33,3.05,3.25,1.33,A,H,D,U,U,O,Y,Y,N
+2025-05-10,16:00,BRAZIL 1,Fortaleza,Juventude,1.67,5.75,3.6,1.7,2.15,2.05,1.67,A,A,A,U,O,O,Y,N,N
+2025-05-10,16:00,BRAZIL 2,Avai,Atletico GO,2.05,3.4,3.6,1.62,2.2,2.0,1.73,D,A,H,O,U,U,N,N,N
+2025-05-10,16:00,NETHERLANDS 1,Almere City,Sparta Rotterdam,2.8,2.45,3.5,2.15,1.72,1.57,2.25,D,D,H,O,U,O,N,Y,Y
+2025-05-10,16:00,FRANCE 1,Toulouse,Lens,2.25,3.1,3.5,1.98,1.85,1.67,2.1,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,FRANCE 1,Rennes,Nice,3.6,1.95,3.8,2.15,1.72,1.62,2.2,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,SPAIN 1,Atl. Madrid,Real Sociedad,1.67,5.0,3.7,1.78,2.05,1.95,1.8,H,H,D,U,U,O,Y,N,Y
+2025-05-10,16:00,FRANCE 1,Montpellier,PSG,9.0,1.25,7.0,3.4,1.32,1.67,2.1,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,BOLIVIA 1,Universitario de Vinto,Academia del Balompie,1.51,5.25,4.1,1.93,1.7,1.83,1.83,H,H,D,O,O,O,Y,N,Y
+2025-05-10,16:00,FRANCE 1,Brest,Lille,4.5,1.75,3.8,2.05,1.78,1.75,2.0,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,FRANCE 1,Auxerre,Nantes,2.9,2.4,3.4,1.91,1.9,1.7,2.05,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,FRANCE 1,Angers,Strasbourg,4.2,1.8,3.75,2.05,1.78,1.7,2.05,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,SPAIN 2,Zaragoza,FC Cartagena SAD,1.29,9.5,5.75,2.25,1.65,2.1,1.67,H,H,D,O,O,U,Y,N,N
+2025-05-10,16:00,FRANCE 1,Reims,St Etienne,2.1,3.2,3.7,2.15,1.7,1.57,2.25,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,FRANCE 1,Le Havre,Marseille,6.0,1.5,4.5,2.37,1.6,1.7,2.05,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:00,ENGLAND 4,Notts Co,AFC Wimbledon,2.2,3.4,3.2,1.7,2.07,1.83,1.83,A,A,A,O,U,O,Y,Y,Y
+2025-05-10,16:00,FRANCE 1,Monaco,Lyon,1.83,3.7,4.2,2.85,1.44,1.4,2.75,H,H,H,O,U,O,Y,Y,N
+2025-05-10,16:15,ICELAND 1,Valur,Akranes,1.55,4.7,4.5,2.95,1.35,1.44,2.62,D,H,H,U,U,U,N,Y,Y
+2025-05-10,16:15,ICELAND 1,Stjarnan,Fram,2.05,2.92,4.0,2.55,1.45,1.45,2.57,D,H,H,U,U,U,N,Y,Y
+2025-05-10,16:30,VENEZUELA 2,Titanes,Heroes de Falcon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,16:30,VENEZUELA 2,Bolivar,Miranda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,16:30,VENEZUELA 2,Trujillanos,Puerto Cabello B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,16:30,VENEZUELA 2,Frontera,El Vigia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,16:30,ARGENTINA 1,Rosario Central,Estudiantes L.P.,2.38,3.5,2.88,1.47,2.72,2.2,1.62,A,H,D,U,U,U,N,N,N
+2025-05-10,16:30,VENEZUELA 2,Monagas B,Maritimo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,16:30,PORTUGAL 1,Gil Vicente,Arouca,2.35,3.0,3.25,1.7,2.15,1.91,1.91,A,A,A,O,O,O,N,N,N
+2025-05-10,16:30,PORTUGAL 1,Casa Pia,Braga,5.75,1.6,3.8,1.78,2.05,2.0,1.75,A,A,A,O,O,O,N,N,N
+2025-05-10,17:00,PARAGUAY 1,Guarani,Cerro Porteno,3.6,2.05,3.3,1.6,2.25,2.0,1.73,D,D,D,O,U,U,Y,Y,N
+2025-05-10,17:00,VENEZUELA 2,Aragua,Mineros,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,17:00,COLOMBIA 1,Envigado,Aguilas,3.0,2.75,2.65,1.39,2.87,2.25,1.57,D,H,H,U,U,U,N,N,Y
+2025-05-10,17:00,COLOMBIA 2,Atletico F.C.,Leones,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,O,O,O,N,N,N
+2025-05-10,17:00,PERU 2,ADA Jaen,Pirata,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,A,U,O,O,N,N,N
+2025-05-10,17:00,VENEZUELA 2,Urena,Barquisimeto,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,U,O,Y,Y,Y
+2025-05-10,17:00,USA 2,Rhode Island,Monterey Bay,1.47,5.6,4.15,2.02,1.7,1.87,1.83,D,D,H,U,O,O,Y,Y,N
+2025-05-10,17:30,PERU 1,Grau,Alianza Lima,4.2,1.83,3.4,1.65,2.1,2.0,1.73,H,H,A,U,O,U,Y,Y,Y
+2025-05-10,17:30,ECUADOR 1,Macara,LDU Quito,3.0,2.32,3.2,1.65,2.15,1.83,1.83,H,H,D,O,O,O,Y,Y,Y
+2025-05-10,17:30,USA 1,Toronto FC,DC United,2.35,2.88,3.6,1.98,1.83,1.67,2.1,H,A,A,O,U,U,Y,N,N
+2025-05-10,17:30,USA 1,Minnesota United,Inter Miami,2.25,3.0,3.6,2.18,1.7,1.57,2.25,H,A,A,O,U,U,Y,N,N
+2025-05-10,18:00,COLOMBIA 2,Jaguares de Cordoba,Patriotas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,O,O,O,N,N,N
+2025-05-10,18:00,ARGENTINA 2,Colegiales,Tristan Suarez,2.6,3.1,2.88,1.32,3.1,2.63,1.44,A,H,D,U,U,O,Y,Y,N
+2025-05-10,18:00,VENEZUELA 1,Carabobo,Puerto Cabello,1.8,4.45,3.2,1.6,2.07,1.93,1.7,D,H,H,O,U,O,N,Y,N
+2025-05-10,18:10,ARGENTINA 2,Quilmes,Patronato,2.05,3.9,3.1,1.39,2.77,2.5,1.47,A,H,D,U,U,O,Y,Y,N
+2025-05-10,18:15,BOLIVIA 1,Guabira,Real Oruro,1.62,4.75,3.8,2.25,1.5,1.57,2.25,H,H,D,O,O,O,Y,N,Y
+2025-05-10,18:30,BRAZIL 1,Vitoria,Vasco,2.1,3.7,3.25,1.57,2.42,2.05,1.7,A,A,A,U,O,O,Y,N,N
+2025-05-10,18:30,BRAZIL 1,Mirassol,Corinthians,3.2,2.45,3.0,1.7,2.18,1.91,1.91,A,A,A,U,O,O,Y,N,N
+2025-05-10,18:30,BRAZIL 1,Gremio,Bragantino,2.3,3.2,3.2,1.75,2.1,1.91,1.91,A,A,A,U,O,O,Y,N,N
+2025-05-10,18:30,BRAZIL 2,Goias,Coritiba,2.1,4.0,3.0,1.47,2.55,2.2,1.62,D,A,H,O,U,U,N,N,N
+2025-05-10,18:45,ARGENTINA 1,Racing Club,Platense,1.75,5.0,3.5,1.57,2.4,2.25,1.57,A,H,D,U,U,U,N,N,N
+2025-05-10,19:00,USA 2,Loudoun,Lexington,1.65,4.4,3.7,1.85,1.85,1.85,1.85,D,D,H,U,O,O,Y,Y,N
+2025-05-10,19:00,COLOMBIA 2,Barranquilla,Boca Juniors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,H,O,O,O,N,N,N
+2025-05-10,19:10,COLOMBIA 1,Fortaleza,La Equidad,2.2,3.3,3.2,1.55,2.35,2.0,1.73,D,H,H,U,U,U,N,N,Y
+2025-05-10,19:30,PARAGUAY 1,Ameliano,Recoleta,2.05,3.5,3.1,1.65,2.15,1.87,1.77,D,D,D,O,U,U,Y,Y,N
+2025-05-10,20:00,USA 2,Hartford Athletic,Detroit,2.67,2.37,3.3,1.7,2.02,1.83,1.87,D,D,H,U,O,O,Y,Y,N
+2025-05-10,20:30,USA 2,Louisville City,Pittsburgh,1.6,4.75,3.85,2.0,1.72,1.78,1.93,D,D,H,U,O,O,Y,Y,N
+2025-05-10,20:30,USA 2,Tampa Bay,Charleston,2.75,2.2,3.55,2.25,1.57,1.52,2.37,D,D,H,U,O,O,Y,Y,N
+2025-05-10,20:30,USA 1,Orlando City,New England Revolution,1.62,5.25,4.1,2.05,1.78,1.8,1.95,H,A,A,O,U,U,Y,N,N
+2025-05-10,20:30,USA 1,Philadelphia Union,Columbus Crew,2.45,2.9,3.3,2.1,1.75,1.57,2.25,H,A,A,O,U,U,Y,N,N
+2025-05-10,20:30,VENEZUELA 1,Dep. Tachira,Metropolitanos,1.4,8.0,4.0,1.78,1.82,2.05,1.62,D,H,H,O,U,O,N,Y,N
+2025-05-10,20:30,USA 1,New York City,CF Montreal,1.73,5.0,3.7,1.9,1.91,1.8,1.95,H,A,A,O,U,U,Y,N,N
+2025-05-10,20:30,USA 1,New York Red Bulls,Los Angeles Galaxy,1.85,4.1,3.7,2.05,1.78,1.7,2.05,H,A,A,O,U,U,Y,N,N
+2025-05-10,20:30,USA 1,FC Cincinnati,Austin FC,1.83,4.0,3.9,1.95,1.87,1.8,1.95,H,A,A,O,U,U,Y,N,N
+2025-05-10,21:00,USA 2,FC Tulsa,El Paso,1.95,3.45,3.35,1.65,2.1,1.91,1.8,D,D,H,U,O,O,Y,Y,N
+2025-05-10,21:00,ARGENTINA 1,Boca Juniors,Lanus,1.91,4.1,3.5,1.52,2.55,2.25,1.57,A,H,D,U,U,U,N,N,N
+2025-05-10,21:00,ECUADOR 1,Libertad,Delfin,1.8,4.75,3.3,1.83,1.9,1.8,1.91,H,H,D,O,O,O,Y,Y,Y
+2025-05-10,21:00,BOLIVIA 1,Independiente,Oriente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,H,H,D,O,O,O,Y,N,Y
+2025-05-10,21:00,BRAZIL 1,Flamengo RJ,Bahia,1.4,9.0,4.5,1.93,1.88,2.2,1.62,A,A,A,U,O,O,Y,N,N
+2025-05-10,21:20,COLOMBIA 1,Santa Fe,Junior,1.45,8.5,3.9,1.62,2.2,2.5,1.47,D,H,H,U,U,U,N,N,Y
+2025-05-10,21:30,USA 1,Houston Dynamo,Seattle Sounders,2.75,2.6,3.25,1.72,2.15,1.91,1.91,H,A,A,O,U,U,Y,N,N
+2025-05-10,21:30,USA 1,FC Dallas,Real Salt Lake,1.95,3.6,3.8,2.05,1.78,1.7,2.05,H,A,A,O,U,U,Y,N,N
+2025-05-10,21:30,USA 1,St. Louis City,San Diego FC,2.45,2.55,4.0,2.18,1.7,1.57,2.25,H,A,A,O,U,U,Y,N,N
+2025-05-10,21:30,USA 2,San Antonio,Oakland Roots,1.72,4.5,3.4,1.93,1.78,1.7,2.02,D,D,H,U,O,O,Y,Y,N
+2025-05-10,21:30,USA 1,Nashville SC,Charlotte,1.85,3.8,4.0,2.1,1.75,1.67,2.1,H,A,A,O,U,U,Y,N,N
+2025-05-10,22:00,USA 2,New Mexico,Phoenix Rising,1.55,5.4,3.75,1.85,1.85,1.91,1.8,D,D,H,U,O,O,Y,Y,N
+2025-05-10,22:00,MEXICO 1,Toluca,Monterrey,1.91,4.0,3.4,1.88,1.93,1.7,2.05,H,D,A,U,U,O,N,Y,Y
+2025-05-10,22:30,USA 1,Colorado Rapids,San Jose Earthquakes,1.85,3.7,4.0,2.62,1.5,1.44,2.63,H,A,A,O,U,U,Y,N,N
+2025-05-10,23:00,PERU 1,Cienciano,FBC Melgar,2.8,2.5,3.25,1.78,1.93,1.73,2.0,H,H,A,U,O,U,Y,Y,Y
+2025-05-10,23:00,USA 2,Sacramento Republic,Indy Eleven,1.7,4.4,3.55,1.85,1.85,1.82,1.9,D,D,H,U,O,O,Y,Y,N
+2025-05-10,23:30,USA 2,Las Vegas Lights,Colorado Springs,2.4,2.65,3.25,1.95,1.75,1.6,2.18,D,D,H,U,O,O,Y,Y,N
+2025-05-10,23:30,USA 1,Portland Timbers,Sporting Kansas City,1.75,4.33,3.9,2.45,1.55,1.53,2.38,H,A,A,O,U,U,Y,N,N
