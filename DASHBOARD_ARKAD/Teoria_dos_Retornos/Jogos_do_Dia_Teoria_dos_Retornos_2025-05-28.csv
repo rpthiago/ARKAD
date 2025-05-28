@@ -1,0 +1,51 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-05-28,07:30,SOUTH KOREA 1,Gwangju FC,Ulsan HD,3.0,2.45,3.1,1.55,2.35,2.0,1.73,A,H,H,U,O,O,N,Y,Y
+2025-05-28,07:30,SOUTH KOREA 1,Gimcheon Sangmu,Seoul,2.7,2.5,3.4,1.9,1.83,1.67,2.1,A,H,H,U,O,O,N,Y,Y
+2025-05-28,07:30,SOUTH KOREA 1,Gangwon,Anyang,2.5,3.0,3.0,1.52,2.42,2.0,1.73,A,H,H,U,O,O,N,Y,Y
+2025-05-28,07:30,JAPAN 1,Urawa Reds,Cerezo Osaka,2.15,3.1,3.6,2.12,1.72,1.62,2.2,H,A,A,O,O,U,Y,Y,N
+2025-05-28,12:30,SERBIA 1,Mladost GAT,Napredak,4.2,1.87,3.05,1.55,2.3,2.05,1.7,H,H,H,O,O,U,Y,Y,N
+2025-05-28,13:00,CZECH 1,Vyskov,Dukla Prague,3.9,1.85,3.4,1.78,2.05,1.83,1.83,H,H,D,O,O,U,N,N,N
+2025-05-28,13:00,CZECH 1,FK Pardubice,Chrudim,1.4,5.5,5.0,2.1,1.75,2.0,1.73,H,H,D,O,O,U,N,N,N
+2025-05-28,13:00,ESTONIA 1,Kalju,Paide,1.9,3.45,3.4,1.98,1.65,0.0,0.0,A,H,D,O,U,U,N,N,N
+2025-05-28,13:00,ESTONIA 1,Levadia,Parnu JK Vaprus,1.17,14.0,5.4,2.37,1.45,0.0,0.0,A,H,D,O,U,U,N,N,N
+2025-05-28,14:00,NORWAY 1,Fredrikstad,Rosenborg,2.75,2.55,3.25,1.75,2.0,1.8,1.95,H,D,H,U,U,O,N,Y,N
+2025-05-28,14:00,EGYPT 1,Al Ahly,Pharco,1.19,12.5,6.3,2.5,1.47,2.15,1.62,H,D,A,O,O,U,N,Y,Y
+2025-05-28,14:00,EGYPT 1,Al Masry,Haras El Hodood,1.35,7.9,4.7,2.1,1.65,2.0,1.72,H,D,A,O,O,U,N,Y,Y
+2025-05-28,14:00,EGYPT 1,Ceramica Cleopatra,Pyramids,2.95,2.4,3.1,1.78,1.93,1.7,2.05,H,D,A,O,O,U,N,Y,Y
+2025-05-28,14:00,EGYPT 1,Petrojet,National Bank Egypt,3.0,2.22,3.4,2.25,1.57,1.47,2.5,H,D,A,O,O,U,N,Y,Y
+2025-05-28,14:30,SERBIA 1,Macva,Radnicki Nis,4.7,1.72,3.3,1.6,2.18,2.1,1.65,H,H,H,O,O,U,Y,Y,N
+2025-05-28,15:00,SPAIN 3,Cultural Leonesa,Ceuta,2.5,2.82,3.1,1.7,2.05,1.78,1.93,D,A,D,U,O,O,Y,N,Y
+2025-05-28,15:00,ITALY 3,Pescara,Audace Cerignola,1.95,3.75,3.1,1.7,2.05,1.83,1.88,A,A,H,O,O,U,N,Y,Y
+2025-05-28,15:00,ITALY 3,Ternana,L.R. Vicenza,2.67,2.75,2.77,1.47,2.5,2.05,1.7,A,A,H,O,O,U,N,Y,Y
+2025-05-28,16:00,NORWAY 1,Bodo/Glimt,Viking,1.36,7.0,5.25,2.95,1.36,1.57,2.25,H,D,H,U,U,O,N,Y,N
+2025-05-28,16:00,EUROPA CONFERENCE LEAGUE,Betis,Chelsea,4.5,1.75,3.8,2.15,1.7,1.67,2.1,H,D,D,U,U,U,N,Y,N
+2025-05-28,17:00,ARGENTINA COPA,Excursionistas,Argentinos Jrs,10.25,1.36,3.9,1.7,1.93,2.25,1.5,H,A,A,U,U,U,Y,N,Y
+2025-05-28,19:00,COPA SUDAMERICANA,Independiente (Arg),Nacional Potosi (Bol),1.13,19.0,9.0,2.8,1.44,2.5,1.5,H,H,H,O,U,U,Y,N,N
+2025-05-28,19:00,COPA SUDAMERICANA,Guarani (Par),Boston River (Uru),1.44,8.0,4.33,1.75,2.07,2.25,1.57,H,H,H,O,U,U,Y,N,N
+2025-05-28,19:00,COPA LIBERTADORES,Nacional (Uru),Atl. Nacional (Col),2.5,2.7,3.5,1.8,2.02,1.8,1.95,H,H,D,U,O,O,N,N,N
+2025-05-28,19:00,COPA LIBERTADORES,Internacional (Bra),Bahia (Bra),1.91,4.1,3.3,1.78,2.05,1.91,1.91,H,H,D,U,O,O,N,N,N
+2025-05-28,20:00,USA 2,Indy Eleven,Hartford Athletic,1.65,4.5,3.7,2.02,1.72,1.72,2.02,A,A,D,O,U,U,Y,Y,Y
+2025-05-28,20:30,USA 1,FC Cincinnati,FC Dallas,1.67,5.0,3.9,2.25,1.65,1.62,2.2,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,Toronto FC,Philadelphia Union,3.9,1.91,3.6,1.93,1.88,1.8,1.95,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,New York Red Bulls,Charlotte,1.9,3.6,3.8,2.4,1.57,1.5,2.5,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,DC United,New England Revolution,2.7,2.7,3.3,1.93,1.88,1.67,2.1,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,Atlanta Utd,Orlando City,3.1,2.15,3.7,2.35,1.6,1.5,2.5,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,Inter Miami,CF Montreal,1.36,7.5,5.5,2.92,1.42,1.62,2.2,A,D,A,O,U,U,N,Y,Y
+2025-05-28,20:30,USA 1,New York City,Houston Dynamo,1.85,4.1,3.7,2.02,1.8,1.7,2.05,A,D,A,O,U,U,N,Y,Y
+2025-05-28,21:00,USA 1,Columbus Crew,Nashville SC,2.05,3.4,3.7,2.3,1.62,1.53,2.38,A,D,A,O,U,U,N,Y,Y
+2025-05-28,21:00,USA 2,San Antonio,FC Tulsa,2.22,3.0,3.15,1.65,2.1,1.85,1.85,A,A,D,O,U,U,Y,Y,Y
+2025-05-28,21:10,ARGENTINA 2,Almirante Brown,Nueva Chicago,2.35,3.4,2.63,1.36,2.9,2.38,1.53,D,D,H,O,O,U,N,N,Y
+2025-05-28,21:30,COPA LIBERTADORES,Bolivar (Bol),Cerro Porteno (Par),1.48,7.0,4.33,1.91,1.9,2.1,1.67,H,H,D,U,O,O,N,N,N
+2025-05-28,21:30,COPA LIBERTADORES,LDU Quito (Ecu),Central Cordoba (Arg),1.8,4.5,3.6,1.75,2.07,2.0,1.75,H,H,D,U,O,O,N,N,N
+2025-05-28,21:30,COPA LIBERTADORES,Flamengo RJ (Bra),Dep. Tachira (Ven),1.07,21.0,15.0,3.5,1.31,2.63,1.44,H,H,D,U,O,O,N,N,N
+2025-05-28,21:30,COPA LIBERTADORES,Palmeiras (Bra),Sporting Cristal (Per),1.22,12.0,6.25,2.15,1.72,2.2,1.62,H,H,D,U,O,O,N,N,N
+2025-05-28,21:30,COPA SUDAMERICANA,Cruzeiro (Bra),Union de Santa Fe (Arg),2.05,3.9,3.3,1.65,2.27,2.0,1.73,H,H,H,O,U,U,Y,N,N
+2025-05-28,21:30,COPA SUDAMERICANA,Defensa y Justicia (Arg),Cerro Largo (Uru),1.44,8.0,4.2,1.82,2.0,2.2,1.62,H,H,H,O,U,U,Y,N,N
+2025-05-28,21:30,COPA SUDAMERICANA,U. Catolica (Ecu),Vitoria (Bra),2.0,4.2,3.1,1.72,2.12,1.91,1.8,H,H,H,O,U,U,Y,N,N
+2025-05-28,21:30,USA 1,Seattle Sounders,San Diego FC,1.91,3.8,3.7,2.05,1.78,1.67,2.1,A,D,A,O,U,U,N,Y,Y
+2025-05-28,21:30,USA 1,Austin FC,Real Salt Lake,1.85,3.9,3.75,1.95,1.85,1.75,2.0,A,D,A,O,U,U,N,Y,Y
+2025-05-28,21:30,COPA SUDAMERICANA,Palestino (Chi),Mushuc Runa (Ecu),1.85,4.33,3.6,1.85,1.95,1.8,1.91,H,H,H,O,U,U,Y,N,N
+2025-05-28,23:15,USA 1,Los Angeles Galaxy,San Jose Earthquakes,1.85,3.5,4.33,3.05,1.38,1.36,3.0,A,D,A,O,U,U,N,Y,Y
+2025-05-28,23:30,USA 1,Vancouver Whitecaps,Minnesota United,2.15,3.25,3.6,1.98,1.85,1.7,2.05,A,D,A,O,U,U,N,Y,Y
+2025-05-28,23:30,USA 1,Portland Timbers,Colorado Rapids,1.62,5.0,4.1,2.47,1.55,1.57,2.25,A,D,A,O,U,U,N,Y,Y
+2025-05-28,23:30,USA 2,Las Vegas Lights,Phoenix Rising,2.6,2.4,3.4,1.8,1.9,1.75,1.95,A,A,D,O,U,U,Y,Y,Y
