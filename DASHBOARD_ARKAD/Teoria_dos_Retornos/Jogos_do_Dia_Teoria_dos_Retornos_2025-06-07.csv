@@ -1,0 +1,34 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-06-07,06:00,JAPAN 2,Imabari,Oita Trinita,2.15,3.4,3.2,1.47,2.55,2.2,1.62,D,H,A,O,U,U,N,Y,Y
+2025-06-07,07:00,SOUTH KOREA 2,Jeonnam,Seoul E-Land,2.8,2.3,3.4,1.9,1.83,1.67,2.1,D,H,A,U,O,U,Y,N,N
+2025-06-07,07:00,SOUTH KOREA 2,Gyeongnam,Hwaseong,2.2,2.88,3.5,1.95,1.78,1.73,2.0,D,H,A,U,O,U,Y,N,N
+2025-06-07,07:00,SOUTH KOREA 2,Busan,Ansan Greeners,1.6,5.0,3.8,1.8,1.93,1.91,1.8,D,H,A,U,O,U,Y,N,N
+2025-06-07,11:00,URUGUAY 1,Liverpool M.,Cerro Largo,1.75,5.0,3.3,1.65,2.15,2.0,1.73,A,A,H,O,U,U,N,N,Y
+2025-06-07,13:40,ARGENTINA 2,Talleres (R.E),CA Mitre,2.75,3.0,2.7,1.26,3.45,2.75,1.4,D,D,H,O,U,O,N,N,N
+2025-06-07,15:00,URUGUAY 1,Danubio,Montevideo City,2.4,3.0,3.2,1.52,2.45,2.1,1.67,A,A,H,O,U,U,N,N,Y
+2025-06-07,15:30,SPAIN 3,Murcia,Gimnastic,2.15,3.65,2.95,1.5,2.4,2.05,1.7,D,A,D,U,O,O,Y,N,Y
+2025-06-07,15:30,SPAIN 3,Ponferradina,Antequera,1.7,5.2,3.3,1.72,2.0,1.88,1.82,D,A,D,U,O,O,Y,N,Y
+2025-06-07,16:00,BRAZIL 2,America MG,Ferroviaria,1.61,5.5,3.6,1.6,2.25,2.25,1.57,H,D,D,O,U,U,N,N,Y
+2025-06-07,16:00,SPAIN 2,Almeria,R. Oviedo,1.91,4.1,3.25,1.65,2.25,2.0,1.73,H,H,D,O,U,U,Y,Y,N
+2025-06-07,16:00,VENEZUELA 1,Dep. Tachira,Puerto Cabello,1.5,6.0,3.95,1.98,1.65,1.75,1.87,D,D,D,O,U,O,Y,Y,Y
+2025-06-07,16:15,ITALY 3,Pescara,Ternana,2.32,3.0,3.0,1.57,2.27,1.93,1.78,A,A,H,O,O,U,N,Y,Y
+2025-06-07,17:00,ARGENTINA COPA,San Martin T.,River Plate,9.25,1.37,4.35,1.82,1.93,2.27,1.57,A,A,H,U,U,O,N,Y,Y
+2025-06-07,17:00,ARGENTINA COPA,Boca Juniors,Atl. Tucuman,1.62,6.0,3.75,1.57,2.42,2.4,1.53,A,A,H,U,U,O,N,Y,Y
+2025-06-07,17:30,URUGUAY 1,Wanderers,Plaza Colonia,2.5,2.75,3.2,1.52,2.42,2.1,1.67,A,A,H,O,U,U,N,N,Y
+2025-06-07,19:00,USA 2,Loudoun,Charleston,2.75,2.27,3.35,1.95,1.75,1.62,2.15,D,A,A,U,U,U,Y,N,Y
+2025-06-07,19:10,ARGENTINA 2,Deportivo Moron,Colon Santa Fe,2.15,3.9,2.9,1.37,2.85,2.5,1.5,D,D,H,O,U,O,N,N,N
+2025-06-07,20:00,USA 2,Rhode Island,Miami FC,1.4,6.5,4.3,2.02,1.7,1.95,1.75,D,A,A,U,U,U,Y,N,Y
+2025-06-07,20:00,URUGUAY 1,Penarol,Defensor Sp.,1.65,5.5,3.5,1.65,2.15,2.1,1.67,A,A,H,O,U,U,N,N,Y
+2025-06-07,20:00,USA 2,Pittsburgh,Detroit,1.98,3.65,3.1,1.5,2.42,2.15,1.62,D,A,A,U,U,U,Y,N,Y
+2025-06-07,20:15,COLOMBIA 1,Deportes Tolima,America De Cali,2.5,3.3,2.7,1.44,2.67,2.25,1.57,A,A,H,O,O,O,Y,N,N
+2025-06-07,20:30,USA 1,DC United,Chicago Fire,2.63,2.5,3.6,2.1,1.75,1.62,2.2,A,A,A,U,O,O,Y,Y,N
+2025-06-07,20:30,VENEZUELA 1,Carabobo,Metropolitanos,1.62,5.2,3.55,1.72,1.9,1.88,1.72,D,D,D,O,U,O,Y,Y,Y
+2025-06-07,20:30,BRAZIL 2,Avai,CRB,1.68,5.0,3.5,1.6,2.27,2.2,1.62,H,D,D,O,U,U,N,N,Y
+2025-06-07,21:00,USA 2,Louisville City,Tampa Bay,1.62,4.85,3.65,1.91,1.8,1.8,1.9,D,A,A,U,U,U,Y,N,Y
+2025-06-07,22:00,USA 2,New Mexico,Colorado Springs,2.1,3.25,3.2,1.75,1.95,1.78,1.93,D,A,A,U,U,U,Y,N,Y
+2025-06-07,22:00,USA 2,San Antonio,Las Vegas Lights,1.7,4.45,3.5,1.72,2.0,1.93,1.78,D,A,A,U,U,U,Y,N,Y
+2025-06-07,22:00,MEXICO 2,Leones Negros,Tapatio,1.62,4.6,3.95,2.1,1.57,1.62,2.05,H,H,D,U,O,U,N,Y,N
+2025-06-07,22:30,USA 1,Colorado Rapids,Austin FC,2.1,3.3,3.6,1.93,1.88,1.75,2.0,A,A,A,U,O,O,Y,Y,N
+2025-06-07,23:00,USA 2,Monterey Bay,Lexington,2.32,2.72,3.35,1.8,1.91,1.75,1.95,D,A,A,U,U,U,Y,N,Y
+2025-06-07,23:00,USA 2,Oakland Roots,El Paso,2.65,2.42,3.25,1.75,1.95,1.75,1.95,D,A,A,U,U,U,Y,N,Y
+2025-06-07,23:30,USA 2,Phoenix Rising,Orange County SC,2.15,2.95,3.35,1.75,1.98,1.82,1.9,D,A,A,U,U,U,Y,N,Y
