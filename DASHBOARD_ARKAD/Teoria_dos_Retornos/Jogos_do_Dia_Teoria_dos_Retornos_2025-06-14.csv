@@ -1,0 +1,97 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-06-14,04:30,CHINA 1,Zhejiang Professional,Shanghai Port,3.0,2.1,3.9,2.72,1.4,1.4,2.75,H,H,A,U,O,O,N,N,N
+2025-06-14,05:30,JAPAN 1,Shonan Bellmare,Machida,4.2,1.95,3.2,1.6,2.35,2.05,1.7,H,A,D,O,O,U,N,Y,Y
+2025-06-14,06:00,JAPAN 1,Yokohama FC,Kawasaki Frontale,3.2,2.2,3.3,1.82,2.0,1.8,1.95,H,A,D,O,O,U,N,Y,Y
+2025-06-14,06:00,JAPAN 1,Kashima Antlers,Sanfrecce Hiroshima,3.0,2.38,3.25,1.75,2.07,1.8,1.95,H,A,D,O,O,U,N,Y,Y
+2025-06-14,06:00,JAPAN 2,Mito,Sagan Tosu,1.9,4.33,3.2,1.65,2.15,2.1,1.67,H,D,H,O,O,U,N,Y,N
+2025-06-14,07:00,SOUTH KOREA 1,Gimcheon Sangmu,Pohang,2.4,2.9,3.25,1.91,1.83,1.67,2.1,A,D,A,U,O,O,N,Y,N
+2025-06-14,07:00,SOUTH KOREA 1,Jeju SK,Daegu,2.05,3.5,3.5,2.05,1.72,1.62,2.2,A,D,A,U,O,O,N,Y,N
+2025-06-14,07:00,SOUTH KOREA 1,Suwon FC,Anyang,2.38,3.1,3.1,1.75,2.02,1.8,1.91,A,D,A,U,O,O,N,Y,N
+2025-06-14,07:00,SOUTH KOREA 2,Asan,Cheonan City,1.53,5.25,4.2,2.07,1.7,1.8,1.91,H,A,D,O,O,U,N,N,N
+2025-06-14,07:00,SOUTH KOREA 2,Cheongju,Seongnam,3.1,2.1,3.6,1.83,1.9,1.8,1.91,H,A,D,O,O,U,N,N,N
+2025-06-14,07:00,JAPAN 1,FC Tokyo,Cerezo Osaka,3.0,2.2,3.6,2.35,1.6,1.5,2.5,H,A,D,O,O,U,N,Y,Y
+2025-06-14,07:00,SOUTH KOREA 2,Bucheon FC 1995,Seoul E-Land,2.7,2.45,3.4,1.95,1.78,1.67,2.1,H,A,D,O,O,U,N,N,N
+2025-06-14,08:00,FINLAND 1,Inter Turku,Haka,1.48,5.5,4.33,2.32,1.57,1.7,2.05,D,A,H,U,U,U,N,Y,N
+2025-06-14,08:00,CHINA 1,Beijing Guoan,Changchun Yatai,1.2,13.0,7.0,3.0,1.34,1.8,1.95,H,H,A,U,O,O,N,N,N
+2025-06-14,08:00,CHINA 1,Qingdao West Coast,Yunnan Yukun,2.15,2.75,3.4,2.35,1.53,1.5,2.5,H,H,A,U,O,O,N,N,N
+2025-06-14,08:30,ESTONIA 1,Tallinna Kalev,Parnu JK Vaprus,4.2,1.62,3.95,2.1,1.57,0.0,0.0,H,H,D,O,U,U,N,N,Y
+2025-06-14,08:35,CHINA 1,Shenzhen Xinpengcheng,Shanghai Shenhua,5.75,1.55,4.0,2.0,1.72,1.8,1.95,H,H,A,U,O,O,N,N,N
+2025-06-14,08:35,CHINA 1,Henan Songshan Longmen,Chengdu Rongcheng,3.0,2.25,3.5,2.1,1.65,1.57,2.25,H,H,A,U,O,O,N,N,N
+2025-06-14,09:00,CHINA 1,Tianjin Jinmen Tiger,Shandong Taishan,3.6,1.85,4.1,2.67,1.42,1.4,2.75,H,H,A,U,O,O,N,N,N
+2025-06-14,10:00,FINLAND 2,KaPa,Ekenas,4.35,1.62,4.15,2.57,1.39,1.44,2.4,A,H,A,U,O,U,Y,N,N
+2025-06-14,10:00,FINLAND 2,Atlantis,JJK Jyvaskyla,2.0,2.9,3.75,2.4,1.53,1.5,2.5,A,H,A,U,O,U,Y,N,N
+2025-06-14,10:00,FINLAND 2,KPV Kokkola,Jazz Pori,2.1,2.75,3.7,2.2,1.53,1.53,2.38,A,H,A,U,O,U,Y,N,N
+2025-06-14,10:00,SWEDEN 2,Falkenberg,Helsingborg,1.85,4.1,3.5,1.85,1.87,1.75,2.0,A,A,D,O,U,U,Y,Y,N
+2025-06-14,10:00,SWEDEN 2,Kalmar,Landskrona,1.85,3.75,3.6,2.0,1.72,1.7,2.05,A,A,D,O,U,U,Y,Y,N
+2025-06-14,10:00,SWEDEN 2,Ostersund,Oddevold,2.1,3.2,3.4,1.8,1.91,1.91,1.91,A,A,D,O,U,U,Y,Y,N
+2025-06-14,11:00,FINLAND 2,Lahti,PK-35,1.65,5.2,3.4,1.7,1.93,1.87,1.75,A,H,A,U,O,U,Y,N,N
+2025-06-14,11:00,ESTONIA 1,Kuressaare,Levadia,14.0,1.15,5.9,0.0,0.0,0.0,0.0,H,H,D,O,U,U,N,N,Y
+2025-06-14,11:00,ICELAND 2,Selfoss,Throttur,3.4,1.85,3.95,2.55,1.39,1.4,2.55,D,D,D,O,U,U,Y,N,Y
+2025-06-14,11:00,URUGUAY 1,Miramar,Juventud,4.33,1.85,3.4,1.75,2.02,1.83,1.83,A,D,H,U,O,U,N,Y,Y
+2025-06-14,11:00,FINLAND 1,AC Oulu,HJK,4.0,1.67,3.75,1.98,1.78,1.75,2.0,D,A,H,U,U,U,N,Y,N
+2025-06-14,11:00,ICELAND 2,Volsungur,Keflavik,5.7,1.42,4.8,2.77,1.34,1.5,2.27,D,D,D,O,U,U,Y,N,Y
+2025-06-14,11:00,NORWAY 2,Kongsvinger,Sogndal,1.67,4.33,3.9,2.7,1.4,1.44,2.63,D,D,H,U,O,U,Y,N,N
+2025-06-14,12:00,SWEDEN 2,Umea FC,Sundsvall,3.0,2.15,3.5,1.83,1.88,1.8,1.95,A,A,D,O,U,U,Y,Y,N
+2025-06-14,12:00,FINLAND 2,Keski-Uusimaa,EPS,1.8,3.3,3.8,2.88,1.4,1.4,2.75,A,H,A,U,O,U,Y,N,N
+2025-06-14,12:00,FINLAND 2,SalPa,JIPPO,4.6,1.7,3.55,1.78,1.83,1.78,1.82,A,H,A,U,O,U,Y,N,N
+2025-06-14,13:00,ICELAND 2,Njardvik,Thor Akureyri,1.9,3.45,3.7,2.18,1.53,1.5,2.25,D,D,D,O,U,U,Y,N,Y
+2025-06-14,13:00,FINLAND 1,SJK,Jaro,1.45,5.5,4.33,2.32,1.57,1.7,2.05,D,A,H,U,U,U,N,Y,N
+2025-06-14,13:00,FINLAND 1,Mariehamn,VPS,3.5,2.0,3.3,1.98,1.78,1.67,2.1,D,A,H,U,U,U,N,Y,N
+2025-06-14,13:00,FINLAND 1,KuPS,Ilves,2.3,2.8,3.4,2.05,1.72,1.62,2.2,D,A,H,U,U,U,N,Y,N
+2025-06-14,13:00,FINLAND 1,Gnistan,KTP,1.7,4.0,4.0,2.45,1.52,1.53,2.38,D,A,H,U,U,U,N,Y,N
+2025-06-14,13:00,NORWAY 2,Hodd,Lillestrom,5.5,1.5,4.2,2.15,1.62,1.73,2.0,D,D,H,U,O,U,Y,N,N
+2025-06-14,13:30,CHILE 1,Palestino,La Serena,1.7,4.5,3.9,1.98,1.85,1.83,1.83,A,D,D,O,U,O,N,Y,N
+2025-06-14,13:40,ARGENTINA 2,Def. de Belgrano,Gimnasia Jujuy,2.63,3.4,2.55,1.26,3.5,2.75,1.4,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,14:30,URUGUAY 1,Boston River,Danubio,2.5,2.8,3.2,1.5,2.47,2.2,1.62,A,D,H,U,O,U,N,Y,Y
+2025-06-14,15:00,ARGENTINA 2,Talleres (R.E),Central Norte,2.35,3.25,3.0,1.4,2.72,2.38,1.53,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,15:00,ARGENTINA 2,Tristan Suarez,San Miguel,2.88,2.88,2.7,1.35,2.95,2.38,1.53,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,15:00,ARGENTINA 2,Chacarita Juniors,Agropecuario,1.95,4.0,3.25,1.47,2.5,2.25,1.57,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,15:15,PERU 1,FBC Melgar,Sport Boys,1.29,9.0,5.25,2.1,1.65,2.2,1.62,D,H,D,O,U,U,Y,Y,Y
+2025-06-14,15:30,ARGENTINA 2,CA Estudiantes,Chaco For Ever,2.1,4.2,2.88,1.32,3.1,2.63,1.44,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,15:30,ARGENTINA 2,Deportivo Maipu,Racing Cordoba,2.63,3.2,2.63,1.42,2.67,2.2,1.62,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,15:30,SPAIN 3,Gimnastic,Real Sociedad B,1.8,4.2,3.1,1.6,2.2,2.1,1.67,D,A,D,U,O,O,Y,N,Y
+2025-06-14,15:45,IRELAND 1,Sligo Rovers,Waterford,2.55,2.7,3.4,1.91,1.8,1.67,2.1,H,D,D,O,U,U,N,Y,N
+2025-06-14,16:00,CHILE 1,U. Catolica,Huachipato,1.73,4.5,3.7,1.8,2.02,1.91,1.8,A,D,D,O,U,O,N,Y,N
+2025-06-14,16:00,BRAZIL 2,CRB,Goias,2.35,3.4,2.9,1.44,2.65,2.25,1.57,H,H,A,O,U,O,N,N,N
+2025-06-14,16:00,ECUADOR 1,Ind. del Valle,Libertad,1.3,9.0,5.0,2.32,1.57,1.91,1.8,H,A,H,U,O,O,Y,N,Y
+2025-06-14,16:00,BOLIVIA 1,SA Bulo Bulo,Guabira,1.8,4.33,3.5,2.32,1.47,1.5,2.5,H,D,H,O,O,O,Y,N,Y
+2025-06-14,16:00,ARGENTINA 2,San Martin T.,Almagro,1.75,6.25,2.9,1.32,3.1,3.0,1.36,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,16:15,ICELAND 1,Stjarnan,Valur,3.35,1.9,3.95,2.9,1.36,1.36,2.9,H,H,H,O,O,U,N,Y,N
+2025-06-14,16:40,ARGENTINA 2,Temperley,Colon Santa Fe,2.4,3.2,3.0,1.26,3.45,3.0,1.36,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,17:30,PERU 1,Juan Pablo II,Los Chankas,2.15,3.4,3.25,1.82,1.9,1.73,2.0,D,H,D,O,U,U,Y,Y,Y
+2025-06-14,17:30,URUGUAY 1,Racing Montevideo,Nacional,5.0,1.67,3.7,1.78,1.95,1.91,1.8,A,D,H,U,O,U,N,Y,Y
+2025-06-14,17:30,USA 1,St. Louis City,Los Angeles Galaxy,2.05,3.4,3.6,2.35,1.6,1.5,2.5,D,H,D,U,U,O,Y,N,Y
+2025-06-14,18:00,ARGENTINA 2,Estudiantes Rio Cuarto,Gimnasia Mendoza,2.88,3.3,2.4,1.3,3.2,2.5,1.5,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,18:30,BRAZIL 2,Athletico-PR,Remo,1.62,5.5,3.75,1.62,2.2,2.2,1.62,H,H,A,O,U,O,N,N,N
+2025-06-14,18:30,BOLIVIA 1,Real Oruro,The Strongest,3.6,1.9,3.75,2.18,1.53,1.53,2.38,H,D,H,O,O,O,Y,N,Y
+2025-06-14,18:30,VENEZUELA 1,Universidad Central,Dep. Tachira,3.25,2.32,2.85,1.47,2.32,1.93,1.7,D,H,A,O,U,O,N,Y,N
+2025-06-14,18:30,ECUADOR 1,Barcelona SC,Manta,1.4,7.0,4.75,1.87,1.88,2.2,1.62,H,A,H,U,O,O,Y,N,Y
+2025-06-14,18:40,ARGENTINA 2,Deportivo Moron,Almirante Brown,1.91,4.5,3.1,1.36,2.92,2.63,1.44,H,D,H,U,U,U,Y,Y,Y
+2025-06-14,19:00,USA 2,Loudoun,Detroit,2.0,3.35,3.35,1.75,1.98,1.83,1.88,H,A,A,O,O,U,N,N,Y
+2025-06-14,20:00,USA 2,Indy Eleven,Pittsburgh,1.95,3.45,3.35,1.7,2.02,1.87,1.83,H,A,A,O,O,U,N,N,Y
+2025-06-14,20:00,USA 2,Lexington,New Mexico,2.37,2.62,3.4,1.82,1.9,1.75,1.98,H,A,A,O,O,U,N,N,Y
+2025-06-14,20:00,URUGUAY 1,Defensor Sp.,Liverpool M.,2.63,2.63,3.0,1.65,2.15,1.83,1.83,A,D,H,U,O,U,N,Y,Y
+2025-06-14,20:00,USA 2,Rhode Island,North Carolina,2.07,3.0,3.5,1.85,1.85,1.72,2.0,H,A,A,O,O,U,N,N,Y
+2025-06-14,20:00,USA 2,Hartford Athletic,Charleston,4.4,1.65,3.8,2.12,1.65,1.65,2.1,H,A,A,O,O,U,N,N,Y
+2025-06-14,20:30,BRAZIL 2,Athletic Club,Operario-PR,2.5,3.1,2.9,1.5,2.5,2.2,1.62,H,H,A,O,U,O,N,N,N
+2025-06-14,20:30,USA 1,Columbus Crew,Vancouver Whitecaps,2.0,3.3,3.8,2.3,1.62,1.57,2.25,D,H,D,U,U,O,Y,N,Y
+2025-06-14,20:30,USA 1,New England Revolution,FC Cincinnati,2.63,2.63,3.4,2.12,1.72,1.57,2.25,D,H,D,U,U,O,Y,N,Y
+2025-06-14,20:30,USA 1,Philadelphia Union,Charlotte,2.0,3.5,3.75,2.27,1.65,1.53,2.38,D,H,D,U,U,O,Y,N,Y
+2025-06-14,20:30,USA 2,Tampa Bay,Miami FC,1.75,3.7,3.8,2.15,1.62,1.65,2.12,H,A,A,O,O,U,N,N,Y
+2025-06-14,21:00,USA 2,Louisville City,Birmingham,1.32,7.5,4.8,2.27,1.57,1.9,1.8,H,A,A,O,O,U,N,N,Y
+2025-06-14,21:00,WORLD - FIFA CLUB WORLD CUP,Al Ahly,Inter Miami,3.3,2.05,3.75,2.47,1.55,1.5,2.5,,0,0,,0,0,,0,0
+2025-06-14,21:00,BOLIVIA 1,Tomayapo,Blooming,2.2,3.1,3.4,2.07,1.6,1.57,2.25,H,D,H,O,O,O,Y,N,Y
+2025-06-14,21:00,ECUADOR 1,Vinotinto,LDU Quito,4.0,1.9,3.4,1.7,2.07,1.91,1.8,H,A,H,U,O,O,Y,N,Y
+2025-06-14,21:30,USA 1,Chicago Fire,Nashville SC,2.6,2.55,3.4,2.37,1.6,1.5,2.5,D,H,D,U,U,O,Y,N,Y
+2025-06-14,21:30,USA 1,Minnesota United,San Diego FC,2.05,3.4,3.6,1.98,1.83,1.7,2.05,D,H,D,U,U,O,Y,N,Y
+2025-06-14,21:30,USA 1,Sporting Kansas City,FC Dallas,2.2,3.2,3.5,2.25,1.65,1.53,2.38,D,H,D,U,U,O,Y,N,Y
+2025-06-14,21:30,USA 1,Houston Dynamo,CF Montreal,1.62,5.5,3.9,1.98,1.85,1.8,1.95,D,H,D,U,U,O,Y,N,Y
+2025-06-14,21:30,BOLIVIA 1,Aurora,GV San Jose,1.7,4.0,4.2,2.4,1.44,1.5,2.5,H,D,H,O,O,O,Y,N,Y
+2025-06-14,21:30,USA 2,FC Tulsa,Phoenix Rising,2.2,2.92,3.35,1.82,1.9,1.75,1.98,H,A,A,O,O,U,N,N,Y
+2025-06-14,21:30,USA 1,Austin FC,New York Red Bulls,2.1,3.6,3.3,1.72,2.12,1.91,1.91,D,H,D,U,U,O,Y,N,Y
+2025-06-14,22:00,PERU 1,Alianza Lima,Sport Huancayo,1.38,9.0,4.5,1.87,1.83,2.25,1.57,D,H,D,O,U,U,Y,Y,Y
+2025-06-14,22:00,USA 2,Colorado Springs,Oakland Roots,1.5,5.5,3.9,1.9,1.8,1.91,1.8,H,A,A,O,O,U,N,N,Y
+2025-06-14,22:00,USA 2,El Paso,Orange County SC,2.05,3.2,3.3,1.85,1.85,1.7,2.02,H,A,A,O,O,U,N,N,Y
+2025-06-14,22:30,USA 1,Colorado Rapids,Orlando City,3.1,2.2,3.6,2.12,1.72,1.53,2.38,D,H,D,U,U,O,Y,N,Y
+2025-06-14,22:30,USA 1,Real Salt Lake,DC United,1.7,4.75,3.9,2.05,1.78,1.7,2.05,D,H,D,U,U,O,Y,N,Y
+2025-06-14,23:30,USA 2,Las Vegas Lights,Monterey Bay,2.12,3.1,3.3,1.75,1.98,1.8,1.91,H,A,A,O,O,U,N,N,Y
