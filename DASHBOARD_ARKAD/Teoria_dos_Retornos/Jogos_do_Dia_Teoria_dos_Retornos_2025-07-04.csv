@@ -1,0 +1,27 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-07-04,12:00,FINLAND 1,AC Oulu,KuPS,3.9,1.8,3.4,2.1,1.66,1.67,2.1,H,D,H,O,O,U,Y,Y,Y
+2025-07-04,12:30,FINLAND 2,JaPS,SalPa,1.57,4.7,4.15,2.45,1.47,1.52,2.22,A,A,D,O,U,O,N,Y,N
+2025-07-04,13:00,ESTONIA 1,Paide,Levadia,3.15,1.95,3.6,2.06,1.6,1.66,2.1,D,H,D,O,U,O,N,N,N
+2025-07-04,15:00,PERU 1,Sport Huancayo,Cajamarca,1.5,6.0,4.1,2.1,1.7,1.8,1.91,D,D,A,U,O,O,Y,N,N
+2025-07-04,15:45,IRELAND 1,St. Patricks,Bohemians,2.5,2.8,3.2,1.7,2.0,1.91,1.91,D,D,A,U,U,O,N,Y,N
+2025-07-04,15:45,IRELAND 1,Shelbourne,Cork City,1.55,6.25,3.9,1.75,1.94,2.1,1.67,D,D,A,U,U,O,N,Y,N
+2025-07-04,15:45,IRELAND 1,Drogheda,Galway,2.63,2.7,3.2,1.57,2.23,1.95,1.8,D,D,A,U,U,O,N,Y,N
+2025-07-04,15:45,IRELAND 1,Derry City,Waterford,1.55,6.0,3.9,1.75,1.95,2.0,1.75,D,D,A,U,U,O,N,Y,N
+2025-07-04,16:00,WORLD - FIFA CLUB WORLD CUP,Fluminense,Al Hilal,2.88,2.45,3.4,1.79,1.98,1.8,1.95,,,,,,,,,
+2025-07-04,16:15,ICELAND 2,Fylkir,IR Reykjavik,2.55,2.37,3.65,2.14,1.62,1.5,2.27,A,D,A,U,O,O,Y,Y,N
+2025-07-04,16:15,ICELAND 2,Leiknir,Fjolnir,1.8,3.6,3.9,2.55,1.45,1.38,2.6,A,D,A,U,O,O,Y,Y,N
+2025-07-04,17:15,PERU 1,Los Chankas,AD Tarma,2.5,2.75,3.25,1.91,1.83,1.67,2.1,D,D,A,U,O,O,Y,N,N
+2025-07-04,18:00,VENEZUELA 1,Puerto Cabello,Metropolitanos,2.55,2.7,3.1,1.52,2.25,1.88,1.72,H,H,D,U,U,O,Y,N,N
+2025-07-04,18:30,PARAGUAY 1,Recoleta,Sportivo Trinidense,3.2,2.2,3.2,1.71,2.08,1.83,1.83,D,D,A,O,U,U,N,Y,Y
+2025-07-04,19:00,BRAZIL 2,Coritiba,Volta Redonda,1.65,6.0,3.1,1.4,2.75,2.63,1.44,A,H,A,O,U,U,Y,Y,Y
+2025-07-04,20:00,USA 2,Pittsburgh,New Mexico,2.07,3.35,3.15,1.7,2.02,2.0,1.72,A,H,H,U,O,O,N,N,N
+2025-07-04,21:00,VENEZUELA 1,La Guaira,Monagas,2.05,3.3,3.35,2.0,1.66,1.55,2.15,H,H,D,U,U,O,Y,N,N
+2025-07-04,21:00,ECUADOR 1,Libertad,Dep. Cuenca,2.3,3.0,3.25,1.8,1.9,1.67,2.1,D,H,A,U,O,U,N,Y,N
+2025-07-04,21:45,USA 1,FC Dallas,Minnesota United,2.75,2.45,3.5,2.35,1.58,1.5,2.5,H,A,H,O,O,U,N,N,Y
+2025-07-04,22:00,USA 2,Colorado Springs,Louisville City,2.7,2.25,3.5,2.0,1.71,1.7,2.05,A,H,H,U,O,O,N,N,N
+2025-07-04,22:00,USA 2,El Paso,San Antonio,2.02,3.3,3.35,2.05,1.68,1.7,2.05,A,H,H,U,O,O,N,N,N
+2025-07-04,22:00,WORLD - FIFA CLUB WORLD CUP,Palmeiras,Chelsea,3.8,2.0,3.4,1.68,2.12,1.95,1.8,,,,,,,,,
+2025-07-04,22:30,USA 1,Colorado Rapids,Sporting Kansas City,1.9,3.75,3.9,2.45,1.54,1.5,2.5,H,A,H,O,O,U,N,N,Y
+2025-07-04,23:30,USA 2,Las Vegas Lights,Sacramento Republic,3.25,2.0,3.4,1.8,1.9,1.78,1.93,A,H,H,U,O,O,N,N,N
+2025-07-04,23:30,USA 2,Phoenix Rising,Lexington,1.93,3.6,3.3,1.9,1.79,1.8,1.91,A,H,H,U,O,O,N,N,N
+2025-07-04,23:30,USA 1,Los Angeles Galaxy,Vancouver Whitecaps,2.45,2.75,3.5,2.3,1.61,1.53,2.38,H,A,H,O,O,U,N,N,Y
