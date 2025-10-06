@@ -1,0 +1,17 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-10-06,00:05,MEXICO 1,Club Tijuana,Monterrey,2.65,2.4,3.7,2.25,1.62,1.53,2.38,H,D,H,O,O,U,Y,Y,N
+2025-10-06,11:30,ROMANIA 1,Otelul,Metaloglobus Bucharest,1.45,6.5,4.1,1.85,1.95,2.1,1.67,A,D,D,U,O,U,N,Y,N
+2025-10-06,13:00,BOSNIA 1,FK Sarajevo,Zrinjski,2.52,2.82,2.95,1.57,2.12,1.82,1.78,D,A,D,U,U,U,Y,Y,Y
+2025-10-06,14:00,DENMARK 2,Hvidovre IF,Lyngby,3.5,2.01,3.3,1.93,1.88,1.73,2.0,H,H,D,O,U,U,Y,N,Y
+2025-10-06,14:00,SWEDEN 2,Landskrona,Varberg,2.7,2.45,3.4,2.0,1.8,1.67,2.1,H,H,D,O,O,U,Y,Y,N
+2025-10-06,14:00,SWEDEN 2,Sandviken,Orgryte,3.5,1.91,3.6,2.4,1.53,1.5,2.5,H,H,D,O,O,U,Y,Y,N
+2025-10-06,14:30,ROMANIA 1,FC Botosani,UTA Arad,2.2,3.1,3.3,1.8,2.0,1.8,1.91,A,D,D,U,O,U,N,Y,N
+2025-10-06,15:00,NETHERLANDS 2,Vitesse,Den Bosch,3.1,2.05,3.8,2.4,1.53,1.5,2.5,D,H,H,O,O,U,Y,N,N
+2025-10-06,15:30,SPAIN 2,Cultural Leonesa,Albacete,2.5,2.57,3.4,1.85,1.95,1.73,2.0,H,H,H,U,U,U,Y,Y,N
+2025-10-06,16:00,ENGLAND 4,Harrogate,Crewe,3.1,2.05,3.7,1.88,1.98,1.8,1.91,A,H,H,O,O,O,N,Y,N
+2025-10-06,18:30,PARAGUAY 1,General Caballero JLM,Nacional Asuncion,3.5,2.05,3.3,1.62,2.25,2.0,1.73,D,A,D,U,U,U,Y,N,N
+2025-10-06,19:00,ARGENTINA 1,Dep. Riestra,Velez Sarsfield,3.25,2.32,3.0,1.33,3.4,2.5,1.5,A,A,D,U,U,O,Y,N,N
+2025-10-06,19:00,URUGUAY 1,Defensor Sp.,Wanderers,2.0,3.9,3.2,1.5,2.5,2.2,1.62,H,A,H,O,U,O,Y,N,N
+2025-10-06,20:00,ARGENTINA 2,All Boys,Los Andes,2.25,3.7,2.7,1.29,3.6,2.63,1.44,H,A,H,U,U,U,N,N,Y
+2025-10-06,21:00,ARGENTINA 1,Racing Club,Ind. Rivadavia,1.71,5.25,3.4,1.67,2.15,2.0,1.75,A,A,D,U,U,O,Y,N,N
+2025-10-06,21:30,COLOMBIA 1,La Equidad,Once Caldas,3.1,2.3,3.1,1.62,2.25,1.91,1.8,D,H,D,O,O,U,N,Y,N
