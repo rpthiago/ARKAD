@@ -1,0 +1,5 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-10-09,19:00,BRAZIL 2,Ferroviaria,Chapecoense-SC,2.35,3.0,3.2,1.65,2.2,1.83,1.83,D,A,A,O,O,U,Y,N,Y
+2025-10-09,19:30,BRAZIL 2,Coritiba,Atletico GO,1.81,4.75,3.2,1.48,2.6,2.25,1.57,D,A,A,O,O,U,Y,N,Y
+2025-10-09,20:30,CHILE 1,U. Catolica,Nublense,1.76,4.5,3.4,1.7,2.1,2.0,1.73,D,D,A,U,O,U,N,N,Y
+2025-10-09,21:35,BRAZIL 2,Remo,Athletico-PR,3.4,2.15,3.2,1.57,2.35,2.0,1.73,D,A,A,O,O,U,Y,N,Y
