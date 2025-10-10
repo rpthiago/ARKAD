@@ -1,0 +1,21 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-10-10,14:00,SPAIN 3,Hercules,Atl. Madrid B,2.45,2.8,2.8,1.44,2.63,2.2,1.62,D,H,A,U,U,U,Y,Y,Y
+2025-10-10,14:30,ARGENTINA 1,San Lorenzo,San Martin S.J.,1.79,5.25,3.0,1.3,3.5,2.75,1.4,D,D,A,U,O,O,N,Y,N
+2025-10-10,15:15,NETHERLANDS 2,Almere City,Vitesse,1.41,5.75,5.0,2.6,1.48,1.67,2.1,A,A,A,O,O,O,Y,Y,N
+2025-10-10,15:30,ITALY 3,Bra,Carpi,2.87,2.37,3.0,1.6,2.2,1.9,1.82,H,D,H,U,O,U,N,Y,N
+2025-10-10,15:30,ITALY 3,Arezzo,Gubbio,1.52,5.8,3.75,1.7,2.02,2.12,1.65,H,D,H,U,O,U,N,Y,N
+2025-10-10,15:30,SPAIN 2,Granada CF,Las Palmas,2.7,2.7,3.0,1.5,2.5,2.0,1.73,D,A,H,O,O,O,N,N,Y
+2025-10-10,15:45,WALES 1,Haverfordwest,Bala,1.95,3.6,3.25,1.72,2.02,1.85,1.85,A,D,H,O,O,U,N,N,Y
+2025-10-10,16:00,IRELAND 1,Shamrock Rovers,Shelbourne,2.0,4.5,3.0,1.44,2.7,2.25,1.57,H,A,H,U,O,O,Y,N,N
+2025-10-10,16:00,PORTUGAL 3,AD Fafe,Amarante,2.15,3.45,3.0,1.53,2.18,1.9,1.72,H,H,A,U,O,O,Y,Y,N
+2025-10-10,16:15,ARGENTINA 1,Defensa y Justicia,Argentinos Jrs,3.6,2.1,3.25,1.5,2.5,2.1,1.67,D,D,A,U,O,O,N,Y,N
+2025-10-10,16:15,SPAIN 3,Barakaldo,Ath Bilbao B,2.8,2.6,2.75,1.44,2.63,2.25,1.57,D,H,A,U,U,U,Y,Y,Y
+2025-10-10,16:45,ARGENTINA 1,Central Cordoba,Union de Santa Fe,2.55,3.2,2.82,1.4,2.88,2.2,1.62,D,D,A,U,O,O,N,Y,N
+2025-10-10,17:30,PARAGUAY 1,Recoleta,Olimpia Asuncion,4.2,1.75,3.7,2.08,1.73,1.67,2.1,D,D,D,O,U,U,Y,N,Y
+2025-10-10,18:30,ARGENTINA 1,Newells Old Boys,Tigre,2.65,3.1,2.82,1.36,3.1,2.25,1.57,D,D,A,U,O,O,N,Y,N
+2025-10-10,19:00,URUGUAY 1,Plaza Colonia,Progreso,2.4,3.0,3.1,1.53,2.4,2.0,1.73,H,H,A,U,U,U,Y,N,N
+2025-10-10,20:00,PARAGUAY 1,Sportivo Trinidense,General Caballero JLM,2.05,3.75,3.25,1.62,2.25,2.0,1.73,D,D,D,O,U,U,Y,N,Y
+2025-10-10,20:00,USA 2,North Carolina,Phoenix Rising,2.1,3.05,3.4,1.91,1.8,1.65,2.1,A,H,D,O,U,O,N,N,Y
+2025-10-10,22:00,MEXICO 2,Cancun,Irapuato,1.88,3.8,3.4,1.72,1.88,1.78,1.83,A,H,H,U,O,U,N,Y,Y
+2025-10-10,22:00,MEXICO 2,Alebrijes Oaxaca,Atletico La Paz,2.47,2.45,3.6,2.25,1.5,1.45,2.4,A,H,H,U,O,U,N,Y,Y
+2025-10-10,23:00,MEXICO 2,Venados,Tepatitlan de Morelos,2.18,3.25,3.1,1.93,1.7,1.53,2.2,A,H,H,U,O,U,N,Y,Y
