@@ -1,0 +1,28 @@
+Date,Time,League,Home,Away,Odd_H,Odd_A,Odd_D,Odd_Under25,Odd_Over25,Odd_BTTS_Yes,Odd_BTTS_No,N1_MO,N2_MO,N3_MO,N1_OU,N2_OU,N3_OU,N1_BTTS,N2_BTTS,N3_BTTS
+2025-12-01,10:30,UKRAINE 1,Dyn. Kyiv,SC Poltava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,Y,N,Y
+2025-12-01,11:00,PORTUGAL 2,Pacos Ferreira,Felgueiras,0.0,0.0,0.0,1.8,2.0,0.0,0.0,D,D,D,U,O,O,Y,Y,Y
+2025-12-01,11:00,ROMANIA 1,Petrolul,Metaloglobus Bucharest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,A,O,O,O,Y,Y,Y
+2025-12-01,13:00,UKRAINE 1,Shakhtar Donetsk,Kryvbas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,H,D,O,O,U,Y,N,Y
+2025-12-01,14:00,ROMANIA 1,U. Cluj,Univ. Craiova,0.0,0.0,0.0,0.0,0.0,1.8,1.91,A,H,A,O,O,O,Y,Y,Y
+2025-12-01,14:00,CYPRUS 1,Chloraka,AEK Larnaca,0.0,0.0,0.0,1.88,1.85,2.27,1.57,D,D,H,U,U,O,N,N,N
+2025-12-01,14:00,CYPRUS 1,Omonia,Omonia Aradippou,1.22,11.25,6.1,2.5,1.5,2.07,1.67,D,D,H,U,U,O,N,N,N
+2025-12-01,14:00,TURKEY 1,Fenerbahce,Galatasaray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,H,O,U,O,N,Y,Y
+2025-12-01,14:00,TURKEY 1,Samsunspor,Alanyaspor,0.0,0.0,0.0,0.0,0.0,1.8,1.91,D,A,H,O,U,O,N,Y,Y
+2025-12-01,14:00,TURKEY 2,Adana Demirspor,Hatayspor,5.5,1.46,4.2,0.0,0.0,0.0,0.0,A,H,D,U,U,O,Y,Y,N
+2025-12-01,14:00,CROATIA 1,Gorica,Din. Zagreb,0.0,0.0,0.0,0.0,0.0,1.83,1.83,H,H,D,O,O,O,Y,N,Y
+2025-12-01,15:00,DENMARK 1,Brondby,Fredericia,0.0,0.0,0.0,3.1,1.36,0.0,0.0,D,D,D,O,O,U,Y,N,Y
+2025-12-01,15:00,POLAND 1,Motor Lublin,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,D,H,U,U,U,N,Y,Y
+2025-12-01,15:00,PORTUGAL 2,Vizela,Feirense,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,D,U,O,O,Y,Y,Y
+2025-12-01,16:00,PORTUGAL 3,Braga B,Trofense,2.77,2.55,2.95,0.0,0.0,0.0,0.0,H,H,D,U,U,O,N,Y,Y
+2025-12-01,16:00,NETHERLANDS 2,Jong Ajax,Vitesse,2.7,2.2,3.7,2.4,1.53,1.5,2.5,D,D,D,O,O,U,Y,N,Y
+2025-12-01,16:00,NETHERLANDS 2,Jong PSV,Waalwijk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,D,O,O,U,Y,N,Y
+2025-12-01,16:30,ITALY 3,Benevento,Salernitana,0.0,0.0,0.0,0.0,0.0,1.88,1.82,D,A,H,O,U,O,N,Y,Y
+2025-12-01,16:30,ITALY 3,Vis Pesaro,Ascoli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,A,H,O,U,O,N,Y,Y
+2025-12-01,16:30,ITALY 3,Cittadella,Brescia,0.0,0.0,0.0,1.45,2.57,0.0,0.0,D,A,H,O,U,O,N,Y,Y
+2025-12-01,16:45,ITALY 1,Bologna,Cremonese,1.48,8.0,4.1,1.8,2.05,2.2,1.62,A,H,D,U,U,U,Y,Y,N
+2025-12-01,17:00,ENGLAND 2,Birmingham,Watford,0.0,0.0,0.0,1.73,2.1,0.0,0.0,A,D,A,O,U,U,Y,N,N
+2025-12-01,17:00,ARGENTINA 1,Barracas Central,Gimnasia L.P.,2.32,3.4,2.85,0.0,0.0,2.2,1.62,A,D,D,U,U,U,N,N,N
+2025-12-01,17:15,PORTUGAL 1,Arouca,Braga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,D,A,O,O,O,N,N,N
+2025-12-01,20:00,CHILE 1,A. Italiano,Nublense,2.05,3.25,3.5,1.95,1.85,1.73,2.0,A,H,H,U,O,O,N,Y,N
+2025-12-01,21:30,ARGENTINA 1,Racing Club,Tigre,1.66,6.0,3.3,0.0,0.0,2.2,1.62,A,D,D,U,U,U,N,N,N
+2025-12-01,22:00,COLOMBIA 1,Ind. Medellin,America De Cali,1.65,5.25,3.5,0.0,0.0,1.91,1.8,D,H,A,O,U,O,N,N,Y
